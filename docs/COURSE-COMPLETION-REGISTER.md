@@ -29,36 +29,36 @@
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | In progress | In progress | Existing; expand | Added pack | Pending | Authored / review pending |
 | CT-02 | Film & Cinematic Editing | Existing | In progress | Existing | Existing | Expand | Pending | Authored / review pending |
-| CT-03 | Audio Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-04 | Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-05 | Photo Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-06 | Graphic Design | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-07 | 2D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-08 | 3D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-09 | Motion Graphics | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-10 | Visual Effects | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-11 | Color Grading | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-12 | Subtitles & Captions | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-13 | Sound Design | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-14 | Music Production | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-15 | Podcast Production | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-16 | Live Streaming | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-17 | Screen Recording | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-18 | Video Production | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-19 | Film Production | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-20 | Cinematography | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-21 | Storyboarding | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-22 | Creative Direction | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-23 | Brand & Identity Design | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-24 | UI/UX Design | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-25 | Presentation Design | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-26 | Digital Illustration | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-27 | Digital Painting | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-28 | 3D Modeling | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-29 | Game Art & Cinematics | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-30 | AI Creative Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-03 | Short-Form & Social Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-04 | Documentary & Interview Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-05 | Commercial & Advertisement Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-06 | Music Video & Performance Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-07 | Photo & Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-08 | Digital Illustration & Graphic Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-09 | Portrait & Beauty Retouching | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-10 | Product & E-commerce Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-11 | Photo Restoration & Manipulation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-12 | Color Correction & Color Grading | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-13 | Audio Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-14 | Dialogue, Voice & Podcast Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-15 | Sound Design & Foley | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-16 | Music Production & Audio Mixing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-17 | 2D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-18 | 3D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-19 | Motion Graphics & Kinetic Typography | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-20 | Visual Effects & Compositing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-21 | Green Screen & Chroma Key | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-22 | 3D Modeling, Materials & Rendering | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-23 | Subtitles, Captions & Localization | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-24 | AI-Assisted Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-26 | AI Voice, Dubbing & Speech Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-27 | Batch Editing & Media Automation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-28 | Editing for Live & Streaming Content | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-29 | Mobile Editing & Creator Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-30 | Professional Post-Production & Finishing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 
-**Important:** Course titles above are register labels and must be reconciled against the canonical course outline filenames before any rename or curriculum restructuring. Do not infer that the labels are the official titles.
+Course titles above are reconciled against the canonical catalog at `course-types/README.md`. This register does not rename or restructure the canonical course files.
 
 ## Current batch notes
 - CT-01: Chapters 10–15 supplement and capstone pack added; main textbook integration and technical review remain.
