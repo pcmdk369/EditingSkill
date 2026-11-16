@@ -48,7 +48,7 @@
 | CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-20 | Visual Effects & Compositing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-21 | Green Screen & Chroma Key | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-22 | 3D Modeling, Materials & Rendering | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-23 | Subtitles, Captions & Localization | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-24 | AI-Assisted Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -99,3 +99,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-20: Eight stage-mapped lessons, one screen-keying/tracking lab, one 50-point assessment and one integrated VFX shot capstone brief are authored. Compositing execution, alpha/color pipeline review and frame-sequence validation remain.
 
 - CT-21: Eight stage-mapped lessons, one green-screen capture/keying lab, one 50-point assessment and one virtual-studio capstone brief are authored. Capture/compositing execution, alpha validation and learner review remain.
+
+- CT-22: Eight stage-mapped lessons, one modeling/UV/material/render lab, one 50-point assessment and one production-ready 3D asset capstone brief are authored. Application execution, interchange testing and learner validation remain.
