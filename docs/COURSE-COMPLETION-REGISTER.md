@@ -39,7 +39,7 @@
 | CT-10 | Product & E-commerce Image Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-11 | Photo Restoration & Manipulation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-12 | Color Correction & Color Grading | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-13 | Audio Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-13 | Audio Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-14 | Dialogue, Voice & Podcast Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-15 | Sound Design & Foley | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-16 | Music Production & Audio Mixing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -81,3 +81,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-11: Eight stage-mapped lessons, one historical-photo restoration lab, one 50-point assessment and one restoration collection capstone brief are authored. Archival review, source/provenance validation and learner execution remain.
 
 - CT-12: Eight stage-mapped lessons, one shot-matching/color-pipeline lab, one 50-point assessment and one matched-scene capstone brief are authored. Color-management/monitoring review, software execution and learner validation remain.
+
+- CT-13: Eight stage-mapped lessons, one dialogue cleanup/mix/loudness lab, one 50-point assessment and one audio post capstone brief are authored. DAW execution, rendered-file measurement and independent review remain.
