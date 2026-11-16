@@ -99,3 +99,11 @@ Core lesson sequence authored from Foundation through Professional Practice, inc
 This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
 
 Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+
+
+## Complete textbook and student notes
+The course now includes substantive learner-facing book material, not only online references:
+- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–5 are expanded in this manuscript; Chapters 6–15 remain scheduled for full expansion.
+- [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.
+
+These materials are the primary learner study resources. External links are supplementary references only and must never substitute for authored course content.
