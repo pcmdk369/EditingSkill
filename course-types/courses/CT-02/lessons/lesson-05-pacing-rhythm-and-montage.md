@@ -464,7 +464,7 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 - CT-02 Student Notes & Practical Workbook, **Section 8 — Pacing Comparison**.
 - CT-02 Student Notes & Practical Workbook, **Section 12 — Capstone Submission Checklist**.
 - CT-02 Lessons 01–04 for dramatic beats, geography, coverage and continuity.
-- [CT-02 course outline](../CT-02-film-cinematic-editing.md).
+- [CT-02 course outline](../../CT-02-film-cinematic-editing.md).
 
 ### Further reading
 - Walter Murch, *In the Blink of an Eye: A Perspective on Film Editing*, 2nd edition, Silman-James Press, 2001. Use as a reflective discussion of editorial judgment; do not treat any single timing rule as universal.
