@@ -83,4 +83,4 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 **Status:** Core learning sequence authored through Professional Practice. CT-01 remains in development until software labs, capstone resources and final review are completed.
 
 ## Course status
-Foundation/beginner lesson library started; see the linked lesson sequence and development checklist above. Course is not yet complete.
+Core lesson sequence authored from Foundation through Professional Practice, including intermediate, advanced, expert, master and AI-assisted workflows. CT-01 is not yet complete: software implementation labs, full capstone resources and final course review remain.
