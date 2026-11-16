@@ -4,52 +4,47 @@
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
 ## Course purpose
-Develop practical, transferable short-form & social video editing skills using a tool-independent workflow and a suitable software track.
+Develop practical, transferable short-form and social-video editing skills through a complete planning, editing, versioning, automation, validation and professional delivery pathway.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+## Measurable learning outcomes
+Learners will be able to:
+1. Translate a brief into audience, message, format and acceptance requirements.
+2. Organize source media and construct a truthful short-form narrative.
+3. Reframe mixed-orientation footage and create accurate readable captions.
+4. Adapt a master edit to multiple formats without losing message or traceability.
+5. design controlled creative tests and diagnose workflow bottlenecks.
+6. Direct a coherent campaign and govern stakeholder approvals.
+7. Use AI-assisted operations with consent, provenance and human review.
+8. Deliver an accessible, rights-cleared and professionally documented campaign.
 
-## Curriculum modules
-1. Audience and platform formats
-2. hooks
-3. story compression
-4. vertical framing
-5. captions
-6. beat edits
-7. retention pacing
-8. safe areas
-9. versioning
-10. batch exports.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Audience, platform and format design](CT-03/lesson-01-audience-platform-and-format-design.md) | Brief analysis, aspect ratio, specifications |
+| Beginner / Intermediate | [02 — Hooks, story compression and retention](CT-03/lesson-02-hooks-story-compression-and-retention.md) | Truthful hooks, narrative and pacing |
+| Intermediate | [03 — Vertical reframing, captions and safe composition](CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) | Reframing, caption accuracy and mobile QC |
+| Advanced | [04 — Multi-format pacing and version control](CT-03/lesson-04-advanced-multi-format-pacing-and-version-control.md) | Adaptations, versions and change logs |
+| Expert | [05 — Editorial testing and performance optimization](CT-03/lesson-05-expert-editorial-testing-and-performance-optimization.md) | Controlled tests, metrics and diagnosis |
+| Master | [06 — Creative direction and campaign systems](CT-03/lesson-06-master-creative-direction-and-campaign-systems.md) | Creative systems and stakeholder governance |
+| AI & Automation | [07 — AI-assisted social editing and automation](CT-03/lesson-07-ai-assisted-social-editing-and-automation.md) | AI evaluation, consent, provenance and human review |
+| Professional Practice | [08 — Client delivery and portfolio](CT-03/lesson-08-professional-practice-client-delivery-and-portfolio.md) | Scope, rights, handoff and portfolio ethics |
 
-## Practical capstone
-Produce three platform-ready vertical edits from one source recording.
+## Professional implementation labs
+- [Lab 01 — Vertical social edit and export](CT-03/labs/lab-01-vertical-social-edit-and-export.md): reproducible short-form workflow and export validation.
+- [Lab 02 — Multi-format versioning and batch delivery](CT-03/labs/lab-02-multi-format-versioning-and-batch-delivery.md): master preservation, three adaptations and batch QC.
 
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Assessment and capstone
+- [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md): 40-point knowledge and applied reasoning assessment.
+- [Three-format social campaign capstone](CT-03/capstone/README.md): vertical, square and landscape campaign package, rights log, project files, QC report and reflection.
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current editor that supports custom sequences, transforms, captions/titles and export. Software-specific menu instructions must identify the exact app/version and be checked against its official documentation. Concepts remain transferable across DaVinci Resolve, Premiere Pro, CapCut, VN and other capable editors; availability, pricing and features must be verified at the time of instruction.
 
-## Authored learning resources
-
-| Resource | Purpose |
-|---|---|
-| [Lesson 01 — Audience, platform and format design](CT-03/lesson-01-audience-platform-and-format-design.md) | Audience/message brief, technical specification and safe composition planning |
-| [Lesson 02 — Hooks, story compression and retention](CT-03/lesson-02-hooks-story-compression-and-retention.md) | Truthful hooks, story structures, selects and pacing |
-| [Lesson 03 — Vertical reframing, captions and safe composition](CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) | Shot-by-shot reframing, captions and mobile review |
-| [Professional Lab 01 — Vertical social edit and export](CT-03/labs/lab-01-vertical-social-edit-and-export.md) | Reproducible project workflow, validation and submission |
-| [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md) | 40-point knowledge and applied reasoning assessment |
-
-## Required lesson format
-Use the shared academic lesson template: outcomes, prerequisites, definitions, theory, tools, procedure, worked example, dry run, practice, troubleshooting, assessment, quality checks and references/version notes.
+## Completion requirements
+Learners must pass the knowledge assessment, submit both practical labs or equivalent evidence, complete the three-format capstone, meet mandatory rights/factual/source-preservation criteria, and submit a professional handoff. Suggested capstone pass threshold is 80/100. Course completion requires documented academic/technical/editorial review and reproducibility evidence; authored files alone do not establish learner completion or course validation.
 
 ## Course status
-**Authored — initial implementation batch.** Three detailed lessons, one professional implementation lab and one knowledge assessment are present. The complete eight-stage pathway, three-edit capstone pack, additional software-specific labs, expanded practice assets and formal academic/technical review remain outstanding. This course is not marked reviewed, validated or complete.
+**Authored — eight-stage initial curriculum and capstone pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal independent review, link/format validation, software-specific execution evidence and learner capstone validation remain outstanding. This course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ academic and professional development requirements
-This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
-
-Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Apply the [academic lesson template](../../templates/academic-lesson-template.md), [professional lab template](../../templates/professional-lab-template.md) and [assessment rubric template](../../templates/assessment-rubric-template.md). Preserve subject-specific expertise and verify version-dependent claims.
