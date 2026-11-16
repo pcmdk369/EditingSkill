@@ -3,44 +3,36 @@
 **Course ID:** CT-08  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable digital illustration & graphic editing skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop vector and raster design skills, typography, layout, accessible color systems, brand systems, prepress, responsible AI asset workflows and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will choose appropriate media, build editable artwork, establish visual hierarchy, create reusable systems, preflight exports, evaluate generated assets and deliver licensed production files.
 
-## Curriculum modules
-1. Raster versus vector
-2. paths and shapes
-3. layers
-4. brushes
-5. typography
-6. grids
-7. composition
-8. color systems
-9. reusable assets
-10. print and screen exports.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Vector, raster and document setup](CT-08/lessons/lesson-01-vector-raster-graphics-and-document-setup.md) | Media types and production setup |
+| Beginner / Intermediate | [02 — Shapes, paths, typography and layout](CT-08/lessons/lesson-02-shapes-paths-typography-and-layout.md) | Vector craft and hierarchy |
+| Intermediate | [03 — Color systems and accessible graphics](CT-08/lessons/lesson-03-color-systems-contrast-and-accessible-graphics.md) | Palette, contrast and access |
+| Advanced | [04 — Branding systems and components](CT-08/lessons/lesson-04-branding-design-systems-and-component-libraries.md) | Reusable identity systems |
+| Expert | [05 — Prepress, export and automation](CT-08/lessons/lesson-05-expert-prepress-export-and-production-automation.md) | Print/screen production |
+| Master | [06 — Art direction and visual identity](CT-08/lessons/lesson-06-master-art-direction-visual-identity-and-review.md) | Creative direction and review |
+| AI & Automation | [07 — AI graphic generation and asset rights](CT-08/lessons/lesson-07-ai-assisted-graphic-generation-and-asset-rights.md) | Provenance and originality |
+| Professional Practice | [08 — Delivery, licensing and portfolio](CT-08/lessons/lesson-08-professional-graphic-delivery-licensing-and-portfolio.md) | Handoff and rights |
 
-## Practical capstone
-Create a small visual identity pack with editable source files.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Vector brand system and export preflight](CT-08/labs/lab-01-vector-brand-system-and-export-preflight.md)
+- [Knowledge assessment and answer key](CT-08/assessment-quiz-and-answer-key.md)
+- [Original visual identity capstone](CT-08/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use vector and raster applications appropriate to the deliverable. Verify current versions, font/asset licenses, color profiles and print-vendor requirements. Do not assume generated logos are original or trademark-safe.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit the practical lab and capstone, meet rights/originality gates and provide a preflighted handoff. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal design, accessibility, licensing and technical review remain outstanding; not marked reviewed, validated or complete.
 
-
-## PCMDK369™ academic and professional development requirements
-This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
-
-Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
