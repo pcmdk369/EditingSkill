@@ -52,6 +52,40 @@ Each course should include lessons, demonstrations, practice assets, assignments
 | CT-29 | Mobile Editing & Creator Workflows | Phone-first capture, editing, asset management, performance and export |
 | CT-30 | Professional Post-Production & Finishing | Conform, mastering, technical specifications, QC, archive and handoff |
 
+
+## Individual course outlines
+
+1. [Video Editing](courses/CT-01-video-editing.md)
+2. [Film Cinematic Editing](courses/CT-02-film-cinematic-editing.md)
+3. [Short Form Social Video](courses/CT-03-short-form-social-video.md)
+4. [Documentary Interview Editing](courses/CT-04-documentary-interview-editing.md)
+5. [Commercial Advertisement Editing](courses/CT-05-commercial-advertisement-editing.md)
+6. [Music Video Performance Editing](courses/CT-06-music-video-performance-editing.md)
+7. [Photo Image Editing](courses/CT-07-photo-image-editing.md)
+8. [Digital Illustration Graphic Editing](courses/CT-08-digital-illustration-graphic-editing.md)
+9. [Portrait Beauty Retouching](courses/CT-09-portrait-beauty-retouching.md)
+10. [Product Ecommerce Image Editing](courses/CT-10-product-ecommerce-image-editing.md)
+11. [Photo Restoration Manipulation](courses/CT-11-photo-restoration-manipulation.md)
+12. [Color Correction Grading](courses/CT-12-color-correction-grading.md)
+13. [Audio Editing](courses/CT-13-audio-editing.md)
+14. [Dialogue Voice Podcast Editing](courses/CT-14-dialogue-voice-podcast-editing.md)
+15. [Sound Design Foley](courses/CT-15-sound-design-foley.md)
+16. [Music Production Audio Mixing](courses/CT-16-music-production-audio-mixing.md)
+17. [2d Animation](courses/CT-17-2d-animation.md)
+18. [3d Animation](courses/CT-18-3d-animation.md)
+19. [Motion Graphics Kinetic Typography](courses/CT-19-motion-graphics-kinetic-typography.md)
+20. [Vfx Compositing](courses/CT-20-vfx-compositing.md)
+21. [Green Screen Chroma Key](courses/CT-21-green-screen-chroma-key.md)
+22. [3d Modeling Materials Rendering](courses/CT-22-3d-modeling-materials-rendering.md)
+23. [Subtitles Captions Localization](courses/CT-23-subtitles-captions-localization.md)
+24. [Ai Assisted Image Editing](courses/CT-24-ai-assisted-image-editing.md)
+25. [Ai Assisted Video Editing](courses/CT-25-ai-assisted-video-editing.md)
+26. [Ai Voice Dubbing Speech](courses/CT-26-ai-voice-dubbing-speech.md)
+27. [Batch Editing Media Automation](courses/CT-27-batch-editing-media-automation.md)
+28. [Live Streaming Content Editing](courses/CT-28-live-streaming-content-editing.md)
+29. [Mobile Editing Creator Workflows](courses/CT-29-mobile-editing-creator-workflows.md)
+30. [Professional Post Production Finishing](courses/CT-30-professional-post-production-finishing.md)
+
 ## Professional specialization bundles
 
 - **Creator & Social Media Editor:** CT-01, CT-03, CT-12, CT-23, CT-29
