@@ -48,6 +48,16 @@ The textbook and workbook are the primary learner resources. External references
 3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md)
 4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md)
 
+
+## Detailed academic lessons
+
+1. [Lesson 01 — Dramatic Beats and the Paper Edit](CT-02/lessons/lesson-01-dramatic-beats-and-paper-edit.md)
+2. [Lesson 02 — Scene Geography, Axis of Action and Eyelines](CT-02/lessons/lesson-02-scene-geography-and-axis.md)
+3. [Lesson 03 — Shot Coverage, Performance and Editorial Choice](CT-02/lessons/lesson-03-coverage-and-performance.md)
+4. [Lesson 04 — Continuity Editing and Match on Action](CT-02/lessons/lesson-04-continuity-and-match-on-action.md)
+
+These four lessons use the mandatory academic lesson structure and include measurable outcomes, definitions, theory, procedures, worked examples, dry runs, guided and independent practice, troubleshooting, answer guidance, rubrics and quality checks. They are tool-independent; software-specific walkthroughs remain a separate development stage.
+
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
 
