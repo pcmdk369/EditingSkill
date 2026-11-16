@@ -41,7 +41,7 @@
 | CT-12 | Color Correction & Color Grading | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-13 | Audio Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-15 | Sound Design & Foley | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-15 | Sound Design & Foley | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-16 | Music Production & Audio Mixing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-17 | 2D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-18 | 3D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -85,3 +85,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-13: Eight stage-mapped lessons, one dialogue cleanup/mix/loudness lab, one 50-point assessment and one audio post capstone brief are authored. DAW execution, rendered-file measurement and independent review remain.
 
 - CT-14: Eight stage-mapped lessons, one two-person podcast implementation lab, one 50-point assessment and one podcast episode capstone brief are authored. DAW execution, consent/privacy review and learner validation remain.
+
+- CT-15: Eight stage-mapped lessons, one Foley/ambience implementation lab, one 50-point assessment and one short-scene sound-design capstone brief are authored. Sound-library rights review, DAW execution and stem validation remain.
