@@ -747,19 +747,19 @@ Create a 30–45 second sequence with:
 
 ## Complete CT-01 textbook chapter map
 
-The following chapters are planned as full teaching chapters in this same textbook. The companion lesson files are available as focused study units, but they do not replace the expanded book chapters.
+The following chapter map tracks the full textbook sequence. Chapters 1–9 are now expanded as teaching chapters in this manuscript. Chapters 10–15 remain scheduled for full expansion. Companion lesson files are focused study units, not substitutes for the book chapters.
 
 | Chapter | Subject | Pathway |
 |---|---|---|
-| 1 | Language and purpose of video editing | Foundation |
-| 2 | Media fundamentals, files and technical properties | Foundation |
-| 3 | Project organization, ingest and preparation | Beginner |
-| 4 | Timeline, tracks and first assembly | Beginner |
-| 5 | Trimming, edit points and continuity | Beginner |
-| 6 | Transitions, J-cuts, L-cuts and visual continuity | Intermediate |
-| 7 | Pacing, story structure, selects and stringouts | Intermediate |
-| 8 | Titles, graphics, typography and keyframes | Intermediate |
-| 9 | Dialogue, music, sound design and audio mixing | Intermediate |
+| 1 | Language and purpose of video editing | Foundation — expanded |
+| 2 | Media fundamentals, files and technical properties | Foundation — expanded |
+| 3 | Project organization, ingest and preparation | Beginner — expanded |
+| 4 | Timeline, tracks and first assembly | Beginner — expanded |
+| 5 | Trimming, edit points and continuity | Beginner — expanded |
+| 6 | Transitions, J-cuts, L-cuts and visual continuity | Intermediate — expanded |
+| 7 | Pacing, story structure, selects and stringouts | Intermediate — expanded |
+| 8 | Titles, graphics, typography and keyframes | Intermediate — expanded |
+| 9 | Dialogue, music, sound design and audio mixing | Intermediate — expanded |
 | 10 | Color correction, shot matching and look development | Advanced |
 | 11 | Multicamera editing and complex sequence management | Advanced |
 | 12 | Professional workflow, versioning and client revisions | Expert |
@@ -808,7 +808,7 @@ To complete CT-01, the learner must:
 **PCMDK369™**  
 Professional Developer & Academic Learning  
 Contact: support.pcmdkai@gmail.com  
-**End of current textbook manuscript — Chapters 6–15 remain scheduled for full expansion.**
+**End of current textbook manuscript — Chapters 1–9 expanded; Chapters 10–15 remain scheduled for full expansion.**
 
 
 ---
