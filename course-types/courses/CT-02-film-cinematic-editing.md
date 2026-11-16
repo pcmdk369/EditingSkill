@@ -63,7 +63,7 @@ These five lessons use the mandatory academic lesson structure and include measu
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
 
 ## Course status
-**Textbook and student workbook authored — working manuscript; five detailed academic lessons authored.** Lesson 05 covers cinematic pacing, internal/external rhythm, shot-duration analysis, version comparison and montage. Next academic lesson: multicamera editing and synchronization, followed by assembly/rough cut/fine cut/picture lock, finishing and delivery, then AI-assisted editing, automation and professional practice. Software-specific implementation, expanded practice assets, assessment expansion and technical review remain in progress; the course is not complete.
+**Textbook and student workbook authored — working manuscript; five detailed academic lessons authored.** Lesson 05 covers cinematic pacing, internal/external rhythm, shot-duration analysis, version comparison and montage. Next academic lesson: **Lesson 06 — Multicamera Editing and Synchronization**; then Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; followed by AI-assisted editing, automation and professional practice. Software-specific implementation, expanded practice assets, assessment expansion and technical review remain in progress; the course is not complete.
 
 
 ## PCMDK369™ academic and professional development requirements
