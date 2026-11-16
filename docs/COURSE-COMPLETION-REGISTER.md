@@ -49,7 +49,7 @@
 | CT-20 | Visual Effects & Compositing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-21 | Green Screen & Chroma Key | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-23 | Subtitles, Captions & Localization | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-24 | AI-Assisted Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-26 | AI Voice, Dubbing & Speech Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -101,3 +101,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-21: Eight stage-mapped lessons, one green-screen capture/keying lab, one 50-point assessment and one virtual-studio capstone brief are authored. Capture/compositing execution, alpha validation and learner review remain.
 
 - CT-22: Eight stage-mapped lessons, one modeling/UV/material/render lab, one 50-point assessment and one production-ready 3D asset capstone brief are authored. Application execution, interchange testing and learner validation remain.
+
+- CT-23: Eight stage-mapped lessons, one multilingual subtitle production lab, one 50-point assessment and one accessible video capstone brief are authored. Human translation review, target-player tests and learner validation remain.
