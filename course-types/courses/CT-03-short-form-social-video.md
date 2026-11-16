@@ -33,12 +33,21 @@ Produce three platform-ready vertical edits from one source recording.
 ## Software track
 Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
 
+## Authored learning resources
+
+| Resource | Purpose |
+|---|---|
+| [Lesson 01 — Audience, platform and format design](CT-03/lesson-01-audience-platform-and-format-design.md) | Audience/message brief, technical specification and safe composition planning |
+| [Lesson 02 — Hooks, story compression and retention](CT-03/lesson-02-hooks-story-compression-and-retention.md) | Truthful hooks, story structures, selects and pacing |
+| [Lesson 03 — Vertical reframing, captions and safe composition](CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) | Shot-by-shot reframing, captions and mobile review |
+| [Professional Lab 01 — Vertical social edit and export](CT-03/labs/lab-01-vertical-social-edit-and-export.md) | Reproducible project workflow, validation and submission |
+| [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md) | 40-point knowledge and applied reasoning assessment |
+
 ## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+Use the shared academic lesson template: outcomes, prerequisites, definitions, theory, tools, procedure, worked example, dry run, practice, troubleshooting, assessment, quality checks and references/version notes.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
-
+**Authored — initial implementation batch.** Three detailed lessons, one professional implementation lab and one knowledge assessment are present. The complete eight-stage pathway, three-edit capstone pack, additional software-specific labs, expanded practice assets and formal academic/technical review remain outstanding. This course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ academic and professional development requirements
 This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
