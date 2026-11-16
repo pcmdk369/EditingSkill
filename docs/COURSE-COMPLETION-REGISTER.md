@@ -45,7 +45,7 @@
 | CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-17 | 2D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-18 | 3D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-19 | Motion Graphics & Kinetic Typography | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-20 | Visual Effects & Compositing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-21 | Green Screen & Chroma Key | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-22 | 3D Modeling, Materials & Rendering | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -93,3 +93,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-17: Eight stage-mapped lessons, one bouncing-ball/walk-cycle lab, one 50-point assessment and one original 2D short capstone brief are authored. Application execution, animation review and export validation remain.
 
 - CT-18: Eight stage-mapped lessons, one character rig/animation lab, one 50-point assessment and one 3D character shot capstone brief are authored. Application/render execution, dependency testing and learner validation remain.
+
+- CT-19: Eight stage-mapped lessons, one kinetic typography/responsive motion lab, one 50-point assessment and one motion identity capstone brief are authored. Application execution, data/accessibility review and render validation remain.
