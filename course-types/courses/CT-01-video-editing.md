@@ -38,19 +38,49 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 
 ## Detailed lesson library
 
+### Foundation and Beginner
 1. [Lesson 01 — Editing Workflow and Project Setup](CT-01/lesson-01-workflow-project-setup.md)
 2. [Lesson 02 — Media Ingest, Inspection and Organization](CT-01/lesson-02-media-ingest-inspection.md)
 3. [Lesson 03 — Timeline Navigation and First Assembly](CT-01/lesson-03-timeline-first-assembly.md)
 4. [Lesson 04 — Trimming, Ripple Editing and Continuity](CT-01/lesson-04-trimming-continuity.md)
-5. [Foundation and Beginner Knowledge Assessment + Answer Key](CT-01/assessment-quiz-and-answer-key.md)
+5. [Foundation/Beginner Knowledge Assessment and Answer Key](CT-01/assessment-quiz-and-answer-key.md)
+
+### Intermediate
+6. [Lesson 05 — Transitions, J-Cuts, L-Cuts and Visual Continuity](CT-01/lesson-05-transitions-and-visual-continuity.md)
+7. [Lesson 06 — Pacing, Story Structure and Selects](CT-01/lesson-06-pacing-story-structure-and-selects.md)
+8. [Lesson 07 — Titles, Graphics and Keyframe Animation](CT-01/lesson-07-titles-graphics-and-keyframes.md)
+9. [Lesson 08 — Dialogue, Music and Basic Audio Mixing](CT-01/lesson-08-dialogue-music-audio-mix.md)
+
+### Advanced
+10. [Lesson 09 — Color Correction, Shot Matching and Look Development](CT-01/lesson-09-color-correction-and-shot-matching.md)
+11. [Lesson 10 — Multicamera Editing and Complex Sequence Management](CT-01/lesson-10-multicam-and-complex-sequence-management.md)
+
+### Expert
+12. [Lesson 11 — Professional Workflow, Versioning and Client Revisions](CT-01/lesson-11-professional-workflow-versioning-and-revisions.md)
+
+### Master
+13. [Lesson 12 — Editorial Direction, Pipeline Design and Master Capstone](CT-01/lesson-12-master-editing-direction-and-capstone.md)
+
+### AI & Automation
+14. [Lesson 13 — AI-Assisted Editing, Automation and Human Review](CT-01/lesson-13-ai-assisted-editing-and-human-review.md)
+
+### Professional Practice
+15. [Lesson 14 — Professional Delivery, Quality Control and Archive](CT-01/lesson-14-professional-delivery-qc-and-archive.md)
 
 ## Development status
 
-- [x] Initial detailed foundation/beginner lessons authored.
-- [x] Knowledge assessment and answer key authored.
-- [x] Practical assignment and rubric included.
-- [ ] Remaining intermediate, advanced, expert, master, AI/automation and professional-practice lesson sequences.
-- [ ] Full capstone brief, asset pack and final course completion review.
+- [x] Foundation/beginner lessons and knowledge assessment authored.
+- [x] Intermediate lesson sequence authored.
+- [x] Advanced lesson sequence authored.
+- [x] Expert lesson authored.
+- [x] Master capstone framework authored.
+- [x] AI & automation lesson authored.
+- [x] Professional-practice delivery/QC lesson authored.
+- [ ] Software-specific implementation labs and verified version notes.
+- [ ] Full 60–90 second capstone asset pack, learner submission and assessor feedback templates.
+- [ ] Final course-wide technical and editorial review.
+
+**Status:** Core learning sequence authored through Professional Practice. CT-01 remains in development until software labs, capstone resources and final review are completed.
 
 ## Course status
 Foundation/beginner lesson library started; see the linked lesson sequence and development checklist above. Course is not yet complete.
