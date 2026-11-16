@@ -80,3 +80,7 @@ Summarize:
 - Quality assurance: `quality-control/`
 - Troubleshooting: `troubleshooting/`
 - Rights and safety: `safety-and-licensing/`
+
+
+## PCMDK369™ academic and professional authoring standard
+All curriculum development, course outlines, lessons, software labs, assessments, capstones and specialist agent instructions must follow [the repository-wide standard](standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Use the shared templates in templates/. Apply the same requirements across all 30 course types and every Agentic/EditSkill specialist. Keep academic outcomes measurable, technical steps reproducible, tool/version claims verified, and assessment criteria transparent. Do not mark work complete without documented quality checks and evidence.
