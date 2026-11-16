@@ -86,7 +86,7 @@ These practical tracks map CT-01's transferable editing principles to real tools
 - [x] AI & automation lesson authored.
 - [x] Professional-practice delivery/QC lesson authored.
 - [x] Initial software implementation labs authored for Resolve, Premiere Pro, CapCut Mobile and FFmpeg; version/edition limitations documented.
-- [ ] Full 60–90 second capstone asset pack, learner submission and assessor feedback templates.
+- [x] Capstone brief, source-pack requirements, learner submission manifest, assessor rubric and feedback template authored.
 - [ ] Final course-wide technical and editorial review.
 
 **Status:** Core learning sequence authored through Professional Practice. CT-01 remains in development until software labs, capstone resources and final review are completed.
@@ -103,7 +103,7 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 
 ## Complete textbook and student notes
 The course now includes substantive learner-facing book material, not only online references:
-- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–9 are expanded in this manuscript; Chapters 10–15 remain scheduled for full expansion.
-- [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.
+- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–9 are expanded in the main manuscript; Chapters 10–15 are drafted in the linked textbook supplement and require integration/editorial review.
+- [CT-01 Textbook Supplement — Chapters 10–15](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK-CHAPTERS-10-15.md) — advanced multicamera, professional workflow, master capstone, AI/automation, delivery/QC and portfolio practice chapters.\n- [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.\n- [CT-01 Capstone Asset and Assessment Pack](CT-01/capstone/README.md) — source-pack requirements, deliverables, folder model, submission manifest, assessor rubric and feedback record.
 
 These materials are the primary learner study resources. External links are supplementary references only and must never substitute for authored course content.
