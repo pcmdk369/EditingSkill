@@ -109,3 +109,7 @@ A learner completes a course by passing its knowledge checks, submitting require
 ## Content development status
 
 This catalog defines the course types and intended structure. A catalog entry is not a claim that every detailed lesson, downloadable asset, quiz or answer key has already been authored. Build and verify each course progressively.
+
+
+## Mandatory PCMDK369™ academic and professional standard
+This standard applies to **all 30 course types**, every lesson, software implementation lab, assessment, capstone and future course addition. Each course outline must use the [Professional Developer & Academic Course Standard](../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), the [academic lesson template](../templates/academic-lesson-template.md), [professional lab template](../templates/professional-lab-template.md) and [assessment rubric template](../templates/assessment-rubric-template.md). Course-specific content must remain discipline-specific; templates define structure, not generic filler. Courses are not complete until required learning stages, practical work, assessments, capstone resources and quality review are evidenced.
