@@ -42,6 +42,15 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
+## Practical implementation labs
+1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md)
+2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md)
+3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md)
+4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md)
+
+## Knowledge assessment
+- [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
+
 ## Course status
 **Textbook and student workbook authored — working manuscript.** The initial manuscript covers dramatic storytelling, scene geography, coverage, continuity, pacing, montage, multicamera synchronization, edit stages, collaboration, finishing, AI-assisted workflows and a narrative capstone. Dedicated lesson scripts, software-specific implementation labs, expanded quizzes/answer keys, practice assets and technical review remain in progress.
 
