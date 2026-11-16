@@ -809,3 +809,645 @@ To complete CT-01, the learner must:
 Professional Developer & Academic Learning  
 Contact: support.pcmdkai@gmail.com  
 **End of current textbook manuscript — Chapters 6–15 remain scheduled for full expansion.**
+
+
+---
+
+# Part IV — Intermediate Editing: Control, Meaning and Design
+
+## Chapter 6 — Transitions, J-Cuts, L-Cuts and Visual Continuity
+
+### 6.1 What a transition does
+
+A transition is the method by which one shot or scene changes to another. The transition affects how the viewer understands time, space, movement and meaning. A transition should have a reason. It may preserve continuity, show a change in time, connect two ideas or deliberately create a visual effect.
+
+The straight cut is the basic transition: one shot ends and the next begins immediately. It is usually the least distracting option. This is why it is the default in many professional edits.
+
+### 6.2 Common picture transitions
+
+**Straight cut:** An immediate change from one shot to another. It is suitable for continuous action, dialogue, changes of angle and most ordinary edits.
+
+**Dissolve:** Two images overlap for a period, with one gradually replacing the other. It can suggest elapsed time, memory, a dreamlike connection or a thematic relationship. It can also create ghosting when movement differs between shots.
+
+**Fade:** The image gradually changes to or from a solid color, often black. A fade may indicate a beginning, ending or substantial transition in time. A fade to black is not automatically necessary at every scene ending.
+
+**Wipe:** One image replaces another through a moving boundary. It has a strong stylistic character and should be used only when it fits the design or story.
+
+**Match cut:** A cut that connects shots through similar shape, movement, framing, sound or idea. The connection can be visual or conceptual.
+
+### 6.3 Audio transitions: J-cuts and L-cuts
+
+Audio does not need to begin and end at the same instant as the picture.
+
+- **J-cut:** Audio from the incoming shot or scene begins before its picture appears. The audience hears the next moment before seeing it.
+- **L-cut:** Audio from the outgoing shot continues after the picture has changed. The previous moment's sound carries into the next image.
+
+These terms describe the shape often seen in a timeline: the incoming audio leads the picture in a J-cut; the outgoing audio trails the picture in an L-cut.
+
+**Why they work:** Human perception can accept a sound bridge across a picture change. The sound prepares the viewer for the next scene or preserves continuity while the image changes.
+
+### 6.4 Building a J-cut
+
+1. Identify the incoming dialogue or sound.
+2. Place it on a separate audio track or unlink it from its picture if the NLE requires this.
+3. Move the incoming audio earlier so it begins under the outgoing picture.
+4. Keep enough of the outgoing picture for the audience to understand the current moment.
+5. Check that the incoming words are not confusing or premature.
+6. Play across the edit at normal speed.
+7. Check dialogue sync after the picture changes.
+
+Example: A person is finishing a sentence in a workshop. Before the picture cuts to the next speaker, the next speaker's first words begin. The audience anticipates the change and the scene feels connected.
+
+### 6.5 Building an L-cut
+
+1. Identify the outgoing line or sound that should continue.
+2. Extend its audio beyond the picture edit.
+3. Place the next shot over the continuing sound.
+4. Confirm the sound remains relevant to the new image.
+5. Add a suitable fade if the audio ends abruptly.
+6. Review the timing and emotional effect.
+
+Example: An interviewee describes a handmade object. The picture cuts to close-ups of the object while the interviewee's voice continues. The words remain connected to the evidence shown.
+
+### 6.6 Continuity of space and screen direction
+
+The viewer builds a mental map of a scene. Editing should help the viewer understand where people and objects are located.
+
+**Eyeline match:** If a subject looks toward screen right, the next shot should usually show the object or person they are looking at in a compatible position.
+
+**Screen direction:** The apparent direction in which a person or object moves across the frame. A subject moving left-to-right in one shot will usually be expected to continue in a compatible direction in the next shot.
+
+**180-degree guideline:** Imagine an axis through the main action or between two subjects. Camera positions on one side of that axis generally preserve left/right relationships. Crossing to the other side may reverse screen direction and confuse the viewer.
+
+The 180-degree guideline is not an absolute law. A visible camera move, neutral shot, new establishing view or deliberate change of perspective can reorient the audience.
+
+### 6.7 Match on action and visual matching
+
+A match on action cuts during a movement so the next shot continues the same action. The action should align in direction, timing and object position.
+
+A visual match cut can connect similar shapes or compositions even when the location or time changes. For example, a circular wheel may cut to a circular plate. The connection is conceptual rather than continuous action.
+
+### 6.8 Choosing a transition
+
+Ask these questions:
+1. Is this the same continuous action?
+2. Is time passing?
+3. Is the location changing?
+4. Does the sound need to lead or trail the picture?
+5. Is the transition communicating a specific idea?
+6. Does the effect distract from the subject?
+7. Does the transition create a technical problem such as ghosting or an audio pop?
+
+If a straight cut communicates the idea clearly, do not add an effect merely because the editor offers one.
+
+### 6.9 Worked example: two-person conversation
+
+Scene: Person A asks a question; Person B answers.
+
+- Begin on Person A.
+- Let Person B's first word begin before cutting to Person B: J-cut.
+- Show Person B delivering the answer.
+- Cut to Person A listening while Person B's sentence continues: L-cut.
+- Return to Person B for the key point.
+- Use an establishing shot if the geography of the conversation is unclear.
+
+The edit uses picture changes to show reactions while audio maintains the continuity of the conversation.
+
+### 6.10 Practical exercise
+
+Create three versions of a 20-second scene:
+- Version A: straight cuts only.
+- Version B: one dissolve and one fade, each with a written reason.
+- Version C: one J-cut and one L-cut.
+
+Compare the versions. Identify which one best communicates time, space and meaning. Do not assume the version with the most effects is best.
+
+### 6.11 Chapter notes
+
+- Straight cuts are the default because they preserve clarity.
+- Dissolves can suggest time, memory or association.
+- J-cut = incoming audio leads the incoming picture.
+- L-cut = outgoing audio continues over the next picture.
+- Eyelines and screen direction help the viewer understand space.
+- The 180-degree guideline is a continuity aid, not an unbreakable rule.
+- Every non-standard transition needs a reason.
+
+### 6.12 Review questions
+
+1. What is the main function of a transition?
+2. Why is the straight cut commonly used?
+3. Define a dissolve and give two possible uses.
+4. What is a J-cut?
+5. What is an L-cut?
+6. What does the 180-degree guideline help preserve?
+7. Name two ways to cross the axis without confusing the audience.
+8. What is a match on action?
+
+**Answer guidance:** A transition connects shots and communicates relationships; straight cuts are clear and unobtrusive; dissolves blend images to suggest time or association; J-cut incoming audio first; L-cut outgoing audio continues; 180-degree supports screen geography; reorient with camera movement/neutral or establishing shot; match on action aligns continuous movement.
+
+---
+
+## Chapter 7 — Pacing, Story Structure, Selects and Stringouts
+
+### 7.1 Pacing is information over time
+
+Pacing is the rate at which the audience receives information, action and emotional change. It is not simply the number of cuts per minute.
+
+A fast sequence can feel slow if it repeats the same information. A long shot can feel compelling if the audience is waiting for an important action or emotional response.
+
+A useful question for every shot is: **What does this shot contribute, and how long does the audience need to understand or feel it?**
+
+### 7.2 Story beats
+
+A **beat** is a meaningful change in information, action, emotion or direction. Beats can be large or small.
+
+Example: In a product demonstration:
+- the problem is introduced;
+- the tool is revealed;
+- the process begins;
+- a difficulty appears;
+- the process succeeds;
+- the result is shown.
+
+Each beat changes what the audience knows or expects.
+
+### 7.3 Selects
+
+**Selects** are chosen portions of source footage that may be useful in the edit. A select should have a source filename and time reference so it can be found again.
+
+A good selects log includes:
+- source filename;
+- in and out timecode;
+- short description;
+- story function;
+- quality/technical notes;
+- rights or consent notes if relevant.
+
+Do not remove factual context simply because a short quote sounds more dramatic. Review the source before and after the selected excerpt to understand what was said and whether the edit could misrepresent the speaker.
+
+### 7.4 Stringouts
+
+A **stringout** is a timeline or document containing selected moments, often kept in source order. It helps the editor review available material before committing to a final story structure.
+
+A stringout is not necessarily a finished edit. It may contain repeated takes, long gaps and material that will later be removed. Its purpose is to make the available content easier to evaluate.
+
+### 7.5 Coverage
+
+Coverage is the range of shots available to construct a scene: wide, medium, close-up, reaction, detail and alternate angles. Good coverage gives the editor options. Poor coverage may force a cut that is visually awkward or unsupported.
+
+When footage lacks coverage:
+- use a wider shot for a longer duration if it remains engaging;
+- use a relevant cutaway only if it is truthful;
+- use a graphic or text explanation if appropriate;
+- use a deliberate jump cut when stylistically acceptable;
+- request additional footage if possible.
+
+Never use unrelated footage in a way that falsely implies it depicts the event being discussed.
+
+### 7.6 A practical story structure
+
+A simple structure for short-form storytelling:
+1. **Hook or opening:** create a reason to pay attention.
+2. **Context:** explain who, what, where or why.
+3. **Development:** show the process, evidence or conflict.
+4. **Turning point:** introduce a meaningful change where appropriate.
+5. **Payoff:** deliver the result or answer.
+6. **Close:** leave the viewer with a clear final thought or action.
+
+Not every video needs all six parts. A tutorial may use a direct promise, steps and result. A documentary may have an unresolved ending.
+
+### 7.7 Shot duration and emotional meaning
+
+A shot earns its duration by providing information, emotion, geography, rhythm or visual pleasure.
+
+Shortening a shot can:
+- remove unnecessary delay;
+- increase urgency;
+- emphasize a reaction;
+- improve clarity.
+
+Lengthening a shot can:
+- allow the audience to inspect detail;
+- create suspense;
+- preserve a natural pause;
+- communicate scale or atmosphere.
+
+Do not cut away from a meaningful reaction merely to make the sequence faster.
+
+### 7.8 Montage
+
+A montage arranges multiple shots to compress time, compare actions, show development or build an emotional/visual pattern.
+
+A montage needs enough context for the viewer to understand what is being compressed or compared. If every shot is visually different but there is no clear relationship, the montage may feel random.
+
+### 7.9 Editing for different audiences and platforms
+
+A landscape documentary, vertical social clip and instructional video have different audience expectations. The editor may need to change:
+- opening speed;
+- amount of context;
+- shot duration;
+- text size;
+- caption placement;
+- framing;
+- sound mix;
+- ending and call to action.
+
+Do not assume that one export can be cropped and reused everywhere without editorial adjustment.
+
+### 7.10 Pacing review procedure
+
+1. Write the central story statement.
+2. Watch the sequence without pausing.
+3. Record where attention increases, drops or becomes confused.
+4. Identify repeated information.
+5. Identify moments that need more context or reaction.
+6. Check whether the opening establishes a reason to watch.
+7. Check whether the ending answers the opening question.
+8. Adjust shot duration and order.
+9. Watch again at normal speed.
+10. Compare against the original story statement.
+
+### 7.11 Worked example: 60-second craft profile
+
+Story statement: “A local maker transforms raw material into a finished object through a careful hand process.”
+
+Selects:
+- close-up of finished object;
+- wide shot of workspace;
+- maker introducing the process;
+- hands preparing material;
+- close-up of difficult technique;
+- tool sound;
+- maker inspecting the result;
+- final reveal.
+
+Possible structure:
+- 0–3 seconds: finished object as a visual hook;
+- 3–10 seconds: maker and workspace;
+- 10–38 seconds: process and key detail;
+- 38–50 seconds: maker's explanation and inspection;
+- 50–60 seconds: final reveal and closing text.
+
+The editor must verify that the sequence accurately represents the process and does not imply a false chronology.
+
+### 7.12 Practice assignment
+
+Create a selects reel from at least eight source moments. Record timecodes and story function. Then create:
+- a 30-second version;
+- a 60-second version.
+
+Explain what information was removed, what was preserved and how the pacing changed.
+
+### 7.13 Chapter notes
+
+- Pacing = rate of meaningful information and emotional change.
+- A beat is a meaningful shift in action, information or emotion.
+- Selects preserve source references and context.
+- A stringout helps review material before final structuring.
+- Coverage gives editorial options.
+- Shot duration should serve meaning, not a fixed rule.
+- Montage compresses or compares material but still needs clarity.
+
+### 7.14 Review questions
+
+1. Why is pacing not the same as cutting speed?
+2. What is a select?
+3. What information should a selects log contain?
+4. What is a stringout?
+5. How does coverage help the editor?
+6. Why must interview excerpts retain context?
+7. Name six possible story stages for a short video.
+8. When should a shot be allowed to remain longer?
+
+**Answer guidance:** Pacing concerns meaningful information; select is a chosen source range; log filename/timecode/description/function/notes; stringout is selected material arranged for review; coverage provides shot options; context prevents misrepresentation; hook/context/development/turning point/payoff/close; when it provides emotion, detail, suspense or necessary comprehension.
+
+---
+
+## Chapter 8 — Titles, Graphics, Typography and Keyframe Animation
+
+### 8.1 Why graphics are used
+
+Titles and graphics can identify a speaker, establish a location, explain a concept, show a chapter, provide a callout or present a final message. They should support the content rather than compete with it.
+
+A graphic is successful when the audience can understand it quickly and return attention to the main subject.
+
+### 8.2 Typography
+
+Typography is the design and arrangement of written language. Important factors include:
+- typeface and font choice;
+- size and weight;
+- line spacing;
+- letter spacing;
+- alignment;
+- contrast;
+- hierarchy;
+- language and character support.
+
+Use fonts that are licensed for the intended use. Confirm that the selected typeface supports all required characters, accents and scripts. A font that looks attractive in English may not support another language correctly.
+
+### 8.3 Visual hierarchy
+
+Hierarchy tells the viewer what to notice first, second and third.
+
+A lower third might use:
+- larger/bolder text for a person's name;
+- smaller text for their role;
+- a subtle line or shape to group the information.
+
+Do not make every element equally prominent. Too many sizes, colors and weights create visual competition.
+
+### 8.4 Contrast and readability
+
+Text must remain readable over the footage. Check:
+- text/background contrast;
+- size at the smallest expected display;
+- busy image areas;
+- placement over faces or important objects;
+- platform interface overlays;
+- language-specific line breaks.
+
+A shadow or backing panel can improve readability, but should be restrained. Do not solve every contrast issue with thick outlines or large boxes.
+
+### 8.5 Safe placement
+
+Keep essential titles and captions away from frame edges and platform interface areas. Different platforms may cover different parts of a vertical video with buttons, captions, account names or navigation controls.
+
+Test the graphic at the actual output dimensions and on a phone-sized display. A title that is readable on a desktop monitor may be too small on a phone.
+
+### 8.6 Keyframes
+
+A **keyframe** stores a parameter value at a specific time. The software calculates values between keyframes using an interpolation method.
+
+Possible animated properties:
+- position;
+- scale;
+- rotation;
+- opacity;
+- color;
+- effect parameters;
+- mask position or shape.
+
+Example: A title begins below its final position and moves upward while fading in. The editor sets an initial position and opacity, then sets the final position and opacity at a later time.
+
+### 8.7 Interpolation and easing
+
+**Linear interpolation** changes a value at a constant rate between keyframes. It can feel mechanical.
+
+**Ease-in** gradually accelerates toward movement. **Ease-out** gradually slows near the end. **Ease-in/ease-out** starts and ends more gently.
+
+Easing should support the visual style. Excessive bounce, overshoot or elastic motion can make serious content feel playful or unprofessional.
+
+### 8.8 Basic title animation procedure
+
+1. Decide what the title must communicate.
+2. Write accurate, concise text.
+3. Choose a readable typeface and hierarchy.
+4. Set the final size and placement first.
+5. Check contrast on the actual footage.
+6. Add a starting keyframe for position or opacity.
+7. Move the playhead to the end time and set the final value.
+8. Choose suitable interpolation.
+9. Review the animation at normal speed.
+10. Check that the title holds long enough to read.
+11. Preview at output size and on the intended display.
+12. Export a short test before rendering the complete video.
+
+### 8.9 Worked example: speaker lower third
+
+Purpose: identify a speaker after the viewer has seen them.
+
+Design:
+- name on the first line;
+- role or organization on the second line;
+- consistent typeface and color;
+- placement in a safe area;
+- fade/slide animation that does not distract.
+
+Verification:
+- confirm spelling and preferred name;
+- check title against bright and dark frames;
+- confirm it does not cover the speaker's face;
+- read it on a phone;
+- keep it on screen long enough for normal reading.
+
+### 8.10 Common graphic failures
+
+- Too many typefaces: reduce to a small consistent system.
+- Text too close to edges: move into the safe area.
+- Low contrast: simplify the background or use a subtle backing.
+- Animation too fast: increase duration and hold.
+- Keyframe jumps: inspect values, keyframe positions and interpolation.
+- Font missing on another device: package or outline fonts only where licensing and workflow allow; otherwise use a permitted substitute.
+- Incorrect spelling: verify names and factual text with the authorized source.
+
+### 8.11 Practice assignment
+
+Create an opening title, a lower third and an end card for a 45-second information video. Submit:
+- graphic style sheet;
+- typeface and font licensing notes;
+- colors and hierarchy;
+- placement/safe-area screenshot;
+- keyframe timing;
+- phone-size readability check.
+
+### 8.12 Chapter notes
+
+- Graphics must support the message.
+- Typography includes size, weight, spacing, alignment and language support.
+- Hierarchy controls reading order.
+- Contrast and safe placement determine readability.
+- Keyframes store parameter values over time.
+- Interpolation controls the movement between keyframes.
+- Test graphics at the actual delivery size.
+
+### 8.13 Review questions
+
+1. What is typography?
+2. What does visual hierarchy do?
+3. Why should titles be tested on a phone?
+4. What is a keyframe?
+5. What is interpolation?
+6. How does easing differ from linear motion?
+7. Name four properties that can be animated.
+8. Why must font licensing and language support be checked?
+
+**Answer guidance:** Design/arrangement of written language; directs reading order; phone preview reveals small text and overlays; stored parameter value at a time; calculation between keyframes; easing changes speed gradually; position/scale/rotation/opacity etc.; legal use and correct rendering of all required characters.
+
+---
+
+## Chapter 9 — Dialogue, Music, Sound Design and Audio Mixing
+
+### 9.1 Sound is part of the story
+
+Sound communicates space, emotion, action and meaning. A picture edit can be visually strong but difficult to watch if dialogue is unclear or the music masks important information.
+
+Audio editing includes selecting, synchronizing, cleaning, arranging, balancing and processing sound. The goal is not simply to make every track loud. The goal is to create a controlled and understandable sound experience.
+
+### 9.2 Main sound categories
+
+- **Dialogue:** spoken words from an interview, scene or voice-over.
+- **Natural sound:** sound recorded in the environment, such as footsteps, wind or tools.
+- **Ambience/room tone:** continuous background sound that represents the acoustic environment.
+- **Sound effects (SFX):** designed or selected sounds used to support action or meaning.
+- **Foley:** performed and recorded sounds synchronized to picture, such as footsteps or object handling.
+- **Music:** composed or licensed musical material used to shape mood and rhythm.
+
+Keep these categories organized on separate tracks or buses where practical.
+
+### 9.3 Synchronization
+
+Audio and picture must correspond in time. Sync may be established by:
+- camera-recorded audio;
+- a visible and audible clap/slate;
+- timecode;
+- waveform matching;
+- a known event such as a door closing.
+
+Check sync at the beginning and later points in long recordings. A fixed offset can be corrected by shifting the audio. Drift that increases over time may indicate clock or frame-rate mismatch and requires a different diagnosis.
+
+### 9.4 Gain and faders
+
+**Gain** changes signal level. **Clip gain** adjusts an individual audio clip. A **track fader** adjusts the combined signal on a track.
+
+A practical workflow is to correct large differences between dialogue phrases with clip gain before applying compression. This allows the processor to work more consistently.
+
+Avoid using the master fader as the only solution to a single loud clip. Find and correct the source of the problem.
+
+### 9.5 Peaks and loudness
+
+A **peak meter** shows the highest signal level over a short period. **Loudness** measures perceived programme level over time using a defined method. LUFS is a common loudness unit used in broadcast and online delivery specifications.
+
+Peak level and loudness are different. A programme can have low average loudness but contain sharp peaks. A loud programme can still sound poor if it is heavily compressed or distorted.
+
+There is no universal loudness target for every platform and delivery. Follow the written specification. Prevent digital clipping and inspect true peaks if required.
+
+### 9.6 Equalization
+
+**Equalization (EQ)** changes the level of selected frequency ranges.
+
+Common purposes:
+- reduce low-frequency rumble;
+- reduce an annoying resonance;
+- improve speech clarity;
+- control harshness;
+- shape the tonal balance.
+
+Use EQ to solve an audible problem. Large boosts can make noise more obvious. Always compare processed and bypassed sound at a similar listening level.
+
+### 9.7 Compression
+
+**Compression** reduces dynamic range above a chosen threshold. It can make dialogue more consistent, but excessive compression can sound unnatural.
+
+Important controls commonly include:
+- threshold;
+- ratio;
+- attack;
+- release;
+- knee;
+- makeup gain.
+
+The controls interact. A high ratio or very fast attack can make the voice sound flattened or harsh. A release that is too short can create pumping. Begin with subtle settings and compare.
+
+### 9.8 Noise reduction
+
+Noise reduction can reduce steady hum, hiss or broadband noise, but aggressive processing can create watery or metallic artifacts. It cannot always restore speech buried under loud noise or repair severe clipping.
+
+Try this order:
+1. use the cleanest source available;
+2. edit out unnecessary noise where possible;
+3. use room tone to smooth gaps;
+4. apply modest noise reduction if appropriate;
+5. listen for artifacts;
+6. reduce processing if the voice becomes unnatural.
+
+### 9.9 Music and ducking
+
+Music should support the story without masking dialogue. **Ducking** is the reduction of one source while another is prominent. It can be automated manually or by a side-chain process.
+
+A good mix does not keep music at one fixed level throughout. Important words may require a reduction; a visual montage may allow music to rise.
+
+### 9.10 Fades and edit boundaries
+
+Abruptly cutting an audio waveform can create clicks. Short fades or crossfades can smooth the boundary. The correct duration depends on the source and edit.
+
+Do not fade away meaningful ambience at every cut. Continuous room tone or natural sound may help preserve a sense of space.
+
+### 9.11 Practical mixing order
+
+1. Confirm sync and channel mapping.
+2. Separate dialogue, ambience, effects and music.
+3. Listen to dialogue alone.
+4. Correct clip gain for large level differences.
+5. Remove avoidable clicks and unwanted noises.
+6. Add room tone where edits create unnatural silence.
+7. Establish dialogue as the intelligibility anchor.
+8. Add ambience and effects at appropriate levels.
+9. Bring music in beneath dialogue.
+10. Automate or duck music where words need space.
+11. Use EQ/compression only to solve identified problems.
+12. Check peaks and the required loudness measurement.
+13. Listen on headphones and speakers at a comfortable level.
+14. Review the complete programme and exported file.
+
+### 9.12 Worked example: 60-second voice-over
+
+The voice-over has three phrases. Phrase one is quiet, phrase two is much louder and phrase three contains a short click.
+
+Procedure:
+- adjust clip gain to reduce the difference between phrases;
+- repair the click with an edit or suitable restoration;
+- add gentle compression only if the remaining dynamics require it;
+- place music on a separate track;
+- reduce music during important words;
+- check the required peak/loudness specification;
+- listen to the full programme on more than one playback system.
+
+### 9.13 Audio quality checklist
+
+- Dialogue is understandable at a comfortable listening level.
+- No unintended clipping or distortion.
+- No distracting clicks at edits.
+- Music does not mask important speech.
+- Ambience does not change unnaturally between cuts.
+- Stereo channels are correct.
+- Sync is checked at multiple points.
+- Exported audio matches the approved mix.
+- Loudness and peak requirements match the delivery specification.
+
+### 9.14 Chapter notes
+
+- Dialogue is the intelligibility anchor in speech-led content.
+- Clip gain and track faders serve different purposes.
+- Peak level and loudness are not identical.
+- EQ changes frequency balance.
+- Compression controls dynamic range.
+- Noise reduction can create artifacts.
+- Music should support, not compete with, the message.
+- Listen to the exported file, not only the editor preview.
+
+### 9.15 Practice assignment
+
+Create a 60-second mix with separate dialogue, ambience/effects and music tracks. Submit:
+- track map;
+- sync check;
+- clip-gain notes;
+- processing notes;
+- peak/loudness report against the chosen delivery specification;
+- listening checklist;
+- exported test file.
+
+### 9.16 Review questions
+
+1. Name five sound categories used in post-production.
+2. Why check sync at the beginning and end of a long recording?
+3. What is the difference between clip gain and a track fader?
+4. How does peak differ from loudness?
+5. What is EQ used for?
+6. What does compression do?
+7. Why can aggressive noise reduction be harmful?
+8. What is ducking?
+9. Why should the mix be checked on multiple playback systems?
+10. Why must delivery loudness follow a specification rather than a guessed universal value?
+
+**Answer guidance:** Dialogue/natural sound/ambience/SFX/Foley/music; drift may develop; clip gain affects one clip, fader affects track output; peak is instantaneous maximum, loudness is perceived level over time; EQ adjusts frequencies; compression reduces dynamic range; artifacts; lowering one source under another; translation differs by playback system; requirements vary by platform/client/standard.
+
