@@ -1,0 +1,24 @@
+# Project Brief Template
+
+- Project title:
+- Client/owner:
+- Purpose and audience:
+- Main message:
+- Deliverable(s):
+- Destination/platform:
+- Duration:
+- Dimensions/aspect ratio:
+- Frame rate:
+- Format/codec:
+- Audio requirements:
+- Caption/subtitle requirements:
+- Visual references/style:
+- Brand requirements:
+- Source assets and locations:
+- Rights/releases/consent:
+- Deadline:
+- Reviewers and approval owner:
+- Budget/tool constraints:
+- Accessibility requirements:
+- Success criteria:
+- Risks and open questions:
