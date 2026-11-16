@@ -3,43 +3,34 @@
 **Course ID:** CT-05  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable commercial & advertisement editing skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop professional commercial editing skills that translate a campaign brief into truthful, brand-consistent and technically compliant video deliverables. Learners will interpret briefs, construct product stories, control pacing, create duration adaptations, manage claims and approvals, direct campaign systems, evaluate AI assistance and deliver a traceable package.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Commercial brief, brand and audience](CT-05/lessons/lesson-01-lesson-01-commercial-brief-brand-and-audience.md) | Campaign objective, audience, brand and claim intake |
+| Beginner / Intermediate | [02 — Product storytelling and visual hierarchy](CT-05/lessons/lesson-02-lesson-02-product-storytelling-and-visual-hierarchy.md) | Product proof, shot hierarchy and CTA |
+| Intermediate | [03 — Commercial pacing, music and sound cues](CT-05/lessons/lesson-03-lesson-03-commercial-pacing-music-and-sound-cues.md) | Pacing and licensed sound |
+| Advanced | [04 — Multi-duration cutdowns and platform adaptation](CT-05/lessons/lesson-04-lesson-04-multi-duration-cutdowns-and-platform-adaptation.md) | 6/15/30-second versions |
+| Expert | [05 — Commercial claims, legal review and client governance](CT-05/lessons/lesson-05-lesson-05-commercial-claims-legal-review-and-client-governance.md) | Claim ledger and approvals |
+| Master | [06 — Campaign direction and creative systems](CT-05/lessons/lesson-06-lesson-06-master-campaign-direction-and-creative-systems.md) | Campaign system and stakeholders |
+| AI & Automation | [07 — AI-assisted commercial production and disclosure](CT-05/lessons/lesson-07-lesson-07-ai-assisted-commercial-production-and-disclosure.md) | Responsible AI, provenance and review |
+| Professional Practice | [08 — Professional ad delivery and client handoff](CT-05/lessons/lesson-08-lesson-08-professional-ad-delivery-and-client-handoff.md) | Rights, delivery and portfolio |
 
-## Curriculum modules
-1. Brief interpretation
-2. brand rules
-3. product benefits
-4. visual hierarchy
-5. pacing
-6. music and sound cues
-7. legal claims review
-8. 6/15/30-second versions
-9. client feedback.
-
-## Practical capstone
-Deliver a campaign master plus 6-, 15- and 30-second cutdowns.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Campaign master and cutdown production](CT-05/labs/lab-01-campaign-master-and-cutdown-production.md)
+- [Knowledge assessment and answer key](CT-05/assessment-quiz-and-answer-key.md)
+- [Commercial campaign capstone](CT-05/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current NLE with sequence duplication, graphics, audio and batch export. Record software/version and verify exact instructions against official documentation. Legal/advertising rules vary by jurisdiction and product category; this course is not legal advice.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit the practical lab and capstone, meet mandatory claim/rights/source integrity gates, and provide a validated handoff. Suggested capstone pass: 80/100. Independent review and learner execution evidence are required before course validation.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and campaign assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal academic, technical and jurisdiction-specific review and actual software execution remain outstanding; not marked reviewed, validated or complete.
 
-
-## PCMDK369™ academic and professional development requirements
-This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
-
-Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
