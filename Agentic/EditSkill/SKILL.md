@@ -120,3 +120,6 @@ State separately:
 
 ## Maintenance
 Keep specialist modules focused. Put cross-cutting policy here, shared knowledge in references, and discipline-specific procedures in the corresponding module. Avoid duplicating course lessons. When adding a tool-specific procedure, record application name, tested version, platform, prerequisites and last verification date.
+
+## Mandatory academic and professional standard
+All specialist agent modules and agent-authored learning outputs must comply with [the PCMDK369™ Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [specialist module requirements](references/course-standard.md). Use the shared lesson, lab and assessment templates where relevant. A module must report evidence and limitations honestly; it must not invent tool access or execution results.
