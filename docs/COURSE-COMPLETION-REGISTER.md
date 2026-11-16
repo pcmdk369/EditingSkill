@@ -47,7 +47,7 @@
 | CT-18 | 3D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-20 | Visual Effects & Compositing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-21 | Green Screen & Chroma Key | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-21 | Green Screen & Chroma Key | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-22 | 3D Modeling, Materials & Rendering | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-23 | Subtitles, Captions & Localization | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-24 | AI-Assisted Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -97,3 +97,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-19: Eight stage-mapped lessons, one kinetic typography/responsive motion lab, one 50-point assessment and one motion identity capstone brief are authored. Application execution, data/accessibility review and render validation remain.
 
 - CT-20: Eight stage-mapped lessons, one screen-keying/tracking lab, one 50-point assessment and one integrated VFX shot capstone brief are authored. Compositing execution, alpha/color pipeline review and frame-sequence validation remain.
+
+- CT-21: Eight stage-mapped lessons, one green-screen capture/keying lab, one 50-point assessment and one virtual-studio capstone brief are authored. Capture/compositing execution, alpha validation and learner review remain.
