@@ -38,7 +38,7 @@
 | CT-09 | Portrait & Beauty Retouching | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-10 | Product & E-commerce Image Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-11 | Photo Restoration & Manipulation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-12 | Color Correction & Color Grading | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-12 | Color Correction & Color Grading | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-13 | Audio Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-14 | Dialogue, Voice & Podcast Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-15 | Sound Design & Foley | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -79,3 +79,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-10: Eight stage-mapped lessons, one product catalog/SKU validation lab, one 50-point assessment and one product catalog capstone brief are authored. Marketplace-specific review, color/technical execution and learner validation remain.
 
 - CT-11: Eight stage-mapped lessons, one historical-photo restoration lab, one 50-point assessment and one restoration collection capstone brief are authored. Archival review, source/provenance validation and learner execution remain.
+
+- CT-12: Eight stage-mapped lessons, one shot-matching/color-pipeline lab, one 50-point assessment and one matched-scene capstone brief are authored. Color-management/monitoring review, software execution and learner validation remain.
