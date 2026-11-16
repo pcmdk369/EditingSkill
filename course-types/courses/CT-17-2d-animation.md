@@ -3,44 +3,36 @@
 **Course ID:** CT-17  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable 2d animation skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop 2D animation skills from frame-based fundamentals through pose-to-pose animation, character mechanics, effects/compositing, production cleanup, art direction, responsible AI assistance and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will plan animation, control timing/spacing, build readable motion, maintain model consistency, manage production layers and deliver complete source projects.
 
-## Curriculum modules
-1. Timing and spacing
-2. squash and stretch
-3. anticipation
-4. staging
-5. arcs
-6. keyframes
-7. tweening
-8. character cycles
-9. lip sync
-10. compositing and render settings.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Animation principles and setup](CT-17/lessons/lesson-01-animation-principles-timing-spacing-and-project-setup.md) | Timing, spacing and bouncing ball |
+| Beginner / Intermediate | [02 — Keyframes and pose-to-pose](CT-17/lessons/lesson-02-keyframes-onion-skin-and-pose-to-pose.md) | Keys, breakdowns and in-betweens |
+| Intermediate | [03 — Character mechanics and walk cycles](CT-17/lessons/lesson-03-character-mechanics-walk-cycles-and-expression.md) | Weight and expression |
+| Advanced | [04 — Effects, camera and compositing](CT-17/lessons/lesson-04-advanced-effects-animation-camera-and-compositing.md) | Secondary action and layers |
+| Expert | [05 — 2D pipeline, cleanup and color](CT-17/lessons/lesson-05-expert-2d-pipeline-cleanup-color-and-production.md) | Production pipeline |
+| Master | [06 — Visual direction and animation review](CT-17/lessons/lesson-06-master-visual-direction-storyboard-and-animation-review.md) | Storyboard, animatic and review |
+| AI & Automation | [07 — AI-assisted animation and consistency](CT-17/lessons/lesson-07-ai-assisted-2d-animation-and-frame-consistency.md) | Frame consistency and provenance |
+| Professional Practice | [08 — Delivery and archive](CT-17/lessons/lesson-08-professional-2d-animation-delivery-and-archive.md) | Image sequences and project handoff |
 
-## Practical capstone
-Create a 10–20 second 2D animation demonstrating core principles.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Bouncing ball and character walk cycle](CT-17/labs/lab-01-bouncing-ball-and-character-walk-cycle.md)
+- [Knowledge assessment and answer key](CT-17/assessment-quiz-and-answer-key.md)
+- [Original 2D animated short capstone](CT-17/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current 2D animation application with timeline, layers and image-sequence export. Record frame size, frame rate, color and alpha settings. Verify export procedures in the selected application's official documentation.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit lab and capstone, meet rights/model consistency gates and provide editable source plus validated export. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one animation lab, one knowledge assessment and one capstone brief are present. Software execution, animation review and image-sequence validation remain outstanding; not marked reviewed, validated or complete.
 
-
-## PCMDK369™ academic and professional development requirements
-This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
-
-Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
