@@ -29,9 +29,9 @@
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | In progress | In progress | Existing; expand | Added pack | Pending | Authored / review pending |
 | CT-02 | Film & Cinematic Editing | Existing | In progress | Existing | Existing | Expand | Pending | Authored / review pending |
-| CT-03 | Short-Form & Social Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-04 | Documentary & Interview Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
-| CT-05 | Commercial & Advertisement Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-03 | Short-Form & Social Video Editing | Existing | 3 authored | 1 authored | 1 authored | Pending | Pending | **Authored — initial batch; review pending** |
+| CT-04 | Documentary & Interview Editing | Existing | Audit required | Audit required | Audit required | Audit required | Pending | Outlined / not yet audited |
+| CT-05 | Commercial & Advertisement Editing | Existing | Audit required | Audit required | Audit required | Audit required | Pending | Outlined / not yet audited |
 | CT-06 | Music Video & Performance Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-07 | Photo & Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-08 | Digital Illustration & Graphic Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -63,3 +63,4 @@ Course titles above are reconciled against the canonical catalog at `course-type
 ## Current batch notes
 - CT-01: Chapters 10–15 supplement and capstone pack added; main textbook integration and technical review remain.
 - CT-02: Lessons 06–10 added to complete the planned lesson sequence through multicamera, fine cut, finishing, AI-assisted work and professional practice; textbook, workbook, software labs and technical review remain.
+- CT-03: Added three detailed lessons, one reproducible vertical-edit implementation lab, and a 40-point knowledge assessment with answer key. Resources were committed to the working branch and are pending independent academic, technical and editorial review. No learner execution or export validation is claimed.
