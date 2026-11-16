@@ -34,6 +34,7 @@ This repository contains the full course architecture for:
 
 - `SKILL.md` — universal AI-agent operating instructions
 - `curriculum/` — staged course syllabi and learning outcomes
+- `course-types/` — complete catalog of standalone editing courses and specialization bundles
 - `departments/` — specialist discipline curricula
 - `software/` — application-specific learning tracks
 - `workflows/` — production recipes and delivery pipelines
@@ -41,6 +42,10 @@ This repository contains the full course architecture for:
 - `templates/` — reusable production documents
 - `quality-control/` — technical and creative validation standards
 - `references/` — shared theory and technical references
+
+## Course types
+
+The course catalog covers video, film, short-form, documentary, commercial, photo, illustration, retouching, product imagery, color grading, audio, podcast, sound design, music, 2D/3D animation, motion graphics, VFX, compositing, green screen, 3D modeling, subtitles/localization, AI image/video/voice workflows, automation, live content, mobile editing, and professional finishing. Each course follows the eight-stage pathway and uses practical assessments.
 
 ## Teaching standard
 
