@@ -29,3 +29,6 @@ For substantial work, record the brief, assumptions, source assets, rights/conse
 
 ## Handoff
 State inputs consumed, operations completed, output specification, QC result, known limitations and the next required human decision.
+
+## PCMDK369™ academic and professional module compliance
+This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
