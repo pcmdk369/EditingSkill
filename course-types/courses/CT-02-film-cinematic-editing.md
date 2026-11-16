@@ -36,6 +36,12 @@ Choose a currently supported application appropriate to the task. Learn the unde
 ## Required lesson format
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
+## Primary learning resources
+- [CT-02 Film & Cinematic Editing — Academic Textbook](CT-02/CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md)
+- [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
+
+The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
+
 ## Course status
 **Textbook and student workbook authored — working manuscript.** The initial manuscript covers dramatic storytelling, scene geography, coverage, continuity, pacing, montage, multicamera synchronization, edit stages, collaboration, finishing, AI-assisted workflows and a narrative capstone. Dedicated lesson scripts, software-specific implementation labs, expanded quizzes/answer keys, practice assets and technical review remain in progress.
 
