@@ -34,7 +34,7 @@
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-06 | Music Video & Performance Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-07 | Photo & Image Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-08 | Digital Illustration & Graphic Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-08 | Digital Illustration & Graphic Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-09 | Portrait & Beauty Retouching | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-10 | Product & E-commerce Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-11 | Photo Restoration & Manipulation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -71,3 +71,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-06: Eight stage-mapped lessons, one multicamera performance lab, one 50-point assessment and one music-video capstone brief are authored. Rights/technical review, software execution and learner validation remain.
 
 - CT-07: Eight stage-mapped lessons, one layered-photo implementation lab, one 50-point assessment and one five-image capstone brief are authored. Color-management/software execution, independent review and learner validation remain.
+
+- CT-08: Eight stage-mapped lessons, one vector identity/preflight lab, one 50-point assessment and one visual-identity capstone brief are authored. Independent design/accessibility/licensing review and actual software validation remain.
