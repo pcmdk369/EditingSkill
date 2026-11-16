@@ -36,5 +36,21 @@ Choose a currently supported application appropriate to the task. Learn the unde
 ## Required lesson format
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
+## Detailed lesson library
+
+1. [Lesson 01 — Editing Workflow and Project Setup](CT-01/lesson-01-workflow-project-setup.md)
+2. [Lesson 02 — Media Ingest, Inspection and Organization](CT-01/lesson-02-media-ingest-inspection.md)
+3. [Lesson 03 — Timeline Navigation and First Assembly](CT-01/lesson-03-timeline-first-assembly.md)
+4. [Lesson 04 — Trimming, Ripple Editing and Continuity](CT-01/lesson-04-trimming-continuity.md)
+5. [Foundation and Beginner Knowledge Assessment + Answer Key](CT-01/assessment-quiz-and-answer-key.md)
+
+## Development status
+
+- [x] Initial detailed foundation/beginner lessons authored.
+- [x] Knowledge assessment and answer key authored.
+- [x] Practical assignment and rubric included.
+- [ ] Remaining intermediate, advanced, expert, master, AI/automation and professional-practice lesson sequences.
+- [ ] Full capstone brief, asset pack and final course completion review.
+
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+Foundation/beginner lesson library started; see the linked lesson sequence and development checklist above. Course is not yet complete.
