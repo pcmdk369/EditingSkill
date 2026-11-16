@@ -55,14 +55,15 @@ The textbook and workbook are the primary learner resources. External references
 2. [Lesson 02 — Scene Geography, Axis of Action and Eyelines](CT-02/lessons/lesson-02-scene-geography-and-axis.md)
 3. [Lesson 03 — Shot Coverage, Performance and Editorial Choice](CT-02/lessons/lesson-03-coverage-and-performance.md)
 4. [Lesson 04 — Continuity Editing and Match on Action](CT-02/lessons/lesson-04-continuity-and-match-on-action.md)
+5. [Lesson 05 — Cinematic Pacing, Rhythm and Montage](CT-02/lessons/lesson-05-pacing-rhythm-and-montage.md)
 
-These four lessons use the mandatory academic lesson structure and include measurable outcomes, definitions, theory, procedures, worked examples, dry runs, guided and independent practice, troubleshooting, answer guidance, rubrics and quality checks. They are tool-independent; software-specific walkthroughs remain a separate development stage.
+These five lessons use the mandatory academic lesson structure and include measurable outcomes, definitions, theory, procedures, worked examples, dry runs, guided and independent practice, troubleshooting, answer guidance, rubrics and quality checks. They are tool-independent; software-specific walkthroughs remain a separate development stage. Lesson 05 adds timing analysis, ASL limitations, version comparison, montage construction and sound/rhythm review.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
 
 ## Course status
-**Textbook and student workbook authored — working manuscript.** The initial manuscript covers dramatic storytelling, scene geography, coverage, continuity, pacing, montage, multicamera synchronization, edit stages, collaboration, finishing, AI-assisted workflows and a narrative capstone. Dedicated lesson scripts, software-specific implementation labs, expanded quizzes/answer keys, practice assets and technical review remain in progress.
+**Textbook and student workbook authored — working manuscript; five detailed academic lessons authored.** Lesson 05 covers cinematic pacing, internal/external rhythm, shot-duration analysis, version comparison and montage. Next academic lesson: multicamera editing and synchronization, followed by assembly/rough cut/fine cut/picture lock, finishing and delivery, then AI-assisted editing, automation and professional practice. Software-specific implementation, expanded practice assets, assessment expansion and technical review remain in progress; the course is not complete.
 
 
 ## PCMDK369™ academic and professional development requirements
