@@ -67,6 +67,15 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 ### Professional Practice
 15. [Lesson 14 — Professional Delivery, Quality Control and Archive](CT-01/lesson-14-professional-delivery-qc-and-archive.md)
 
+## Software implementation labs
+
+These practical tracks map CT-01's transferable editing principles to real tools. Menu names and feature availability can vary by release, edition, operating system, hardware and region; each lab records its documentation baseline and requires learners to verify their installed version.
+
+1. [Lab 01 — DaVinci Resolve 20: Project, Edit, Color and Deliver](CT-01/software-labs/lab-01-davinci-resolve-20-workflow.md)
+2. [Lab 02 — Adobe Premiere Pro: Sequence, Edit, Audio and Export](CT-01/software-labs/lab-02-premiere-pro-workflow.md)
+3. [Lab 03 — CapCut Mobile: Smartphone Editing and Export](CT-01/software-labs/lab-03-capcut-mobile-workflow.md)
+4. [Lab 04 — FFmpeg: Command-Line Editing and Validation](CT-01/software-labs/lab-04-ffmpeg-command-line-editing.md)
+
 ## Development status
 
 - [x] Foundation/beginner lessons and knowledge assessment authored.
@@ -76,7 +85,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [x] Master capstone framework authored.
 - [x] AI & automation lesson authored.
 - [x] Professional-practice delivery/QC lesson authored.
-- [ ] Software-specific implementation labs and verified version notes.
+- [x] Initial software implementation labs authored for Resolve, Premiere Pro, CapCut Mobile and FFmpeg; version/edition limitations documented.
 - [ ] Full 60–90 second capstone asset pack, learner submission and assessor feedback templates.
 - [ ] Final course-wide technical and editorial review.
 
