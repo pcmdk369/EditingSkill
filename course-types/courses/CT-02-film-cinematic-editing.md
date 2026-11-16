@@ -37,7 +37,7 @@ Choose a currently supported application appropriate to the task. Learn the unde
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Textbook and student workbook authored — working manuscript.** The initial manuscript covers dramatic storytelling, scene geography, coverage, continuity, pacing, montage, multicamera synchronization, edit stages, collaboration, finishing, AI-assisted workflows and a narrative capstone. Dedicated lesson scripts, software-specific implementation labs, expanded quizzes/answer keys, practice assets and technical review remain in progress.
 
 
 ## PCMDK369™ academic and professional development requirements
