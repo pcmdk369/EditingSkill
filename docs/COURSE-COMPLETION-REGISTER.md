@@ -43,7 +43,7 @@
 | CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-15 | Sound Design & Foley | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-17 | 2D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-17 | 2D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-18 | 3D Animation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-19 | Motion Graphics & Kinetic Typography | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-20 | Visual Effects & Compositing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -89,3 +89,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-15: Eight stage-mapped lessons, one Foley/ambience implementation lab, one 50-point assessment and one short-scene sound-design capstone brief are authored. Sound-library rights review, DAW execution and stem validation remain.
 
 - CT-16: Eight stage-mapped lessons, one arrangement/mix/master lab, one 50-point assessment and one original music cue capstone brief are authored. DAW execution, sample/voice rights review and stem validation remain.
+
+- CT-17: Eight stage-mapped lessons, one bouncing-ball/walk-cycle lab, one 50-point assessment and one original 2D short capstone brief are authored. Application execution, animation review and export validation remain.
