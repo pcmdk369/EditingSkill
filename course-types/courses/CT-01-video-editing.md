@@ -103,7 +103,7 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 
 ## Complete textbook and student notes
 The course now includes substantive learner-facing book material, not only online references:
-- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–5 are expanded in this manuscript; Chapters 6–15 remain scheduled for full expansion.
+- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–9 are expanded in this manuscript; Chapters 10–15 remain scheduled for full expansion.
 - [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.
 
 These materials are the primary learner study resources. External links are supplementary references only and must never substitute for authored course content.
