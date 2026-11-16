@@ -31,7 +31,7 @@
 | CT-02 | Film & Cinematic Editing | Existing | In progress | Existing | Existing | Expand | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-05 | Commercial & Advertisement Editing | Existing | Audit required | Audit required | Audit required | Audit required | Pending | Outlined / not yet audited |
+| CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-06 | Music Video & Performance Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-07 | Photo & Image Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-08 | Digital Illustration & Graphic Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
@@ -65,4 +65,5 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-02: Lessons 01–10, textbook/workbook, labs and assessment resources are present; software-specific execution and review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, one professional interview/fact-check lab, one 50-point knowledge assessment and one three-minute documentary capstone brief are authored. Formal review, software execution and learner validation remain.
+- CT-05: Eight stage-mapped lessons, one campaign/cutdown implementation lab, one 50-point knowledge assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
 - Agent Skills: Video Editing, Subtitles and Quality Control expanded; other modules require operational-depth audit.
