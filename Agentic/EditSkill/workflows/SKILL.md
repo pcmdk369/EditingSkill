@@ -8,6 +8,12 @@ description: Specialist agent instructions for production workflows within the u
 ## Scope
 Coordinate end-to-end creative production, cross-discipline handoffs, versioning, review, approvals, delivery and archive.
 
+## Activation and intake
+
+Activate this module when a project crosses disciplines, departments, contributors or approval stages, or needs coordinated versioning, review, delivery and archive. Use specialist modules for the actual creative operations; this module governs the handoffs and production controls between them.
+
+Collect the brief, stakeholders, role/owner list, decision authority, milestones, dependencies, asset manifest, naming/version convention, review rounds, approval gates, delivery matrix, security/access requirements and retention policy. Identify which source is authoritative for creative direction and technical specifications. Record rights/consent ownership and the person responsible for each unresolved issue. Do not treat silence, transfer completion or a draft review comment as final approval.
+
 ## Core principles
 Use a brief, asset manifest, naming convention, checkpoints and explicit approval gates; maintain one source of truth for specs and revisions.
 
