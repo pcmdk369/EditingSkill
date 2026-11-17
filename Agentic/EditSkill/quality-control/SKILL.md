@@ -117,5 +117,5 @@ Never claim a check was run without evidence.
 ## 11. Learning references
 
 - [CT-03 Short-Form & Social Video](../../../course-types/courses/CT-03-short-form-social-video.md)
-- [Professional Academic Standard](../../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
+- [Professional Academic Standard](../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
 - [Shared course standard](../references/course-standard.md)
