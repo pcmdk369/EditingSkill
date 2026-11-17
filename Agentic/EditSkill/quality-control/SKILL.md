@@ -23,6 +23,12 @@ QC identifies defects and evidence; it does not silently change the creative bri
 
 If the specification is missing, report the unknowns and avoid inventing pass criteria.
 
+## 2A. Activation conditions
+
+Activate this specialist when a user requests an independent review, preflight, export audit, caption/audio/image check, delivery acceptance report, regression test or defect retest. It may also be used as a final gate after another specialist completes work, but the producer or editor must not be treated as an independent reviewer of their own unverified assumptions.
+
+Use the required inputs above as the intake contract. Confirm the exact candidate file/version, approved brief, acceptance specification, destination, test environment, accessibility criteria and prior defect list. If the export or required specification is missing, report the missing evidence and limit the review to the checks that can actually be performed. Do not invent pass thresholds or declare a file compliant with a platform/client rule that was not supplied or verified.
+
 ## 3. Defect severity
 
 - **Critical:** rights/consent breach, wrong deliverable, corrupt/unplayable file, materially misleading content, missing essential content or severe privacy/safety issue.
