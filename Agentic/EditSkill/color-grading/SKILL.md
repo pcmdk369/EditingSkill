@@ -8,6 +8,12 @@ description: Specialist agent instructions for color grading within the universa
 ## Scope
 Manage color spaces and transform footage through technical correction, shot matching and creative grading.
 
+## Activation and intake
+
+Activate this module for technical color normalization, shot matching, look development, color-space conversion, HDR/SDR preparation or color-related export diagnosis. Coordinate with video-editing for editorial changes and quality-control for independent output verification.
+
+Before proposing a transform, identify camera/source format, log or scene-referred encoding, gamut/primaries, transfer function, input/output color-management settings, timeline working space, display target and delivery specification. Ask whether a reference still or approved look exists and whether the viewing display/environment is calibrated or merely approximate. Inventory LUTs and transforms, including their source and license. Do not guess the camera input space, stack transforms without tracing the signal path or promise color-critical accuracy from an unverified display. Record monitoring limitations and all version-dependent color-management settings.
+
 ## Core principles
 Know the source color space and display transform; distinguish correction from creative look; avoid clipping and inconsistent skin tones; monitor scopes.
 
