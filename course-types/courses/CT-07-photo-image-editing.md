@@ -22,6 +22,7 @@ Learners will preserve originals, edit with layers/masks, correct tone/color, pr
 
 ## Practical resources
 - [Lab 01 — Layered photo correction and delivery](CT-07/labs/lab-01-layered-photo-correction-and-delivery.md)
+- [Lab 02 — Color-managed batch and image-integrity audit](CT-07/labs/lab-02-color-managed-batch-and-image-integrity.md)
 - [Knowledge assessment and answer key](CT-07/assessment-quiz-and-answer-key.md)
 - [Five-image professional capstone](CT-07/capstone/README.md)
 
@@ -32,7 +33,7 @@ Use a current raster editor and RAW processor as appropriate. Record app/version
 Pass the 50-point assessment, submit the lab and capstone, preserve originals, meet rights/factual integrity gates and provide a documented delivery package. Suggested capstone pass: 80/100. Independent review and learner execution evidence are required for validation.
 
 ## Course status
-**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Independent academic, technical and editorial review and actual software execution remain outstanding; not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Independent academic, technical and editorial review and actual software execution remain outstanding; not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
