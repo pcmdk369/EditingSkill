@@ -62,11 +62,11 @@
 | CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-25 | AI-Assisted Video Editing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-27 | Batch Editing & Media Automation | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-28 | Editing for Live & Streaming Content | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-29 | Mobile Editing & Creator Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-30 | Professional Post-Production & Finishing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-27 | Batch Editing & Media Automation | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-28 | Editing for Live & Streaming Content | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-29 | Mobile Editing & Creator Workflows | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-30 | Professional Post-Production & Finishing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
@@ -117,8 +117,8 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-24: Eight stage-mapped lessons, two professional labs (AI inpainting/upscaling; batch evaluation and risk gates), one 50-point assessment and one responsible AI image capstone brief are authored. Provider-term review, actual tool execution and learner validation remain.
 
 - CT-25: Eight stage-mapped lessons, two AI video labs (short edit/human QC; highlight evaluation/continuity), one assessment and one human-reviewed AI video capstone brief are authored. Provider, privacy, rights and technical validation remain.
-- CT-26: Eight stage-mapped lessons, one consent-first localized dubbing lab, one 50-point assessment and one localized voice capstone brief are authored. External-provider, legal/rights, technical and learner validation remain.
-- CT-27: Eight stage-mapped lessons, one safe batch-transcode lab, one 50-point assessment and one reproducible automation capstone brief are authored. Command/version testing, security review and independent validation remain.
-- CT-28: Eight stage-mapped lessons, one live recording/highlight lab, one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
-- CT-29: Eight stage-mapped lessons, one smartphone-first production lab, one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
-- CT-30: Eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
+- CT-26: Eight stage-mapped lessons, two professional labs (consent-first localized dubbing; pronunciation/voice continuity QC), one 50-point assessment and one localized voice capstone brief are authored. External-provider, legal/rights, technical and learner validation remain.
+- CT-27: Eight stage-mapped lessons, two professional labs (safe batch transcode; watch-folder queue/retry/idempotency), one 50-point assessment and one reproducible automation capstone brief are authored. Command/version testing, security review and independent validation remain.
+- CT-28: Eight stage-mapped lessons, two professional labs (live highlight package; multicamera sync/marker/privacy audit), one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
+- CT-29: Eight stage-mapped lessons, two professional labs (smartphone-first production; mobile export/backup/recovery), one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
+- CT-30: Eight stage-mapped lessons, two professional labs (conform/master QC; archive integrity/checksum/restore), one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
