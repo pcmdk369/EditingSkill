@@ -229,16 +229,16 @@ Templates define the expected structure; they must not replace discipline-specif
 
 ## 08 / Current development snapshot
 
-This repository is being expanded progressively. The presence of a course outline does not mean that every lesson, practice asset, software lab, assessment, or capstone is finished.
+This repository contains a substantial authored curriculum and reusable practice resources. Authorship is not equivalent to independent review, tested software execution, media-render validation, or learner completion.
 
 | Area | Current documented state |
 |---|---|
-| Course architecture | 30 course-type outlines are present in the development branch. |
-| Agentic framework | Universal router and 16 specialist modules are present. |
+| Course architecture | 30 course-type outlines and the authored course resource sets are present in the development branch; review evidence remains pending. |
+| Agentic framework | Universal router and 16 specialist modules are present; execution/integration evidence remains pending. |
 | Professional standard | Repository-wide authoring standard and shared templates are present. |
-| CT-01 — Video Editing | Textbook, workbook, lessons, assessment, and initial software labs are under development and review. |
-| CT-02 — Film & Cinematic Editing | Textbook, workbook, four detailed academic lessons, four practical labs, and assessment resources are present; further lessons and review remain. |
-| Remaining courses | Outlines exist; detailed learning material is developed progressively. |
+| CT-01 — Video Editing | 15-chapter textbook, workbook, 14 lessons, assessment, capstone pack and four software labs are authored; software-version execution and independent review remain. |
+| CT-02 — Film & Cinematic Editing | 10 lessons, workbook, four practical labs, assessment and capstone brief are authored; software execution and independent review remain. |
+| CT-03–CT-30 | Stage-mapped lessons, two discipline-specific labs per course, assessments and capstone briefs are authored; independent review and learner validation remain. |\n| Practice assets | Fictional ingest manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist are available in [practice-assets](practice-assets/README.md). |
 
 Development work is tracked in [Pull Request #1](https://github.com/pcmdk369/EditingSkill/pull/1). Course completion must be based on verified content and assessment evidence, not on the number of outline files.
 
