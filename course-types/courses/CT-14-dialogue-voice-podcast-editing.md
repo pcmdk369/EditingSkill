@@ -22,6 +22,7 @@ Learners will preserve speaker meaning, edit natural dialogue, improve intelligi
 
 ## Practical resources
 - [Lab 01 — Two-person podcast edit and delivery](CT-14/labs/lab-01-two-person-podcast-edit-and-delivery.md)
+- [Lab 02 — Remote guest sync, transcript and consent](CT-14/labs/lab-02-remote-guest-sync-transcript-and-consent.md)
 - [Knowledge assessment and answer key](CT-14/assessment-quiz-and-answer-key.md)
 - [Interview podcast capstone](CT-14/capstone/README.md)
 
