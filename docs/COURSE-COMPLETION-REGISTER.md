@@ -70,7 +70,7 @@
 
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
-## Current batch notes
+## Shared practice resources\n- A fictional cross-course practice pack is authored in `practice-assets/`: asset manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist. These are text-based training records only; no video/audio media files or generated checksums are supplied.\n\n## Current batch notes
 - CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 have been integrated into the main textbook (separate supplement retained as reference). Software-version execution and independent review remain.
 - CT-02: Ten detailed academic lessons, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Software-specific execution, expanded practice assets and independent review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
