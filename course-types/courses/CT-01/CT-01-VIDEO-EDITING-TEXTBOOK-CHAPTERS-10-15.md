@@ -3,7 +3,7 @@
 
 **Edition:** 1.0 — 2026-11-16  
 **Companion:** [Main CT-01 Academic Textbook](CT-01-VIDEO-EDITING-TEXTBOOK.md)  
-**Purpose:** Complete the next six learner-facing chapter drafts. These chapters supplement—not replace—the course lessons and software labs.
+**Purpose:** Complete the next six learner-facing chapter drafts. These chapters have now been integrated into the main CT-01 Academic Textbook. This file is retained as a standalone supplement/reference copy; the main textbook is the canonical continuous learner manuscript.
 
 ---
 
