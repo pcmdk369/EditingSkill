@@ -15,7 +15,7 @@ Every course follows the same progression:
 7. AI & Automation — responsible AI assistance and repeatable workflows
 8. Professional Practice — delivery, quality control, portfolio and studio readiness
 
-Each course should include lessons, demonstrations, practice assets, assignments, project files where licensing permits, quizzes, answer keys, assessment rubrics, troubleshooting, and a final portfolio project.
+Each course should include lessons, demonstrations, practice assets, assignments, project files where licensing permits, quizzes, answer keys, assessment rubrics, troubleshooting, and a final portfolio project. A shared fictional starter dataset is available in the [practice asset pack](../practice-assets/README.md); course-specific media and project files must still be authored and rights-cleared.
 
 ## Core editing course types
 
