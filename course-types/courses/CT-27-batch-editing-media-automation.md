@@ -23,6 +23,7 @@ By completion, learners should be able to plan the work, select appropriate tool
 
 ## Practical resources
 - [Lab 01 — Safe batch transcode and validation](CT-27/labs/lab-01-safe-batch-transcode-and-validation.md)
+- [Lab 02 — Watch folder, queue, retry and idempotency](CT-27/labs/lab-02-watch-folder-queue-retry-and-idempotency.md)
 - [Knowledge assessment and answer key](CT-27/assessment-quiz-and-answer-key.md)
 - [Reproducible batch pipeline capstone](CT-27/capstone/README.md)
 
