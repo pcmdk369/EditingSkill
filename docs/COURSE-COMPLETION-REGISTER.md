@@ -61,22 +61,26 @@
 | CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-25 | AI-Assisted Video Editing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-27 | Batch Editing & Media Automation | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-28 | Editing for Live & Streaming Content | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-29 | Mobile Editing & Creator Workflows | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-30 | Professional Post-Production & Finishing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-25 | AI-Assisted Video Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-26 | AI Voice, Dubbing & Speech Workflows | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-27 | Batch Editing & Media Automation | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-28 | Editing for Live & Streaming Content | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-29 | Mobile Editing & Creator Workflows | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-30 | Professional Post-Production & Finishing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
-## Shared practice resources\n- A fictional cross-course practice pack is authored in `practice-assets/`: asset manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist. These are text-based training records only; no video/audio media files or generated checksums are supplied.\n\n## Current batch notes
+## Shared practice resources
+
+- A fictional cross-course practice pack is authored in `practice-assets/`: asset manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist. These are text-based training records only; no video/audio media files or generated checksums are supplied.
+
+## Current batch notes
 - CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 have been integrated into the main textbook (separate supplement retained as reference). Software-version execution and independent review remain.
-- CT-02: Ten detailed academic lessons, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Software-specific execution, expanded practice assets and independent review remain.
+- CT-02: Ten lesson files, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Lessons 05–08 have expanded academic treatment; Lessons 09–10 remain shorter working drafts requiring expansion. Software-specific execution, expanded practice assets and independent review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, two professional labs (interview paper edit/fact-check; claim ledger/chronology/editorial audit), one 50-point assessment and one three-minute documentary capstone brief are authored. Generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
 - CT-05: Eight stage-mapped lessons, two professional labs (campaign cutdowns; claim ledger/rights/approval gates), one 50-point assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
-- Agent Skills: All 16 specialist modules now include expanded discipline-specific operational procedures, safety/approval boundaries, QC gates, troubleshooting and handoff requirements.
+- Agent Skills: All 16 specialist modules are present and routed by the universal entry point. A static structural audit is recorded in `docs/AGENTIC-EDITSKILL-STRUCTURAL-AUDIT.md`; eight modules received explicit activation/intake contracts in this batch. Static inspection is not agent-runtime or software-execution validation.
 
 - CT-06: Eight stage-mapped lessons, two professional labs (multicamera sync; sync-drift and music-rights audit), one 50-point assessment and one music-video capstone brief are authored. Rights/technical review, software execution and learner validation remain.
 
@@ -122,3 +126,9 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-28: Eight stage-mapped lessons, two professional labs (live highlight package; multicamera sync/marker/privacy audit), one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
 - CT-29: Eight stage-mapped lessons, two professional labs (smartphone-first production; mobile export/backup/recovery), one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
 - CT-30: Eight stage-mapped lessons, two professional labs (conform/master QC; archive integrity/checksum/restore), one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
+
+
+## 2026-11-17 batch update
+- CT-02 Lesson 08 expanded to revision 2.0; Lessons 09–10 remain the next lesson-quality targets.
+- Register formatting corrected: CT-25–CT-30 now include the missing Outline column, and the shared practice-resource section uses normal Markdown line breaks.
+- Agentic/EditSkill: eight specialist modules received explicit activation and intake sections; all 16 modules were included in the static structural audit. Independent review and runtime validation remain pending.
