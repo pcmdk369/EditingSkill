@@ -32,3 +32,37 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## Detailed audio production workflow
+
+### Intake and technical inspection
+Confirm intended use, delivery standard, sample rate, bit depth, channel layout, loudness target and whether stems/session files are required. Inspect source duration, channels, clipping, noise, phase, sample rate and sync before editing.
+
+### Editing and processing order
+1. Preserve and duplicate originals.
+2. Organize tracks and identify approved takes.
+3. Edit timing with room tone and clean crossfades.
+4. Correct polarity/phase and remove only unwanted noise.
+5. Apply corrective EQ and dynamics conservatively.
+6. Balance dialogue, music and effects; automate levels.
+7. Check mono compatibility and channel routing.
+8. Measure integrated loudness, sample peak and true peak using the specified meter/standard.
+9. Export a proof, listen completely and inspect metadata.
+10. Export final mix and stems with common start/end boundaries.
+
+### Stem integrity
+Document whether stems are pre/post bus processing, include sends/automation, and how master-bus nonlinear processing affects recombination. Re-import stems into a clean session and compare against the approved mix.
+
+### QC gates
+Check clicks, pops, clipping, distortion, room tone, edits, phase, mono fold-down, sync, loudness, true peak, channel order, silence, duration and encoding. Listen on headphones and a second playback system where available.
+
+### Troubleshooting
+- Clicks: inspect edit boundaries and add appropriate crossfade.
+- Hollow voice: check phase and mic alignment.
+- Pumping: reduce excessive compression or limiter input.
+- Harsh sibilance: use targeted de-essing, not blanket dulling.
+- Loudness mismatch: verify meter standard and measurement range.
+- Stem sum mismatch: inspect routing and master processing.
+
+Never invent a universal loudness target; follow the approved destination specification.
