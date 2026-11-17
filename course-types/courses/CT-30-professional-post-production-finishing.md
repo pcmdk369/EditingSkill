@@ -9,18 +9,22 @@ Develop practical, transferable professional post-production & finishing skills 
 ## Learning outcomes
 By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
 
-## Curriculum modules
-1. Offline/online workflows
-2. conform
-3. media relinking
-4. version control
-5. color and audio handoff
-6. mastering specs
-7. QC
-8. captions
-9. packaging
-10. checksums
-11. archive and restore tests.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Pipeline and delivery brief](CT-30/lessons/lesson-01-post-production-pipeline-and-delivery-brief.md) | Scope and acceptance |
+| Beginner / Intermediate | [02 — Conform and relinking](CT-30/lessons/lesson-02-offline-online-conform-and-media-relinking.md) | Source integrity |
+| Intermediate | [03 — Version control and approvals](CT-30/lessons/lesson-03-version-control-change-management-and-approvals.md) | Traceable revisions |
+| Advanced | [04 — Specialist handoff](CT-30/lessons/lesson-04-advanced-color-audio-caption-and-graphics-handoff.md) | Cross-discipline conform |
+| Expert | [05 — Mastering and technical QC](CT-30/lessons/lesson-05-expert-mastering-specifications-and-technical-qc.md) | Export verification |
+| Master | [06 — Delivery and archive governance](CT-30/lessons/lesson-06-master-delivery-supervision-risk-and-archive-governance.md) | Risk and restore |
+| AI & Automation | [07 — AI finishing QC](CT-30/lessons/lesson-07-ai-assisted-finishing-qc-and-provenance.md) | Human validation |
+| Professional Practice | [08 — Master package and restore](CT-30/lessons/lesson-08-professional-master-package-delivery-and-restore-test.md) | Professional handoff |
+
+## Practical resources
+- [Lab 01 — Conform, master QC and archive restore](CT-30/labs/lab-01-conform-master-qc-and-archive-restore.md)
+- [Knowledge assessment and answer key](CT-30/assessment-quiz-and-answer-key.md)
+- [Professional master delivery capstone](CT-30/capstone/README.md)
 
 ## Practical capstone
 Deliver a complete master package with QC report, version log and archive manifest.
@@ -38,7 +42,7 @@ Choose a currently supported application appropriate to the task. Learn the unde
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief.** Application interoperability, archive restore execution and independent review remain outstanding; not marked validated or complete.
 
 
 ## PCMDK369™ academic and professional development requirements
