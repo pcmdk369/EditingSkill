@@ -80,7 +80,7 @@ Pass: 16/20. Misattributed quotes, fabricated evidence or unauthorized use of re
 ## Further study and references
 - Oral History Association, Principles and Best Practices: https://oralhistory.org/principles-and-best-practices-revised-2018/
 - Documentary Accountability Working Group, Documentary Accountability Working Group resources: https://www.documentaryaccountability.org/
-- Related course: [CT-04 Documentary & Interview Editing](../CT-04-documentary-interview-editing.md)
+- Related course: [CT-04 Documentary & Interview Editing](../../CT-04-documentary-interview-editing.md)
 
 ## Version and change notes
 Tool-neutral lesson. Confirm current legal, release, privacy and platform obligations for the production's jurisdiction. This authored lesson has not been independently reviewed or validated by learner execution.
