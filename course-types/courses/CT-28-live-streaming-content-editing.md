@@ -23,6 +23,7 @@ By completion, learners should be able to plan the work, select appropriate tool
 
 ## Practical resources
 - [Lab 01 — Live recording highlight package and archive](CT-28/labs/lab-01-live-recording-highlight-package-and-archive.md)
+- [Lab 02 — Multicamera sync, marker and privacy audit](CT-28/labs/lab-02-multicamera-sync-marker-and-privacy-audit.md)
 - [Knowledge assessment and answer key](CT-28/assessment-quiz-and-answer-key.md)
 - [Live session highlight and archive capstone](CT-28/capstone/README.md)
 
