@@ -89,7 +89,7 @@ These practical tracks map CT-01's transferable editing principles to real tools
 - [x] Capstone brief, source-pack requirements, learner submission manifest, assessor rubric and feedback template authored.
 - [ ] Final course-wide technical and editorial review.
 
-**Status: Authored — 14 detailed lessons, four software implementation labs, one knowledge assessment, a capstone assessment pack, textbook manuscript and student workbook.** Chapters 10–15 remain a supplement requiring integration into the main textbook. Independent academic/editorial review, software-version execution and final validation remain outstanding; CT-01 is not marked complete.
+**Status: Authored — 14 detailed lessons, four software implementation labs, one knowledge assessment, a capstone assessment pack, textbook manuscript and student workbook.** Chapters 10–15 are integrated into the main textbook; the separate supplement remains as a reference copy. Independent academic/editorial review, software-version execution and final validation remain outstanding; CT-01 is not marked complete.
 
 ## Course status
 Fourteen stage-mapped lessons and four software labs are present. The textbook, student workbook and capstone pack are authored; textbook supplement integration, software execution evidence and independent review remain.
@@ -103,8 +103,8 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 
 ## Complete textbook and student notes
 The course now includes substantive learner-facing book material, not only online references:
-- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–9 are expanded in the main manuscript; Chapters 10–15 are drafted in the linked textbook supplement and require integration/editorial review.
-- [CT-01 Textbook Supplement — Chapters 10–15](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK-CHAPTERS-10-15.md) — advanced multicamera, professional workflow, master capstone, AI/automation, delivery/QC and portfolio practice chapters.
+- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–15 are now integrated into the main continuous manuscript; independent editorial review remains.
+- [CT-01 Textbook Supplement — Chapters 10–15](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK-CHAPTERS-10-15.md) — advanced multicamera, professional workflow, master capstone, AI/automation, delivery/QC and portfolio practice chapters; now integrated into the main textbook and retained as a supplement/reference copy.
 - [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.
 - [CT-01 Capstone Asset and Assessment Pack](CT-01/capstone/README.md) — source-pack requirements, deliverables, folder model, submission manifest, assessor rubric and feedback record.
 
