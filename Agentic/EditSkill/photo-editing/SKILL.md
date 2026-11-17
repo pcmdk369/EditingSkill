@@ -32,3 +32,24 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## Photography, retouching and restoration workflow
+
+### Source and consent
+Record source, camera/scan metadata, ownership, subject/model/property releases, intended use and portfolio permission. Preserve the original capture/scan.
+
+### Procedure
+1. Classify task as correction, retouching, restoration or creative manipulation.
+2. Record dimensions, bit depth, profile and source condition.
+3. Correct exposure/white balance non-destructively.
+4. Retouch using layers/masks and preserve texture/detail.
+5. Compare before/after at matched crop and scale.
+6. For restoration, distinguish preservation master, corrected access copy and interpretive reconstruction.
+7. Document AI-generated or reconstructed detail and supporting evidence.
+8. Export screen/print versions to explicit specifications.
+9. Reopen outputs and inspect color, edges, sharpening and compression.
+10. Package original, working file, provenance, consent and delivery manifest.
+
+### QC
+Avoid plastic skin, halos, false texture, altered product attributes and unlabeled synthetic historical detail. Never assume image possession equals permission to edit or publish.
