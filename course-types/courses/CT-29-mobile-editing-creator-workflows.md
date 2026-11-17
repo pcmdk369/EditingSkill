@@ -23,6 +23,7 @@ By completion, learners should be able to plan the work, select appropriate tool
 
 ## Practical resources
 - [Lab 01 — Smartphone-first video production and delivery](CT-29/labs/lab-01-smartphone-first-video-production-and-delivery.md)
+- [Lab 02 — Mobile export, backup and device recovery](CT-29/labs/lab-02-mobile-export-backup-and-device-recovery.md)
 - [Knowledge assessment and answer key](CT-29/assessment-quiz-and-answer-key.md)
 - [Smartphone-first creator campaign capstone](CT-29/capstone/README.md)
 
