@@ -55,15 +55,21 @@ The textbook and workbook are the primary learner resources. External references
 2. [Lesson 02 — Scene Geography, Axis of Action and Eyelines](CT-02/lessons/lesson-02-scene-geography-and-axis.md)
 3. [Lesson 03 — Shot Coverage, Performance and Editorial Choice](CT-02/lessons/lesson-03-coverage-and-performance.md)
 4. [Lesson 04 — Continuity Editing and Match on Action](CT-02/lessons/lesson-04-continuity-and-match-on-action.md)
-5. [Lesson 05 — Cinematic Pacing, Rhythm and Montage](CT-02/lessons/lesson-05-pacing-rhythm-and-montage.md)\n6. [Lesson 06 — Multicamera Editing and Synchronization](CT-02/lessons/lesson-06-multicamera-editing-and-synchronization.md)\n7. [Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock](CT-02/lessons/lesson-07-assembly-rough-cut-fine-cut-picture-lock.md)\n8. [Lesson 08 — Finishing, Delivery and Quality Control](CT-02/lessons/lesson-08-finishing-delivery-and-quality-control.md)\n9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)\n10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
+5. [Lesson 05 — Cinematic Pacing, Rhythm and Montage](CT-02/lessons/lesson-05-pacing-rhythm-and-montage.md)
+6. [Lesson 06 — Multicamera Editing and Synchronization](CT-02/lessons/lesson-06-multicamera-editing-and-synchronization.md)
+7. [Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock](CT-02/lessons/lesson-07-assembly-rough-cut-fine-cut-picture-lock.md)
+8. [Lesson 08 — Finishing, Delivery and Quality Control](CT-02/lessons/lesson-08-finishing-delivery-and-quality-control.md)
+9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)
+10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
 
 Lessons 01–10 are authored using the mandatory academic structure. The new Lessons 06–10 extend the sequence through synchronization, picture lock, finishing/QC, AI-assisted editorial workflows and professional review/archive practice. They are tool-independent; software-specific walkthroughs, expanded practice assets and independent technical review remain separate development work.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
+- [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Textbook and student workbook authored — working manuscripts; ten detailed academic lessons authored.** Lessons 06–10 cover multicamera synchronization, assembly-to-picture-lock workflow, finishing and QC, AI-assisted editing, and professional practice/client review/archive. Software-specific implementation, expanded practice assets, assessment expansion and final technical review remain in progress; the course is not complete.
+**Authored — textbook, student workbook, ten detailed academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Software-specific implementation, expanded practice assets, assessment review and independent technical/editorial validation remain outstanding; CT-02 is not marked complete.
 
 
 ## PCMDK369™ academic and professional development requirements
