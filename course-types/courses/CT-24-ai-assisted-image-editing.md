@@ -22,6 +22,7 @@ Learners will choose appropriate tasks, preserve originals, control regions, det
 
 ## Practical resources
 - [Lab 01 — AI inpainting, upscaling and provenance](CT-24/labs/lab-01-ai-inpainting-upscaling-and-provenance.md)
+- [Lab 02 — AI image batch evaluation and risk gates](CT-24/labs/lab-02-ai-image-batch-evaluation-and-risk-gates.md)
 - [Knowledge assessment and answer key](CT-24/assessment-quiz-and-answer-key.md)
 - [Responsible AI image campaign capstone](CT-24/capstone/README.md)
 
