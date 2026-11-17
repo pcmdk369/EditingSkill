@@ -8,6 +8,12 @@ description: Specialist agent instructions for visual effects within the univers
 ## Scope
 Integrate effects into live-action or animated footage through tracking, keying, roto, compositing, simulation and finishing.
 
+## Activation and intake
+
+Activate this module for tracking, keying, rotoscoping, cleanup, compositing, simulation integration or visual-effects finishing. Coordinate with video-editing for editorial handles and with color-grading for the plate-to-composite color pipeline.
+
+Collect the approved plate, frame range, frame rate, source raster, camera/lens metadata where available, color-space interpretation, handles, reference frames, required elements/passes, alpha convention, target resolution and delivery format. Identify whether the shot is locked and who approves changes to the plate. Record the source and license of stock elements, generated assets, textures and simulations. If camera metadata, plate references or alpha requirements are missing, mark them as unresolved rather than inventing a match.
+
 ## Core principles
 Match perspective, lens, lighting, grain, motion blur and color; use plate preparation and clean handoffs; keep elements separated.
 
