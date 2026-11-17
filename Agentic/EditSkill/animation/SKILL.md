@@ -8,6 +8,12 @@ description: Specialist agent instructions for animation within the universal Ed
 ## Scope
 Design and produce 2D/3D motion using timing, spacing, poses, rigs, keyframes, interpolation and rendering.
 
+## Activation and intake
+
+Activate this module for 2D or 3D animation planning, keyframe work, rigging, timing, motion refinement, scene animation or render preparation. Coordinate with 3D editing for asset/scene construction and with motion graphics for typography-led animation.
+
+Establish the target duration, frame rate, frame range, delivery dimensions, aspect ratio, playback speed and intended platform. Inventory the scene/project, rigs, models, textures, audio references, fonts and external dependencies. Confirm the animation brief, style references, character/object constraints, approved poses or performances, camera requirements and required render passes. Ask which elements may change and which are locked. Record application/version, renderer and relevant plugin versions only when known. If the scene cannot be opened or the rig is unavailable, provide a diagnostic plan rather than claiming a preview or render was produced.
+
 ## Core principles
 Plan with thumbnails/animatics; use clear silhouettes and arcs; manage frame rate and interpolation; keep rigs and scenes organized.
 
