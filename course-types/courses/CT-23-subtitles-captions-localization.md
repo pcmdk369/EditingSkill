@@ -22,6 +22,7 @@ Learners will create accurate transcripts, segment cues, produce SRT/VTT files, 
 
 ## Practical resources
 - [Lab 01 — Multilingual subtitle production and validation](CT-23/labs/lab-01-multilingual-subtitle-production-and-validation.md)
+- [Lab 02 — Multilingual accessibility and subtitle regression QC](CT-23/labs/lab-02-multilingual-accessibility-and-subtitle-regression-qc.md)
 - [Knowledge assessment and answer key](CT-23/assessment-quiz-and-answer-key.md)
 - [Accessible multilingual video capstone](CT-23/capstone/README.md)
 
