@@ -22,6 +22,7 @@ Learners will choose appropriate media, build editable artwork, establish visual
 
 ## Practical resources
 - [Lab 01 — Vector brand system and export preflight](CT-08/labs/lab-01-vector-brand-system-and-export-preflight.md)
+- [Lab 02 — Accessible brand system and multi-output preflight](CT-08/labs/lab-02-accessible-brand-system-and-preflight.md)
 - [Knowledge assessment and answer key](CT-08/assessment-quiz-and-answer-key.md)
 - [Original visual identity capstone](CT-08/capstone/README.md)
 
@@ -32,7 +33,7 @@ Use vector and raster applications appropriate to the deliverable. Verify curren
 Pass the 50-point assessment, submit the practical lab and capstone, meet rights/originality gates and provide a preflighted handoff. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal design, accessibility, licensing and technical review remain outstanding; not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal design, accessibility, licensing and technical review remain outstanding; not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
