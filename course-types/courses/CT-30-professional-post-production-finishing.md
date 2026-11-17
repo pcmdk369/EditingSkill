@@ -23,6 +23,7 @@ By completion, learners should be able to plan the work, select appropriate tool
 
 ## Practical resources
 - [Lab 01 — Conform, master QC and archive restore](CT-30/labs/lab-01-conform-master-qc-and-archive-restore.md)
+- [Lab 02 — Archive integrity, checksum and restore drill](CT-30/labs/lab-02-archive-integrity-checksum-and-restore-drill.md)
 - [Knowledge assessment and answer key](CT-30/assessment-quiz-and-answer-key.md)
 - [Professional master delivery capstone](CT-30/capstone/README.md)
 
