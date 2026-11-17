@@ -22,6 +22,7 @@ Learners will animate objects/characters, manage rigs and caches, optimize rende
 
 ## Practical resources
 - [Lab 01 — Character rig, animation and render validation](CT-18/labs/lab-01-character-rig-animation-and-render-validation.md)
+- [Lab 02 — 3D scene portability, cache and render QC](CT-18/labs/lab-02-3d-scene-portability-cache-and-render-qc.md)
 - [Knowledge assessment and answer key](CT-18/assessment-quiz-and-answer-key.md)
 - [Original 3D character shot capstone](CT-18/capstone/README.md)
 
@@ -32,7 +33,7 @@ Use a current 3D application with animation, rigging, simulation and rendering. 
 Pass the 50-point assessment, submit lab and capstone, meet rights/rig/render gates and provide a reproducible scene package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one rig/animation lab, one knowledge assessment and one capstone brief are present. 3D application execution, render validation and independent review remain outstanding; not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two rig/animation labs, one knowledge assessment and one capstone brief are present. 3D application execution, render validation and independent review remain outstanding; not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
