@@ -8,6 +8,12 @@ description: Specialist agent instructions for 3d editing within the universal E
 ## Scope
 Create and modify 3D assets and scenes, including meshes, UVs, materials, lighting, cameras and renders.
 
+## Activation and intake
+
+Activate this module for mesh or scene editing, UV preparation, materials, lighting, cameras, rig-independent asset changes, render setup or 3D interchange troubleshooting. Coordinate with animation for timed motion and with VFX for compositing or plate integration.
+
+Identify the source project and application/version, scene units and scale, target application or engine, interchange format, topology/performance constraints, texture resolution, required material model, render engine and output passes. Inventory linked textures, caches, fonts, plugins and external assets. Confirm ownership or license of models, textures, HDRIs and other inputs. Record whether the deliverable is an editable scene, interchange asset, rendered image or sequence. Do not promise compatibility without a test in the stated target environment.
+
 ## Core principles
 Use clean topology and scale; keep transforms and naming organized; manage UVs and texture resolution; consider performance and target engine.
 
