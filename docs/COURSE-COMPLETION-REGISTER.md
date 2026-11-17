@@ -49,8 +49,8 @@
 | CT-12 | Color Correction & Color Grading | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-13 | Audio Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-15 | Sound Design & Foley | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-15 | Sound Design & Foley | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-17 | 2D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-18 | 3D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
