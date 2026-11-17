@@ -44,7 +44,10 @@ Create a 3-minute rough cut from interview and B-roll; conduct two viewer review
 ## Common errors and recovery
 | Symptom | Likely cause | Diagnosis | Recovery |
 |---|---|---|---|
-| Submit rough/fine cut, sequence map, review notes, decision log and picture-lock checklist. | Insufficient review | Inspect the exact source, context and project record | Recheck against source and document correction |
+| One perspective dominates without editorial explanation | Source imbalance or selective assembly | Compare screen time, claims and evidence across sources | Add context or explain the evidential limitation |
+| Ending implies a resolution not supported by sources | Narrative closure prioritized over evidence | Trace final statement to source and claim ledger | Retain uncertainty or revise the conclusion |
+| Picture lock is repeatedly broken | No approval/change control | Audit version history and review decisions | Define lock criteria and controlled change requests |
+| Reviewer preference is treated as factual correction | Review roles unclear | Separate factual, legal, accessibility and creative notes | Route each issue to the correct approval owner |
 
 ## Knowledge check
 1. Why must the editor distinguish testimony from independently verified fact?
