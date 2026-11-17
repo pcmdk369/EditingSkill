@@ -3,25 +3,15 @@
 **Purpose:** Track evidence, not assumptions, across all 30 course types.  
 **Rule:** “Outline exists” does not mean “course complete.” A course is complete only after lessons, labs, assessment, capstone, references and review evidence satisfy the repository standard.
 
-- CT-11: Eight stage-mapped lessons, two professional labs (historical restoration; evidence mapping and preservation package), one knowledge assessment and one restoration collection capstone brief are authored. Formal review and execution remain.
 
-- CT-12: Eight stage-mapped lessons, two professional labs (shot matching; color pipeline conform and SDR/HDR audit), one knowledge assessment and one matched-scene capstone brief are authored. Formal review, calibrated display validation and execution remain.
 
-- CT-13: Eight stage-mapped lessons, two professional labs (dialogue cleanup/loudness; multichannel stems and delivery QC), one knowledge assessment and one audio post capstone brief are authored. Formal review and execution remain.
 
-- CT-14: Eight stage-mapped lessons, two professional labs (two-person podcast edit; remote guest sync, transcript and consent), one knowledge assessment and one podcast capstone brief are authored. Formal review and execution remain.
 
-- CT-26: Eight stage-mapped lessons, one consent-first localized dubbing lab, one 50-point assessment and one localized voice capstone brief are authored. External-provider, legal/rights, technical and learner validation remain.
 
-- CT-27: Eight stage-mapped lessons, one safe batch-transcode lab, one 50-point assessment and one reproducible automation capstone brief are authored. Command/version testing, security review, CI and independent validation remain.
 
-- CT-28: Eight stage-mapped lessons, one live recording/highlight lab, one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
 
-- CT-29: Eight stage-mapped lessons, one smartphone-first production lab, one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
 
-- CT-30: Eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
 
-- CT-25: Eight stage-mapped lessons, two AI video labs (short edit/human QC; highlight evaluation/continuity), one assessment and one human-reviewed AI video capstone brief are authored. Provider, privacy, rights and technical validation remain.
 
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
@@ -85,43 +75,50 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-02: Lessons 01–10, textbook/workbook, labs and assessment resources are present; software-specific execution and review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, one professional interview/fact-check lab, one 50-point knowledge assessment and one three-minute documentary capstone brief are authored. Two generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
-- CT-05: Eight stage-mapped lessons, one campaign/cutdown implementation lab, one 50-point knowledge assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
-- Agent Skills: Video Editing, Subtitles and Quality Control expanded; other modules require operational-depth audit.
+- CT-05: Eight stage-mapped lessons, two professional labs (campaign cutdowns; claim ledger/rights/approval gates), one 50-point assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
+- Agent Skills: All 16 specialist modules now include expanded discipline-specific operational procedures, safety/approval boundaries, QC gates, troubleshooting and handoff requirements.
 
-- CT-06: Eight stage-mapped lessons, one multicamera performance lab, one 50-point assessment and one music-video capstone brief are authored. Rights/technical review, software execution and learner validation remain.
+- CT-06: Eight stage-mapped lessons, two professional labs (multicamera sync; sync-drift and music-rights audit), one 50-point assessment and one music-video capstone brief are authored. Rights/technical review, software execution and learner validation remain.
 
-- CT-07: Eight stage-mapped lessons, one layered-photo implementation lab, one 50-point assessment and one five-image capstone brief are authored. Color-management/software execution, independent review and learner validation remain.
+- CT-07: Eight stage-mapped lessons, two professional labs (layered correction; color-managed batch and image-integrity audit), one 50-point assessment and one five-image capstone brief are authored. Color-management/software execution, independent review and learner validation remain.
 
-- CT-08: Eight stage-mapped lessons, one vector identity/preflight lab, one 50-point assessment and one visual-identity capstone brief are authored. Independent design/accessibility/licensing review and actual software validation remain.
+- CT-08: Eight stage-mapped lessons, two professional labs (vector identity; accessible brand system and multi-output preflight), one 50-point assessment and one visual-identity capstone brief are authored. Independent design/accessibility/licensing review and actual software validation remain.
 
-- CT-09: Eight stage-mapped lessons, one natural portrait retouch lab, one 50-point assessment and one portrait capstone brief are authored. Consent/privacy review, software execution and learner validation remain.
+- CT-09: Eight stage-mapped lessons, two professional labs (natural retouch; consent and authenticity review), one 50-point assessment and one portrait capstone brief are authored. Consent/privacy review, software execution and learner validation remain.
 
-- CT-10: Eight stage-mapped lessons, one product catalog/SKU validation lab, one 50-point assessment and one product catalog capstone brief are authored. Marketplace-specific review, color/technical execution and learner validation remain.
+- CT-10: Eight stage-mapped lessons, two professional labs (product variant catalog; SKU/image reconciliation and catalog release), one 50-point assessment and one product catalog capstone brief are authored. Marketplace-specific review, color/technical execution and learner validation remain.
 
-- CT-11: Eight stage-mapped lessons, one historical-photo restoration lab, one 50-point assessment and one restoration collection capstone brief are authored. Archival review, source/provenance validation and learner execution remain.
+- CT-11: Eight stage-mapped lessons, two professional labs (historical restoration; evidence mapping and preservation package), one 50-point assessment and one restoration collection capstone brief are authored. Archival review, source/provenance validation and learner execution remain.
 
-- CT-12: Eight stage-mapped lessons, one shot-matching/color-pipeline lab, one 50-point assessment and one matched-scene capstone brief are authored. Color-management/monitoring review, software execution and learner validation remain.
+- CT-12: Eight stage-mapped lessons, two professional labs (shot matching; color pipeline conform and SDR/HDR audit), one 50-point assessment and one matched-scene capstone brief are authored. Color-management/monitoring review, software execution and learner validation remain.
 
-- CT-13: Eight stage-mapped lessons, one dialogue cleanup/mix/loudness lab, one 50-point assessment and one audio post capstone brief are authored. DAW execution, rendered-file measurement and independent review remain.
+- CT-13: Eight stage-mapped lessons, two professional labs (dialogue cleanup/loudness; multichannel stems and delivery QC), one 50-point assessment and one audio post capstone brief are authored. DAW execution, rendered-file measurement and independent review remain.
 
-- CT-14: Eight stage-mapped lessons, one two-person podcast implementation lab, one 50-point assessment and one podcast episode capstone brief are authored. DAW execution, consent/privacy review and learner validation remain.
+- CT-14: Eight stage-mapped lessons, two professional labs (two-person podcast edit; remote guest sync, transcript and consent), one 50-point assessment and one podcast episode capstone brief are authored. DAW execution, consent/privacy review and learner validation remain.
 
-- CT-15: Eight stage-mapped lessons, one Foley/ambience implementation lab, one 50-point assessment and one short-scene sound-design capstone brief are authored. Sound-library rights review, DAW execution and stem validation remain.
+- CT-15: Eight stage-mapped lessons, two professional labs (Foley/ambience; perspective and sound-library provenance), one 50-point assessment and one short-scene sound-design capstone brief are authored. Sound-library rights review, DAW execution and stem validation remain.
 
-- CT-16: Eight stage-mapped lessons, one arrangement/mix/master lab, one 50-point assessment and one original music cue capstone brief are authored. DAW execution, sample/voice rights review and stem validation remain.
+- CT-16: Eight stage-mapped lessons, two professional labs (arrangement/mix/master; mix translation and mastering reference audit), one 50-point assessment and one original music cue capstone brief are authored. DAW execution, sample/voice rights review and stem validation remain.
 
-- CT-17: Eight stage-mapped lessons, one bouncing-ball/walk-cycle lab, one 50-point assessment and one original 2D short capstone brief are authored. Application execution, animation review and export validation remain.
+- CT-17: Eight stage-mapped lessons, two professional labs (bouncing ball/walk cycle; timing, cleanup and frame-sequence QC), one 50-point assessment and one original 2D short capstone brief are authored. Application execution, animation review and export validation remain.
 
-- CT-18: Eight stage-mapped lessons, one character rig/animation lab, one 50-point assessment and one 3D character shot capstone brief are authored. Application/render execution, dependency testing and learner validation remain.
+- CT-18: Eight stage-mapped lessons, two professional labs (character rig/render; scene portability, cache and render QC), one 50-point assessment and one 3D character shot capstone brief are authored. Application/render execution, dependency testing and learner validation remain.
 
-- CT-19: Eight stage-mapped lessons, one kinetic typography/responsive motion lab, one 50-point assessment and one motion identity capstone brief are authored. Application execution, data/accessibility review and render validation remain.
+- CT-19: Eight stage-mapped lessons, two professional labs (kinetic type/responsive motion; data-driven localization and template QC), one 50-point assessment and one motion identity capstone brief are authored. Application execution, data/accessibility review and render validation remain.
 
-- CT-20: Eight stage-mapped lessons, one screen-keying/tracking lab, one 50-point assessment and one integrated VFX shot capstone brief are authored. Compositing execution, alpha/color pipeline review and frame-sequence validation remain.
+- CT-20: Eight stage-mapped lessons, two professional labs (keying/tracking; multipass alpha and compositing conform QC), one 50-point assessment and one integrated VFX shot capstone brief are authored. Compositing execution, alpha/color pipeline review and frame-sequence validation remain.
 
-- CT-21: Eight stage-mapped lessons, one green-screen capture/keying lab, one 50-point assessment and one virtual-studio capstone brief are authored. Capture/compositing execution, alpha validation and learner review remain.
+- CT-21: Eight stage-mapped lessons, two professional labs (green-screen keying; temporal key quality and alpha delivery QC), one 50-point assessment and one virtual-studio capstone brief are authored. Capture/compositing execution, alpha validation and learner review remain.
 
-- CT-22: Eight stage-mapped lessons, one modeling/UV/material/render lab, one 50-point assessment and one production-ready 3D asset capstone brief are authored. Application execution, interchange testing and learner validation remain.
+- CT-22: Eight stage-mapped lessons, two professional labs (prop modeling; topology, UV and interchange validation), one 50-point assessment and one production-ready 3D asset capstone brief are authored. Application execution, interchange testing and learner validation remain.
 
-- CT-23: Eight stage-mapped lessons, one multilingual subtitle production lab, one 50-point assessment and one accessible video capstone brief are authored. Human translation review, target-player tests and learner validation remain.
+- CT-23: Eight stage-mapped lessons, two professional labs (multilingual subtitle production; accessibility and regression QC), one 50-point assessment and one accessible video capstone brief are authored. Human translation review, target-player tests and learner validation remain.
 
-- CT-24: Eight stage-mapped lessons, one inpainting/upscaling/provenance lab, one 50-point assessment and one responsible AI image capstone brief are authored. Provider-term review, actual tool execution and learner validation remain.
+- CT-24: Eight stage-mapped lessons, two professional labs (AI inpainting/upscaling; batch evaluation and risk gates), one 50-point assessment and one responsible AI image capstone brief are authored. Provider-term review, actual tool execution and learner validation remain.
+
+- CT-25: Eight stage-mapped lessons, two AI video labs (short edit/human QC; highlight evaluation/continuity), one assessment and one human-reviewed AI video capstone brief are authored. Provider, privacy, rights and technical validation remain.
+- CT-26: Eight stage-mapped lessons, one consent-first localized dubbing lab, one 50-point assessment and one localized voice capstone brief are authored. External-provider, legal/rights, technical and learner validation remain.
+- CT-27: Eight stage-mapped lessons, one safe batch-transcode lab, one 50-point assessment and one reproducible automation capstone brief are authored. Command/version testing, security review and independent validation remain.
+- CT-28: Eight stage-mapped lessons, one live recording/highlight lab, one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
+- CT-29: Eight stage-mapped lessons, one smartphone-first production lab, one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
+- CT-30: Eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
