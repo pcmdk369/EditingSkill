@@ -21,6 +21,8 @@
 
 - CT-30: Eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
 
+- CT-25: Eight stage-mapped lessons, two AI video labs (short edit/human QC; highlight evaluation/continuity), one assessment and one human-reviewed AI video capstone brief are authored. Provider, privacy, rights and technical validation remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -69,7 +71,7 @@
 | CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-25 | AI-Assisted Video Editing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-27 | Batch Editing & Media Automation | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-28 | Editing for Live & Streaming Content | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
