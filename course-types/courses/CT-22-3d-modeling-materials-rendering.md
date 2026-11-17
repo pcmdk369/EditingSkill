@@ -22,6 +22,7 @@ Learners will model clean geometry, unwrap UVs, create materials, light/render a
 
 ## Practical resources
 - [Lab 01 — Product prop model, UV, material and render](CT-22/labs/lab-01-product-prop-model-uv-material-and-render.md)
+- [Lab 02 — Topology, UV and interchange asset validation](CT-22/labs/lab-02-topology-uv-and-interchange-asset-validation.md)
 - [Knowledge assessment and answer key](CT-22/assessment-quiz-and-answer-key.md)
 - [Production-ready 3D asset capstone](CT-22/capstone/README.md)
 
