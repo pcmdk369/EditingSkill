@@ -7,6 +7,7 @@ external editing applications.
 """
 from __future__ import annotations
 
+import csv
 import re
 import sys
 from pathlib import Path
@@ -50,6 +51,16 @@ SKILLS = [
     "graphic-design", "animation", "motion-graphics", "3d-editing", "vfx",
     "subtitles", "color-grading", "ai-editing", "automation",
     "software-tools", "workflows", "quality-control",
+]
+PRACTICE_CSV = {
+    "practice-assets/asset-manifest.csv": ("asset_id", "filename", "rights_status", "checksum_sha256"),
+    "practice-assets/shot-log.csv": ("clip_id", "source_in", "source_out", "editorial_decision"),
+    "practice-assets/rights-and-consent-register.csv": ("asset_id", "permission_scope", "approval_evidence", "release_gate"),
+}
+PRACTICE_FILES = [
+    "practice-assets/README.md",
+    "practice-assets/transcript.srt",
+    "practice-assets/delivery-qc-checklist.md",
 ]
 LINK_RE = re.compile(r"!?(?:\[[^\]]*\])\((?:<([^>]+)>|([^\s)]+))(?:\s+[^)]*)?\)")
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$")
@@ -121,6 +132,47 @@ def check_markdown_links() -> int:
     return errors
 
 
+def check_practice_assets() -> int:
+    errors = 0
+    for relative in PRACTICE_FILES:
+        if not (ROOT / relative).is_file():
+            fail(f"missing practice resource: {relative}")
+            errors += 1
+    for relative, required_headers in PRACTICE_CSV.items():
+        path = ROOT / relative
+        if not path.is_file():
+            fail(f"missing practice dataset: {relative}")
+            errors += 1
+            continue
+        try:
+            with path.open(encoding="utf-8", newline="") as handle:
+                reader = csv.DictReader(handle)
+                missing = [header for header in required_headers if header not in (reader.fieldnames or [])]
+                rows = list(reader)
+            if missing:
+                fail(f"{relative}: missing CSV columns: {', '.join(missing)}")
+                errors += 1
+            if not rows:
+                fail(f"{relative}: dataset has no data rows")
+                errors += 1
+        except (OSError, UnicodeDecodeError, csv.Error) as exc:
+            fail(f"{relative}: cannot parse CSV ({exc})")
+            errors += 1
+
+    transcript = ROOT / "practice-assets/transcript.srt"
+    if transcript.is_file():
+        try:
+            content = transcript.read_text(encoding="utf-8").strip()
+            blocks = re.split(r"\\n\\s*\\n", content)
+            if not blocks or any(not re.match(r"^\\d+\\n\\d{2}:\\d{2}:\\d{2},\\d{3} --> \\d{2}:\\d{2}:\\d{2},\\d{3}\\n.+", block, re.S) for block in blocks):
+                fail("practice-assets/transcript.srt: malformed SRT cue block")
+                errors += 1
+        except (OSError, UnicodeDecodeError) as exc:
+            fail(f"practice-assets/transcript.srt: cannot read ({exc})")
+            errors += 1
+    return errors
+
+
 def main() -> int:
     errors = 0
     course_root = ROOT / "course-types" / "courses"
@@ -137,11 +189,11 @@ def main() -> int:
     if not (ROOT / "docs" / "COURSE-COMPLETION-REGISTER.md").is_file():
         fail("missing course completion register")
         errors += 1
-    errors += check_markdown_links()
+    errors += check_practice_assets()\n    errors += check_markdown_links()
     if errors:
         print(f"Repository validation failed: {errors} issue(s).")
         return 1
-    print(f"Repository validation passed: {len(COURSES)} course entry points, {len(SKILLS)} specialist skills, Markdown links checked.")
+    print(f"Repository validation passed: {len(COURSES)} course entry points, {len(SKILLS)} specialist skills, practice datasets and SRT structure, Markdown links checked.")
     print("Note: this validates repository structure and local links, not pedagogical quality, legal compliance, application execution or media renders.")
     return 0
 
