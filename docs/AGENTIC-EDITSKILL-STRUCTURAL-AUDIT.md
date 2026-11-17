@@ -1,0 +1,113 @@
+# Agentic/EditSkill Structural Audit
+
+**Audit date:** 2026-11-17  
+**Audited branch:** `agentic/universal-editskill-architecture`  
+**Baseline inspected:** `355379c9c0578e10f96895a630214b31ad5a6a9c`  
+**Audit type:** Repository-content and cross-link structure review; not an agent-runtime test.
+
+## 1. Scope and source of truth
+
+This audit uses the repository's own requirements:
+
+- [Universal EditSkill entry point](../Agentic/EditSkill/SKILL.md)
+- [Specialist module index](../Agentic/EditSkill/README.md)
+- [Specialist module requirements](../Agentic/EditSkill/references/course-standard.md)
+- [Repository-wide Professional Developer & Academic Course Standard](../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
+
+The specialist count is taken from the live branch tree and the specialist index, not inferred from a proposed architecture. Both enumerate the same 16 specialist entry points.
+
+## 2. Universal architecture findings
+
+The universal entry point provides:
+
+- A portable Markdown-based entry point that does not assume an agent framework or installed application.
+- Routing to 16 specialist modules and shared references.
+- Seven request classes: Learn, Plan, Inspect, Execute, Troubleshoot, Review and Deliver.
+- An intake protocol covering purpose, audience, assets, ownership, output, accessibility, deadlines and constraints.
+- A staged execution protocol with source preservation, rights/privacy checks, tool-availability checks, reversible work and verification.
+- Human-approval boundaries for destructive operations, external uploads, publication, purchases, paid compute and identity-sensitive work.
+- Quality gates for input integrity, creative intent, technical properties, accessibility, delivery and archive.
+- A standard lesson mode, production record and evidence-based final response contract.
+
+**Finding:** the universal entry point is present and its routing list matches the specialist directory. It is an instruction architecture, not proof that any particular agent runtime has loaded or executed it.
+
+## 3. Specialist inventory
+
+All 16 listed specialist files exist on the audited branch and contain YAML front matter with a module name and description.
+
+| Specialist module | Entry point |
+|---|---|
+| Video editing | [video-editing/SKILL.md](../Agentic/EditSkill/video-editing/SKILL.md) |
+| Audio editing | [audio-editing/SKILL.md](../Agentic/EditSkill/audio-editing/SKILL.md) |
+| Image editing | [image-editing/SKILL.md](../Agentic/EditSkill/image-editing/SKILL.md) |
+| Photo editing | [photo-editing/SKILL.md](../Agentic/EditSkill/photo-editing/SKILL.md) |
+| Graphic design | [graphic-design/SKILL.md](../Agentic/EditSkill/graphic-design/SKILL.md) |
+| Animation | [animation/SKILL.md](../Agentic/EditSkill/animation/SKILL.md) |
+| Motion graphics | [motion-graphics/SKILL.md](../Agentic/EditSkill/motion-graphics/SKILL.md) |
+| 3D editing | [3d-editing/SKILL.md](../Agentic/EditSkill/3d-editing/SKILL.md) |
+| Visual effects | [vfx/SKILL.md](../Agentic/EditSkill/vfx/SKILL.md) |
+| Subtitles and captions | [subtitles/SKILL.md](../Agentic/EditSkill/subtitles/SKILL.md) |
+| Color grading | [color-grading/SKILL.md](../Agentic/EditSkill/color-grading/SKILL.md) |
+| AI editing | [ai-editing/SKILL.md](../Agentic/EditSkill/ai-editing/SKILL.md) |
+| Editing automation | [automation/SKILL.md](../Agentic/EditSkill/automation/SKILL.md) |
+| Software tools | [software-tools/SKILL.md](../Agentic/EditSkill/software-tools/SKILL.md) |
+| Production workflows | [workflows/SKILL.md](../Agentic/EditSkill/workflows/SKILL.md) |
+| Quality control | [quality-control/SKILL.md](../Agentic/EditSkill/quality-control/SKILL.md) |
+
+## 4. Structural checks
+
+The audit checked for module identity/front matter, scope, activation or intake, repeatable procedure/workflow, rights/privacy/consent, human approval boundaries, quality gates, troubleshooting or recovery, handoff/evidence and version/capability caveats.
+
+| Check | Result | Notes |
+|---|---:|---|
+| Specialist entry points present | 16/16 | Live tree and index agree |
+| YAML identity and description | 16/16 | Present in each specialist file |
+| Scope and task procedure | 16/16 | Discipline-specific procedures are present |
+| Rights/privacy/consent controls | 16/16 | Present as explicit controls or boundaries |
+| Human approval boundaries | 16/16 | No module grants itself publication or destructive authority |
+| QC and acceptance controls | 16/16 | Discipline-specific checks are present |
+| Troubleshooting/recovery | 16/16 | Recovery or escalation guidance is present |
+| Handoff/evidence record | 16/16 | Output status and limitations are addressed |
+| Version/capability caveats | 16/16 | Application/tool availability is not assumed |
+| Explicit activation/intake section | 16/16 after this batch | Eight modules already had it; eight were updated below |
+
+### Activation/intake improvements in this batch
+
+The following modules previously relied on a scope and generic task procedure without a clearly labeled activation/intake contract. Each now states when it should be selected and what task-specific information must be collected before work:
+
+- [Image editing](../Agentic/EditSkill/image-editing/SKILL.md)
+- [Photo editing](../Agentic/EditSkill/photo-editing/SKILL.md)
+- [Animation](../Agentic/EditSkill/animation/SKILL.md)
+- [Motion graphics](../Agentic/EditSkill/motion-graphics/SKILL.md)
+- [Color grading](../Agentic/EditSkill/color-grading/SKILL.md)
+- [AI editing](../Agentic/EditSkill/ai-editing/SKILL.md)
+- [Software tools](../Agentic/EditSkill/software-tools/SKILL.md)
+- [Quality control](../Agentic/EditSkill/quality-control/SKILL.md)
+
+The additions define discipline-specific inputs such as source format, color profile, frame rate, approved copy, font rights, display target, provider data terms, operating system/application version, candidate export, acceptance criteria and test evidence.
+
+## 5. Gaps and limits
+
+This is a structural audit, not a declaration that every specialist is fully reviewed or validated.
+
+1. Discipline-specific mappings from every specialist to exact course IDs, lesson files, labs and curated references are not yet normalized into a single routing matrix. Modules currently direct agents to the canonical course directory and relevant repository references; a future pass should add exact mappings where they are useful and verified.
+2. No supported agent runtime was invoked to test module loading, routing decisions, tool discovery, missing-tool fallback, approval boundaries, interruption handling or cross-specialist handoffs.
+3. No creative application, plugin, codec, AI provider, command-line media tool or device was executed as part of this audit.
+4. No media render, rights clearance, legal review, accessibility certification or learner outcome is claimed.
+5. Text presence does not establish semantic correctness, production suitability or compliance in every jurisdiction and platform.
+
+## 6. Recommended runtime test suite
+
+Before describing the agent architecture as runtime-validated, execute and retain evidence for at least these scenarios:
+
+- Route a mixed video/audio/caption task to the correct specialists and verify the universal workflow remains authoritative.
+- Remove or deny an application/tool and verify the agent reports the limitation rather than inventing execution.
+- Supply an ambiguous delivery specification and verify the agent asks for the missing acceptance requirement rather than guessing.
+- Request an irreversible overwrite or public upload and verify explicit authorization is required.
+- Provide an unlicensed or private asset and verify the rights/privacy gate blocks unauthorized use.
+- Introduce a known export defect and verify the QC specialist reports severity, evidence, correction owner and retest result without approving its own assumptions.
+- Change a project version and verify the handoff/manifest records the change and preserves the prior approved version.
+
+## 7. Audit conclusion
+
+**Structural result: aligned with the main repository controls, with activation/intake gaps corrected in this batch.** The 16 specialist entry points and universal routing architecture are present. Remaining work is discipline-specific cross-link normalization, semantic review and real agent-runtime testing. Do not mark the architecture fully validated or complete until those checks have evidence.
