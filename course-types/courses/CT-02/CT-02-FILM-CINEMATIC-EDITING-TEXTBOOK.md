@@ -724,6 +724,62 @@ Design a workflow that creates proxy files and a searchable transcript from appr
 
 ---
 
+### 11.5 Task suitability and evaluation
+
+Choose the task before choosing the tool. A suitable task has a defined input, narrow operation, observable output, measurable acceptance criterion, manageable error impact and a human approval point. Batch renaming from a fixed rule may be deterministic; transcription, translation and semantic search are probabilistic and require source verification. Story structure, performance selection, factual interpretation and final pacing remain accountable human editorial decisions.
+
+Before a production task, write:
+- source asset and permitted processing scope;
+- intended operation and output;
+- measurable acceptance criteria;
+- critical error categories;
+- impact if an error reaches the audience;
+- reviewer and approval point;
+- manual fallback and stop condition.
+
+Do not use a tool simply because it is available. A manual process is preferable when data handling is unclear, consent is absent, error impact is high or the result cannot be verified.
+
+### 11.6 Reference data and error analysis
+
+An accuracy claim requires a reference. For transcription, create a human-verified transcript for a representative sample. For scene detection, mark expected boundaries. For file automation, write expected filenames and folder states before running the operation.
+
+Classify errors by their consequences:
+- omission or insertion;
+- substitution of names, numbers or negation;
+- speaker attribution;
+- timing or source-range mismatch;
+- translation or context distortion;
+- false shot/scene boundary;
+- incorrect file mapping or overwrite.
+
+Count critical errors separately. A high overall word score can still hide a meaning-reversing error such as omission of “not.” Confidence scores are estimates produced by a system; they are not proof that a claim is correct.
+
+### 11.7 Privacy, consent and data minimization
+
+Before external processing, identify asset ownership, participant releases, contract restrictions, personal or confidential information, provider retention and reuse terms, processing location where disclosed, access permissions and deletion controls. Submit only the minimum material needed. Prefer an approved local workflow for sensitive assets where practical and authorized.
+
+If the provider's terms or project permission cannot be established, do not upload. Stop and seek authorization or use a manual alternative. A public URL, free account or convenient interface is not evidence of permission.
+
+### 11.8 Provenance and human review
+
+Maintain a record containing source ID and time range, purpose, provider/tool/model version, date, settings or prompt where appropriate, raw output, human corrections, reviewer, approval, disclosure decision and unresolved uncertainty. Keep raw output separate from corrected output.
+
+A human reviewer must be able to inspect the original media and challenge the result. Do not use AI output as final dialogue, translation, factual statement or performance decision without appropriate review. Synthetic identity, voice, performance, music or imagery requires specific rights, informed consent and disclosure review.
+
+Media provenance can document declared origin and transformations, but it does not prove that the depicted event is true or that the history is complete.
+
+### 11.9 Safe automation and rollback
+
+Design repeatable automation with explicit inputs, allowed file types, dry-run preview, non-destructive output paths, collision detection, logs, stable IDs, failure states and rollback. Test on a small duplicate fixture before using production assets. Never permit a script or agent to overwrite originals, publish content, delete source files or change an approved master without explicit authorization.
+
+Re-test after a material change to provider, model, prompt, application version, settings or input conditions. Record whether a workflow was designed, simulated or actually executed.
+
+### 11.10 Worked practice: verify an interview transcript
+
+An authorized interview contains the sentence “We did not approve the second version.” A draft transcript omits “not.” The editor must listen to the original audio, correct the transcript, preserve the raw output and verify the complete question and answer before selecting the quote. The error is critical even if most other words are correct.
+
+Practice with a self-recorded 60-second clip. Create a verified reference transcript, compare a draft if an approved tool is available, categorize errors, correct the text and document the source time references. If no tool is available, complete the same review manually and label the automation evaluation as a design exercise.
+
 ## Chapter 12 — Capstone: Edit a 3–5 Minute Narrative Scene
 
 ### Brief
@@ -768,6 +824,68 @@ Edit a 3–5 minute fictional scene using original or properly licensed material
 - What would you improve with additional coverage or time?
 
 ---
+
+# Part IV — Professional Delivery and Editorial Practice
+
+## Chapter 13 — Client Review, Professional Handoff and Archive
+
+### 13.1 Scope, deliverables and acceptance
+
+A professional brief must be translated into a clear scope of work. Record purpose, audience, deliverables, formats, runtimes, language versions, accessibility requirements, schedule, revision rounds, exclusions and acceptance criteria. Identify who supplies media and who is responsible for rights, releases and approvals. Do not interpret vague words such as “final,” “all formats” or “unlimited revisions” as complete specifications.
+
+A change that adds a deliverable, changes runtime or language, alters the creative direction or exceeds the agreed review rounds should be assessed as a change request. Record its requester, authority, reason, schedule/cost impact, rights implications and approval before implementing it.
+
+### 13.2 Stakeholders and decision authority
+
+Stakeholders may provide notes without having authority to approve every decision. Create an approval matrix for creative direction, factual claims, legal review, budget/schedule changes, final delivery and archive/deletion. If instructions conflict, pause the disputed change and request a decision from the named owner.
+
+### 13.3 Review copies and feedback disposition
+
+Every review copy should carry a project ID, version, date, runtime and status. The review instruction should state the deadline, time-reference convention, priority rules and decision owner. Restrict access to authorized recipients.
+
+A useful note includes the reviewed version, exact time reference, observed issue, requested outcome, author and priority. Classify notes as objective defect, brief requirement, creative preference, unclear, conflicting or out-of-scope. Record accepted, rejected, deferred, clarified and duplicate notes with reasons. Preserve the original note wording.
+
+### 13.4 Revision and approval records
+
+Preserve each reviewed version. Implement accepted notes in a new version and link the changes to the note log. Recheck the full sequence after local revisions. Record final approval against the exact sequence/export version and specification. If approval has not been received, use “awaiting approval” or “proposed final,” not “approved.”
+
+### 13.5 Project portability and handoff
+
+A project file may reference external media, proxies, fonts, plugins, LUTs, graphics, templates and audio libraries. A portable handoff includes the authorized project, required media, dependency list, manifest, relink notes, version/change log, delivery specification, rights/credits record and QC report.
+
+Copy the package to a separate location and reopen it there. Check media, graphics, fonts and a representative sequence. Record any dependency that cannot be transferred because of license or client restrictions. A folder listing alone does not prove that a project can be restored.
+
+### 13.6 Backup, archive and restore
+
+A working copy is the actively edited project. A backup is a separate recovery copy. Synchronization keeps locations updated but may also propagate deletion or corruption. An archive is a selected and documented set of materials retained under an owner, access and retention policy.
+
+Record archive owner, authorized contents, location, access list, retention date, deletion authority, manifest and recovery instructions. Use the number and separation of copies required by the project policy. Test restoration to a separate location and record the environment, date, missing dependencies and outcome. Do not claim recoverability without a restore test.
+
+### 13.7 Rights, privacy and portfolio use
+
+Confirm that footage, music, graphics, fonts, releases and likeness permissions cover the intended use and distribution. Permission to edit a client's material does not automatically grant permission to publish it in a portfolio. Retain only what the agreement and applicable policy authorize. Restrict confidential media and personal information. This chapter is educational and is not legal advice; seek qualified advice where legal interpretation is required.
+
+### 13.8 Worked example: a controlled client review
+
+A client commissions a 90-second profile video with a master, vertical derivative, English captions and two review rounds. The project manager is the creative decision owner and legal review approves names and claims. Eighteen notes arrive: duplicates are grouped, a spelling defect is verified, conflicting opening-shot requests are escalated, and a runtime extension becomes a change request. The editor implements only approved changes, records a new version, checks captions and derivatives, obtains approval and packages the project with a manifest and restore-test record.
+
+### 13.9 Practice and review
+
+Create a mock brief and approval matrix. Log ten review notes including a defect, preference, duplicate, unclear note, conflicting pair and scope change. Package a short project in a separate folder, reopen it, create a manifest and document a restore test. Record retention and deletion authority. Never claim a simulated approval or restore as real.
+
+**Review questions**
+1. How do a brief, scope of work and acceptance criteria differ?
+2. Why is decision authority important?
+3. What makes an editorial note actionable?
+4. When is a request a scope change?
+5. Why must every review copy have a version ID?
+6. What proves project portability?
+7. How do backup, synchronization and archive differ?
+8. Why is a restore test required?
+9. Why does portfolio permission need separate confirmation?
+10. Which status is correct when final approval is missing?
+
+**Answer guidance:** The brief explains creative intent; scope lists work and boundaries; acceptance criteria are observable tests. Decision authority resolves conflict. Actionable notes include version, time, issue and requested outcome. Additional deliverables or changed requirements may be scope changes. Version IDs connect notes to the exact cut. Reopening a separate copy demonstrates portability. Backups support recovery, synchronization propagates changes and archives preserve selected records. A restore test demonstrates practical recovery. Portfolio use may exceed original rights. Use “awaiting approval” or “proposed final” until approval exists.
 
 ## Glossary
 
