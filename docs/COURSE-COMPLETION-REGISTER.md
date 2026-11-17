@@ -13,6 +13,8 @@
 
 - CT-26: Eight stage-mapped lessons, one consent-first localized dubbing lab, one 50-point assessment and one localized voice capstone brief are authored. External-provider, legal/rights, technical and learner validation remain.
 
+- CT-27: Eight stage-mapped lessons, one safe batch-transcode lab, one 50-point assessment and one reproducible automation capstone brief are authored. Command/version testing, security review, CI and independent validation remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -63,7 +65,7 @@
 | CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-27 | Batch Editing & Media Automation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-27 | Batch Editing & Media Automation | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-28 | Editing for Live & Streaming Content | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-29 | Mobile Editing & Creator Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-30 | Professional Post-Production & Finishing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
