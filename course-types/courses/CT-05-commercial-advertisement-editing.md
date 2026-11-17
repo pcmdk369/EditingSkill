@@ -20,6 +20,7 @@ Develop professional commercial editing skills that translate a campaign brief i
 
 ## Practical resources
 - [Lab 01 — Campaign master and cutdown production](CT-05/labs/lab-01-campaign-master-and-cutdown-production.md)
+- [Lab 02 — Claim ledger, rights and approval gates](CT-05/labs/lab-02-claim-ledger-rights-and-approval-gates.md)
 - [Knowledge assessment and answer key](CT-05/assessment-quiz-and-answer-key.md)
 - [Commercial campaign capstone](CT-05/capstone/README.md)
 
@@ -30,7 +31,7 @@ Use a current NLE with sequence duplication, graphics, audio and batch export. R
 Pass the 50-point assessment, submit the practical lab and capstone, meet mandatory claim/rights/source integrity gates, and provide a validated handoff. Suggested capstone pass: 80/100. Independent review and learner execution evidence are required before course validation.
 
 ## Course status
-**Authored — eight-stage pathway and campaign assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal academic, technical and jurisdiction-specific review and actual software execution remain outstanding; not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and campaign assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal academic, technical and jurisdiction-specific review and actual software execution remain outstanding; not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
