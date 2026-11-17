@@ -32,3 +32,24 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## Animation production workflow
+
+### Planning
+Define frame rate, resolution, duration, style/model sheets, timing chart, shot list, output format and approval milestones. Distinguish key poses, breakdowns, in-betweens, holds and exposure.
+
+### Procedure
+1. Block silhouettes and key poses.
+2. Test timing/spacing at intended playback speed.
+3. Add breakdowns, arcs, anticipation, follow-through and secondary action.
+4. Check weight, contact and screen direction.
+5. Maintain model/character consistency.
+6. Clean linework or deformation; organize layers/rig controls.
+7. Review motion frame-by-frame and at normal speed.
+8. Export image sequence and review movie.
+9. Validate frame numbering, alpha, color, frame rate and audio sync.
+10. Package editable project, rigs, fonts, linked assets and caches.
+
+### QC
+Inspect jitter, pops, shape drift, foot sliding, intersections, missing frames, alpha fringes, frame cadence and project dependencies. Review on intended playback device.
