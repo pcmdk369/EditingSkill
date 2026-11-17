@@ -3,6 +3,8 @@
 **Purpose:** Track evidence, not assumptions, across all 30 course types.  
 **Rule:** “Outline exists” does not mean “course complete.” A course is complete only after lessons, labs, assessment, capstone, references and review evidence satisfy the repository standard.
 
+- CT-11: Eight stage-mapped lessons, two professional labs (historical restoration; evidence mapping and preservation package), one knowledge assessment and one restoration collection capstone brief are authored. Formal review and execution remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -37,7 +39,7 @@
 | CT-08 | Digital Illustration & Graphic Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-09 | Portrait & Beauty Retouching | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-10 | Product & E-commerce Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-11 | Photo Restoration & Manipulation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-11 | Photo Restoration & Manipulation | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-12 | Color Correction & Color Grading | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-13 | Audio Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
