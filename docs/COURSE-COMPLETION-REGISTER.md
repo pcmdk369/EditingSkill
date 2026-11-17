@@ -17,6 +17,8 @@
 
 - CT-28: Eight stage-mapped lessons, one live recording/highlight lab, one 50-point assessment and one live-session archive capstone brief are authored. Platform compatibility, privacy review, execution and independent validation remain.
 
+- CT-29: Eight stage-mapped lessons, one smartphone-first production lab, one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -69,7 +71,7 @@
 | CT-26 | AI Voice, Dubbing & Speech Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-27 | Batch Editing & Media Automation | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-28 | Editing for Live & Streaming Content | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-29 | Mobile Editing & Creator Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-29 | Mobile Editing & Creator Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-30 | Professional Post-Production & Finishing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
