@@ -172,7 +172,7 @@ The `Agentic/EditSkill/` directory is the modular execution layer. A universal r
 | Workflows | End-to-end production planning and handoff |
 | Quality Control | Technical checks, creative review, and delivery validation |
 
-**Agent entry points:** [Universal router](Agentic/EditSkill/SKILL.md) · [Module directory](Agentic/EditSkill/README.md) · [Shared agent references](Agentic/EditSkill/references/README.md)
+**Agent entry points:** [Universal router](Agentic/EditSkill/SKILL.md) · [Module directory](Agentic/EditSkill/README.md) · [Shared agent references](Agentic/EditSkill/references/README.md) · [Structural audit](docs/AGENTIC-EDITSKILL-STRUCTURAL-AUDIT.md)
 
 The agent must not imply that it controls an application unless a compatible tool is actually available. It must distinguish a proposed action from an executed action and provide evidence for claimed results.
 
