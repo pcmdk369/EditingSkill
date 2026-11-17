@@ -71,7 +71,7 @@
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
 ## Current batch notes
-- CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 remain a supplement for integration. Software-version execution and independent review remain.
+- CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 have been integrated into the main textbook (separate supplement retained as reference). Software-version execution and independent review remain.
 - CT-02: Ten detailed academic lessons, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Software-specific execution, expanded practice assets and independent review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, two professional labs (interview paper edit/fact-check; claim ledger/chronology/editorial audit), one 50-point assessment and one three-minute documentary capstone brief are authored. Generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
