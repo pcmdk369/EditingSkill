@@ -22,6 +22,7 @@ Learners will plan capture, create stable mattes, suppress spill, integrate back
 
 ## Practical resources
 - [Lab 01 — Green-screen capture, keying and composite](CT-21/labs/lab-01-green-screen-capture-keying-and-composite.md)
+- [Lab 02 — Temporal key quality and alpha delivery QC](CT-21/labs/lab-02-temporal-key-quality-and-alpha-delivery-qc.md)
 - [Knowledge assessment and answer key](CT-21/assessment-quiz-and-answer-key.md)
 - [Virtual studio keying capstone](CT-21/capstone/README.md)
 
