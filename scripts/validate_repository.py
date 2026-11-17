@@ -163,7 +163,7 @@ def check_practice_assets() -> int:
     if transcript.is_file():
         try:
             content = transcript.read_text(encoding="utf-8").strip()
-            blocks = re.split(r"\\n\\s*\\n", content)
+            blocks = re.split(r"\n\s*\n", content)
             if not blocks or any(not re.match(r"^\d+\n\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}\n.+", block, re.S) for block in blocks):
                 fail("practice-assets/transcript.srt: malformed SRT cue block")
                 errors += 1
@@ -189,7 +189,8 @@ def main() -> int:
     if not (ROOT / "docs" / "COURSE-COMPLETION-REGISTER.md").is_file():
         fail("missing course completion register")
         errors += 1
-    errors += check_practice_assets()\n    errors += check_markdown_links()
+    errors += check_practice_assets()
+    errors += check_markdown_links()
     if errors:
         print(f"Repository validation failed: {errors} issue(s).")
         return 1
