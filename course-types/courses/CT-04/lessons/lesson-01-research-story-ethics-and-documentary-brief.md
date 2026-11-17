@@ -44,8 +44,10 @@ Create a two-page research brief for a 3-minute interview-led film, including ce
 ## Common errors and recovery
 | Symptom | Likely cause | Diagnosis | Recovery |
 |---|---|---|---|
-| Submit a brief, source register and ethics/risk memo | Insufficient review | Inspect the exact source, context and project record | Recheck against source and document correction |
-| Explain one editorial choice that could distort meaning and how you would prevent it. | Insufficient review | Inspect the exact source, context and project record | Recheck against source and document correction |
+| Quote changes meaning after trimming | Missing context or omitted qualification | Compare the select with the full source passage | Restore context, qualify the edit or remove the quote |
+| Consent scope does not cover intended distribution | Release terms misunderstood | Compare planned use with signed permission | Stop use until appropriate permission is obtained |
+| Research brief treats one account as universal | Sampling or perspective gap | Identify missing stakeholders and counter-evidence | Narrow the claim and seek additional perspectives |
+| Archival image has uncertain date or location | Weak provenance | Inspect source metadata and archive record | Label accurately, replace or omit the image |
 
 ## Knowledge check
 1. Why must the editor distinguish testimony from independently verified fact?
