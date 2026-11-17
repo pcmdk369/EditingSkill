@@ -9,18 +9,22 @@ Develop practical, transferable batch editing & media automation skills using a 
 ## Learning outcomes
 By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
 
-## Curriculum modules
-1. Command-line foundations
-2. FFmpeg inputs and outputs
-3. codecs and filters
-4. batch naming
-5. metadata
-6. watch folders
-7. scripts
-8. queues
-9. logs
-10. retries
-11. validation and safe automation.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Automation foundations](CT-27/lessons/lesson-01-media-automation-foundations-and-safe-file-operations.md) | Safe files and dry-runs |
+| Beginner / Intermediate | [02 — FFmpeg and probing](CT-27/lessons/lesson-02-ffmpeg-inputs-outputs-and-probing.md) | Inputs, outputs and metadata |
+| Intermediate | [03 — Codecs and filters](CT-27/lessons/lesson-03-codecs-filters-and-quality-tradeoffs.md) | Quality and compatibility |
+| Advanced | [04 — Naming and manifests](CT-27/lessons/lesson-04-batch-naming-metadata-and-manifests.md) | Batch identity and traceability |
+| Expert | [05 — Queues and retries](CT-27/lessons/lesson-05-expert-watch-folders-queues-and-retry-design.md) | Reliability and idempotency |
+| Master | [06 — Pipeline architecture](CT-27/lessons/lesson-06-master-pipeline-architecture-observability-and-governance.md) | Security and observability |
+| AI & Automation | [07 — AI-assisted automation](CT-27/lessons/lesson-07-ai-assisted-media-automation-and-validation.md) | Human review and provenance |
+| Professional Practice | [08 — Release testing and archive](CT-27/lessons/lesson-08-professional-automation-release-testing-and-archive.md) | Release gates and rollback |
+
+## Practical resources
+- [Lab 01 — Safe batch transcode and validation](CT-27/labs/lab-01-safe-batch-transcode-and-validation.md)
+- [Knowledge assessment and answer key](CT-27/assessment-quiz-and-answer-key.md)
+- [Reproducible batch pipeline capstone](CT-27/capstone/README.md)
 
 ## Practical capstone
 Create a repeatable batch transcode and quality-check pipeline.
@@ -38,7 +42,7 @@ Choose a currently supported application appropriate to the task. Learn the unde
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight stage-mapped lessons, one safe batch-transcode lab, one 50-point assessment and one reproducible pipeline capstone brief.** Execution, CI, platform compatibility and independent review remain outstanding; not marked validated or complete.
 
 
 ## PCMDK369™ academic and professional development requirements
