@@ -22,6 +22,7 @@ Learners will define retouch scope, use non-destructive tools, preserve identity
 
 ## Practical resources
 - [Lab 01 — Natural portrait retouch and subject review](CT-09/labs/lab-01-natural-portrait-retouch-and-subject-review.md)
+- [Lab 02 — Portrait consent and authenticity review](CT-09/labs/lab-02-portrait-consent-and-authenticity-review.md)
 - [Knowledge assessment and answer key](CT-09/assessment-quiz-and-answer-key.md)
 - [Professional portrait capstone](CT-09/capstone/README.md)
 
