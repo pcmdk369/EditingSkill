@@ -22,6 +22,7 @@ Learners will organize sessions, arrange and record music, mix with controlled p
 
 ## Practical resources
 - [Lab 01 — Arrangement, mix, master and stem delivery](CT-16/labs/lab-01-arrangement-mix-master-and-stem-delivery.md)
+- [Lab 02 — Mix translation and mastering reference audit](CT-16/labs/lab-02-mix-translation-and-mastering-reference-audit.md)
 - [Knowledge assessment and answer key](CT-16/assessment-quiz-and-answer-key.md)
 - [Original music cue capstone](CT-16/capstone/README.md)
 
