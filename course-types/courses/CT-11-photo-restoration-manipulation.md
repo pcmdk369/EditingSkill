@@ -22,6 +22,7 @@ Learners will assess damage, repair scans, recover tone/color cautiously, recons
 
 ## Practical resources
 - [Lab 01 — Historical photo restoration and provenance](CT-11/labs/lab-01-historical-photo-restoration-and-provenance.md)
+- [Lab 02 — Restoration evidence and preservation package](CT-11/labs/lab-02-restoration-evidence-and-preservation-package.md)
 - [Knowledge assessment and answer key](CT-11/assessment-quiz-and-answer-key.md)
 - [Documented restoration collection capstone](CT-11/capstone/README.md)
 
