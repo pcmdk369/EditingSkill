@@ -22,6 +22,7 @@ Learners will create readable motion, animate typography and shapes, build respo
 
 ## Practical resources
 - [Lab 01 — Kinetic type and responsive motion package](CT-19/labs/lab-01-kinetic-type-and-responsive-motion-package.md)
+- [Lab 02 — Data-driven motion, localization and template QC](CT-19/labs/lab-02-data-driven-motion-localization-and-template-qc.md)
 - [Knowledge assessment and answer key](CT-19/assessment-quiz-and-answer-key.md)
 - [Responsive motion identity capstone](CT-19/capstone/README.md)
 
