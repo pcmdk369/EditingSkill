@@ -9,17 +9,23 @@ Develop practical, transferable ai-assisted video editing skills using a tool-in
 ## Learning outcomes
 By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
 
-## Curriculum modules
-1. Media analysis
-2. scene detection
-3. transcript-based editing
-4. highlight selection
-5. rough-cut assistance
-6. generative video planning
-7. continuity checks
-8. upscaling
-9. human approval
-10. output validation.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Media analysis and use cases](CT-25/lessons/lesson-01-ai-video-editing-foundations-media-analysis-and-use-cases.md) | Task selection and source |
+| Beginner / Intermediate | [02 — Transcription and scene detection](CT-25/lessons/lesson-02-ai-transcription-scene-detection-and-searchable-media.md) | Searchable media |
+| Intermediate | [03 — Reframing and rough-cut assistance](CT-25/lessons/lesson-03-smart-reframing-highlights-and-rough-cut-assistance.md) | Human-reviewed suggestions |
+| Advanced | [04 — Generative continuity and extension](CT-25/lessons/lesson-04-advanced-generative-video-continuity-and-shot-extension.md) | Temporal consistency |
+| Expert | [05 — Pipeline evaluation and automation](CT-25/lessons/lesson-05-expert-ai-video-pipeline-evaluation-and-batch-automation.md) | Repeatable QA |
+| Master | [06 — Editorial direction and ethics](CT-25/lessons/lesson-06-master-ai-video-editorial-direction-ethics-and-approval.md) | Approval governance |
+| AI & Automation | [07 — Voice, consent and provenance](CT-25/lessons/lesson-07-ai-video-generation-consent-provenance-and-platform-rules.md) | Synthetic media safety |
+| Professional Practice | [08 — Delivery and QC](CT-25/lessons/lesson-08-professional-ai-video-delivery-qc-and-archive.md) | Handoff and archive |
+
+## Practical resources
+- [Lab 01 — AI-assisted short video and human QC](CT-25/labs/lab-01-ai-assisted-short-video-and-human-qc.md)
+- [Lab 02 — AI highlight evaluation and continuity review](CT-25/labs/lab-02-ai-highlight-evaluation-and-continuity-review.md)
+- [Knowledge assessment and answer key](CT-25/assessment-quiz-and-answer-key.md)
+- [Human-reviewed AI-assisted video capstone](CT-25/capstone/README.md)
 
 ## Practical capstone
 Build a human-reviewed AI-assisted edit from source footage with reproducible settings.
@@ -37,7 +43,7 @@ Choose a currently supported application appropriate to the task. Learn the unde
 Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight stage-mapped lessons, two practical labs, one assessment and one capstone brief.** Provider-specific testing, privacy/legal review, software execution and independent validation remain outstanding; not marked validated or complete.
 
 
 ## PCMDK369™ academic and professional development requirements
