@@ -164,7 +164,7 @@ def check_practice_assets() -> int:
         try:
             content = transcript.read_text(encoding="utf-8").strip()
             blocks = re.split(r"\\n\\s*\\n", content)
-            if not blocks or any(not re.match(r"^\\d+\\n\\d{2}:\\d{2}:\\d{2},\\d{3} --> \\d{2}:\\d{2}:\\d{2},\\d{3}\\n.+", block, re.S) for block in blocks):
+            if not blocks or any(not re.match(r"^\d+\n\d{2}:\d{2}:\d{2},\d{3} --> \d{2}:\d{2}:\d{2},\d{3}\n.+", block, re.S) for block in blocks):
                 fail("practice-assets/transcript.srt: malformed SRT cue block")
                 errors += 1
         except (OSError, UnicodeDecodeError) as exc:
