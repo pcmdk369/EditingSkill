@@ -8,6 +8,20 @@ description: Specialist agent instructions for image editing within the universa
 ## Scope
 Transform raster images through crop, retouch, masks, layers, compositing, restoration and format conversion.
 
+## Activation and intake
+
+Activate this module when the requested work changes, repairs, combines, crops, resizes, converts or evaluates a raster image. Do not route a primarily photographic authenticity or portrait-retouch task here alone; coordinate with the photo-editing specialist when identity, historical fidelity or photographic disclosure is central.
+
+Before editing, identify:
+- the original file and whether it is RAW, raster, layered or already compressed;
+- dimensions, bit depth, alpha/transparency, embedded profile and intended output profile;
+- the requested change, protected regions and any prohibited alterations;
+- intended display/print use, output dimensions, format and delivery deadline;
+- ownership, license, depicted-person consent and any confidential or personal information;
+- whether layers, masks, metadata or an editable project must be preserved.
+
+If the source profile, target use or authorization is unknown, preserve the original and record the uncertainty before proceeding.
+
 ## Core principles
 Preserve source pixels where practical; use layers, masks and adjustment layers; maintain aspect ratio and color profile; document generative or synthetic changes.
 
