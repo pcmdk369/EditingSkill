@@ -8,6 +8,12 @@ description: Specialist agent instructions for audio editing within the universa
 ## Scope
 Edit dialogue, podcasts, music and sound effects; clean noise; manage levels; mix, master and export audio deliverables.
 
+## Activation and intake
+
+Activate this module for dialogue, podcast, music, sound-effect or multichannel audio editing, cleanup, mixing, mastering preparation or audio-delivery diagnosis. Coordinate with video-editing when synchronization or picture-locked delivery is involved.
+
+Collect the original recordings and channel/stem layout, sample rate, bit depth, duration, sync reference, intended use, delivery format, loudness/peak requirements and monitoring constraints. Identify the source of every music, effect and voice asset and confirm performer/recording permissions. Ask whether noise removal, pitch correction, time compression or other processing may alter meaning or performance. Preserve untreated originals and record the exact audio version used for each approved mix.
+
 ## Core principles
 Preserve original recordings; use gain staging and non-destructive processing; distinguish loudness from peak level; avoid over-processing and phase problems.
 
