@@ -32,3 +32,24 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## VFX shot workflow and technical controls
+
+### Intake
+Record plate frame rate, resolution, lens/camera data, color space, alpha convention, render passes, handles, shot range and target comp/export requirements.
+
+### Procedure
+1. Inspect plate and source passes; confirm frame range and metadata.
+2. Establish color-managed linear compositing where required.
+3. Build roto/key/tracking elements with versioned mattes.
+4. Verify premultiplication and edge color.
+5. Integrate lighting, shadow, reflection, depth of field, motion blur and grain.
+6. Review temporal stability across the full shot.
+7. Render a proof and compare with reference.
+8. Export with agreed codec, bit depth, color and alpha.
+9. Reopen in receiving application and validate.
+10. Package comp script, LUTs, caches, plates, passes and manifest.
+
+### QC
+Inspect matte chatter, edge fringing, tracking drift, flicker, color mismatch, missing frames, alpha inversion, render noise and dependency portability. Do not call a shot final until the receiving pipeline has checked it.
