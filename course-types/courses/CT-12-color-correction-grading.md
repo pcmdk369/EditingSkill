@@ -22,6 +22,7 @@ Learners will use scopes, manage transforms, match shots, create looks, evaluate
 
 ## Practical resources
 - [Lab 01 — Shot matching and color pipeline](CT-12/labs/lab-01-shot-matching-and-color-pipeline.md)
+- [Lab 02 — Color pipeline conform and SDR/HDR audit](CT-12/labs/lab-02-color-pipeline-conform-and-sdr-hdr-audit.md)
 - [Knowledge assessment and answer key](CT-12/assessment-quiz-and-answer-key.md)
 - [Matched scene and look capstone](CT-12/capstone/README.md)
 
