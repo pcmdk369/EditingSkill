@@ -73,7 +73,7 @@ The audit checked for module identity/front matter, scope, activation or intake,
 
 ### Activation/intake improvements in this batch
 
-The following modules previously relied on a scope and generic task procedure without a clearly labeled activation/intake contract. Each now states when it should be selected and what task-specific information must be collected before work:
+Fourteen modules received explicit activation/intake sections in this batch. The video-editing and subtitles specialists already had clearly labeled activation/intake sections. Each updated module now states when it should be selected and what task-specific information must be collected before work:
 
 - [Audio editing](../Agentic/EditSkill/audio-editing/SKILL.md)
 - [Image editing](../Agentic/EditSkill/image-editing/SKILL.md)
