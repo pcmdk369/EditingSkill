@@ -22,6 +22,7 @@ Learners will map song structure, synchronize source recordings, select performa
 
 ## Practical resources
 - [Lab 01 — Multicamera performance sync and edit](CT-06/labs/lab-01-multicamera-performance-sync-and-edit.md)
+- [Lab 02 — Sync drift and music rights audit](CT-06/labs/lab-02-sync-drift-and-music-rights-audit.md)
 - [Knowledge assessment and answer key](CT-06/assessment-quiz-and-answer-key.md)
 - [Music-video/performance capstone](CT-06/capstone/README.md)
 
@@ -32,7 +33,7 @@ Use a current NLE with waveform display, synchronized/multicamera editing, retim
 Pass the 50-point assessment, submit the lab and capstone, meet mandatory music/likeness rights and sync gates, and provide a traceable delivery package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal academic, rights and technical review, software execution and learner validation remain outstanding; course is not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal academic, rights and technical review, software execution and learner validation remain outstanding; course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
