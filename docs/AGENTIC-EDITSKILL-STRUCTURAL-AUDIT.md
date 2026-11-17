@@ -75,16 +75,22 @@ The audit checked for module identity/front matter, scope, activation or intake,
 
 The following modules previously relied on a scope and generic task procedure without a clearly labeled activation/intake contract. Each now states when it should be selected and what task-specific information must be collected before work:
 
+- [Audio editing](../Agentic/EditSkill/audio-editing/SKILL.md)
 - [Image editing](../Agentic/EditSkill/image-editing/SKILL.md)
 - [Photo editing](../Agentic/EditSkill/photo-editing/SKILL.md)
+- [Graphic design](../Agentic/EditSkill/graphic-design/SKILL.md)
 - [Animation](../Agentic/EditSkill/animation/SKILL.md)
 - [Motion graphics](../Agentic/EditSkill/motion-graphics/SKILL.md)
+- [3D editing](../Agentic/EditSkill/3d-editing/SKILL.md)
+- [Visual effects](../Agentic/EditSkill/vfx/SKILL.md)
 - [Color grading](../Agentic/EditSkill/color-grading/SKILL.md)
 - [AI editing](../Agentic/EditSkill/ai-editing/SKILL.md)
+- [Editing automation](../Agentic/EditSkill/automation/SKILL.md)
 - [Software tools](../Agentic/EditSkill/software-tools/SKILL.md)
+- [Production workflows](../Agentic/EditSkill/workflows/SKILL.md)
 - [Quality control](../Agentic/EditSkill/quality-control/SKILL.md)
 
-The additions define discipline-specific inputs such as source format, color profile, frame rate, approved copy, font rights, display target, provider data terms, operating system/application version, candidate export, acceptance criteria and test evidence.
+The additions define discipline-specific inputs such as audio channel/stem layout, image source format and color profile, frame rate, approved copy and font rights, 3D scene dependencies, VFX plate metadata, display target, provider data terms, operating system/application version, batch overwrite policy, candidate export, acceptance criteria and test evidence.
 
 ## 5. Gaps and limits
 
