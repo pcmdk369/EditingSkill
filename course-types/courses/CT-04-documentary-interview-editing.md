@@ -33,7 +33,7 @@ Use a current NLE with transcript/logging support where available. Transcription
 Pass the 50-point knowledge assessment, submit the lab and capstone, meet factual integrity and rights/consent gates, and provide a traceable delivery package. Suggested capstone pass threshold: 80/100. Formal course review and actual learner validation remain required.
 
 ## Course status
-**Authored — eight-stage initial pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Independent academic/legal/technical review, software execution and learner evidence remain outstanding; course is not marked reviewed, validated or complete.
+**Authored — eight-stage initial pathway and practical assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Independent academic/legal/technical review, software execution and learner evidence remain outstanding; course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Apply shared lesson, lab and assessment templates. Verify jurisdiction-specific rights, releases, privacy and participant-care requirements before production.
