@@ -27,6 +27,10 @@ Start with [SKILL.md](SKILL.md). It classifies requests, defines safety and exec
 ## Mandatory quality standard
 All 16 specialist modules and every future specialist module must comply with [the PCMDK369™ Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Each module must document scope, activation, inputs, terminology, professional workflow, tool/version verification, safety and approval boundaries, discipline-specific quality gates, troubleshooting, evidence and handoff. See [module requirements](./references/course-standard.md).
 
+## Structural audit
+
+The current [Agentic/EditSkill structural audit](../../docs/AGENTIC-EDITSKILL-STRUCTURAL-AUDIT.md) records the 16-module inventory, universal routing checks, specialist activation/intake coverage and outstanding runtime-validation work. Structural presence does not imply that a runtime or external editing tool has been executed.
+
 ## Relationship to the main curriculum
 This directory is an agent execution layer, not a replacement for the main EditingSkill curriculum. Use the root [SKILL.md](../../SKILL.md), [course types](../../course-types/README.md), curriculum, departments, software, workflows, quality control and safety/licensing references as the sources of truth.
 
