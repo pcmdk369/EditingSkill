@@ -22,6 +22,7 @@ Learners will record synchronized Foley, build believable environments, design i
 
 ## Practical resources
 - [Lab 01 — Foley, ambience and sound design mix](CT-15/labs/lab-01-foley-ambience-and-sound-design-mix.md)
+- [Lab 02 — Foley perspective and sound-library provenance](CT-15/labs/lab-02-foley-perspective-and-sound-library-provenance.md)
 - [Knowledge assessment and answer key](CT-15/assessment-quiz-and-answer-key.md)
 - [Short-scene sound design capstone](CT-15/capstone/README.md)
 
