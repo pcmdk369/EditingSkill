@@ -22,6 +22,7 @@ Learners will plan animation, control timing/spacing, build readable motion, mai
 
 ## Practical resources
 - [Lab 01 — Bouncing ball and character walk cycle](CT-17/labs/lab-01-bouncing-ball-and-character-walk-cycle.md)
+- [Lab 02 — Animation timing, cleanup and frame-sequence QC](CT-17/labs/lab-02-animation-timing-cleanup-and-frame-sequence-qc.md)
 - [Knowledge assessment and answer key](CT-17/assessment-quiz-and-answer-key.md)
 - [Original 2D animated short capstone](CT-17/capstone/README.md)
 
@@ -32,7 +33,7 @@ Use a current 2D animation application with timeline, layers and image-sequence 
 Pass the 50-point assessment, submit lab and capstone, meet rights/model consistency gates and provide editable source plus validated export. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one animation lab, one knowledge assessment and one capstone brief are present. Software execution, animation review and image-sequence validation remain outstanding; not marked reviewed, validated or complete.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two animation labs, one knowledge assessment and one capstone brief are present. Software execution, animation review and image-sequence validation remain outstanding; not marked reviewed, validated or complete.
 
 ## PCMDK369™ standard
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
