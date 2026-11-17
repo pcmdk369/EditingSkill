@@ -189,7 +189,7 @@ def main() -> int:
     for number in range(1, 31):
         course_id = f"CT-{number:02d}"
         course_dir = course_root / course_id
-        lesson_files = [p for p in course_dir.rglob("*.md") if re.search(r"lesson-\\d+", p.name)]
+        lesson_files = [p for p in course_dir.rglob("*.md") if re.search(r"lesson-\d+", p.name)]
         expected_lessons = 14 if number == 1 else 10 if number == 2 else 8
         if len(lesson_files) != expected_lessons:
             fail(f"{course_id}: expected {expected_lessons} lesson files, found {len(lesson_files)}")
