@@ -139,5 +139,5 @@ Never claim that a render, export, review or test occurred unless the available 
 
 - [CT-01 Video Editing](../../../course-types/courses/CT-01-video-editing.md)
 - [CT-03 Short-Form & Social Video](../../../course-types/courses/CT-03-short-form-social-video.md)
-- [Professional Academic Standard](../../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
+- [Professional Academic Standard](../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
 - [Shared course standard](../references/course-standard.md)
