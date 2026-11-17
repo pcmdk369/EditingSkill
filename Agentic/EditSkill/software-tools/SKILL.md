@@ -32,3 +32,24 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## Version-aware software selection and interoperability
+
+### Selection criteria
+Match application to task, OS/device, hardware, budget, license, collaboration, accessibility, file formats, plugin requirements and delivery constraints. Distinguish native project files from interchange and rendered deliverables.
+
+### Verification workflow
+1. Record exact app, version, OS and relevant plugin/codec versions.
+2. Check current official documentation and known format limitations.
+3. Build a minimal test project using representative media.
+4. Test import, relink, effects, fonts, color management, audio channels and export.
+5. Test project transfer to a clean location or second device where feasible.
+6. Record unsupported features and acceptable fallbacks.
+7. Recheck after major app or plugin upgrades.
+
+### Interchange caution
+XML/EDL/AAF/OTIO and image/audio interchange formats do not guarantee identical effects, transitions, color transforms or plugin behavior. Treat interchange as a conform starting point; compare the resulting timeline and rendered proof.
+
+### Recommendation output
+Provide primary option, viable alternative, required hardware/OS, licensing/cost caveat, compatibility risks, verified version/date and migration path. Do not invent a feature or claim a current price without evidence.
