@@ -8,6 +8,12 @@ description: Specialist agent instructions for motion graphics within the univer
 ## Scope
 Create titles, kinetic typography, explainers, transitions, lower thirds and branded motion systems.
 
+## Activation and intake
+
+Activate this module when the task centers on animated typography, titles, lower thirds, explainers, branded transitions, interface motion or reusable motion templates. Coordinate with graphic-design for static identity/layout systems and with animation for character or physically motivated motion.
+
+Obtain the approved copy, brand guidelines, logo and asset files, font licenses, language/localization list, audience and reading context. Confirm canvas dimensions, aspect ratios, frame rate, duration, safe areas, background/alpha requirements, delivery codec and whether a template or rendered file is required. Identify text that must remain verbatim, accessibility requirements, contrast constraints and any reduced-motion alternative. Do not invent brand rules, substitute unlicensed fonts or silently rewrite factual or legal copy. Record the exact application/version before giving menu-specific instructions.
+
 ## Core principles
 Use typography as information; design for safe areas and reading time; keep motion purposeful; maintain consistent easing and visual hierarchy.
 
