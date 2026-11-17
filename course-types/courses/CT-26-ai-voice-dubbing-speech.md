@@ -23,6 +23,7 @@ By completion, learners should be able to plan the work, select appropriate tool
 
 ## Practical resources
 - [Lab 01 — Localized dubbing and consent-first voice production](CT-26/labs/lab-01-localized-dubbing-and-consent-first-voice-production.md)
+- [Lab 02 — Pronunciation, voice continuity and dubbing QC](CT-26/labs/lab-02-pronunciation-voice-continuity-and-dubbing-qc.md)
 - [Knowledge assessment and answer key](CT-26/assessment-quiz-and-answer-key.md)
 - [Consent-first localized voice capstone](CT-26/capstone/README.md)
 
