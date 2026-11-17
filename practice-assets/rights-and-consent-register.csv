@@ -1,0 +1,5 @@
+asset_id,asset_or_contribution,owner_or_source,permission_scope,territory,term,attribution_required,privacy_or_consent_check,approval_evidence,status,release_gate
+A001-A004,Fictional video descriptions,Training scenario,Educational exercise only,Not applicable,Not applicable,No,No real person or footage supplied,No external permission represented,TRAINING_ONLY,Do not publish as real footage
+A005,Fictional narration transcript,Training scenario,Subtitle and editing practice,Not applicable,Not applicable,No,No real voice recording supplied,No external permission represented,TRAINING_ONLY,Do not synthesize or impersonate a real person
+A006,Fictional room-tone description,Training scenario,Sound-design planning only,Not applicable,Not applicable,No,No recording supplied,No external permission represented,TRAINING_ONLY,No audio asset supplied
+LEARNER_ASSET,Any media added by learner,Record actual creator or licensor,Record exact permitted uses,Record territory,Record expiry or perpetual basis,Record requirement,Check releases and sensitive information,Link signed release or license receipt,UNVERIFIED,Block public/commercial release until verified
