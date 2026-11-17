@@ -9,6 +9,8 @@
 
 - CT-13: Eight stage-mapped lessons, two professional labs (dialogue cleanup/loudness; multichannel stems and delivery QC), one knowledge assessment and one audio post capstone brief are authored. Formal review and execution remain.
 
+- CT-14: Eight stage-mapped lessons, two professional labs (two-person podcast edit; remote guest sync, transcript and consent), one knowledge assessment and one podcast capstone brief are authored. Formal review and execution remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -46,7 +48,7 @@
 | CT-11 | Photo Restoration & Manipulation | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-12 | Color Correction & Color Grading | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-13 | Audio Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-14 | Dialogue, Voice & Podcast Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-15 | Sound Design & Foley | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-17 | 2D Animation | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
