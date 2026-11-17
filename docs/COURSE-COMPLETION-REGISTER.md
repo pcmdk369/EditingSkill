@@ -37,8 +37,8 @@
 ## 30-course register
 | ID | Course | Outline | Lessons | Labs | Assessment | Capstone | Review | Status |
 |---|---|---|---|---|---|---|---|---|
-| CT-01 | Video Editing | Existing | In progress | In progress | Existing; expand | Added pack | Pending | Authored / review pending |
-| CT-02 | Film & Cinematic Editing | Existing | In progress | Existing | Existing | Expand | Pending | Authored / review pending |
+| CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
+| CT-02 | Film & Cinematic Editing | Existing | 10 authored | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -71,8 +71,8 @@
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
 ## Current batch notes
-- CT-01: Chapters 10–15 supplement and capstone pack added; textbook integration, source assets and technical review remain.
-- CT-02: Lessons 01–10, textbook/workbook, labs and assessment resources are present; software-specific execution and review remain.
+- CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 remain a supplement for integration. Software-version execution and independent review remain.
+- CT-02: Ten detailed academic lessons, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Software-specific execution, expanded practice assets and independent review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, two professional labs (interview paper edit/fact-check; claim ledger/chronology/editorial audit), one 50-point assessment and one three-minute documentary capstone brief are authored. Generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
 - CT-05: Eight stage-mapped lessons, two professional labs (campaign cutdowns; claim ledger/rights/approval gates), one 50-point assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
