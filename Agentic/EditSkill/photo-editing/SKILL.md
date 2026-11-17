@@ -8,6 +8,12 @@ description: Specialist agent instructions for photo editing within the universa
 ## Scope
 Develop and retouch photographs while preserving believable detail, tonal range, skin texture and photographic intent.
 
+## Activation and intake
+
+Activate this module for photographic correction, portrait retouching, RAW development, restoration, batch photo consistency or photographic delivery. Coordinate with image-editing for complex composites and with quality-control for independent acceptance review.
+
+Collect the original RAW or highest-quality source, camera/profile metadata where available, intended output and viewing context, reference images, crop constraints, requested retouch level and batch membership. Confirm whether the image is documentary, journalistic, evidentiary, commercial or personal; that context determines which changes could misrepresent reality. Establish subject consent and privacy limits, especially for sensitive portraits or private events. Record whether identity, body shape, skin texture, age indicators, scene details or historical evidence must remain unchanged. Do not infer permission to materially alter a person's appearance from a general request to improve image quality.
+
 ## Core principles
 Separate global correction from local retouching; protect highlights/shadows; avoid identity-altering edits unless explicitly requested and appropriate; retain original RAW/source files.
 
