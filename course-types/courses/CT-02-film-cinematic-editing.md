@@ -62,7 +62,7 @@ The textbook and workbook are the primary learner resources. External references
 9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)
 10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
 
-Lessons 01–10 are authored using the mandatory academic structure. The new Lessons 06–10 extend the sequence through synchronization, picture lock, finishing/QC, AI-assisted editorial workflows and professional review/archive practice. They are tool-independent; software-specific walkthroughs, expanded practice assets and independent technical review remain separate development work.
+Lessons 01–10 have authored lesson files. Lesson 06 was expanded in revision 2.0 into a detailed advanced academic lesson covering synchronization theory, timecode limitations, fixed offset versus drift, multi-point verification, audio strategy, multicamera editorial decisions and documented QC. Lessons 07–10 remain shorter working lessons and require the same depth of expansion and review. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; software-specific walkthroughs, expanded practice assets and independent technical review remain separate development work.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
