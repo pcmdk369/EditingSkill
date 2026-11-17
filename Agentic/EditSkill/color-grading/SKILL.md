@@ -32,3 +32,29 @@ State inputs consumed, operations completed, output specification, QC result, kn
 
 ## PCMDK369™ academic and professional module compliance
 This specialist module is governed by the [repository-wide Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md) and [agent module requirements](../references/course-standard.md). For teaching requests, use the shared academic lesson structure and provide measurable outcomes, prerequisites, definitions, theory, verified tools/alternatives, reproducible steps, worked examples, practice, troubleshooting, assessment evidence and QC. For implementation requests, document the brief, environment/version, inputs and rights, architecture, safe procedure, expected outputs, validation tests, recovery and handoff. Include discipline-specific risks and quality criteria; preserve human approval for consequential or external actions. Report actual evidence and limitations without inventing tool execution or test results.
+
+
+## Color pipeline implementation
+
+### Source-to-output chain
+Record source camera/log/gamut, input transform, working space, timeline settings, monitoring/display transform, creative look and output transform. Keep technical normalization separate from creative look development.
+
+### Procedure
+1. Inventory sources and group by camera/profile.
+2. Confirm timeline frame rate and color-management mode.
+3. Set one intentional input-transform strategy; avoid double transforms.
+4. Balance exposure and white balance using scopes and reference frames.
+5. Match shots before applying creative look.
+6. Use secondary keys/masks only where justified and inspect edges.
+7. Check skin/object hues, highlight roll-off, shadow detail and saturation.
+8. Create separate output transforms for each requested delivery target.
+9. Render short proofs and inspect metadata and playback.
+10. Record LUT versions, color configuration and limitations.
+
+### Scope interpretation
+Use waveform for signal level, RGB parade for channel balance and vectorscope for hue/saturation. Verify scale, legal/full range and transfer assumptions before applying numeric thresholds.
+
+### QC and troubleshooting
+Check clipping, gamut excursions, banding, noise, shot jumps, skin consistency, LUT double-application, range tags, output transform and metadata. If devices disagree, verify profiles and display state before changing the grade.
+
+Do not claim calibrated color accuracy unless the monitoring chain has been measured and documented. HDR and SDR are separate targets requiring explicit transforms and review.
