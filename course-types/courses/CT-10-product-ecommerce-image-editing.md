@@ -22,6 +22,7 @@ Learners will interpret product specifications, map assets to variants, preserve
 
 ## Practical resources
 - [Lab 01 — Product variant catalog and QC](CT-10/labs/lab-01-product-variant-catalog-and-qc.md)
+- [Lab 02 — SKU image reconciliation and catalog release](CT-10/labs/lab-02-sku-image-reconciliation-and-catalog-release.md)
 - [Knowledge assessment and answer key](CT-10/assessment-quiz-and-answer-key.md)
 - [Professional product catalog capstone](CT-10/capstone/README.md)
 
