@@ -53,8 +53,8 @@
 | CT-16 | Music Production & Audio Mixing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-17 | 2D Animation | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-18 | 3D Animation | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-20 | Visual Effects & Compositing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-19 | Motion Graphics & Kinetic Typography | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-20 | Visual Effects & Compositing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-21 | Green Screen & Chroma Key | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
