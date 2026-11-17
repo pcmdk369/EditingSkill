@@ -80,7 +80,7 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, two professional labs (interview paper edit/fact-check; claim ledger/chronology/editorial audit), one 50-point assessment and one three-minute documentary capstone brief are authored. Generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
 - CT-05: Eight stage-mapped lessons, two professional labs (campaign cutdowns; claim ledger/rights/approval gates), one 50-point assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
-- Agent Skills: All 16 specialist modules are present and routed by the universal entry point. A static structural audit is recorded in `docs/AGENTIC-EDITSKILL-STRUCTURAL-AUDIT.md`; eight modules received explicit activation/intake contracts in this batch. Static inspection is not agent-runtime or software-execution validation.
+- Agent Skills: All 16 specialist modules are present and routed by the universal entry point. A static structural audit is recorded in `docs/AGENTIC-EDITSKILL-STRUCTURAL-AUDIT.md`; fourteen modules received explicit activation/intake contracts in this batch. Static inspection is not agent-runtime or software-execution validation.
 
 - CT-06: Eight stage-mapped lessons, two professional labs (multicamera sync; sync-drift and music-rights audit), one 50-point assessment and one music-video capstone brief are authored. Rights/technical review, software execution and learner validation remain.
 
@@ -131,4 +131,4 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 ## 2026-11-17 batch update
 - CT-02 Lesson 08 expanded to revision 2.0; Lessons 09–10 remain the next lesson-quality targets.
 - Register formatting corrected: CT-25–CT-30 now include the missing Outline column, and the shared practice-resource section uses normal Markdown line breaks.
-- Agentic/EditSkill: eight specialist modules received explicit activation and intake sections; all 16 modules were included in the static structural audit. Independent review and runtime validation remain pending.
+- Agentic/EditSkill: fourteen specialist modules received explicit activation and intake sections; all 16 modules were included in the static structural audit. Independent review and runtime validation remain pending.
