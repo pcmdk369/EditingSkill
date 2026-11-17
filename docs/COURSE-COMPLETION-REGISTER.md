@@ -57,8 +57,8 @@
 | CT-20 | Visual Effects & Compositing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-21 | Green Screen & Chroma Key | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-22 | 3D Modeling, Materials & Rendering | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
-| CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-23 | Subtitles, Captions & Localization | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-24 | AI-Assisted Image Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-25 | AI-Assisted Video Editing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-26 | AI Voice, Dubbing & Speech Workflows | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
 | CT-27 | Batch Editing & Media Automation | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
