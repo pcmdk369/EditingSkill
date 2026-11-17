@@ -8,6 +8,12 @@ description: Specialist agent instructions for graphic design within the univers
 ## Scope
 Create visual communication systems: layout, hierarchy, typography, color, identity assets, posters, thumbnails and production graphics.
 
+## Activation and intake
+
+Activate this module for visual communication, page or screen layout, typography, identity assets, posters, thumbnails, infographics and production graphics. Coordinate with motion-graphics when the design must animate and with image-editing when raster retouching is the main task.
+
+Obtain the audience, message, approved copy, hierarchy, dimensions, output media, brand guidelines, reference assets and editable-file requirements. Confirm font and image licenses, logo permissions, language/localization needs, contrast and legibility requirements, print bleed or digital safe areas, and any text that must remain exact. Do not invent brand rules or rewrite regulated, factual or legal copy without approval. Record the intended output profile and export requirements.
+
 ## Core principles
 Start with audience, message and hierarchy; use licensed fonts/assets; maintain grid, alignment, contrast and brand consistency; prepare editable source files.
 
