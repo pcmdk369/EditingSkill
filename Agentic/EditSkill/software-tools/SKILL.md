@@ -8,6 +8,12 @@ description: Specialist agent instructions for software tools within the univers
 ## Scope
 Select and operate editing applications, command-line utilities, plugins and interchange formats with version-aware guidance.
 
+## Activation and intake
+
+Activate this module when selecting, comparing, installing, configuring, troubleshooting or documenting a creative application, plugin, codec, command-line utility or interchange workflow. Coordinate with the relevant discipline specialist so software choice follows the actual production need.
+
+Collect operating system and version, device/CPU/GPU/RAM/storage where relevant, application and edition/version, license status, project format, required codecs, plugins, collaboration needs, budget and delivery constraints. Identify the exact task and acceptance output before recommending a product. Verify current vendor documentation, supported platforms, feature availability and license terms; distinguish a documented feature from a feature merely assumed to exist. Never claim installation, compatibility testing or successful execution unless a tool result or reproducible test confirms it.
+
 ## Core principles
 Recommend based on task, device, budget, license, collaboration and output needs; distinguish supported features from assumed features; prefer portable formats.
 
