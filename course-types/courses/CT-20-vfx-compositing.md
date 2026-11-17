@@ -22,6 +22,7 @@ Learners will build stable mattes, integrate elements, solve motion, manage colo
 
 ## Practical resources
 - [Lab 01 — Screen keying, tracking and compositing](CT-20/labs/lab-01-screen-keying-tracking-and-compositing.md)
+- [Lab 02 — Multipass, alpha and compositing conform QC](CT-20/labs/lab-02-multipass-alpha-and-compositing-conform-qc.md)
 - [Knowledge assessment and answer key](CT-20/assessment-quiz-and-answer-key.md)
 - [Integrated VFX shot capstone](CT-20/capstone/README.md)
 
