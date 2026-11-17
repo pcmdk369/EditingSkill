@@ -8,6 +8,12 @@ description: Specialist agent instructions for editing automation within the uni
 ## Scope
 Build repeatable media pipelines for batch conversion, proxy creation, transcoding, metadata, naming, rendering and delivery.
 
+## Activation and intake
+
+Activate this module for repeatable batch processing, transcoding, proxy creation, metadata extraction, watch-folder workflows, scripted edits, queue orchestration or automated delivery. Coordinate with software-tools for environment compatibility and quality-control for independent output testing.
+
+Define the input set and file-selection rules, expected counts, output structure, naming convention, target formats, application/command versions, resource limits, logging needs and retry policy. Identify which operations are read-only, reversible or destructive; specify whether overwrite is prohibited and who can authorize it. Require a dry run or small sample before a full batch, an idempotency strategy where possible, failure isolation and a recovery plan. Never assume a script, binary, codec or filesystem permission exists until verified.
+
 ## Core principles
 Use idempotent steps where possible; validate inputs; log operations; isolate failures; avoid destructive overwrites; provide dry-run modes for batch jobs.
 
