@@ -186,6 +186,25 @@ def main() -> int:
         if not path.is_file():
             fail(f"missing specialist skill: {path.relative_to(ROOT)}")
             errors += 1
+    for number in range(1, 31):
+        course_id = f"CT-{number:02d}"
+        course_dir = course_root / course_id
+        lesson_files = [p for p in course_dir.rglob("*.md") if re.search(r"lesson-\\d+", p.name)]
+        expected_lessons = 14 if number == 1 else 10 if number == 2 else 8
+        if len(lesson_files) != expected_lessons:
+            fail(f"{course_id}: expected {expected_lessons} lesson files, found {len(lesson_files)}")
+            errors += 1
+        lab_files = [p for p in course_dir.rglob("*.md") if p.parent.name in ("labs", "software-labs")]
+        expected_labs = 4 if number in (1, 2) else 2
+        if len(lab_files) != expected_labs:
+            fail(f"{course_id}: expected {expected_labs} lab files, found {len(lab_files)}")
+            errors += 1
+        if not any("assessment" in p.name.lower() or "quiz" in p.name.lower() for p in course_dir.rglob("*.md")):
+            fail(f"{course_id}: missing assessment resource")
+            errors += 1
+        if not (course_dir / "capstone").is_dir():
+            fail(f"{course_id}: missing capstone directory")
+            errors += 1
     if not (ROOT / "docs" / "COURSE-COMPLETION-REGISTER.md").is_file():
         fail("missing course completion register")
         errors += 1
@@ -194,7 +213,7 @@ def main() -> int:
     if errors:
         print(f"Repository validation failed: {errors} issue(s).")
         return 1
-    print(f"Repository validation passed: {len(COURSES)} course entry points, {len(SKILLS)} specialist skills, practice datasets and SRT structure, Markdown links checked.")
+    print(f"Repository validation passed: {len(COURSES)} course entry points, lesson/lab/assessment/capstone counts, {len(SKILLS)} specialist skills, practice datasets and SRT structure, Markdown links checked.")
     print("Note: this validates repository structure and local links, not pedagogical quality, legal compliance, application execution or media renders.")
     return 0
 
