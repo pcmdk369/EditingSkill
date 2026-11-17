@@ -62,14 +62,14 @@ The textbook and workbook are the primary learner resources. External references
 9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)
 10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
 
-Lessons 01–07 have authored lesson files. Lessons 05 and 06 were expanded into detailed academic lessons; Lesson 07 was expanded in revision 2.0 into a full editorial workflow lesson covering staged commitment, assembly, rough-cut diagnosis, feedback disposition, fine-cut refinement, picture-lock approval, turnover and post-lock change control. Lessons 08–10 remain shorter working lessons and require the same depth of expansion and review. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; software-specific walkthroughs, expanded practice assets and independent technical review remain separate development work.
+Lessons 01–10 have authored lesson files. Lessons 05 and 06 were expanded into detailed academic lessons; Lesson 07 was expanded in revision 2.0 into a full editorial workflow lesson covering staged commitment, assembly, rough-cut diagnosis, feedback disposition, fine-cut refinement, picture-lock approval, turnover and post-lock change control. Lesson 08 was expanded in revision 2.0 into a full finishing, delivery and independent-QC lesson. Lessons 09–10 remain shorter working lessons and require the same depth of expansion and review. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; software-specific walkthroughs, expanded practice assets and independent technical review remain separate development work.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook, student workbook, ten detailed academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Software-specific implementation, expanded practice assets, assessment review and independent technical/editorial validation remain outstanding; CT-02 is not marked complete.
+**Authored — textbook, student workbook, ten lesson files (Lessons 05–08 expanded as detailed academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Lessons 09–10 still require deeper expansion. Software-specific implementation, expanded practice assets, assessment review and independent technical/editorial validation remain outstanding; CT-02 is not marked complete.
 
 
 ## PCMDK369™ academic and professional development requirements
@@ -82,3 +82,9 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - **Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock:** expanded to revision 2.0 with measurable outcomes, prerequisites, definitions, editorial theory, tool-independent resources, five-phase reproducible procedure, worked 3-minute scene, annotated 90-second dry run, guided exercises, independent portfolio assignment, troubleshooting, 12 knowledge checks with answer guidance, 100-point rubric, QC checklist, references and version notes.
 - The lesson distinguishes authored procedure from executed software testing. No NLE installation, application-specific UI walkthrough, media render or learner approval is claimed.
 - Lessons 08–10 remain the next academic expansion targets. CT-02 remains authored/in development, not reviewed, validated or complete.
+
+
+### Lesson expansion record — 2026-11-17
+- **Lesson 08 — Finishing, Delivery and Quality Control:** expanded to revision 2.0 with specification-first delivery planning, conform and turnover gates, master/mezzanine/derivative distinctions, staged export procedures, independent metadata and full-playback inspection, audio/caption/accessibility review, defect severity and retest discipline, manifest/checksum/transfer/archive practices, a worked fictional delivery, annotated defect dry run, five guided exercises, independent assignment, 14 answer-guided knowledge checks, a 100-point rubric, capstone integration, QC checklists and version-aware references.
+- Exercise specifications are explicitly fictional and are not presented as universal platform or broadcaster requirements. No application, encoder, meter, caption validator, transfer service or media render was executed for this lesson.
+- Lessons 09–10 remain the next CT-02 expansion targets. CT-02 remains authored/in development, not reviewed, validated or complete.
