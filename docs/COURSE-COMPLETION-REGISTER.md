@@ -19,6 +19,8 @@
 
 - CT-29: Eight stage-mapped lessons, one smartphone-first production lab, one 50-point assessment and one mobile creator campaign capstone brief are authored. Device/app compatibility, privacy review and learner validation remain.
 
+- CT-30: Eight stage-mapped lessons, one conform/master-QC lab, one 50-point assessment and one verified-archive capstone brief are authored. Interchange compatibility, restore execution and independent review remain.
+
 ## Required status vocabulary
 - **Planned:** scope identified; content not yet authored.
 - **Outlined:** course outline exists.
@@ -72,7 +74,7 @@
 | CT-27 | Batch Editing & Media Automation | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-28 | Editing for Live & Streaming Content | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-29 | Mobile Editing & Creator Workflows | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-30 | Professional Post-Production & Finishing | Audit required | Audit required | Audit required | Audit required | Audit required | Pending | Not yet audited |
+| CT-30 | Professional Post-Production & Finishing | 8 authored | 1 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 
 Course titles follow the canonical catalog at `course-types/README.md`. This register does not rename canonical course files.
 
