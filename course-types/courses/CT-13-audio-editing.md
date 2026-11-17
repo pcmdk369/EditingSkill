@@ -22,6 +22,7 @@ Learners will preserve originals, edit cleanly, process audio conservatively, sy
 
 ## Practical resources
 - [Lab 01 — Dialogue cleanup, mix and loudness validation](CT-13/labs/lab-01-dialogue-cleanup-mix-and-loudness-validation.md)
+- [Lab 02 — Multichannel stems and delivery QC](CT-13/labs/lab-02-multichannel-stems-and-delivery-qc.md)
 - [Knowledge assessment and answer key](CT-13/assessment-quiz-and-answer-key.md)
 - [Professional audio post capstone](CT-13/capstone/README.md)
 
