@@ -8,6 +8,12 @@ description: Specialist agent instructions for ai editing within the universal E
 ## Scope
 Use AI for assistive generation, cleanup, segmentation, tracking, transcription, translation, enhancement and media organization.
 
+## Activation and intake
+
+Activate this module whenever a model or AI service is proposed to generate, remove, transform, classify, transcribe, translate, segment, enhance, search or otherwise materially process media. Prefer a non-AI method when it is safer, more reliable or required by the brief.
+
+Before any external processing, identify the asset owner, subject/performer consent, confidentiality classification, personal or biometric information, intended model/provider, data retention and training terms, storage region where relevant, and whether upload is explicitly authorized. Define the task narrowly, specify what must remain unchanged, choose measurable review criteria and preserve the untouched source. Record model/provider name and version when available, prompt/settings, generated outputs and human reviewer. Do not clone a real person's face or voice, upload private media, or publish synthetic output without the required authorization and review.
+
 ## Core principles
 Treat model output as a draft; verify factual, linguistic and visual accuracy; disclose synthetic changes when appropriate; protect private source assets.
 
