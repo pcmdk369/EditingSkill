@@ -1182,4 +1182,9 @@ Create a mock brief and approval matrix. Log ten review notes including a defect
 
 ## Version and review notes
 
+- **2026-11-18 — Chapters 5–6 expansion:** Expanded pacing/rhythm and montage/crosscutting instruction with diagnostic frameworks, reproducible procedures, worked examples, dry runs, guided and independent practice, troubleshooting, answer guidance and QC checks.
+- The new examples are instructional/simulated; procedures are tool-independent. No NLE execution, media edit, synchronization, AI processing or render is claimed.
+- Existing chapters 7–13, glossary and course completion checklist were retained.
+- CT-02 remains authored / review pending. Independent academic, editorial, accessibility, rights/privacy and technical review, version-specific software testing and learner evidence remain outstanding.
+
 This is a working manuscript. Software-specific steps must be added in separate labs only after platform and version verification. Standards for delivery, loudness, frame rates and codecs vary by client and distribution platform; the project brief is authoritative. Review technical references before publishing version-sensitive procedures.
