@@ -83,3 +83,8 @@ This is a read-only example; confirm FFprobe availability and options locally.
 
 ### Acceptance tests
 Test empty folders, spaces/unicode in names, duplicate basenames, corrupt media, missing audio, zero-byte files, variable frame rate, cancellation, retry, interrupted writes and rerun idempotency. Report actual test evidence only.
+
+
+## 13. Course-specific learning route
+
+For responsible social-video automation and repeatable multi-format delivery, use [CT-03 Lesson 07 — AI-Assisted Social Editing and Automation](../../../course-types/courses/CT-03/lesson-07-ai-assisted-social-editing-and-automation.md) and [Lab 02 — Multi-Format Versioning and Batch Delivery](../../../course-types/courses/CT-03/labs/lab-02-multi-format-versioning-and-batch-delivery.md). The canonical sequence and assessment are listed in the [CT-03 course outline](../../../course-types/courses/CT-03-short-form-social-video.md). Treat all automation examples as procedures until the exact environment is confirmed and the run is independently evidenced.
