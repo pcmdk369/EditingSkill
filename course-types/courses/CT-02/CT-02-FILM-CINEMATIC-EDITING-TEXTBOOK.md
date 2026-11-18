@@ -383,86 +383,185 @@ Edit a scene with a clear entrance, central action and exit. Make one continuous
 
 ## Chapter 5 — Pacing, Rhythm and Dramatic Timing
 
-### 5.1 Definition of pacing
+### Chapter purpose and prerequisites
 
-**Pacing** is the rate at which a film presents meaningful visual, auditory, emotional and informational changes. It is not identical to cutting frequency. A long unbroken shot can have intense pacing if the action and performance continually change. A rapid montage can feel slow if it repeats information without development.
+This chapter develops the editor's ability to shape audience attention and emotional time. It assumes familiarity with dramatic beats, scene geography, coverage, continuity and basic timeline editing (Chapters 1–4). Before beginning, learners should be able to identify a scene objective, distinguish a shot from a beat, describe a continuity problem and mark a cut point on a paper edit.
 
-### 5.2 Internal and external rhythm
+### 5.1 Pacing: the rate of meaningful change
 
-**External rhythm** concerns visible timing: shot length, movement, cut frequency and transitions. **Internal rhythm** concerns the changing emotional or informational content within a shot or scene.
+**Pacing** is the audience's perceived rate at which meaningful visual, auditory, emotional and informational changes occur. It is not a synonym for cutting frequency. A long unbroken shot can have intense pacing when action, performance, sound or information changes continuously. A rapid montage can feel slow when it repeats the same idea without development.
 
-A close-up may contain a long internal pause before a character answers. Cutting away too early may remove the beat. Conversely, holding after the information has been fully communicated may weaken momentum.
+Analyse pacing through three questions:
 
-### 5.3 Rhythm patterns
+1. **What changes?** Identify the action, intention, relationship, knowledge or emotional state that changes.
+2. **When does the audience recognize it?** The edit controls when information becomes available and when a reaction can be read.
+3. **How much processing time is needed?** A new location, clue, relationship or technical detail may need more screen time than a familiar action.
 
-- acceleration: cuts or events become progressively faster;
-- deceleration: pace slows to create space or emphasis;
-- repetition: a visual or sound pattern returns;
-- contrast: a quiet passage follows intense action, or vice versa;
-- interruption: a sudden cut or sound breaks an established rhythm.
+A useful editorial diagnosis names the missing or excessive change. “This feels slow” is a starting observation, not an edit instruction. “The character has completed the action, but the shot continues for four seconds without new information or meaningful performance” is actionable.
 
-These patterns should arise from the scene's dramatic logic, not from a mechanical rule.
+### 5.2 Internal rhythm and external rhythm
 
-### 5.4 Dialogue timing
+**Internal rhythm** is the movement and change within a shot: blocking, gesture, camera movement, performance, visual revelation, ambience and sound. **External rhythm** is the pattern created by edits: shot duration, cut frequency, transitions, shot-size changes and the relationship between adjacent shots.
 
-Dialogue editing must preserve meaning and performance. Listen for:
-- pauses that show thought;
-- interruptions that change power;
-- overlaps that create realism or conflict;
-- breaths that support performance;
-- reactions that reveal the effect of a line.
+The two rhythms interact. A cut may occur during a movement to preserve energy, just before a movement to create anticipation, or after a movement to let its consequence register. A close-up may remain uncut while the actor's hesitation creates an internal rhythmic event.
 
-Do not remove every breath or silence. Over-cleaning can make speech feel artificial. Avoid changing a sentence's meaning by joining words from different contexts without clear justification.
+When diagnosing a passage, separate the two:
 
-### 5.5 Action rhythm
+- If a shot feels inert, ask whether the performance or information changes during the hold.
+- If a sequence feels rushed, check whether the edit removes a necessary action, reaction or comprehension interval.
+- If a sequence feels repetitive, identify consecutive shots that communicate the same information.
+- If a cut feels arbitrary, inspect whether it follows action, thought, information, sound or a deliberate contrast.
 
-Action scenes need readable geography and cause-and-effect. Faster cuts do not automatically create excitement. The audience must understand:
-1. who is acting;
-2. what they are trying to do;
-3. what obstacle exists;
-4. what changes because of the action.
+### 5.3 Shot duration, cutting rate and average shot length
 
-Use wider views when geography is unclear, closer views when detail matters and reaction shots when consequence matters.
+**Shot duration** is the time a shot remains in the edited sequence. **Cutting rate** is the number of edits in a stated interval. **Average shot length (ASL)** is the total sequence duration divided by the number of shots.
 
-### 5.6 A pacing analysis procedure
+\[
+\text{ASL} = \frac{\text{Total sequence duration}}{\text{Number of shots}}
+\]
 
-1. Write the scene's objective and emotional progression.
-2. Watch without pausing.
-3. Mark moments of anticipation, change, reaction and release.
-4. Identify repeated information.
-5. Identify beats that are missing or rushed.
-6. Compare shot durations, but do not use duration alone as the diagnosis.
-7. Test alternate cut points and shot order.
-8. Review the scene with sound.
-9. Ask a viewer what they understood and felt.
-10. Revise based on evidence, not only personal preference.
+Worked calculation: a 72-second sequence contains 24 shots.
 
-### 5.7 Worked example: suspense at a doorway
+\[
+72 \div 24 = 3\text{ seconds per shot}
+\]
 
-A character hears a sound behind a closed door. The edit can build suspense by:
-- establishing the character and door;
-- holding on the listening reaction;
-- introducing the sound before revealing its source;
-- cutting to a hand approaching the handle;
-- delaying the reveal while the audience anticipates;
-- releasing tension with the reveal or a deliberate interruption.
+The ASL is three seconds, but it hides the distribution. A sequence of 24 shots each lasting three seconds can feel unlike a sequence containing twelve one-second shots and twelve five-second shots. Record individual durations or a distribution (short / medium / long) when the pattern matters. State the measurement interval whenever reporting cutting rate.
 
-If every shot is shortened immediately, the audience may have no time to anticipate. If every shot is held too long, tension may become static. The rhythm must change as the character's knowledge changes.
+ASL and cutting rate are descriptive tools, not quality scores or universal genre targets. They cannot independently explain suspense, clarity, emotional force or editorial quality.
 
-### 5.8 Practice
+### 5.4 Rhythm patterns and their dramatic uses
 
-Edit a 60-second scene in two versions: one restrained and one urgent. Keep the story facts identical. Record at least five timing differences and explain how each changes anticipation, clarity or emotion.
+| Pattern | Observable structure | Possible dramatic use | Risk to test |
+|---|---|---|---|
+| Acceleration | Events or cuts become progressively closer together | Escalation, urgency, approaching deadline | Faster images may reduce comprehension |
+| Deceleration | Intervals lengthen or action becomes more sustained | Reflection, aftermath, dread | The passage may lose momentum without a meaningful hold |
+| Repetition | A visual, sound or action motif returns | Habit, obsession, process, expectation | Repetition may become redundant |
+| Contrast | A fast passage is followed by a quiet one, or vice versa | Relief, shock, emphasis | The contrast may feel unmotivated |
+| Interruption | An established pattern is abruptly broken | Surprise, danger, realization | A random interruption may confuse rather than engage |
+| Syncopation | Cuts or accents avoid an expected regular beat | Unease, playfulness, resistance to predictable rhythm | Irregularity can become distracting |
+| Parallel rhythm | Two lines of action develop in alternation | Comparison, suspense, convergence | The viewer may infer a false relationship or simultaneity |
 
-### 5.9 Review questions
+Treat these as design possibilities. The correct pattern depends on the scene's objective, point of view, genre, performance and audience knowledge.
 
-1. Define pacing.
-2. How does internal rhythm differ from external rhythm?
-3. Why are long shots not necessarily slow?
-4. What should an action scene make clear?
-5. Why should dialogue pauses sometimes remain?
-6. How should pacing revisions be evaluated?
+### 5.5 Dialogue timing and performance
 
-**Answer guidance:** Rate of meaningful change; internal is change within a shot/scene, external is cut and movement timing; internal action can be intense; actor/goal/obstacle/consequence; pauses carry thought and emotion; compare versions and use viewer comprehension/response evidence.
+Dialogue editing is not simply the removal of silence. Pauses may communicate thought, resistance, uncertainty, grief, authority or a change in power. Overlap may communicate conflict or intimacy. A breath may be part of the performance. A reaction may reveal that a line has landed.
+
+Use a dialogue timing pass:
+
+1. Listen to the complete exchange without editing.
+2. Mark spoken words, interruptions, overlaps, breaths and meaningful pauses.
+3. Identify the listener's reaction and the moment the thought changes.
+4. Test whether a cut removes the cause, response or consequence of a line.
+5. Compare the edit at normal playback speed, not only while scrubbing.
+6. Review audio transitions and room tone for unnatural gaps or doubled dialogue.
+7. Confirm that any rearrangement preserves the factual and dramatic meaning.
+
+Do not manufacture a statement by joining unrelated phrases or remove a pause in a way that changes a person's apparent certainty or intent. In documentary, interview and factual work, preserve context and disclose material restructuring according to the project's editorial policy.
+
+### 5.6 Action rhythm, spatial clarity and cause-and-effect
+
+Action editing must let the audience understand who acts, what they want, what prevents them, and what changes because of the action. Speed is not a substitute for geography.
+
+Use a wide or master view when spatial relationships are unclear; use closer views when a detail or decision matters; use a reaction when consequence matters. Maintain screen direction and readable movement unless a deliberate reorientation is established. Preserve enough of an action for the viewer to infer cause and effect.
+
+A useful test is to watch the scene without sound and write down the action in order. Then listen without picture and identify the audible progression. Finally watch with sound. If the sequence only makes sense with one information channel, decide whether that is intentional.
+
+### 5.7 A reproducible pacing analysis procedure
+
+1. Write a one-sentence scene objective and identify the point-of-view character.
+2. Watch the scene once without pausing; record the overall emotional progression.
+3. On a beat sheet, mark setup, anticipation, action, change, reaction and consequence where they occur. Do not force every scene into a fixed formula.
+4. Identify the moments when the audience learns something new.
+5. Record shot order and approximate durations. Calculate ASL only if it helps answer a specific question.
+6. Mark possible premature cuts, dead holds, repeated information and missing reactions.
+7. Create an alternate version that changes one variable at a time (for example, hold duration or cut point).
+8. Compare versions at normal speed, with sound, and with a viewer who has not seen the edit.
+9. Ask the viewer what happened, what changed and where attention shifted.
+10. Keep the version that best serves comprehension and dramatic intention; record the reason and preserve the prior version.
+
+### 5.8 Worked example — suspense at a doorway
+
+**Brief:** A character hears a sound behind a closed door, approaches it and decides whether to open it. The audience does not yet know the source.
+
+| Beat | Picture / sound information | Editorial decision | Intended audience effect |
+|---|---|---|---|
+| 1. Establish | Character and closed door; ordinary room tone | Hold a spatially clear view | Understand location and relationship |
+| 2. Disturbance | A faint sound occurs off-screen | Let sound begin before the source is shown | Direct attention without revealing cause |
+| 3. Recognition | Character stops and listens | Preserve the first readable reaction | Confirm that the sound matters |
+| 4. Approach | Hand moves toward the handle | Cut on or just before movement, then preserve enough action | Build anticipation and continuity |
+| 5. Hesitation | Hand pauses; sound changes or stops | Hold only while the hesitation develops | Let uncertainty become legible |
+| 6. Decision | Handle turns or the character withdraws | Choose a cut point that preserves the decision | Make the choice clear |
+| 7. Release | Door opens, or a new sound interrupts | Reveal, delay or interrupt according to the story | Resolve or redirect expectation |
+
+**Comparison:** Version A cuts immediately from the listening reaction to the hand. Version B retains the character's glance toward the door before the hand moves. If the glance reveals recognition, Version B carries more information even if it is longer. The better version is determined by the intended audience knowledge, not by the shortest duration.
+
+### 5.9 Dry run — compare two timing maps
+
+Use a fictional 20-second scene with six shots. The values below are teaching data, not target timings.
+
+| Shot | Version A duration | Version B duration | Beat function |
+|---|---:|---:|---|
+| 1 | 3 s | 4 s | Establish |
+| 2 | 2 s | 3 s | Notice sound |
+| 3 | 2 s | 4 s | Reaction / listening |
+| 4 | 4 s | 3 s | Approach |
+| 5 | 3 s | 4 s | Hesitation |
+| 6 | 6 s | 2 s | Reveal / release |
+| **Total** | **20 s** | **20 s** | Same story duration |
+
+Annotate what changes when time is moved from the reveal to the listening reaction. Does the audience understand the character sooner? Does the reveal feel abrupt or decisive? Does either version imply information that is not in the source? The exercise demonstrates that total duration alone does not define rhythm.
+
+### 5.10 Guided and independent practice
+
+**Guided exercise — dialogue beat comparison**
+
+- Select or create a rights-cleared 30–60 second two-person exchange.
+- Mark each spoken line, interruption, pause and reaction.
+- Produce two edits with identical dialogue order but different reaction/hold choices.
+- Ask two viewers to describe the relationship and emotional turn.
+- Submit both versions, a beat sheet and a 200-word decision note.
+
+**Independent assignment — narrative pacing study**
+
+Create a 60–90 second scene in two versions: restrained and urgent. Keep the story facts and source coverage consistent. Submit the source/rights record, beat map, shot-duration table, two review exports, viewer feedback, a comparison of at least five timing decisions and a final rationale. A text-only paper edit is acceptable where media access is unavailable, but it must be clearly labeled as a plan rather than an executed edit.
+
+### 5.11 Common errors and recovery
+
+| Symptom | Likely cause | Recovery |
+|---|---|---|
+| Every scene feels equally fast | One pacing pattern applied everywhere | Re-map the dramatic progression and vary holds intentionally |
+| Dialogue feels unnatural | All breaths and pauses removed | Restore performance pauses and room tone where appropriate |
+| Action is confusing | Geography or cause-and-effect omitted | Re-establish the master view and preserve key actions |
+| Suspense collapses | Reveal occurs before anticipation develops | Restore the recognition / decision beat |
+| Scene drags after the key information | Hold contains no new performance or atmosphere | Test a shorter hold while preserving the consequence |
+| Music dictates every cut | Beat matching replaces dramatic analysis | Review without music, then add music as a supporting layer |
+| ASL is used as a quality score | Average hides distribution and context | Inspect individual shot functions and viewer comprehension |
+| Factual sequence implies false simultaneity | Crosscutting creates an unsupported timeline | Verify chronology and clarify temporal separation |
+
+### 5.12 Review questions and answer guidance
+
+1. Define pacing without using the word “speed.” **Guidance:** perceived rate of meaningful change and information.
+2. Distinguish internal and external rhythm. **Guidance:** change within a shot versus pattern between shots.
+3. Calculate ASL for 90 seconds and 30 shots. **Answer:** 3 seconds.
+4. Why can two sequences with the same ASL feel different? **Guidance:** different duration distributions, performance, movement, sound and information.
+5. Name three reasons to retain a dialogue pause. **Guidance:** thought, power, emotion, reaction or comprehension.
+6. What must remain clear in an action scene? **Guidance:** actor, goal, obstacle, action and consequence.
+7. Why compare versions at normal speed? **Guidance:** scrubbing distorts temporal and performance perception.
+8. What evidence can support a pacing revision? **Guidance:** beat map, version comparison, viewer comprehension and documented rationale.
+
+### 5.13 Quality and completion check
+
+- [ ] Scene objective and point of view are stated.
+- [ ] Meaningful beats and information changes are mapped.
+- [ ] Shot duration data is not treated as a universal target.
+- [ ] Dialogue pauses and reactions are reviewed for meaning.
+- [ ] Spatial clarity and cause-and-effect remain understandable.
+- [ ] At least one alternate timing version is compared.
+- [ ] Viewer feedback is recorded or the limitation is disclosed.
+- [ ] Original media and prior versions remain recoverable.
+- [ ] Rights, consent and factual context are respected.
 
 ---
 
@@ -470,43 +569,200 @@ Edit a 60-second scene in two versions: one restrained and one urgent. Keep the 
 
 ## Chapter 6 — Montage, Parallel Editing and Non-Linear Time
 
-### 6.1 Montage
+### Chapter purpose and prerequisites
 
-A **montage** is an arrangement of shots that creates meaning through sequence, compression, comparison or pattern. A training montage may compress weeks into minutes. A thematic montage may compare different people performing similar actions.
+This chapter explains how shot relationships create ideas, compress time, compare actions and shape a viewer's understanding of chronology. Learners should understand dramatic beats, scene geography, continuity and the pacing concepts in Chapter 5. Before editing, prepare a source log, identify the intended claim or idea, and distinguish verified chronology from editorial inference.
 
-The relationship between shots is essential. A sequence of unrelated attractive images is not automatically a meaningful montage.
+### 6.1 Montage: meaning created between shots
 
-### 6.2 Types of montage
+A **montage** is an arrangement of shots whose sequence creates progression, compression, comparison, association or a larger idea. Its meaning is not contained in each shot alone; it emerges from the relationship between shots and the viewer's interpretation.
 
-- **Process montage:** compresses a process or passage of time.
-- **Thematic montage:** connects images through an idea.
-- **Associative montage:** creates meaning through juxtaposition.
-- **Rhythmic montage:** organizes cuts around movement, sound or musical rhythm.
-- **Parallel montage:** alternates between separate actions to suggest simultaneity or comparison.
+A process montage can compress a long activity into a short passage. A thematic montage can connect different people through a shared idea. An associative montage can place contrasting images together so the audience recognizes a relationship. A montage may be fast or slow; cutting speed is not its defining property.
 
-### 6.3 Parallel editing and crosscutting
+Before selecting shots, write the idea in one sentence. Then ask what the audience must see to understand that idea without relying entirely on narration or music.
 
-Crosscutting alternates between two or more lines of action. The audience may infer that events happen at the same time, are connected or are in conflict. Establish the relationship clearly before accelerating the alternation.
+### 6.2 Types of montage and their limits
 
-If two events are not actually simultaneous, avoid constructing a misleading temporal relationship in factual work.
+| Type | Main purpose | Example | Editorial risk |
+|---|---|---|---|
+| Process / passage-of-time | Compress repeated stages or elapsed time | A workshop progresses from raw material to finished object | Omitting a necessary stage may misrepresent the process |
+| Thematic | Connect different images through a shared subject | Different people prepare for a public event | Similarity may be superficial or stereotyped |
+| Associative | Create meaning through juxtaposition | An empty chair followed by a crowded room | The viewer may infer a causal link that is not established |
+| Rhythmic | Organize image changes around movement, sound or duration | Repeated tool actions build a pattern | Beat matching may replace meaningful progression |
+| Parallel / crosscut | Alternate between separate action lines | A search and an approaching deadline | Alternation may imply unsupported simultaneity |
+| Contrast montage | Place opposing images or conditions together | Abundance beside scarcity | The contrast may oversimplify context or mislead |
 
-### 6.4 Building a montage
+A montage is successful when the relationship is legible, the sequence develops, and its implications are defensible. A visually attractive sequence without a clear relationship may be decorative rather than explanatory.
 
-1. State the idea the montage must communicate.
-2. Select shots that contribute different information.
-3. Arrange them to develop rather than repeat the idea.
-4. establish a visual or sound pattern;
-5. vary shot scale and duration intentionally;
-6. check that the sequence remains understandable without explanatory text;
-7. verify factual and temporal implications;
-8. review with and without music.
+### 6.3 Shot-to-shot relationships
 
-### 6.5 Practice and review
+For each adjacent pair, identify the relationship. Useful categories include:
 
-Create a 30–45 second process montage from at least ten shots. Include a clear beginning, development and end. Submit a shot-order list and explain the relationship between each adjacent pair of shots.
+- **Continuity:** the second shot continues the same action or space.
+- **Cause and effect:** the first shot motivates the second, and the source supports that relationship.
+- **Temporal progression:** the second shot occurs later in a process or timeline.
+- **Similarity:** form, movement, color or subject links the shots.
+- **Contrast:** difference creates emphasis or comparison.
+- **Scale:** a detail connects to a larger system or environment.
+- **Repetition with variation:** a motif returns but changes.
+- **Unresolved association:** the editor proposes a connection that must be tested with viewers and checked for factual fairness.
 
-Questions: What makes a montage meaningful? How does crosscutting create temporal inference? Why should a montage be reviewed without music?  
-**Guidance:** Meaning comes from shot relationships; alternation implies simultaneity/connection; music can hide weak visual logic.
+Use a relationship map before editing:
+
+| Shot A | Shot B | Intended relationship | Evidence / source note | Viewer inference to test |
+|---|---|---|---|---|
+| Raw material | Measuring | Process progression | Same documented project | This is a later stage |
+| Measuring | Cutting | Cause / sequence | Production log confirms order | The material is being prepared |
+| Empty workspace | Finished object | Time compression | Same workspace, later date | Work has been completed |
+
+Do not label a relationship “cause” merely because one image precedes another. Sequence order can imply causality even when the source does not establish it.
+
+### 6.4 Compression, ellipsis and non-linear time
+
+**Ellipsis** omits time or action that the viewer can infer. **Temporal compression** shortens a process while retaining enough information to understand its progression. **Non-linear narration** presents story events outside chronological order. **Flashback** presents an earlier event from a later narrative position; **flashforward** presents a later event early.
+
+A timeline ledger helps keep chronology distinct from presentation order:
+
+| Event ID | Source date / story time | Verified order | Edit position | Confidence / note |
+|---|---|---:|---:|---|
+| E1 | Day 1, morning | 1 | 3 | Source slate / log |
+| E2 | Day 1, afternoon | 2 | 1 | Source metadata checked |
+| E3 | Day 2, morning | 3 | 2 | Date confirmed by production record |
+
+The edit position may differ from chronological order in a non-linear story. The editor must still know the underlying order. If the source date is unknown, mark it unknown rather than inventing a sequence.
+
+### 6.5 Parallel editing and crosscutting
+
+**Crosscutting** alternates between two or more lines of action. It may suggest simultaneity, convergence, comparison, conflict or thematic relation. The viewer uses alternation, sound, location cues and narrative context to infer how the lines relate.
+
+A responsible crosscutting workflow:
+
+1. Identify each action line and its source evidence.
+2. Build a chronology ledger independent of the intended edit order.
+3. Decide whether the actions are simultaneous, overlapping, sequential or unknown.
+4. Establish each line clearly before increasing the frequency of alternation.
+5. Use transitions and sound bridges only when their implications are justified.
+6. Check whether the sequence creates a false deadline, cause, reaction or geographic connection.
+7. If chronology is unknown or reconstructed, disclose the uncertainty or use a structure that does not claim simultaneity.
+
+In factual editing, crosscutting can create a misleading impression even when every shot is authentic. Accuracy requires attention to the inference created by the sequence, not only the authenticity of individual images.
+
+### 6.6 Building a process montage: reproducible procedure
+
+1. Write the intended message and audience in one sentence.
+2. Define the process boundaries: beginning state, meaningful stages and end state.
+3. Inventory source shots with IDs, dates, rights status and descriptive notes.
+4. Group shots by stage, not by the order in which they were recorded.
+5. Select shots that add new information; remove duplicates unless repetition is intentional.
+6. Draft a shot order and annotate every adjacent relationship.
+7. Check whether any missing stage would make the process misleading or incomprehensible.
+8. Build a first version using picture and natural sound before adding music.
+9. Review the sequence without narration or titles; write down what a viewer can infer.
+10. Add sound, graphics or narration only where they clarify or intentionally shape the message.
+11. Review factual implications, rights, accessibility and timing.
+12. Preserve the source inventory, edit version and decision notes.
+
+### 6.7 Worked example — a fictional paper-lantern process
+
+**Brief:** Communicate the progression from prepared material to a completed paper lantern. This is a fictional teaching scenario, not documentation of a real craft technique.
+
+| Order | Shot description | Function | Relationship to next shot |
+|---:|---|---|---|
+| 1 | Materials on a clean work surface | Establish starting state | Scale: material to measurement |
+| 2 | Measuring the paper | Show preparation | Temporal progression |
+| 3 | Marked paper close-up | Make the plan legible | Continuity of preparation |
+| 4 | Cutting along marked lines | Show transformation | Cause / process stage, if source supports |
+| 5 | Separate prepared pieces | Show intermediate state | Contrast with assembled form |
+| 6 | Joining the pieces | Show construction | Repetition with variation |
+| 7 | Frame taking shape | Show development | Scale: detail to whole |
+| 8 | Completed lantern in the workspace | Show result | Release / completion |
+| 9 | Lantern illuminated in a safe display | Show final appearance | End state and emotional payoff |
+
+**Editorial analysis:** Shot 1 and Shot 8 establish before/after contrast. Shots 2–7 communicate intermediate stages. Shot 9 adds a final visual result, but should not imply that illumination is part of the construction process. If footage was recorded on different days, the sequence can compress time, but its labels and narration should not claim a continuous real-time event.
+
+### 6.8 Dry run — build a montage on paper before opening an editor
+
+Inputs: nine authorized or self-created shot descriptions, a one-sentence brief and a blank shot-order table.
+
+1. Assign each shot a unique source ID.
+2. Write the information each shot contributes.
+3. Arrange the shots into a beginning, development and end.
+4. Annotate the relationship between every adjacent pair.
+5. Remove one shot and state what information is lost.
+6. Swap two shots and identify whether chronology or meaning changes.
+7. Ask a peer to describe the process using only the shot list.
+8. Revise the order and record the reason.
+
+Expected result: a paper edit with no unexplained adjacency, a source list and a short note identifying any missing evidence. This dry run does not claim that media was edited or rendered.
+
+### 6.9 Guided practice — two montage structures
+
+Create two 30–45 second paper edits from the same minimum set of ten shots:
+
+- **Version A:** chronological process progression.
+- **Version B:** thematic or contrast-based structure.
+
+For each version, state the intended viewer inference, list adjacent-shot relationships, identify any temporal compression and note where a viewer could infer unsupported causality. Compare both versions with a peer and record comprehension differences.
+
+### 6.10 Independent assignment — crosscutting and chronology study
+
+Prepare a 45–90 second sequence with two action lines. Use learner-created or rights-cleared source material. Submit:
+
+1. source inventory and rights/consent record;
+2. chronology ledger with unknown values explicitly marked;
+3. separate beat maps for both action lines;
+4. proposed intercut order;
+5. explanation of the relationship implied by each transition;
+6. a review copy or clearly labeled paper edit;
+7. a viewer-comprehension note;
+8. an editorial integrity statement identifying any reconstruction, omission or uncertainty.
+
+A fictional scenario may be used when no media is available, but it must be labeled as simulated.
+
+### 6.11 Common errors and recovery
+
+| Error | Why it matters | Recovery |
+|---|---|---|
+| Random attractive shots are grouped together | No meaningful progression or idea emerges | Write the intended message and map shot relationships |
+| Repeated images add no new information | Sequence becomes redundant | Keep repetition only when it develops a motif or changes context |
+| Missing process stage is hidden | Audience may misunderstand how the result was produced | Restore the stage or disclose the omission |
+| Crosscutting implies events are simultaneous without evidence | Viewer receives a false chronology | Verify the timeline or avoid simultaneity cues |
+| Music hides weak visual logic | Sequence works only with an emotional cue | Review silently or with natural sound first |
+| Before/after images imply causality | A visual contrast may overstate what the source proves | Distinguish correlation, sequence and proven cause |
+| Non-linear order is not tracked | Continuity and factual checks become unreliable | Maintain an underlying chronology ledger |
+| Captions or narration overstate the images | Language creates claims the footage cannot support | Reconcile every claim with source evidence |
+
+### 6.12 Review questions and answer guidance
+
+1. What makes a montage more than a collection of shots? **Guidance:** meaningful relationships and progression.
+2. Name four montage types and their purposes. **Guidance:** process, thematic, associative, rhythmic, parallel or contrast.
+3. What is ellipsis? **Guidance:** omission of inferable time/action.
+4. How does crosscutting influence chronology? **Guidance:** alternation can imply simultaneity, convergence or comparison.
+5. Why maintain a chronology ledger for a non-linear edit? **Guidance:** presentation order differs from underlying event order.
+6. Why is music-free review useful? **Guidance:** tests whether image relationships communicate without emotional masking.
+7. What is the difference between sequence and causality? **Guidance:** one event following another does not prove that it caused it.
+8. What should be disclosed when chronology is unknown? **Guidance:** uncertainty; do not invent dates or simultaneity.
+
+### 6.13 Quality and completion check
+
+- [ ] Montage purpose and intended audience are stated.
+- [ ] Each shot contributes identifiable information or a deliberate motif.
+- [ ] Adjacent-shot relationships are annotated.
+- [ ] Process stages and temporal omissions are understandable.
+- [ ] Underlying chronology is separated from edit order.
+- [ ] Crosscutting does not imply unsupported simultaneity or causality.
+- [ ] Music and titles do not conceal weak visual logic.
+- [ ] Source rights, consent and factual context are documented.
+- [ ] The edit or paper plan, source inventory and rationale are preserved.
+
+### Chapter 5–6 further study
+
+- PCMDK369™ CT-02 Lesson 05 — Cinematic Pacing, Rhythm and Montage.
+- PCMDK369™ CT-02 Student Notes & Practical Workbook, Section 8 — Pacing Comparison.
+- PCMDK369™ CT-02 Student Notes & Practical Workbook, Section 19 — Montage, Crosscutting and Rhythm Map.
+- PCMDK369™ Professional Developer & Academic Course Standard — reproducibility, rights, accessibility and evidence requirements.
+
+These repository resources are the primary course references. No application-specific feature is prescribed here. Any NLE walkthrough must name and verify the exact application, edition, platform and version before publication.
 
 ---
 
