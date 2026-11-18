@@ -96,7 +96,7 @@ The additions define discipline-specific inputs such as audio channel/stem layou
 
 This is a structural audit, not a declaration that every specialist is fully reviewed or validated.
 
-1. A verified CT-03 route has now been added to the video-editing, subtitles and automation specialists, linking the relevant lessons, lab, assessment and capstone. Exact course/lesson/lab/reference mappings for the other 29 course types and remaining specialist combinations are not yet normalized into a complete routing matrix. The new CT-03 links are navigation aids, not proof of software or agent execution.
+1. A verified CT-03 route has now been added to the video-editing, subtitles, AI-editing and automation specialists, linking the relevant lessons, lab, assessment and capstone. Exact course/lesson/lab/reference mappings for the other 29 course types and remaining specialist combinations are not yet normalized into a complete routing matrix. The new CT-03 links are navigation aids, not proof of software or agent execution.
 2. No supported agent runtime was invoked to test module loading, routing decisions, tool discovery, missing-tool fallback, approval boundaries, interruption handling or cross-specialist handoffs.
 3. No creative application, plugin, codec, AI provider, command-line media tool or device was executed as part of this audit.
 4. No media render, rights clearance, legal review, accessibility certification or learner outcome is claimed.
@@ -108,6 +108,7 @@ The following specialist entry points now contain explicit CT-03 links, checked 
 
 - [Video editing](../Agentic/EditSkill/video-editing/SKILL.md): course outline, Lessons 01–06 and 08, Lab 01, assessment and capstone.
 - [Subtitles](../Agentic/EditSkill/subtitles/SKILL.md): Lesson 03 caption/reframing workflow and course outline.
+- [AI editing](../Agentic/EditSkill/ai-editing/SKILL.md): Lesson 07 AI-assisted social workflow, with provider/privacy/provenance/human-review gates.
 - [Automation](../Agentic/EditSkill/automation/SKILL.md): Lesson 07 AI-assisted social workflow, Lab 02 batch/version delivery and course outline.
 
 Lesson 07 is routed to AI-editing for model/provider evaluation and human-review controls; the automation specialist owns reproducible batch mechanics. No capability is inferred from these links.
