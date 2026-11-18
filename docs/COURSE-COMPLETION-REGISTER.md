@@ -38,7 +38,7 @@
 | ID | Course | Outline | Lessons | Labs | Assessment | Capstone | Review | Status |
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
-| CT-02 | Film & Cinematic Editing | Existing | 10 authored | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -76,7 +76,7 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 
 ## Current batch notes
 - CT-01: Fourteen stage-mapped lessons, four software labs (Resolve, Premiere Pro, CapCut Mobile and FFmpeg), one knowledge assessment, a capstone pack, textbook manuscript and student workbook are authored. Chapters 10–15 have been integrated into the main textbook (separate supplement retained as reference). Software-version execution and independent review remain.
-- CT-02: Ten lesson files, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Lessons 05–08 have expanded academic treatment; Lessons 09–10 remain shorter working drafts requiring expansion. Software-specific execution, expanded practice assets and independent review remain.
+- CT-02: Ten lesson files, four implementation labs, textbook, student workbook, knowledge assessment and narrative-scene capstone brief are present. Lessons 05–10 have expanded academic treatment; Lessons 09–10 are revision 2.0. The student workbook has 19 sections, including the Lesson 05 montage/crosscutting/rhythm map in Section 19. Software-specific execution, expanded practice assets and independent review remain.
 - CT-03: Eight stage-mapped lessons, two implementation labs, one 40-point knowledge assessment and one three-format capstone brief are authored. No learner execution, independent review or software validation is claimed.
 - CT-04: Eight stage-mapped lessons, two professional labs (interview paper edit/fact-check; claim ledger/chronology/editorial audit), one 50-point assessment and one three-minute documentary capstone brief are authored. Generic diagnostic rows in Lessons 01 and 06 were replaced with subject-specific failure/recovery cases. Formal review, software execution and learner validation remain.
 - CT-05: Eight stage-mapped lessons, two professional labs (campaign cutdowns; claim ledger/rights/approval gates), one 50-point assessment and one commercial campaign capstone brief are authored. Formal legal/claims review, software execution and learner validation remain.
@@ -132,3 +132,11 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - CT-02 Lesson 08 expanded to revision 2.0; Lessons 09–10 remain the next lesson-quality targets.
 - Register formatting corrected: CT-25–CT-30 now include the missing Outline column, and the shared practice-resource section uses normal Markdown line breaks.
 - Agentic/EditSkill: fourteen specialist modules received explicit activation and intake sections; all 16 modules were included in the static structural audit. Independent review and runtime validation remain pending.
+
+
+## 2026-11-18 CT-02 progress reconciliation
+- Confirmed that all ten CT-02 lesson files exist. Lessons 05–10 contain expanded learner-facing academic treatment; Lesson 05 covers cinematic pacing, rhythm and montage, followed in curriculum order by multicamera editing, assembly-to-picture-lock workflow, finishing/QC, AI-assisted editing/automation and professional practice.
+- Added workbook Section 19, **Montage, Crosscutting and Rhythm Map**, and linked it from Lesson 05 and the CT-02 course index. Section 8 remains the pacing comparison worksheet.
+- Updated historical progress wording so earlier “next target” notes are clearly identified as checkpoints rather than current status.
+- CT-02 remains **Authored / review pending**. Independent academic, editorial, accessibility and rights review; software-specific execution; real practice-media validation; and learner capstone evidence remain outstanding.
+- No NLE, AI service, export, render, multicamera sync, transfer, archive or restore operation was executed in this update.

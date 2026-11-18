@@ -170,7 +170,7 @@ If the visual sequence becomes incomprehensible without music, inspect whether s
 ### Optional
 - timeline markers for dramatic beats;
 - waveform display for dialogue, effects and music;
-- spreadsheet or paper worksheet for shot duration and version comparison;
+- spreadsheet or paper worksheet for shot duration and version comparison; use workbook Section 8 for pacing comparisons and Section 19 for montage, crosscutting and rhythm mapping;
 - headphones and a second playback display;
 - viewer feedback notes.
 
@@ -365,7 +365,7 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 4. Version A and Version B with at least three documented timing changes.
 5. Final selected version with a written rationale.
 6. ASL calculation and a duration distribution (minimum, maximum and a list or grouped range of shot lengths).
-7. If using montage, a shot-order map explaining the relationship between adjacent images.
+7. If using montage, a completed [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](../CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map) explaining adjacent-shot relationships, progression and any chronology claim.
 8. Sound notes identifying dialogue, ambience, effects and music, including rights information.
 9. A 150–250 word reflection describing what changed after review.
 10. A project file or equivalent editable timeline, plus a review export if the environment supports export.
@@ -462,6 +462,7 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 - CT-02 Academic Textbook, **Chapter 5 — Pacing, Rhythm and Dramatic Timing**.
 - CT-02 Academic Textbook, **Chapter 6 — Montage, Parallel Editing and Non-Linear Time**.
 - CT-02 Student Notes & Practical Workbook, **Section 8 — Pacing Comparison**.
+- CT-02 Student Notes & Practical Workbook, **Section 19 — Montage, Crosscutting and Rhythm Map**.
 - CT-02 Student Notes & Practical Workbook, **Section 12 — Capstone Submission Checklist**.
 - CT-02 Lessons 01–04 for dramatic beats, geography, coverage and continuity.
 - [CT-02 course outline](../../CT-02-film-cinematic-editing.md).
@@ -472,10 +473,11 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 
 ## Version and change notes
 
-- **Lesson version:** 1.0
-- **Review date:** 2026-11-16
+- **Lesson version:** 1.1
+- **Review date:** 2026-11-18
 - **Software scope:** Tool-independent. No unverified menu names, shortcuts, proprietary features or version-specific claims are included.
 - **Frame/time calculations:** Examples use seconds and frame-rate-independent durations unless a frame-rate example is explicitly stated.
 - **Known limitation:** The sample durations are illustrative teaching data, not prescriptions for all scenes or genres.
-- **Next course sequence:** CT-02 Lesson 06 — Multicamera Editing and Synchronization; Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; subsequent lessons on AI-assisted editing, automation and professional practice.
+- **Next course sequence:** CT-02 Lesson 06 — Multicamera Editing and Synchronization; Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; Lesson 09 — AI-Assisted Editing and Editorial Automation; Lesson 10 — Professional Practice, Client Review and Archive.
+- **1.1 — 2026-11-18:** Linked the dedicated workbook Section 19 montage/crosscutting/rhythm map to the tools, independent assignment and references; clarified the remaining CT-02 lesson sequence.
 - **Change policy:** Update this lesson when the textbook, workbook, assessment criteria or verified software implementation requirements materially change.

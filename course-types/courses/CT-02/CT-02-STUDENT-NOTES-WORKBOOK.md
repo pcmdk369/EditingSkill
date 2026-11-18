@@ -4,7 +4,7 @@
 **Course ID:** CT-02  
 **Owner:** PCMDK369™  
 **Contact:** support.pcmdkai@gmail.com  
-**Edition:** 1.0 — Working workbook
+**Edition:** 1.1 — 2026-11-18; expanded working workbook
 
 ---
 
@@ -294,3 +294,108 @@ Disposition values: accepted, rejected, deferred, clarification requested, dupli
 - [ ] Archive owner, access and retention recorded.
 - [ ] Restore test performed or explicitly marked planned.
 - [ ] No passwords, private links or access tokens included in the handoff.
+
+
+## 19. Montage, Crosscutting and Rhythm Map
+
+**Purpose:** Use this worksheet to plan and evaluate how adjacent images create progression, comparison, contrast or a factual inference. Complete it before finalizing a montage or a crosscut sequence. Use the separate Section 8 worksheet for shot-duration comparisons and ASL calculations.
+
+### 19.1 Montage brief
+
+| Planning question | Learner record |
+|---|---|
+| Sequence title / project ID | |
+| Intended audience | |
+| Central idea or change the sequence must communicate | |
+| What the audience should understand at the beginning | |
+| What the audience should understand at the end | |
+| Montage type: process / thematic / associative / rhythmic / parallel / other | |
+| Target duration and timing basis | |
+| Required facts, chronology or context that must be preserved | |
+| Source IDs and rights/consent record location | |
+| Sound plan: dialogue / production sound / effects / ambience / music / silence | |
+| Human reviewer or decision owner, if applicable | |
+
+Write the intended progression in one sentence. Avoid describing only the visual style; state what changes or what relationship the audience should infer.
+
+### 19.2 Adjacent-shot relationship map
+
+Use one row per selected shot. Record source timecodes separately from sequence duration. In the relationship column, explain why this shot follows the previous one; labels such as "looks good" or "matches the beat" are not sufficient on their own.
+
+| Order | Shot ID / source range | Sequence duration | Visible action or information | Function / progression stage | Relationship to previous shot | Time / place claim supported by source? | Sound and rights note |
+|---:|---|---:|---|---|---|---|---|
+| 1 | | | | Establish / question | Opening reference | Yes / No / Unknown | |
+| 2 | | | | Prepare / develop | | Yes / No / Unknown | |
+| 3 | | | | Detail / contrast | | Yes / No / Unknown | |
+| 4 | | | | Escalate / compare | | Yes / No / Unknown | |
+| 5 | | | | Turn / reveal | | Yes / No / Unknown | |
+| 6 | | | | Result / release | | Yes / No / Unknown | |
+
+**Worked planning example — fictional paper-lantern process montage**
+
+The following values are simulated teaching data, not footage measurements or a universal timing prescription.
+
+| Order | Shot | Duration | Function | Relationship to previous shot |
+|---:|---|---:|---|---|
+| 1 | Wide view of paper, frame and tools | 3 s | Establish materials and task | Establishes the process and its starting state |
+| 2 | Hands fold the first panel | 4 s | First action | Moves from the complete setup to the first transformation |
+| 3 | Close detail of a crease | 2 s | Emphasize precision | Isolates the detail that makes the previous action readable |
+| 4 | Hands join the folded panels | 3 s | Development | Shows the next causal step rather than repeating the fold |
+| 5 | Finished lantern is lifted into view | 4 s | Result | Reveals the accumulated result of the earlier steps |
+| 6 | Lantern is illuminated | 2 s | Release / final image | Adds a final state and visual contrast |
+
+**Illustrative calculation:** 18 seconds total ÷ 6 shots = 3 seconds ASL. The average does not describe the 2–4 second variation, the action inside each shot or whether the process is understandable. Review the complete progression at normal speed.
+
+### 19.3 Crosscutting and chronology ledger
+
+Use this table whenever alternating between locations, characters or event lines. If the source does not establish whether events are simultaneous, earlier or later, record **Unknown**. Do not let alternating edits imply a stronger temporal or causal relationship than the evidence supports.
+
+| Edit order | Story line A: event / source evidence | Story line B: event / source evidence | Verified relationship: same time / before / after / unknown | Editorial cue used | Risk of unsupported inference / correction |
+|---:|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+
+Before using parallel editing, answer:
+1. What evidence supports the relationship between the two event lines?
+2. Does the sequence imply simultaneity, causation, pursuit or a shared location?
+3. Is that inference supported, explicitly framed as uncertain, or avoided?
+4. What visual, dialogue, sound or title cue helps the audience understand a real time jump?
+
+### 19.4 Rhythm pattern map
+
+| Passage / shot range | Internal rhythm: change within shots | External rhythm: cut / duration pattern | Sound pattern | Intended audience effect | What review evidence will test the effect? |
+|---|---|---|---|---|---|
+| Opening | | | | Establish / orient | |
+| Development | | | | Build / compare | |
+| Escalation or contrast | | | | Intensify / interrupt | |
+| Turn or reveal | | | | Reframe / clarify | |
+| Ending | | | | Resolve / release / remain open | |
+
+Identify one pattern the sequence establishes and one point where it changes. Explain why the change is motivated by the story or subject rather than only by a musical beat.
+
+### 19.5 Review and reflection
+
+- What new information does each selected shot add?
+- Which adjacent pair creates the strongest comparison, contrast or causal step?
+- Where does the sequence need more time for recognition or emotional processing?
+- Where does it repeat information without adding meaning?
+- Does the rhythm remain intelligible when music is muted?
+- Does the edit imply a chronology or cause that the source does not establish?
+- What did a viewer understand after one viewing, and what remained unclear?
+- Which shot or transition would you revise first, and what evidence supports that decision?
+
+### 19.6 Completion check
+
+- [ ] Sequence objective and intended audience are stated.
+- [ ] Every selected shot has a source ID, source range and function.
+- [ ] Adjacent-shot relationships are explained.
+- [ ] The sequence has a recognizable beginning, development and ending or a justified alternative structure.
+- [ ] Crosscut chronology is verified or explicitly marked unknown.
+- [ ] Sound and music rights are recorded.
+- [ ] Rhythm includes purposeful variation rather than an unexamined repeated pattern.
+- [ ] Viewer comprehension and editorial rationale are documented.
+- [ ] Original media and prior versions remain recoverable.

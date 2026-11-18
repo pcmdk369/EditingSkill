@@ -39,6 +39,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 ## Primary learning resources
 - [CT-02 Film & Cinematic Editing — Academic Textbook](CT-02/CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md)
 - [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
+- [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map)
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -69,7 +70,7 @@ Lessons 01–10 have authored lesson files. Lessons 05–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (18 sections), ten lesson files (Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (19 sections), ten lesson files (Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## PCMDK369™ academic and professional development requirements
@@ -81,13 +82,13 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 ### Lesson expansion record — 2026-11-17
 - **Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock:** expanded to revision 2.0 with measurable outcomes, prerequisites, definitions, editorial theory, tool-independent resources, five-phase reproducible procedure, worked 3-minute scene, annotated 90-second dry run, guided exercises, independent portfolio assignment, troubleshooting, 12 knowledge checks with answer guidance, 100-point rubric, QC checklist, references and version notes.
 - The lesson distinguishes authored procedure from executed software testing. No NLE installation, application-specific UI walkthrough, media render or learner approval is claimed.
-- Lessons 08–10 remain the next academic expansion targets. CT-02 remains authored/in development, not reviewed, validated or complete.
+- At the time of this checkpoint, Lessons 08–10 were the next academic expansion targets; the subsequent entries below record their later expansion. CT-02 remains authored/in development, not reviewed, validated or complete.
 
 
 ### Lesson expansion record — 2026-11-17
 - **Lesson 08 — Finishing, Delivery and Quality Control:** expanded to revision 2.0 with specification-first delivery planning, conform and turnover gates, master/mezzanine/derivative distinctions, staged export procedures, independent metadata and full-playback inspection, audio/caption/accessibility review, defect severity and retest discipline, manifest/checksum/transfer/archive practices, a worked fictional delivery, annotated defect dry run, five guided exercises, independent assignment, 14 answer-guided knowledge checks, a 100-point rubric, capstone integration, QC checklists and version-aware references.
 - Exercise specifications are explicitly fictional and are not presented as universal platform or broadcaster requirements. No application, encoder, meter, caption validator, transfer service or media render was executed for this lesson.
-- Lessons 09–10 remain the next CT-02 expansion targets. CT-02 remains authored/in development, not reviewed, validated or complete.
+- At the time of this checkpoint, Lessons 09–10 were pending; the subsequent entry below records their expansion. CT-02 remains authored/in development, not reviewed, validated or complete.
 
 
 ### Lesson expansion record — 2026-11-17 (Lessons 09–10)
@@ -98,3 +99,10 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - External references include NIST AI RMF Generative AI Profile, C2PA specifications and Library of Congress personal digital archiving guidance. Tool/provider behavior remains version-sensitive and must be checked at use time.
 - No AI service, NLE, review platform, transfer system, checksum utility, archive system or restore operation was executed. Simulations and examples are labeled as instructional.
 - All ten CT-02 lesson files now exist; Lessons 05–10 have expanded academic lesson treatment. Independent review, software-specific testing, real practice media validation and learner evidence remain outstanding. CT-02 is not marked complete.
+
+
+### Workbook support update — 2026-11-18
+- Added **Section 19 — Montage, Crosscutting and Rhythm Map** to complement Section 8's pacing comparison worksheet and Lesson 05's montage assignment.
+- The worksheet includes an adjacent-shot relationship map, a simulated worked process-montage example, a crosscutting chronology ledger, an internal/external rhythm map, reflection prompts and a completion check.
+- The worked example is labeled as simulated teaching data. It does not represent tested footage or a universal timing rule.
+- CT-02 remains authored/in development. The new worksheet does not replace independent review, software execution, real-media validation or learner evidence.
