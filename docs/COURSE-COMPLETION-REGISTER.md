@@ -142,3 +142,10 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Updated historical progress wording so earlier “next target” notes are clearly identified as checkpoints rather than current status.
 - CT-02 remains **Authored / review pending**. Independent academic, editorial, accessibility and rights review; software-specific execution; real practice-media validation; and learner capstone evidence remain outstanding.
 - No NLE, AI service, export, render, multicamera sync, transfer, archive or restore operation was executed in this update.
+
+## CT-02 textbook expansion — 2026-11-18
+
+- Expanded textbook Chapters 5–6 (pacing/rhythm and montage/crosscutting) with subject-specific teaching explanations, diagnostic frameworks, reproducible workflows, worked examples, paper dry runs, guided and independent practice, troubleshooting, answer guidance and quality checks.
+- Linked the expanded chapters conceptually to Lesson 05 and workbook Sections 8 and 19. No new lesson was created because all ten CT-02 lesson files already exist.
+- Examples are identified as instructional or simulated; no software execution, real-media editing or render is claimed.
+- CT-02 remains **authored / review pending**, not reviewed, technically validated or complete. Independent academic, editorial, accessibility, rights/privacy and software-version validation remain outstanding.
