@@ -160,3 +160,7 @@ Use the course outline as the canonical sequence and load only the lesson or lab
 - [Three-format campaign capstone](../../../course-types/courses/CT-03/capstone/README.md)
 
 Route caption-specific work in Lesson 03 to the subtitles specialist, AI-assisted tasks in Lesson 07 to the AI-editing specialist, and batch/version delivery in Lab 02 to the automation specialist. This mapping is a learning/workflow route; it does not assert that any editor, platform or agent runtime is installed or executed.
+
+
+## CT-03 course route — vertical reframing
+For short-form vertical adaptations, use the canonical [CT-03 Lesson 01](../../../course-types/courses/CT-03/lesson-01-audience-platform-and-format-design.md) for brief/specification, [Lesson 02](../../../course-types/courses/CT-03/lesson-02-hooks-story-compression-and-retention.md) for story promise and selects, and [Lesson 03](../../../course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) for shot-by-shot crop geometry, subject/action continuity, keyframe/tracking review and vertical composition. Use [Workbook Section 03](../../../course-types/courses/CT-03/workbook/section-03-vertical-reframing-and-caption-qc.md) to record crop choices and QC evidence. Route transcript/cue authoring to the subtitles specialist and independent export checks to quality-control. A crop or tracking procedure is not proof that an editor/tracker executed it; verify the actual application/version and output.
