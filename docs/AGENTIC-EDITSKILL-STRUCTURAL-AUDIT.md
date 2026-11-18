@@ -1,6 +1,6 @@
 # Agentic/EditSkill Structural Audit
 
-**Audit date:** 2026-11-17  
+**Audit date:** 2026-11-18  
 **Audited branch:** `agentic/universal-editskill-architecture`  
 **Baseline inspected:** `355379c9c0578e10f96895a630214b31ad5a6a9c`  
 **Audit type:** Repository-content and cross-link structure review; not an agent-runtime test.
@@ -96,13 +96,23 @@ The additions define discipline-specific inputs such as audio channel/stem layou
 
 This is a structural audit, not a declaration that every specialist is fully reviewed or validated.
 
-1. Discipline-specific mappings from every specialist to exact course IDs, lesson files, labs and curated references are not yet normalized into a single routing matrix. Modules currently direct agents to the canonical course directory and relevant repository references; a future pass should add exact mappings where they are useful and verified.
+1. A verified CT-03 route has now been added to the video-editing, subtitles and automation specialists, linking the relevant lessons, lab, assessment and capstone. Exact course/lesson/lab/reference mappings for the other 29 course types and remaining specialist combinations are not yet normalized into a complete routing matrix. The new CT-03 links are navigation aids, not proof of software or agent execution.
 2. No supported agent runtime was invoked to test module loading, routing decisions, tool discovery, missing-tool fallback, approval boundaries, interruption handling or cross-specialist handoffs.
 3. No creative application, plugin, codec, AI provider, command-line media tool or device was executed as part of this audit.
 4. No media render, rights clearance, legal review, accessibility certification or learner outcome is claimed.
 5. Text presence does not establish semantic correctness, production suitability or compliance in every jurisdiction and platform.
 
-## 6. Recommended runtime test suite
+## 6. CT-03 course-routing implementation — 2026-11-18
+
+The following specialist entry points now contain explicit CT-03 links, checked against the live course outline and file paths:
+
+- [Video editing](../Agentic/EditSkill/video-editing/SKILL.md): course outline, Lessons 01–06 and 08, Lab 01, assessment and capstone.
+- [Subtitles](../Agentic/EditSkill/subtitles/SKILL.md): Lesson 03 caption/reframing workflow and course outline.
+- [Automation](../Agentic/EditSkill/automation/SKILL.md): Lesson 07 AI-assisted social workflow, Lab 02 batch/version delivery and course outline.
+
+Lesson 07 is routed to AI-editing for model/provider evaluation and human-review controls; the automation specialist owns reproducible batch mechanics. No capability is inferred from these links.
+
+## 7. Recommended runtime test suite
 
 Before describing the agent architecture as runtime-validated, execute and retain evidence for at least these scenarios:
 
@@ -114,6 +124,6 @@ Before describing the agent architecture as runtime-validated, execute and retai
 - Introduce a known export defect and verify the QC specialist reports severity, evidence, correction owner and retest result without approving its own assumptions.
 - Change a project version and verify the handoff/manifest records the change and preserves the prior approved version.
 
-## 7. Audit conclusion
+## 8. Audit conclusion
 
 **Structural result: aligned with the main repository controls, with activation/intake gaps corrected in this batch.** The 16 specialist entry points and universal routing architecture are present. Remaining work is discipline-specific cross-link normalization, semantic review and real agent-runtime testing. Do not mark the architecture fully validated or complete until those checks have evidence.
