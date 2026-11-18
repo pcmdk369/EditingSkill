@@ -39,7 +39,7 @@
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
 | CT-02 | Film & Cinematic Editing | Existing | 10 authored; 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-03 | Short-Form & Social Video Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–02 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-06 | Music Video & Performance Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -149,3 +149,10 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Linked the expanded chapters conceptually to Lesson 05 and workbook Sections 8 and 19. No new lesson was created because all ten CT-02 lesson files already exist.
 - Examples are identified as instructional or simulated; no software execution, real-media editing or render is claimed.
 - CT-02 remains **authored / review pending**, not reviewed, technically validated or complete. Independent academic, editorial, accessibility, rights/privacy and software-version validation remain outstanding.
+
+
+## 2026-11-18 CT-03 Lesson 02 development
+- Expanded `course-types/courses/CT-03/lesson-02-hooks-story-compression-and-retention.md` to academic revision 2.0. Added truthful hook/story-promise design, narrative structures and their risks, evidence hierarchy, source-select traceability, ethical compression, pacing and comprehension principles, retention-metric limitations, controlled opening comparisons, a worked product-demonstration example, an annotated six-select timing dry run, guided practice, independent 30/45-second assignment, troubleshooting, 12 answer-guided knowledge checks, a 100-point rubric, mandatory integrity gates, QC and capstone integration.
+- Added Workbook Section 02, **Story Promise and Selects Log**, with hook alternatives, evidence-backed promise test, source/timecode selects table, paper-edit map, compression decision record, pacing review, two-opening comparison plan, rights/privacy/factual-integrity gates and version/reflection records.
+- Updated the CT-03 outline and register. Lessons 01–02 are expanded; Lessons 03–08 remain the next sequence for lesson-by-lesson review/expansion. CT-03 remains authored/review pending, not validated or complete.
+- Practice examples are fictional and text-only. No NLE, analytics account, platform upload, caption service or AI provider was executed. Platform metric definitions and placement specifications require current verification.
