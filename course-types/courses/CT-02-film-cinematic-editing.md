@@ -106,3 +106,10 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - The worksheet includes an adjacent-shot relationship map, a simulated worked process-montage example, a crosscutting chronology ledger, an internal/external rhythm map, reflection prompts and a completion check.
 - The worked example is labeled as simulated teaching data. It does not represent tested footage or a universal timing rule.
 - CT-02 remains authored/in development. The new worksheet does not replace independent review, software execution, real-media validation or learner evidence.
+
+### Textbook development update — 2026-11-18
+- Expanded **Chapter 5 — Pacing, Rhythm and Dramatic Timing** and **Chapter 6 — Montage, Parallel Editing and Non-Linear Time** in the CT-02 textbook to provide deeper learner-facing theory, diagnostic frameworks, reproducible procedures, worked examples, dry runs, guided/independent practice, troubleshooting, answer guidance and QC checks.
+- Chapter 5 now distinguishes dramatic pacing from cutting rate, explains internal/external rhythm and ASL limitations, and adds dialogue/action timing analysis plus a two-version timing dry run.
+- Chapter 6 now adds shot-to-shot relationship analysis, montage-type distinctions, chronology ledgers, crosscutting integrity checks, a fictional process-montage example and an independent crosscutting assignment.
+- The chapter examples are explicitly instructional/simulated. Procedures remain tool-independent; no NLE execution or media render is claimed. Existing Chapter 7 onward and the ten-lesson sequence were preserved.
+- CT-02 remains authored / review pending; this textbook expansion does not constitute independent academic review, technical validation or learner completion.
