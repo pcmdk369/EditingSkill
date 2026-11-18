@@ -156,3 +156,11 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Added Workbook Section 02, **Story Promise and Selects Log**, with hook alternatives, evidence-backed promise test, source/timecode selects table, paper-edit map, compression decision record, pacing review, two-opening comparison plan, rights/privacy/factual-integrity gates and version/reflection records.
 - Updated the CT-03 outline and register. Lessons 01–02 are expanded; Lessons 03–08 remain the next sequence for lesson-by-lesson review/expansion. CT-03 remains authored/review pending, not validated or complete.
 - Practice examples are fictional and text-only. No NLE, analytics account, platform upload, caption service or AI provider was executed. Platform metric definitions and placement specifications require current verification.
+
+## CT-02 textbook expansion — 2026-11-18 (Chapters 7–10)
+
+- Expanded Chapters 7–10 to align textbook depth more closely with the existing advanced lessons 06–08 and professional practice content in Lesson 10.
+- Added multicamera inventory and synchronization verification; editorial progression and picture-lock control; collaboration, versioning and review-note traceability; finishing specification, conform and export QC.
+- Added worked examples, decision traces, dry runs, guided and independent practice, troubleshooting, knowledge checks and chapter quality gates.
+- Examples are simulated; procedures are tool-independent. No real-media sync, NLE execution, conform, render, caption validation or archive restore is claimed.
+- CT-02 remains **authored / review pending**. Independent academic, editorial, accessibility, rights/privacy and technical validation remain outstanding.
