@@ -33,6 +33,9 @@ Learners will be able to:
 - [Lab 01 — Vertical social edit and export](CT-03/labs/lab-01-vertical-social-edit-and-export.md): reproducible short-form workflow and export validation.
 - [Lab 02 — Multi-format versioning and batch delivery](CT-03/labs/lab-02-multi-format-versioning-and-batch-delivery.md): master preservation, three adaptations and batch QC.
 
+## Learner workbook
+- [Section 01 — Audience and Format Specification](CT-03/workbook/section-01-audience-and-format-specification.md): brief intake, source/rights inventory, two-format specification, composition plan, accessibility review and acceptance-test worksheet.
+
 ## Assessment and capstone
 - [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md): 40-point knowledge and applied reasoning assessment.
 - [Three-format social campaign capstone](CT-03/capstone/README.md): vertical, square and landscape campaign package, rights log, project files, QC report and reflection.
@@ -44,7 +47,7 @@ Use a current editor that supports custom sequences, transforms, captions/titles
 Learners must pass the knowledge assessment, submit both practical labs or equivalent evidence, complete the three-format capstone, meet mandatory rights/factual/source-preservation criteria, and submit a professional handoff. Suggested capstone pass threshold is 80/100. Course completion requires documented academic/technical/editorial review and reproducibility evidence; authored files alone do not establish learner completion or course validation.
 
 ## Course status
-**Authored — eight-stage initial curriculum and capstone pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal independent review, link/format validation, software-specific execution evidence and learner capstone validation remain outstanding. This course is not marked reviewed, validated or complete.
+**Authored — eight-stage initial curriculum and capstone pack.** Eight lesson files, two professional labs, one knowledge assessment and one capstone brief are present. Lesson 01 is expanded to academic revision 2.0 and Workbook Section 01 is authored. Lessons 02–08 remain in the initial authored state and require a lesson-by-lesson standard review/expansion. Formal independent review, link/format validation, software-specific execution evidence and learner capstone validation remain outstanding. This course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ academic and professional development requirements
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Apply the [academic lesson template](../../templates/academic-lesson-template.md), [professional lab template](../../templates/professional-lab-template.md) and [assessment rubric template](../../templates/assessment-rubric-template.md). Preserve subject-specific expertise and verify version-dependent claims.
