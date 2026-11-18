@@ -120,3 +120,7 @@ Deliver the source version, transcript, caption files, language/locale, format, 
 ## 12. Course-specific learning route
 
 For short-form vertical composition, caption accuracy and phone-preview practice, use [CT-03 Lesson 03 — Vertical Reframing, Captions and Safe Composition](../../../course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md). The broader course sequence is [CT-03 Short-Form & Social Video Editing](../../../course-types/courses/CT-03-short-form-social-video.md). Follow the lesson's source-audio verification and accessibility checks; do not treat automatic transcription or platform-generated captions as approved without human review.
+
+
+## CT-03 course route — captioned vertical delivery
+Use [CT-03 Lesson 03 — Vertical Reframing, Captions and Safe Composition](../../../course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) for the course's crop/caption integration standard and [Workbook Section 03](../../../course-types/courses/CT-03/workbook/section-03-vertical-reframing-and-caption-qc.md) for transcript correction, cue timing, localization, safe-composition and retest records. Coordinate with video-editing for shot/crop changes and quality-control for final-export verification. Recheck cue timing against the final locked edit after picture changes; do not treat automated transcription or a simulated phone preview as completed human/platform verification.
