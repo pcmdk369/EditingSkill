@@ -128,3 +128,9 @@ Before describing the agent architecture as runtime-validated, execute and retai
 ## 8. Audit conclusion
 
 **Structural result: aligned with the main repository controls, with activation/intake gaps corrected in this batch.** The 16 specialist entry points and universal routing architecture are present. Remaining work is discipline-specific cross-link normalization, semantic review and real agent-runtime testing. Do not mark the architecture fully validated or complete until those checks have evidence.
+
+
+## CT-03 Lesson 03 routing update — 2026-11-18
+- Added course-specific vertical-reframing and caption-QC route references to the existing video-editing, subtitles and quality-control specialists.
+- The route links point to the canonical CT-03 Lesson 03 and Workbook Section 03; they define division of responsibility and evidence requirements without claiming application control.
+- Static link/content review remains distinct from agent-runtime validation. Runtime routing, tool availability, external application execution and real device/platform checks were not run in this batch.
