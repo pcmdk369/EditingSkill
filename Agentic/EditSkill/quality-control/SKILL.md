@@ -125,3 +125,7 @@ Never claim a check was run without evidence.
 - [CT-03 Short-Form & Social Video](../../../course-types/courses/CT-03-short-form-social-video.md)
 - [Professional Academic Standard](../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
 - [Shared course standard](../references/course-standard.md)
+
+
+## CT-03 course route — vertical and caption acceptance
+For CT-03 deliverables, use [Lesson 03 — Vertical Reframing, Captions and Safe Composition](../../../course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md) and [Workbook Section 03](../../../course-types/courses/CT-03/workbook/section-03-vertical-reframing-and-caption-qc.md) as the course-specific evidence map. Check shot-by-shot crop intent, subject/action visibility, tracking drift, small-screen text legibility, transcript accuracy, cue sync against the final export, destination-specific overlays and rights/privacy evidence. Record whether device/platform preview was actual or simulated; do not report platform validation when only a mock preview was used.
