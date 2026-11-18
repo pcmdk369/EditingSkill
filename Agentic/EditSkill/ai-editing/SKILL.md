@@ -70,3 +70,8 @@ Store source asset ID, tool/model/version, task/prompt or settings where safe, g
 
 ### Release gate
 Block release for unauthorized uploads, deceptive impersonation, fabricated evidence, materially misleading product details, unreviewed factual text or unresolved rights. Provide a human-created alternative when AI is unsuitable.
+
+
+## CT-03 course-specific learning route
+
+For short-form campaign work involving transcript drafts, scene/shot search, select suggestions, generated assets or AI-assisted adaptation, use [CT-03 Lesson 07 — AI-Assisted Social Editing and Automation](../../../course-types/courses/CT-03/lesson-07-ai-assisted-social-editing-and-automation.md). The [CT-03 course outline](../../../course-types/courses/CT-03-short-form-social-video.md) defines the complete eight-stage sequence. Apply the pre-processing, representative-sample evaluation, provenance and human-review gates in this module; the lesson is a learning resource, not evidence that a provider or model is available or has been run.
