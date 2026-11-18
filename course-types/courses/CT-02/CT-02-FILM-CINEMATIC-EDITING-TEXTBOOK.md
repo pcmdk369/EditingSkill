@@ -817,6 +817,100 @@ Synchronize two camera angles and one external audio recording of a short dialog
 
 ---
 
+
+### 7.7 Camera and audio inventory: the synchronization record
+
+A multicamera edit begins with source knowledge, not with an automatic sync command. Build a source inventory before grouping media. Give every recording a stable camera or recorder ID and retain the original filename.
+
+| Field | Example value | Why it matters |
+|---|---|---|
+| Source ID | CAM-A_001 | Stable reference in notes |
+| Device / role | Camera A / wide master | Identifies editorial purpose |
+| Recorded frame rate | 25 fps (reported) | Helps diagnose cadence mismatch |
+| Audio format | 48 kHz, 24-bit (reported) | Documents the recording |
+| Timecode basis | Free-run / jam-synced / unknown | Indicates whether clocks may agree |
+| Start / end reference | Slate at source timecode | Enables repeatable sync checks |
+| Recording interruptions | 00:18:20–00:18:31 gap | Prevents false continuous assumptions |
+| Rights / consent | Production release ID | Confirms authorized use |
+
+Record whether a value comes from metadata, a slate, a production report or an assumption. Do not silently convert an unknown value into a fact. Keep camera naming consistent across bins, sequence labels, multicam angles, review notes and turnover documents.
+
+### 7.8 Synchronization decision tree
+
+Choose a sync reference according to what the source actually contains:
+
+1. **Common verified timecode:** compare timecode format, frame rate, clock configuration and jam-sync records. Align, then test an audible or visible event.
+2. **Slate or clap:** locate the same transient in picture and sound. Align the event, then verify later events.
+3. **Common waveform:** compare the same recorded audio event. Use a distinct transient where possible; continuous ambience can produce ambiguous matches.
+4. **Visual event:** align a clearly identifiable action visible to multiple cameras. Confirm that rolling-shutter, frame-rate or recording differences do not create a false match.
+5. **No reliable shared reference:** do not fabricate precision. Use a documented manual alignment estimate, identify uncertainty and seek production clarification.
+
+Automatic synchronization is a proposal, not proof. Verify that the correct source channels were used and that the alignment remains valid after any media interpretation or conform operation.
+
+### 7.9 Fixed offset, drift and discontinuity: diagnostic procedure
+
+A fixed offset is a consistent timing difference. Drift is a timing difference that changes over a recording. A discontinuity is a sudden change caused by a recording stop, dropped section or media split.
+
+Use a three-point check:
+
+| Checkpoint | Reference event | Camera A | Camera B | Difference / observation |
+|---|---|---|---|---|
+| Start | First shared clap | 00:00:10:08 | 00:00:10:08 | Aligned |
+| Middle | Second shared clap | 00:12:14:03 | 00:12:14:05 | 2-frame difference |
+| End | Final shared clap | 00:24:20:11 | 00:24:20:17 | 6-frame difference |
+
+This fictional data illustrates increasing offset; it is not a measured recording. Before correcting it, confirm that the same event was identified and that the timebase is comparable. Check more points around any suspected recording interruption. A single global slip cannot reliably correct a changing offset. Depending on the source and authorized workflow, recovery may require segmenting the recording, correcting interpretation, or replacing the sync reference. Preserve originals and record every transformation.
+
+### 7.10 Multicamera editorial decisions
+
+Synchronization creates a usable group; it does not decide the scene. Select an angle for a reason:
+
+- retain the wide/master when geography, group interaction or continuous action is essential;
+- use a close-up when a performance detail or decision changes audience understanding;
+- use a listener/reaction angle when it communicates a meaningful response;
+- preserve an uninterrupted take when timing, factual integrity or performance continuity depends on it;
+- avoid cutting merely because another angle is available.
+
+Before an angle change, check eyelines, screen direction, action continuity, audio continuity and whether the new shot changes the viewer's knowledge. Do not use a reaction shot to imply a reaction that did not occur at that moment, particularly in factual material.
+
+### 7.11 Worked diagnostic — three cameras and one recorder
+
+**Scenario:** Three cameras cover a two-person interview. A separate recorder captures dialogue. Camera A is the wide master; B and C are close-ups. A slate appears at the beginning, but Camera C stops and restarts during the interview.
+
+**Decision trace:**
+1. Inventory four source devices and preserve their original media.
+2. Verify the slate in all recordings where visible/audible.
+3. Align the recorder and cameras at the slate.
+4. Check a shared event near the middle and end.
+5. Inspect Camera C around the recording restart; treat the second file as a new sync segment.
+6. Verify that the recorder remains continuous and that the selected dialogue channels are correct.
+7. Label angles by camera identity and editorial role.
+8. Create a review sequence and check the cut at normal speed with dialogue.
+9. Record the restart, sync method and unresolved uncertainty in the handoff note.
+
+**Expected evidence:** source inventory, sync map, three-point verification table, angle labels, review sequence or paper edit, and a short note explaining any uncertainty. A paper exercise does not establish that a real multicamera sequence was created.
+
+### 7.12 Guided and independent practice
+
+**Guided practice:** Use learner-created or rights-cleared recordings of a short conversation. Inventory two cameras and one audio recorder; identify a common sync reference; complete start/middle/end checks; and produce a 30–60 second angle-selection plan. If no software is available, submit a paper edit with source IDs and time references.
+
+**Independent assignment:** Prepare a multicamera interview package with at least three picture sources and one audio source, or a clearly labeled simulated dataset. Submit source inventory, timebase assumptions, sync method, drift checks, discontinuity notes, angle-selection rationale, continuity review and a recovery plan. Do not claim exact synchronization without evidence from the actual media.
+
+### 7.13 Troubleshooting and knowledge review
+
+| Symptom | Diagnosis | Safe response |
+|---|---|---|
+| Sync is correct at start but wrong at end | Drift or timebase mismatch | Check multiple shared events and media interpretation |
+| One angle has no waveform match | Different microphone feed or low signal | Use slate/visual reference; do not force an ambiguous match |
+| Sync changes after a restart | Separate recording segment | Treat each segment independently |
+| Audio doubles or echoes | Multiple live microphone feeds remain active | Identify the intended master and inspect channel routing |
+| Angle labels are confusing | Inconsistent source naming | Restore stable IDs and update the sync map |
+
+**Knowledge check:** Explain why timecode does not prove synchronized clocks; distinguish offset from drift; name three shared-event checks; describe how a recording restart changes the workflow; and explain why angle selection remains an editorial decision. Full-credit answers distinguish evidence from assumption and identify a verification method.
+
+**Chapter 7 QC:** [ ] Originals inventoried and protected. [ ] Timebase and source assumptions documented. [ ] Sync reference identified. [ ] Start/middle/end verified. [ ] Restarts and discontinuities checked. [ ] Audio routing inspected. [ ] Camera labels consistent. [ ] Editorial changes preserve performance and geography. [ ] Handoff evidence saved.
+
+
 ## Chapter 8 — From Assembly to Rough Cut and Fine Cut
 
 ### 8.1 Editorial stages
@@ -877,6 +971,127 @@ Create an assembly, rough cut and fine cut of a 2–3 minute scene. Save each as
 
 ---
 
+
+### 8.7 Editorial progression as a sequence of decision gates
+
+Treat assembly, rough cut, fine cut and picture lock as different decision states. A project may move backward when evidence reveals a story problem; the stages are not a one-way checklist.
+
+| Stage | Primary question | Typical evidence | Do not confuse it with |
+|---|---|---|---|
+| Assembly | Is all required story material represented in a coherent order? | Selects, scene order, markers, source notes | A polished scene |
+| Rough cut | Does the story work for a first-time viewer? | Complete review sequence, feedback log | Final technical compliance |
+| Fine cut | Are timing, performance, continuity and transitions resolved? | Refined edit, issue list, comparison versions | Approval by assumption |
+| Picture lock | Has the authorized decision-maker approved picture timing? | Approval record, locked version ID, change policy | Finished sound/color/master |
+| Finishing turnover | Can downstream teams identify exactly what to finish? | Timeline/export reference, handles, media map, notes | An undocumented project handoff |
+
+A stage gate should have an owner, required evidence, open issues and a recorded decision. If a gate is not passed, identify the specific unresolved criterion rather than labeling the whole project “almost done.”
+
+### 8.8 Assembly method: story first, polish later
+
+1. Confirm the brief, source permissions, required scenes and delivery target.
+2. Create a source inventory and protect camera originals.
+3. Review all usable material and mark selects with source IDs and time references.
+4. Build a scene/sequence map before detailed transitions.
+5. Place the essential beats in story order, including required setup, action, reaction and consequence.
+6. Use temporary slugs, markers or written notes for missing coverage and uncertain facts.
+7. Check that every included shot has a story or structural purpose.
+8. Review the whole assembly and list structural gaps before polishing individual cuts.
+
+An assembly can be long and uneven. Its purpose is to expose the available story material and missing pieces, not to disguise them with effects or music.
+
+### 8.9 Rough-cut review: separate observation from prescription
+
+Reviewers should first describe what they understand and where they become confused. Only then should they suggest a solution. This separates audience evidence from a preferred edit technique.
+
+Use a structured review record:
+
+| Field | Example |
+|---|---|
+| Version | SCENE_v004 |
+| Timeline reference | 00:01:12:10 |
+| Observation | The character's decision is not clear |
+| Viewer evidence | Two of three viewers thought the character was interrupted |
+| Editorial question | Is a reaction or preceding action missing? |
+| Proposed test | Compare take B and a longer hold |
+| Priority | High — affects story comprehension |
+| Owner/status | Editor / open |
+
+Ask reviewers not to prescribe a cut before they can state the problem. A note such as “add a close-up” may be one solution, but the underlying need may be to clarify a decision, reveal a prop or restore a line.
+
+### 8.10 Fine-cut decision procedure
+
+For each edit point, test:
+
+1. **Story:** does the cut preserve the intended information and point of view?
+2. **Performance:** does it retain the meaningful beginning, development and completion of the action or thought?
+3. **Continuity:** are movement, screen direction, eyeline, props and sound coherent?
+4. **Rhythm:** does the timing support the scene's emotional progression?
+5. **Technical integrity:** are there flashes, black frames, missing frames, clipped audio or broken transitions?
+6. **Global effect:** after a local change, does the complete scene still work?
+
+Use A/B versions when a decision is subjective. Change one major variable at a time and document the reason. Do not use frame-level perfection to avoid addressing a structural problem.
+
+### 8.11 Picture lock and controlled change
+
+Picture lock is a governed approval state. Before lock, record the exact version, frame rate/timebase, sequence duration, authorized approver, outstanding exceptions and turnover requirements.
+
+After lock, use a change request:
+
+- request ID and requester;
+- locked version identifier;
+- affected sequence and timecode;
+- reason and evidence;
+- proposed change and estimated duration impact;
+- affected departments (sound, music, captions, VFX, color, graphics, delivery);
+- approval authority and decision;
+- new version ID and superseded version;
+- revalidation tasks and completion evidence.
+
+A small picture change may alter subtitles, music cues, sound effects, VFX timing, credits and platform cutdowns. Do not silently replace a locked master or relabel an unapproved revision as final.
+
+### 8.12 Worked example — three-minute narrative scene
+
+**Brief:** A character discovers a missing key, questions a second character and chooses to leave. The production provides a master, two close-ups and alternate dialogue takes.
+
+- **Assembly:** place the discovery, question, response and decision in story order; mark the missing insert if the key is not readable.
+- **Rough cut:** test whether viewers understand who had the key and why the discovery matters. Record confusion before changing coverage.
+- **Fine cut:** compare dialogue takes, preserve the listener's reaction, verify eyelines and ensure the key remains in the correct hand.
+- **Lock review:** confirm the authorized approver, exact sequence ID, duration and unresolved exceptions.
+- **Change request:** if the key insert must be lengthened after lock, document the new timing and recheck dialogue, sound, captions and any downstream graphics.
+
+**Expected result:** a traceable progression of versions and decisions, not simply four files with different names.
+
+### 8.13 Dry run — feedback disposition and lock decision
+
+Use a fictional review log containing these three notes:
+
+1. “The scene is too slow.”
+2. “At 00:01:12:10, I cannot tell why the character leaves.”
+3. “Replace the ending with take C; I prefer the performance.”
+
+Classify each note as observation, evidence, prescription or preference. Request clarification where the note does not identify a viewer problem. Propose a test for notes 1 and 2. For note 3, compare the take against the brief, continuity and performance objective. Decide whether the scene meets lock criteria and record the reason. This exercise is a decision simulation, not an approval from a real stakeholder.
+
+### 8.14 Guided and independent practice
+
+**Guided:** Build a paper assembly from a provided shot/beat list, write five rough-cut review observations, and create two fine-cut alternatives for one edit point. Explain which evidence supports the selected version.
+
+**Independent:** Produce an editorial progression portfolio for a 2–3 minute scene. Include the brief, source/rights inventory, assembly map, rough-cut review record, fine-cut decision log, lock checklist, approval placeholder or actual authorized approval, and a simulated or real change request. Clearly distinguish mock approval from a genuine stakeholder decision.
+
+### 8.15 Troubleshooting, assessment guidance and QC
+
+| Symptom | Likely problem | Recovery |
+|---|---|---|
+| Assembly is polished but story is unclear | Premature transition/effect work | Return to beat and scene structure |
+| Review notes conflict | Different goals or authority | Reconcile against brief and decision owner |
+| Fine cut fixes one shot but damages scene | Local edit not reviewed globally | Replay the full sequence and adjacent scenes |
+| Lock keeps changing informally | No change-control rule | Define approver, request record and downstream checks |
+| Teams use different “final” files | Version identity is ambiguous | Issue one approved version ID and supersede old copies |
+
+**Knowledge check:** Distinguish assembly from rough cut; explain why a rough-cut note should identify an observed issue; list picture-lock evidence; name four downstream consequences of a timing change; and explain how an edit can return to an earlier stage. Strong answers identify stage purpose, authority and traceable evidence.
+
+**Chapter 8 QC:** [ ] Brief and rights checked. [ ] Source inventory complete. [ ] Assembly story order reviewed. [ ] Rough-cut comprehension notes recorded. [ ] Fine-cut decisions tested at normal speed. [ ] Continuity and sound checked. [ ] Lock authority and version recorded. [ ] Changes after lock controlled. [ ] Turnover package identified.
+
+
 ## Chapter 9 — Professional Notes, Collaboration and Version Control
 
 ### 9.1 Editorial communication
@@ -908,6 +1123,119 @@ Record what changed, why, who requested/approved it, and whether it affects othe
 Write ten actionable edit notes for a scene. Include at least two notes that you reject or query because they are ambiguous or conflict with the brief. Explain how you would request clarification.
 
 ---
+
+
+### 9.5 Collaboration model: responsibility, consultation and approval
+
+Editorial collaboration works best when participants know which decisions they can make. A reviewer may offer valuable feedback without having authority to approve the final cut. The editor may implement changes but may not own legal, factual or client approvals.
+
+| Role | Typical responsibility | Decision boundary to clarify |
+|---|---|---|
+| Editor | Construct and document the edit | May not approve scope, rights or factual claims alone |
+| Director / creative lead | Guide creative intent | May not override contractual, legal or platform requirements |
+| Producer / project owner | Manage scope, resources and delivery | Approval authority must be stated in the brief |
+| Client / stakeholder | Review against agreed outcomes | Feedback is not automatically a change request |
+| Sound / color / VFX | Own specialist downstream work | Requires stable version and turnover information |
+| Reviewer / subject-matter expert | Identify accuracy or comprehension issues | Must state evidence and limits of expertise |
+
+For small productions, one person may hold several roles. Record the role being exercised for each decision. Avoid ambiguous approval phrases such as “looks good” when a formal sign-off is required.
+
+### 9.6 Write actionable editorial notes
+
+An actionable note identifies the object, location, issue, desired outcome and priority. It should not force the recipient to guess the problem.
+
+**Weak:** “Make the opening stronger.”
+
+**Actionable:** “In REVIEW_v006 at 00:00:18:12, the viewer has not yet seen the object before the dialogue refers to it. Test moving the existing insert earlier; preserve the chronology and compare comprehension.”
+
+Use a note schema:
+
+| Field | Required content |
+|---|---|
+| Note ID | Unique stable identifier |
+| Version | Exact review export / sequence ID |
+| Location | Timeline timecode and/or source reference |
+| Type | Story, performance, continuity, sound, graphics, technical |
+| Observation | What the reviewer actually noticed |
+| Intended outcome | What should become clearer or better |
+| Priority | Critical / high / normal / low, defined by project |
+| Owner | Person responsible for response |
+| Disposition | Accept / test / query / reject / defer |
+| Rationale | Evidence and reason |
+| Status | Open / in progress / resolved / deferred |
+
+Timecode alone may be insufficient when frame rate or version differs. Include the version identifier and, where necessary, a short visual or textual description.
+
+### 9.7 Version control for editorial work
+
+Use a stable project naming scheme, for example:
+
+`PROJECT_SCENE_EDITOR_v003_YYYY-MM-DD`
+
+Define whether the version number refers to a project file, timeline, review export or delivery master. These are different artifacts and should not be conflated.
+
+Maintain:
+- an immutable copy of the approved review export;
+- a change log for each meaningful revision;
+- a record of linked media and project dependencies;
+- a known-good checkpoint before risky operations;
+- a clear superseded/approved status;
+- a backup and restore procedure.
+
+A filename is not a version-control system. If multiple collaborators can overwrite the same project or media, define ownership, locking/check-out rules or a coordinated handoff. Never assume that cloud synchronization is equivalent to a verified backup.
+
+### 9.8 Change log and decision register
+
+A decision register captures why the edit took its current form. Example:
+
+| ID | Version | Change | Reason / evidence | Requested by | Approved by | Impact |
+|---|---|---|---|---|---|---|
+| D-01 | v002 | Retained listener reaction | Clarified emotional turn in review | Director | Producer | +2 seconds |
+| D-02 | v003 | Reordered insert | Object was unclear before dialogue | Editor | Director | Caption timing checked |
+| D-03 | v004 | Deferred music change | Requires rights confirmation | Producer | Pending | No music replacement |
+
+The entries are fictional examples. Record rejected and deferred requests when they materially affect the final result or future review. Do not erase the history when a decision changes.
+
+### 9.9 Worked example — conflicting review notes
+
+A director requests a longer reaction. A client requests a shorter scene. A sound editor asks for two additional seconds of handle. The editor should not resolve this as a simple vote.
+
+1. Identify the approved brief and who owns final creative approval.
+2. Ask what the longer reaction is intended to communicate.
+3. Determine whether the shorter-scene request concerns runtime, pace or a specific section.
+4. Check whether the sound request is for a handle outside the intended program duration or a true picture change.
+5. Create alternatives that satisfy the actual constraints where possible.
+6. Record the trade-off, selected version and approver.
+7. If the request changes scope or locked timing, initiate change control.
+
+**Expected result:** a documented decision and a clear next action for each stakeholder, not an assumption that the most senior or latest commenter automatically decides.
+
+### 9.10 Dry run — version conflict simulation
+
+Three files arrive: `film_final.mov`, `film_final2.mov` and `film_approved_revised.mov`. Their creation dates conflict with the email thread. Do not infer approval from filename or timestamp.
+
+Build a verification plan: compare file identity/checksum if available, inspect review/approval records, identify the authorized approver, confirm exact duration and version, and quarantine ambiguous files until resolved. Record which evidence is missing. The correct result may be “approval cannot yet be established.”
+
+### 9.11 Guided and independent practice
+
+**Guided:** Rewrite five vague notes into actionable notes. Include a version, location, observation, desired outcome and priority. Classify two conflicting notes and draft clarification questions.
+
+**Independent:** Build a collaboration portfolio containing a role/approval matrix, ten review notes, a disposition register, a version-naming policy, a change log, one scope-change request and a handoff note. Include a simulated conflict scenario and explain how the authority boundary was resolved.
+
+### 9.12 Troubleshooting, knowledge check and QC
+
+| Symptom | Cause | Recovery |
+|---|---|---|
+| Reviewer cannot find the noted moment | Missing version/timecode context | Add exact version and location |
+| “Approved” files disagree | Approval evidence not tied to artifact | Confirm approver and immutable version ID |
+| Team overwrites project work | Unclear ownership / shared-write process | Define check-out, handoff or controlled collaboration |
+| Revisions repeat | No disposition history | Maintain note IDs and decision register |
+| Archive cannot be reopened | Dependencies or permissions missing | Run a portability/restore test |
+
+**Knowledge check:** Why is a version ID required in a review note? What distinguishes feedback from approval? Why is cloud sync not necessarily backup? What belongs in a change log? What should happen when the approved version cannot be established? Answer guidance: traceability, explicit authority, independent recovery, decision history, and a hold pending evidence.
+
+**Chapter 9 QC:** [ ] Roles and approval authority recorded. [ ] Notes actionable and version-specific. [ ] Decisions traceable. [ ] Naming policy unambiguous. [ ] Approved copies protected. [ ] Scope changes authorized. [ ] Collaboration ownership clear. [ ] Backup and restore evidence retained.
+
 
 # Part III — Mastery, Automation and Professional Delivery
 
@@ -943,6 +1271,114 @@ A professional handoff may include the approved master, required platform versio
 Prepare a 2-minute scene delivery package. Include master export, editable project, media inventory, rights notes, version log and signed-off QC checklist.
 
 ---
+
+
+### 10.6 Delivery specification matrix
+
+Do not select export settings from habit. Extract requirements from the client/platform specification and record them before rendering.
+
+| Requirement | Example field | Verification evidence |
+|---|---|---|
+| Picture dimensions | Width × height in pixels | Media probe / file properties |
+| Frame rate | Exact rational rate and progressive/interlaced mode | Stream metadata and playback |
+| Duration | Required runtime or tolerance | Timeline and rendered-file duration |
+| Codec/container | Required video codec and file container | Media inspection |
+| Color | Color primaries, transfer, matrix and range where specified | Metadata plus visual test |
+| Audio | Codec, sample rate, channel layout, loudness/peak limits if specified | Audio analysis and playback |
+| Captions | Format, language, timing and accessibility requirements | Caption validation and playback |
+| Naming | Project, version, language, territory, delivery date | Package inspection |
+| File transfer | Portal, checksum, encryption or access control | Transfer receipt and integrity check |
+
+The example is a specification framework, not a universal preset. A platform's current requirements, contract and delivery brief take precedence. If the specification is incomplete or contradictory, obtain clarification before final export.
+
+### 10.7 Conform and turnover integrity
+
+A conform reconnects the approved editorial decisions to intended source media and finishing elements. Before finishing, compare the conform against the approved reference:
+
+1. Confirm the approved timeline/version ID.
+2. Verify source identity, reel/clip names and media paths.
+3. Confirm sequence timebase, dimensions and duration.
+4. Check edit points, handles, speed changes, reframing, transitions and effects.
+5. Inspect offline media, missing fonts, graphics, plugins or linked assets.
+6. Compare the beginning, middle, end and every high-risk section against the reference.
+7. Record discrepancies and resolve them before mastering.
+
+A project that opens on the editor's machine may still be incomplete on another machine. Document dependencies, licensed plugins, fonts, LUTs, graphics, audio assets and any required relink procedure.
+
+### 10.8 Separate finishing passes
+
+Do not rely on a single general playback to catch every issue. Use independent review passes with a defined focus:
+
+- **Editorial pass:** missing/duplicated shots, accidental gaps, wrong version, unintended black frames.
+- **Picture pass:** focus, exposure, color continuity, scaling, crop, aspect ratio and image artifacts.
+- **Sound pass:** dialogue intelligibility, clipping, channel mapping, phase/mono compatibility where relevant, unwanted noise and abrupt transitions.
+- **Graphics/captions pass:** spelling, safe placement, timing, contrast, reading speed and language/version correctness.
+- **Technical pass:** codec, container, dimensions, frame rate, duration, audio streams and file integrity.
+- **Accessibility pass:** captions/subtitles and other deliverables required by the brief.
+- **Delivery pass:** names, folder structure, checksums/transfer evidence and recipient permissions.
+
+A visual QC pass cannot establish audio compliance; metadata cannot establish that the file plays correctly; and a short preview cannot replace a full-duration review.
+
+### 10.9 Export validation: inspect the delivered artifact
+
+After export, inspect the actual file rather than trusting the timeline settings. Record:
+- exact filename and file size;
+- container and stream codecs;
+- dimensions and frame rate;
+- duration and timebase;
+- audio streams, sample rate and channel layout;
+- caption/subtitle streams or sidecar files;
+- color metadata where required;
+- playback results at beginning, middle and end;
+- full-length playback completion;
+- QC issues, corrections and re-export identity.
+
+If a command-line media inspector is used, its exact version and command must be recorded in a separate verified lab. This chapter does not prescribe unverified command flags or assume a particular tool is installed.
+
+### 10.10 Worked example — fictional short-film delivery
+
+**Brief:** Deliver a two-minute narrative short to a client requiring one master file, one caption file and an editable project handoff. The client supplies the final frame rate, codec, naming and audio requirements in a signed specification.
+
+1. Create a delivery matrix by copying the client's exact values.
+2. Verify the locked timeline ID and finishing turnover.
+3. Confirm all media and linked assets are online.
+4. Complete editorial, picture, sound and caption passes.
+5. Export to a temporary output location.
+6. Inspect metadata and play the entire file.
+7. Compare captions against spoken content and timing.
+8. Correct any issue, increment the export version and repeat relevant tests.
+9. Prepare the project and authorized dependencies.
+10. Generate a handoff manifest and transfer record.
+
+**Expected evidence:** specification matrix, approved timeline reference, export identity, inspection report, full-playback sign-off, caption file, project/dependency manifest and transfer receipt. This is a workflow example; it does not claim an actual render.
+
+### 10.11 Dry run — QC issue triage
+
+A fictional export review identifies: (a) one black frame at 00:00:42, (b) dialogue absent from the right channel, (c) a misspelled end credit, and (d) a file name that does not match the brief.
+
+Classify each as picture, audio, graphics or delivery metadata. Record severity, exact version/time, likely cause, responsible owner and re-test required. After correction, do not mark the file approved until the corrected export has been inspected. A correction in the timeline is not proof that the replacement export is correct.
+
+### 10.12 Guided and independent practice
+
+**Guided:** Given a fictional delivery brief, build a specification matrix and design separate picture, audio, caption and metadata QC passes. Identify which requirements need objective measurement and which need human review.
+
+**Independent:** Prepare a delivery package for a learner-created or rights-cleared two-minute scene. Include specification matrix, finishing turnover checklist, conform comparison, export inspection record, full playback checklist, captions where required, project/dependency manifest, rights record and transfer/approval placeholder. If no media tools are available, submit a clearly labeled paper plan and do not claim a rendered master.
+
+### 10.13 Troubleshooting, knowledge check and QC
+
+| Symptom | Possible cause | Diagnosis / recovery |
+|---|---|---|
+| Export differs from approved cut | Wrong timeline or conform mismatch | Compare version ID and edit points; reconform |
+| File properties look correct but playback fails | Corrupt/incomplete export or decoder issue | Re-export and test on an independent playback path |
+| Dialogue only on one channel | Incorrect routing or source mapping | Inspect channel layout and listen to each channel |
+| Captions drift | Timing changed after caption creation | Re-time against final locked picture and revalidate |
+| Project opens with missing media | Incomplete dependencies or broken paths | Relink from manifest and repeat portability test |
+| Final filename is correct but content is old | Stale export copied to delivery folder | Verify file identity, version and checksum where used |
+
+**Knowledge check:** Why is the delivery brief authoritative? Name five independent QC passes. Why inspect the actual export? What evidence establishes caption alignment? Why does a project file alone not prove portability? Answer guidance: specification compliance, distinct failure classes, rendered artifact verification, comparison with final picture, and complete dependency/restore evidence.
+
+**Chapter 10 QC:** [ ] Delivery matrix approved. [ ] Correct timeline conformed. [ ] Media and dependencies online. [ ] Picture, sound, graphics and captions reviewed. [ ] Actual export metadata inspected. [ ] Full-length playback completed. [ ] Corrected export re-tested. [ ] Manifest and rights records included. [ ] Transfer and approval evidence retained.
+
 
 ## Chapter 11 — AI-Assisted Film Editing and Automation
 
@@ -1182,9 +1618,9 @@ Create a mock brief and approval matrix. Log ten review notes including a defect
 
 ## Version and review notes
 
-- **2026-11-18 — Chapters 5–6 expansion:** Expanded pacing/rhythm and montage/crosscutting instruction with diagnostic frameworks, reproducible procedures, worked examples, dry runs, guided and independent practice, troubleshooting, answer guidance and QC checks.
-- The new examples are instructional/simulated; procedures are tool-independent. No NLE execution, media edit, synchronization, AI processing or render is claimed.
-- Existing chapters 7–13, glossary and course completion checklist were retained.
-- CT-02 remains authored / review pending. Independent academic, editorial, accessibility, rights/privacy and technical review, version-specific software testing and learner evidence remain outstanding.
+- **2026-11-18 — Chapters 5–6 expansion:** Pacing/rhythm and montage/crosscutting instruction expanded with diagnostic frameworks, worked examples, dry runs, practice and QC.
+- **2026-11-18 — Chapters 7–10 expansion:** Multicamera inventory and sync diagnostics; editorial stage gates and picture-lock change control; collaboration, note and version traceability; finishing specification, conform and export QC.
+- Examples and numerical synchronization data are instructional/simulated. Procedures are tool-independent. No NLE execution, media synchronization, conform, render, caption validation or archive restoration is claimed.
+- Chapters 11–13, glossary and course completion checklist are retained. CT-02 remains authored / review pending pending independent academic, editorial, accessibility, rights/privacy and technical review.
 
-This is a working manuscript. Software-specific steps must be added in separate labs only after platform and version verification. Standards for delivery, loudness, frame rates and codecs vary by client and distribution platform; the project brief is authoritative. Review technical references before publishing version-sensitive procedures.
+This is a working manuscript. Software-specific steps must be added in separate labs only after platform and version verification. Delivery standards vary by client and distribution platform; the approved project specification is authoritative.
