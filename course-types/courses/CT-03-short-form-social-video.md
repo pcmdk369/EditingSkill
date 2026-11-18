@@ -35,6 +35,7 @@ Learners will be able to:
 
 ## Learner workbook
 - [Section 01 — Audience and Format Specification](CT-03/workbook/section-01-audience-and-format-specification.md): brief intake, source/rights inventory, two-format specification, composition plan, accessibility review and acceptance-test worksheet.
+- [Section 02 — Story Promise and Selects Log](CT-03/workbook/section-02-story-promise-and-selects-log.md): hook integrity, source selects, paper edit, compression decisions, comparison plan and review record.
 
 ## Assessment and capstone
 - [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md): 40-point knowledge and applied reasoning assessment.
@@ -47,7 +48,7 @@ Use a current editor that supports custom sequences, transforms, captions/titles
 Learners must pass the knowledge assessment, submit both practical labs or equivalent evidence, complete the three-format capstone, meet mandatory rights/factual/source-preservation criteria, and submit a professional handoff. Suggested capstone pass threshold is 80/100. Course completion requires documented academic/technical/editorial review and reproducibility evidence; authored files alone do not establish learner completion or course validation.
 
 ## Course status
-**Authored — eight-stage initial curriculum and capstone pack.** Eight lesson files, two professional labs, one knowledge assessment and one capstone brief are present. Lesson 01 is expanded to academic revision 2.0 and Workbook Section 01 is authored. Lessons 02–08 remain in the initial authored state and require a lesson-by-lesson standard review/expansion. Formal independent review, link/format validation, software-specific execution evidence and learner capstone validation remain outstanding. This course is not marked reviewed, validated or complete.
+**Authored — eight-stage initial curriculum and capstone pack.** Eight lesson files, two professional labs, one knowledge assessment and one capstone brief are present. Lessons 01–02 are expanded to academic revision 2.0; Workbook Sections 01–02 are authored. Lessons 03–08 remain in the initial authored state and require a lesson-by-lesson standard review/expansion. Formal independent review, link/format validation, software-specific execution evidence and learner capstone validation remain outstanding. This course is not marked reviewed, validated or complete.
 
 ## PCMDK369™ academic and professional development requirements
 Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md). Apply the [academic lesson template](../../templates/academic-lesson-template.md), [professional lab template](../../templates/professional-lab-template.md) and [assessment rubric template](../../templates/assessment-rubric-template.md). Preserve subject-specific expertise and verify version-dependent claims.
