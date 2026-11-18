@@ -141,3 +141,22 @@ Never claim that a render, export, review or test occurred unless the available 
 - [CT-03 Short-Form & Social Video](../../../course-types/courses/CT-03-short-form-social-video.md)
 - [Professional Academic Standard](../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
 - [Shared course standard](../references/course-standard.md)
+
+
+## 12. Course-specific learning routes
+
+Use the course outline as the canonical sequence and load only the lesson or lab needed for the current task. For CT-03 Short-Form & Social Video Editing, the verified route is:
+
+- [CT-03 course outline](../../../course-types/courses/CT-03-short-form-social-video.md)
+- [Lesson 01 — Audience, Platform and Format Design](../../../course-types/courses/CT-03/lesson-01-audience-platform-and-format-design.md)
+- [Lesson 02 — Hooks, Story Compression and Retention](../../../course-types/courses/CT-03/lesson-02-hooks-story-compression-and-retention.md)
+- [Lesson 03 — Vertical Reframing, Captions and Safe Composition](../../../course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md)
+- [Lesson 04 — Advanced Multi-Format Pacing and Version Control](../../../course-types/courses/CT-03/lesson-04-advanced-multi-format-pacing-and-version-control.md)
+- [Lesson 05 — Expert Editorial Testing and Performance Optimization](../../../course-types/courses/CT-03/lesson-05-expert-editorial-testing-and-performance-optimization.md)
+- [Lesson 06 — Master Creative Direction and Campaign Systems](../../../course-types/courses/CT-03/lesson-06-master-creative-direction-and-campaign-systems.md)
+- [Lesson 08 — Professional Practice, Client Delivery and Portfolio](../../../course-types/courses/CT-03/lesson-08-professional-practice-client-delivery-and-portfolio.md)
+- [Lab 01 — Vertical Social Edit and Export](../../../course-types/courses/CT-03/labs/lab-01-vertical-social-edit-and-export.md)
+- [Knowledge assessment](../../../course-types/courses/CT-03/assessment-quiz-and-answer-key.md)
+- [Three-format campaign capstone](../../../course-types/courses/CT-03/capstone/README.md)
+
+Route caption-specific work in Lesson 03 to the subtitles specialist, AI-assisted tasks in Lesson 07 to the AI-editing specialist, and batch/version delivery in Lab 02 to the automation specialist. This mapping is a learning/workflow route; it does not assert that any editor, platform or agent runtime is installed or executed.
