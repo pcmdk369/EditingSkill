@@ -113,3 +113,10 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Chapter 6 now adds shot-to-shot relationship analysis, montage-type distinctions, chronology ledgers, crosscutting integrity checks, a fictional process-montage example and an independent crosscutting assignment.
 - The chapter examples are explicitly instructional/simulated. Procedures remain tool-independent; no NLE execution or media render is claimed. Existing Chapter 7 onward and the ten-lesson sequence were preserved.
 - CT-02 remains authored / review pending; this textbook expansion does not constitute independent academic review, technical validation or learner completion.
+
+### Textbook development update — 2026-11-18 (Chapters 7–10)
+- Expanded textbook Chapter 7 with source inventory, sync decision tree, fixed-offset/drift/discontinuity diagnosis, multicamera editorial reasoning, worked diagnostic, guided/independent practice and QC.
+- Expanded Chapter 8 with editorial stage gates, assembly and review workflows, fine-cut decision tests, picture-lock change control, a worked narrative example and practice.
+- Expanded Chapter 9 with responsibility/approval boundaries, actionable notes, version governance, change logs, conflict simulation and professional QC.
+- Expanded Chapter 10 with delivery specification matrix, conform checks, independent finishing passes, rendered-file inspection, QC triage and delivery practice.
+- All examples are instructional/simulated; tool-independent procedures only. No software execution or media delivery is claimed. Existing lessons and Chapters 11–13 remain intact. CT-02 remains authored / review pending.
