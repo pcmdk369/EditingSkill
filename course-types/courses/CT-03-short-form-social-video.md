@@ -36,7 +36,8 @@ Learners will be able to:
 ## Learner workbook
 - [Section 01 — Audience and Format Specification](CT-03/workbook/section-01-audience-and-format-specification.md): brief intake, source/rights inventory, two-format specification, composition plan, accessibility review and acceptance-test worksheet.
 - [Section 02 — Story Promise and Selects Log](CT-03/workbook/section-02-story-promise-and-selects-log.md): hook integrity, source selects, paper edit, compression decisions, comparison plan and review record.
-- [Section 03 — Vertical Reframing and Caption QC](CT-03/workbook/section-03-vertical-reframing-and-caption-qc.md): crop geometry, shot-by-shot reframing, transcript correction, timed cue sheet, small-screen and destination-overlay review, rights/privacy and defect retesting.\n- [Section 04 — Multi-Format Version Control](CT-03/workbook/section-04-multi-format-version-control.md): deliverable matrix, master protection, runtime budget, adaptation map, version manifest, change impact, QC and release handoff.
+- [Section 03 — Vertical Reframing and Caption QC](CT-03/workbook/section-03-vertical-reframing-and-caption-qc.md): crop geometry, shot-by-shot reframing, transcript correction, timed cue sheet, small-screen and destination-overlay review, rights/privacy and defect retesting.
+- [Section 04 — Multi-Format Version Control](CT-03/workbook/section-04-multi-format-version-control.md): deliverable matrix, master protection, runtime budget, adaptation map, version manifest, change impact, QC and release handoff.
 - [Section 05 — Editorial Testing and Performance Log](CT-03/workbook/section-05-editorial-testing-and-performance-log.md): hypothesis, test method, metric dictionary, guardrails, evidence log, bottleneck diagnosis, optimization and proof QC.
 
 ## Assessment and capstone
