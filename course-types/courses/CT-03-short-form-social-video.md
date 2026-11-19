@@ -42,7 +42,7 @@ Learners will be able to:
 
 ## Assessment and capstone
 - [Knowledge assessment and answer key](CT-03/assessment-quiz-and-answer-key.md): 40-point knowledge and applied reasoning assessment.
-- [Three-format social campaign capstone](CT-03/capstone/README.md): vertical, square and landscape campaign package, rights log, project files, QC report and reflection.
+- [Three-format social campaign capstone](CT-03/capstone/README.md): vertical, square and landscape campaign package, rights log, project files, editorial test dossier, performance baseline/optimization record, QC report and reflection.
 
 ## Software track
 Use a current editor that supports custom sequences, transforms, captions/titles and export. Software-specific menu instructions must identify the exact app/version and be checked against its official documentation. Concepts remain transferable across DaVinci Resolve, Premiere Pro, CapCut, VN and other capable editors; availability, pricing and features must be verified at the time of instruction.
