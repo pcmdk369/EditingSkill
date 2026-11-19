@@ -52,7 +52,11 @@ Ask only for missing facts that change the edit or create a material risk. State
 10. **QC gate:** inspect the exported file from start to finish; record defects and retest fixes.
 11. **Handoff gate:** package project, media dependencies, exports, notes and known limitations.
 
-## 4A. CT-03 multi-format and version-control route\n\nFor short-form social campaign adaptation, use the [CT-03 course pathway](../../../course-types/courses/CT-03-short-form-social-video.md), especially [Lesson 04 — Advanced Multi-Format Pacing and Version Control](../../../course-types/courses/CT-03/lesson-04-advanced-multi-format-pacing-and-version-control.md) and [Workbook Section 04](../../../course-types/courses/CT-03/workbook/section-04-multi-format-version-control.md). Preserve the canonical master, build a per-output deliverable matrix, create distinct derivative sequences, trace changes to their authority/source, and validate every exact export against its own specification. A documented route is not evidence that an editor, export, storage system or platform has been executed.\n\n## 5. Reproducible editorial procedure
+## 4A. CT-03 multi-format, testing and performance route
+
+For short-form social campaign adaptation, use the [CT-03 course pathway](../../../course-types/courses/CT-03-short-form-social-video.md), [Lesson 04 — Advanced Multi-Format Pacing and Version Control](../../../course-types/courses/CT-03/lesson-04-advanced-multi-format-pacing-and-version-control.md), [Workbook Section 04](../../../course-types/courses/CT-03/workbook/section-04-multi-format-version-control.md), [Lesson 05 — Expert Editorial Testing and Performance Optimization](../../../course-types/courses/CT-03/lesson-05-expert-editorial-testing-and-performance-optimization.md) and [Workbook Section 05](../../../course-types/courses/CT-03/workbook/section-05-editorial-testing-and-performance-log.md). Preserve the canonical master; identify exact variants and versions; separate editorial evidence from technical benchmarks; record test conditions, source codecs and hardware; apply reversible optimizations; and validate the final proof against the delivery specification. A documented route is not evidence that an editor, analytics provider, benchmark, export, storage system or platform has been executed.
+
+## 5. Reproducible editorial procedure
 
 ### A. Project and media preparation
 - Preserve originals; create a working copy or verified backup.
