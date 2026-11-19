@@ -172,3 +172,11 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Updated the CT-03 outline and completion register. Lessons 01–03 are expanded; Lessons 04–08 remain the next sequence. CT-03 remains authored/review pending, not validated or complete.
 - Added verified Lesson 03 / Workbook Section 03 routes to the video-editing, subtitles and quality-control specialist modules. These are documentation routes only, not evidence of agent runtime execution.
 - No editor, tracker, transcription service, phone preview, platform upload or caption validator was executed. Safe-area review must be verified against the actual destination; simulated previews are labeled as such.
+
+
+## 2026-11-19 CT-02 textbook Chapter 11 development
+- Expanded the existing Chapter 11 in place with a controlled AI-assisted editorial workflow, authorization and task gates, representative evaluation sets, task-specific measures, source-linked structured outputs, prompt boundaries, untrusted-input handling, failure escalation and retest triggers.
+- Added a simulated interview transcript pilot, guided practice, independent AI evaluation dossier, answer-guided knowledge checks, 100-point rubric and production QC checklist.
+- Example results and acceptance values are fictional teaching data. No AI service, NLE, transcription provider, media upload or automation was executed.
+- Updated the CT-02 course index. Existing ten lesson files, textbook chapters 12–13 and workbook resources were preserved.
+- CT-02 remains authored / review pending. Independent academic, editorial, accessibility, rights/privacy and technical review; software-version execution; real practice-media validation; and learner evidence remain outstanding.
