@@ -25,7 +25,9 @@ Use original learner footage or properly licensed assets. Record releases/consen
 - selects log with source timecodes;
 - asset/rights manifest;
 - caption transcript and language notes;
-- schedule and version/change log.
+- schedule and version/change log;
+- editorial test plan and evidence report for one meaningful decision;
+- technical performance baseline and optimization/rollback record, or evidence-based justification for no optimization.
 
 ## 5. Editorial requirements
 Each edit must have a truthful opening, comprehensible story progression, evidence supporting the central message and an appropriate ending. The three edits may share a campaign identity but must not be mere automatic crops. Reframe every shot and check captions, titles and interface-safe placement independently.
@@ -37,7 +39,9 @@ Each edit must have a truthful opening, comprehensible story progression, eviden
 - use readable text and adequate contrast;
 - inspect complete exports, not only the editing timeline;
 - keep an editable project and all required dependencies;
-- document any unsupported requirement or source limitation.
+- document any unsupported requirement or source limitation;
+- keep technical optimizations reversible and verify the final export uses the intended source quality;
+- report editorial test method, metric definitions, uncertainty and guardrail results without overclaiming.
 
 ## 7. Submission manifest
 ```text
@@ -55,7 +59,7 @@ capstone/
   reflection/
 ```
 
-Submit three final exports, editable project, linked assets, specification sheet, rights log, captions, QC report, delivery manifest and a 500–800 word reflection.
+Submit three final exports, editable project, linked assets, specification sheet, rights log, captions, QC report, delivery manifest, editorial test plan/evidence report, technical performance baseline/optimization record and a 500–800 word reflection. If platform analytics are not authorized, submit a consenting moderated-comprehension or structured peer-review record instead. Label simulated data as simulated and do not use it as proof of real audience behavior.
 
 ## 8. Rubric — 100 points
 | Criterion | Points |
@@ -63,11 +67,12 @@ Submit three final exports, editable project, linked assets, specification sheet
 | Brief interpretation and story clarity | 15 |
 | Truthful hook, evidence and payoff | 15 |
 | Three independent compositions | 20 |
-| Pacing and audience fit | 10 |
+| Pacing and audience fit | 9 |
 | Caption/audio/accessibility quality | 10 |
 | Technical export and full playback QC | 10 |
+| Editorial testing and performance dossier | 10 |
 | Rights, consent and provenance | 10 |
-| Project organization, handoff and reflection | 10 |
+| Project organization, handoff and reflection | 5 |
 | **Total** | **100** |
 
 Pass threshold: 80/100. Rights/consent, factual integrity, master/source preservation and file playability are mandatory gates; failure requires correction regardless of total score.
@@ -82,3 +87,20 @@ Reviewer checks each export against its own specification, verifies source and r
 - What defects were found during export QC?
 - Which tools or automation steps were used, and what required human review?
 - What would be changed in a second production cycle?
+
+
+## 11. Lesson 05 integration and evidence gate
+
+The capstone uses [CT-03 Lesson 05 — Expert Editorial Testing and Performance Optimization](../lesson-05-expert-editorial-testing-and-performance-optimization.md) and [Workbook Section 05 — Editorial Testing and Performance Log](../workbook/section-05-editorial-testing-and-performance-log.md).
+
+The reviewer must be able to trace:
+- the approved master and exact variant versions;
+- the editorial question, method and one primary variable;
+- metric definitions, denominators, sample/window and data classification;
+- guardrails and any failed or inconclusive result;
+- the technical environment, repeatable baseline, optimization and rollback;
+- the exact proof export and full-playback QC result.
+
+A moderated or peer-review method is acceptable when platform experimentation or analytics are unavailable or unauthorized. The learner must not claim statistical significance, causal impact or population-wide preference without a suitable design and evidence. A simulated dataset is suitable for practicing calculations only and cannot satisfy a claim of actual audience performance.
+
+**Revision note — 2026-11-19:** Added Lesson 05 editorial-testing and performance evidence to capstone planning, submission, rubric and review requirements. No learner project or export was executed as part of this documentation update.
