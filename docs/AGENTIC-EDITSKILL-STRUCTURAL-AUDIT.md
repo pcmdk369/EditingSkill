@@ -134,3 +134,10 @@ Before describing the agent architecture as runtime-validated, execute and retai
 - Added course-specific vertical-reframing and caption-QC route references to the existing video-editing, subtitles and quality-control specialists.
 - The route links point to the canonical CT-03 Lesson 03 and Workbook Section 03; they define division of responsibility and evidence requirements without claiming application control.
 - Static link/content review remains distinct from agent-runtime validation. Runtime routing, tool availability, external application execution and real device/platform checks were not run in this batch.
+
+
+## 2026-11-19 — CT-03 Lesson 04 routing
+
+- Added direct course, Lesson 04 and Workbook Section 04 routes to the video-editing specialist for multi-format adaptation, protected masters and change governance.
+- Added direct Lesson 04 / Workbook Section 04 references to quality control for per-derivative acceptance, version identity, cross-format claim consistency and regression retesting.
+- This is static documentation and cross-link work only; no specialist runtime, editor, export, storage service or release approval was executed.
