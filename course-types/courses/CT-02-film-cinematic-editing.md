@@ -41,6 +41,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
 - [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map)
 - [Workbook Section 20 — Dramatic Beats and Paper Edit Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence)
+- [Workbook Section 21 — Narrative Scene Capstone Evidence Pack](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#21-narrative-scene-capstone-evidence-pack)
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -64,14 +65,14 @@ The textbook and workbook are the primary learner resources. External references
 9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)
 10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
 
-Lessons 01–10 have authored lesson files. Lessons 01–02 and Lessons 05–10 have expanded academic treatment: Lesson 05 covers pacing/rhythm/montage; Lesson 06 covers multicamera editing and synchronization; Lesson 07 covers assembly through picture lock; Lesson 08 covers finishing, delivery and independent QC; Lesson 09 covers AI-assisted editing, task suitability, privacy, testing, human review and provenance; Lesson 10 covers professional scope, client review, change control, project portability, archive and restore. Lessons 01–02 were expanded to revision 2.0 on 2026-11-19; Lessons 09 and 10 were expanded to revision 2.0 on 2026-11-17. The textbook now includes expanded AI material in Chapter 11 (end-to-end evaluation, representative testing, task-specific measures, structured outputs, instruction boundaries, failure escalation and a simulated pilot) and a new Chapter 13 on client review, professional handoff and archive. The student workbook now includes AI risk/provenance, client scope/feedback, manifest, archive and restore worksheets. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; no software execution or media render is claimed.
+Lessons 01–10 have authored lesson files. Lessons 01–02 and Lessons 05–10 have expanded academic treatment: Lesson 05 covers pacing/rhythm/montage; Lesson 06 covers multicamera editing and synchronization; Lesson 07 covers assembly through picture lock; Lesson 08 covers finishing, delivery and independent QC; Lesson 09 covers AI-assisted editing, task suitability, privacy, testing, human review and provenance; Lesson 10 covers professional scope, client review, change control, project portability, archive and restore. Lessons 01–02 were expanded to revision 2.0 on 2026-11-19; Lessons 09 and 10 were expanded to revision 2.0 on 2026-11-17. The textbook now includes expanded AI material in Chapter 11 (end-to-end evaluation, representative testing, task-specific measures, structured outputs, instruction boundaries, failure escalation and a simulated pilot) and a new Chapter 13 on client review, professional handoff and archive. The student workbook now includes AI risk/provenance, client scope/feedback, manifest, archive and restore worksheets, plus Section 21's integrated narrative-scene capstone evidence pack. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; no software execution or media render is claimed.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (20 sections), ten lesson files (Lessons 01–02 and Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (21 sections), ten lesson files (Lessons 01–02 and Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## PCMDK369™ academic and professional development requirements
@@ -138,3 +139,11 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added Workbook Section 20 and a Chapter 1 textbook subsection linking beats to source evidence and audience knowledge.
 - All source IDs, time ranges and events are fictional teaching data. No NLE, media asset, render or export was executed. Tool-specific UI behavior remains version-dependent and is not claimed.
 - CT-02 remains **authored / review pending**, not independently reviewed, technically validated or complete.
+
+
+### Capstone development update — 2026-11-19
+- Expanded the existing narrative-scene capstone brief with seven stage gates, measurable exit evidence, creative/technical/professional acceptance tests, reviewer sampling, mandatory hold conditions and remediation.
+- Expanded textbook Chapter 12 with the integrated capstone workflow, traceability, critical failure gates, reviewer protocol, resubmission and a fictional assessment trace.
+- Added Workbook Section 21, **Narrative Scene Capstone Evidence Pack**, with brief/acceptance matrix, source-rights register, beat/POV map, coverage/geography, version/decision ledger, feedback disposition, lock/change control, delivery specification, full-file QC, defect/retest, handoff/restore and reviewer records.
+- Updated the CT-02 course index and workbook inventory to 21 sections. Paper-only alternatives and unexecuted evidence are distinguished from rendered or tested work.
+- No NLE, media asset, export, restore operation or learner capstone was executed. CT-02 remains authored / review pending.
