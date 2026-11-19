@@ -40,6 +40,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [CT-02 Film & Cinematic Editing — Academic Textbook](CT-02/CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md)
 - [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
 - [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map)
+- [Workbook Section 20 — Dramatic Beats and Paper Edit Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence)
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -63,7 +64,7 @@ The textbook and workbook are the primary learner resources. External references
 9. [Lesson 09 — AI-Assisted Editing and Editorial Automation](CT-02/lessons/lesson-09-ai-assisted-editing-and-editorial-automation.md)
 10. [Lesson 10 — Professional Practice, Client Review and Archive](CT-02/lessons/lesson-10-professional-practice-client-review-and-archive.md)
 
-Lessons 01–10 have authored lesson files. Lessons 05–10 have expanded academic treatment: Lesson 05 covers pacing/rhythm/montage; Lesson 06 covers multicamera editing and synchronization; Lesson 07 covers assembly through picture lock; Lesson 08 covers finishing, delivery and independent QC; Lesson 09 covers AI-assisted editing, task suitability, privacy, testing, human review and provenance; Lesson 10 covers professional scope, client review, change control, project portability, archive and restore. Lessons 09 and 10 were expanded to revision 2.0 on 2026-11-17. The textbook now includes expanded AI material in Chapter 11 (end-to-end evaluation, representative testing, task-specific measures, structured outputs, instruction boundaries, failure escalation and a simulated pilot) and a new Chapter 13 on client review, professional handoff and archive. The student workbook now includes AI risk/provenance, client scope/feedback, manifest, archive and restore worksheets. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; no software execution or media render is claimed.
+Lessons 01–10 have authored lesson files. Lesson 01 and Lessons 05–10 have expanded academic treatment: Lesson 05 covers pacing/rhythm/montage; Lesson 06 covers multicamera editing and synchronization; Lesson 07 covers assembly through picture lock; Lesson 08 covers finishing, delivery and independent QC; Lesson 09 covers AI-assisted editing, task suitability, privacy, testing, human review and provenance; Lesson 10 covers professional scope, client review, change control, project portability, archive and restore. Lesson 01 was expanded to revision 2.0 on 2026-11-19; Lessons 09 and 10 were expanded to revision 2.0 on 2026-11-17. The textbook now includes expanded AI material in Chapter 11 (end-to-end evaluation, representative testing, task-specific measures, structured outputs, instruction boundaries, failure escalation and a simulated pilot) and a new Chapter 13 on client review, professional handoff and archive. The student workbook now includes AI risk/provenance, client scope/feedback, manifest, archive and restore worksheets. All procedures remain tool-independent unless a specific application/version is explicitly identified and verified; no software execution or media render is claimed.
 
 ## Knowledge assessment
 - [CT-02 Knowledge Assessment and Answer Guidance](CT-02/assessment-quiz-and-answer-key.md)
@@ -128,4 +129,12 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added representative evaluation-set design; task-specific measures and their limitations; structured, source-linked output records; prompt/task boundaries; untrusted-input handling; failure escalation; and retesting after material model/provider changes.
 - Added a simulated interview transcript pilot with a meaning-reversing negation error, guided practice, an independent evaluation dossier, answer-guided knowledge checks, a 100-point rubric and production QC checklist.
 - All pilot findings and example thresholds are fictional teaching data. No AI provider, NLE, transcript service, media upload or automation was executed. Tool/provider terms and capabilities must be checked for the actual deployment.
+- CT-02 remains **authored / review pending**, not independently reviewed, technically validated or complete.
+
+
+### Lesson expansion record — 2026-11-19 (Lesson 01)
+- Expanded the existing **Lesson 01 — Dramatic Beats and the Paper Edit** in place to revision 2.0. Preserved the original foundation lesson and added a repeatable beat-boundary test; objective/obstacle/tactic/consequence analysis; distinction between beats, actions, lines and shots; audience-knowledge and point-of-view tracking; performance integrity; factual-editing safeguards; source-log requirements; and six verification gates.
+- Added a simulated beat-to-coverage map, annotated paper-edit dry run, timed guided practice, detailed independent submission evidence, expanded troubleshooting, 12 answer-guided knowledge checks, a 100-point rubric and a more complete QC checklist.
+- Added Workbook Section 20 and a Chapter 1 textbook subsection linking beats to source evidence and audience knowledge.
+- All source IDs, time ranges and events are fictional teaching data. No NLE, media asset, render or export was executed. Tool-specific UI behavior remains version-dependent and is not claimed.
 - CT-02 remains **authored / review pending**, not independently reviewed, technically validated or complete.
