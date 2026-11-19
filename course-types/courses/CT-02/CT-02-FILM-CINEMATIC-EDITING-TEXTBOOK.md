@@ -1769,6 +1769,62 @@ Edit a 3–5 minute fictional scene using original or properly licensed material
 
 ---
 
+
+### 12.1 Stage-gated production workflow
+
+The capstone assesses the complete editorial process and the evidence supporting it, not merely whether a timeline or export exists. Use seven gates. Each gate is Pass, Conditional or Fail; a conditional result must identify missing evidence, owner and due condition.
+
+| Gate | Work | Required evidence | Exit test |
+|---|---|---|---|
+| G0 — Authorization and brief | Confirm story scope, source permissions, consent and delivery needs | Approved brief, source inventory, rights/consent register, risk list | Source use is authorized and requirements are testable |
+| G1 — Editorial plan | Define beginning/end states, objective, obstacle, beats, POV, coverage and geography | Beat sheet, coverage/selects log, axis diagram, source ranges | Major beats have source support or a disclosed gap |
+| G2 — Assembly | Build a complete story order | Assembly sequence or paper edit, issue log, version ID | Story can be followed and gaps are visible |
+| G3 — Rough cut | Test structure, performance, rhythm and continuity | Review copy, notes/disposition register, comparison rationale | Review decisions are assigned to an authorized owner |
+| G4 — Fine cut and lock | Refine timing and control late changes | Fine-cut ID, final issue log, approval/learner sign-off, lock ID | Exact approved picture version is identifiable |
+| G5 — Finishing and delivery | Conform, prepare sound/titles/captions and export | Delivery matrix, export record, actual master, full-playback QC, defect/retest log | Actual artifact passes the written specification |
+| G6 — Handoff and reflection | Package project/dependencies and document limitations | Manifest, relink notes, portability/restore evidence if executed, reflection | Contents, restrictions, version and dependencies are clear |
+
+A planned task is not evidence that it was executed. A paper-only capstone can demonstrate planning and reasoning, but cannot receive credit for software execution, rendered-file inspection, project portability or playback QC.
+
+### 12.2 Acceptance tests and mandatory hold conditions
+
+**Creative acceptance**
+- The audience can identify the scene objective, conflict and meaningful ending change.
+- The edit preserves recorded meaning and performance; omissions do not reverse a statement or imply unsupported events.
+- Geography, eyelines, screen direction and action are understandable, or intentional departures are motivated.
+- Pacing supports comprehension and dramatic intent rather than merely maximizing cut frequency.
+- Dialogue and sound transitions are intelligible and do not introduce unintended gaps or sync errors.
+
+**Technical acceptance**
+- The actual exported file is compared with a written specification for frame size, frame rate, scan, duration, codec/container, audio layout and any project-specific color, loudness or caption requirements.
+- The actual export—not only the timeline or preset—is opened and inspected from beginning to end.
+- Defects are recorded, corrected in a new version and rechecked.
+- Project dependencies are documented. Portability is claimed only after a separate copy is reopened.
+
+**Professional acceptance**
+- Rights, consent, credits, privacy and permitted use are documented.
+- Approval is attributed to the correct decision owner and exact version.
+- Originals and prior approved versions are preserved.
+- Paper simulations, provisional specifications and unexecuted restore plans are labeled honestly.
+
+**Automatic hold/remediation:** unauthorized source use; destructive overwrite of originals; fabricated dialogue or evidence; unsupported factual implication; unapproved post-lock change; missing source identity; knowingly false technical claim; or reporting QC pass without full-file inspection. These conditions cannot be offset by rubric points.
+
+### 12.3 Reviewer protocol and evidence sampling
+
+The reviewer should verify the brief, rights and source inventory; watch the full scene once without interruption; trace a sample of edits to source ranges (including dialogue, continuity-sensitive action and the turning point); match the lock ID to the export and approval record; inspect the actual export and its properties; and reopen a separate project copy if portability is claimed.
+
+Score each criterion using observable evidence. Distinguish a missing artifact from a poor artifact. If evidence is absent, mark it **not demonstrated**, not assumed successful.
+
+### 12.4 Remediation and resubmission
+
+For each failed criterion, record the criterion, evidence examined, defect, severity, required action, owner and resubmission evidence. Use a new version ID. Repeat affected QC and regression-test connected elements: a picture change may affect sound, captions, titles, credits, timing, derivatives and delivery metadata. Preserve the prior submission and review record.
+
+### 12.5 Worked assessment trace — fictional training example
+
+A learner submits a 3:40 scene. The beat sheet and source ranges support the central reversal. A close-up appears to reverse the established eyeline; the learner documents a motivated camera crossing and includes a neutral re-establishing shot. Rough-cut review finds that a shortened line removes a negation. The learner restores the full phrase and updates the cut. The lock record identifies version SCENE_FINE_v006; the export is SCENE_MASTER_v006. The reviewer inspects the complete export, finds a missing final caption, records a defect, and requests a corrected version. The learner exports SCENE_MASTER_v007, repeats full playback and caption inspection, and submits the updated QC record.
+
+This is fictional process data, not evidence that any media was edited or exported. It demonstrates why a high-quality timeline does not replace delivery inspection.
+
 # Part IV — Professional Delivery and Editorial Practice
 
 ## Chapter 13 — Client Review, Professional Handoff and Archive
