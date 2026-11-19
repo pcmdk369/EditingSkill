@@ -399,3 +399,137 @@ Identify one pattern the sequence establishes and one point where it changes. Ex
 - [ ] Rhythm includes purposeful variation rather than an unexamined repeated pattern.
 - [ ] Viewer comprehension and editorial rationale are documented.
 - [ ] Original media and prior versions remain recoverable.
+
+ 
+## 20. Dramatic Beats and Paper Edit Evidence
+
+Use this section with **CT-02 Lesson 01 — Dramatic Beats and the Paper Edit**. Complete it before opening an editing timeline where practical. If the exercise is paper-only, mark every execution field as “not executed”; do not imply that a timeline or render exists.
+
+### 20.1 Brief, source and authorization record
+
+| Field | Record |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Intended audience | |
+| Intended audience experience | |
+| Source asset IDs | |
+| Owner / license / permission | |
+| Participant consent / restrictions | |
+| Known chronology or factual constraints | |
+| Source frame rate / timebase, if known | |
+| Unknowns requiring confirmation | |
+
+**Authorization gate:** Do not use footage unless the learner created it or has permission for this exercise. Record restrictions on faces, voices, personal information, location, publication and AI/cloud processing. If permission is unclear, use a text-only simulation.
+
+### 20.2 Scene-state and objective map
+
+| Question | Evidence / answer |
+|---|---|
+| What is true at the beginning? | |
+| What does the main character want? | |
+| What obstacle or uncertainty exists? | |
+| What is the intended point of view? | |
+| What does the audience know at the start? | |
+| What changes by the end? | |
+| What remains unresolved? | |
+
+### 20.3 Beat evidence sheet
+
+| Beat no. | Before state | Trigger / action / information | After state | Beat label (verb + consequence) | Source asset and range | Confidence / uncertainty |
+|---:|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+| 7 | | | | | | |
+| 8 | | | | | | |
+
+**Boundary check:** Merge labels that describe the same continuing change. Split only when a new action, fact, tactic, decision or emotional direction is supported by source evidence.
+
+### 20.4 Audience-knowledge and point-of-view ledger
+
+| Beat | Character knowledge before/after | Audience knowledge before/after | Intended reveal, withholding or ambiguity | Could the cut imply unsupported knowledge? | Review decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+### 20.5 Coverage and selects review
+
+| Beat | Candidate asset / take | Shot size / angle | Source in/out | Performance detail | Continuity / sound risk | Selected / rejected / hold | Reason |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 20.6 Paper edit and transition rationale
+
+| Order | Beat | Selected source range | Intended cut point | Transition / audio bridge | What audience should understand | Editorial rationale |
+|---:|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+### 20.7 Chronology, integrity and gap register
+
+| Proposed change | Source chronology | Intended presentation | Possible factual implication | Approval / disclosure required? | Resolution |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+| Missing or uncertain coverage | What cannot be proven | Honest alternative / limitation note | Reviewer |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+### 20.8 Viewer-comprehension and revision record
+
+| Viewer / date | Unprompted summary | Identified objective | Identified turning point | Misunderstanding / uncertainty | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+| Version | Specific problem | Change made | Evidence of improvement | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|
+| v01 | | | | | |
+| v02 | | | | | |
+
+### 20.9 Simulated worked example
+
+The following fictional training scenario demonstrates how to fill the worksheet; it is not a record of actual media.
+
+**Scene:** A courier offers a sealed envelope. The recipient refuses. The courier notices the recipient's name on the envelope and withdraws the offer.
+
+| Beat | Before → after | Evidence candidate | Decision |
+|---|---|---|---|
+| Arrival | Outside → inside the room | Wide master | Establish geography and the courier |
+| Offer | Envelope held → envelope placed | Medium shot | Preserve complete hand action |
+| Refusal | Recipient neutral → explicit refusal | Recipient single | Use the actual response from this exchange |
+| Recognition | Courier uncertain → courier recognizes something | Courier close-up | Do not add a readable insert unless the source contains it |
+| Reversal | Offer active → envelope withdrawn | Hand insert | Verify prop and hand continuity |
+| Consequence | Courier remains → courier exits | Wide master | Hold only as long as the exit contributes meaning |
+
+**Reviewer question:** Does the sequence establish that the name caused the withdrawal, or does it merely place recognition before the action? The answer depends on the actual source and performance. Record uncertainty rather than asserting a cause the footage does not support.
+
+### 20.10 Submission and completion check
+
+- [ ] Brief and authorization record complete.
+- [ ] Beginning state, objective and ending state stated.
+- [ ] Every major beat has before/trigger/after/evidence fields.
+- [ ] Beat labels describe changes rather than shots.
+- [ ] Source IDs and ranges are stable and traceable.
+- [ ] Audience knowledge and point of view are checked.
+- [ ] Performance and continuity risks are recorded.
+- [ ] Paper edit includes order, cut point and rationale.
+- [ ] Chronology, rights, consent and factual-integrity issues are disclosed.
+- [ ] Viewer test and revision evidence are included where possible.
+- [ ] Original media and earlier project versions are preserved.
+- [ ] Paper-only simulations are distinguished from executed edits.
