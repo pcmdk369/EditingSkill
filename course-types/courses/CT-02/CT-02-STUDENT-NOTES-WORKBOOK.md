@@ -533,3 +533,150 @@ The following fictional training scenario demonstrates how to fill the worksheet
 - [ ] Viewer test and revision evidence are included where possible.
 - [ ] Original media and earlier project versions are preserved.
 - [ ] Paper-only simulations are distinguished from executed edits.
+
+
+## 21. Scene Geography, Axis and Eyeline Evidence
+
+**Purpose:** Record the spatial model, camera positions, shot relationships and viewer-comprehension evidence for CT-02 Lesson 02. Use this section with authorized source footage or label every entry as a paper-only simulation.
+
+### 21.1 Brief, source and authorization record
+
+| Field | Entry |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Scene purpose and principal action | |
+| Source media IDs / ranges | |
+| Owner / license / permission reference | |
+| Consent / privacy restrictions | |
+| Known mirrored, rotated or reframed sources | |
+| Missing or uncertain source information | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+
+### 21.2 Geography diagram legend
+
+Draw or attach a top-down diagram. Include a text description so the diagram is not color-dependent.
+
+| Symbol / label | Meaning | Used? |
+|---|---|---|
+| A / B / C | Character or principal subject | |
+| CAM-01 etc. | Camera position and orientation | |
+| AX-1 | Primary axis of action | |
+| AX-2 | Secondary axis, if the action changes | |
+| → | Subject movement direction | |
+| D / W | Door / window | |
+| P-01 etc. | Continuity-critical prop | |
+| N | Neutral/on-axis camera position | |
+| X | Camera or subject crossing | |
+| ? | Uncertain / unverified geography | |
+
+**Diagram text description:**  
+Location landmarks:  
+Character start/end positions:  
+Primary axis and why it was selected:  
+Secondary axis or changed action, if any:  
+Entrances / exits:  
+Prop positions and hand states:  
+Camera positions and directions:  
+Uncertainties that must not be treated as facts:
+
+### 21.3 Camera and shot inventory
+
+| Shot ID | Source ID / range | Shot scale | Camera position | Axis side (A/B/neutral/moving) | Subject(s) | Notes / transforms |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+### 21.4 Shot-by-shot continuity matrix
+
+| Shot ID | Screen position | Body orientation | Eyeline target | Horizontal / vertical gaze | Movement vector | Action / prop state | Risk / decision |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 21.5 Adjacent-shot comparison and axis-crossing log
+
+| From → To | Position match | Eyeline match | Movement match | Action-state match | Axis change? | Evidence / repair decision |
+|---|---|---|---|---|---|---|
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+
+| Crossing ID | Cause (camera / subject / edit / unknown) | Intended meaning | Transition used | Source evidence | Viewer result |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+### 21.6 Two-version paper-edit / edit plan
+
+| Order | Safe version shot ID | Crossing version shot ID | Cut purpose | Spatial information added/changed | Source range / evidence |
+|---:|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+
+### 21.7 Eyeline target verification
+
+| Subject / shot | Claimed target | Evidence target exists | Relative height/distance plausible | Match shot | Confidence / uncertainty |
+|---|---|---|---|---|---|
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
+
+### 21.8 Viewer-comprehension test
+
+**Neutral prompt:** “Describe where each person was, what they did and how they moved.” Do not show the diagram or explain the intended geography first.
+
+| Viewer ID / date | Unprompted description | Correct locations | Correct eyeline/target | Movement understood | Confusion / exact words | Revision decision |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+### 21.9 Worked example — simulated courier scene
+
+The following is fictional teaching data only.
+
+- Courier starts near the door; recipient sits behind a desk near the window.
+- The primary axis runs from courier to recipient across the desk.
+- A master establishes both people and the desk.
+- A courier medium continues the approach; a recipient single shows a look toward the courier/desk; an insert shows envelope placement.
+- An alternate camera across the axis is excluded from the continuity-safe version unless a transition makes the new relationship legible.
+- A neutral wide is tested as a possible re-establishing view; its usefulness must be judged in sequence, not assumed.
+
+**Reviewer question:** Does the chosen insert show the same hand, envelope orientation and action stage as the preceding shot? Record the source evidence before approving the cut.
+
+### 21.10 Rights, accessibility and integrity gates
+
+- [ ] Source ownership/license/permission is recorded.
+- [ ] Consent and privacy restrictions are respected.
+- [ ] Identifiable people, locations, voices and sensitive details are handled appropriately.
+- [ ] No inferred off-screen event is presented as proven.
+- [ ] Mirroring or other transforms are disclosed and checked for reversed text/details.
+- [ ] Diagram includes text labels and is not dependent on color alone.
+- [ ] Paper-only examples are labeled as simulations.
+- [ ] Original media and earlier project versions are preserved.
+
+### 21.11 Revision, evidence and submission checklist
+
+| Version | Problem observed | Shot pair / source | Change made | Viewer or QC evidence | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+
+- [ ] Geography diagram and text description complete.
+- [ ] Camera map and shot inventory complete.
+- [ ] Continuity matrix covers all relevant shots.
+- [ ] Axis crossings have documented reasons.
+- [ ] Safe and deliberate-crossing versions are separately identified.
+- [ ] Viewer test was uncoached and recorded.
+- [ ] Missing coverage and uncertainty are disclosed.
+- [ ] Assessment rubric and QC checklist are completed.
+- [ ] Executed work is distinguished from simulated/paper work.
