@@ -55,6 +55,10 @@ capstone/
     landscape/
   captions/
   qc/
+  testing/
+    editorial-test-plan.md
+    evidence-and-interpretation.md
+    performance-baseline-and-optimization.md
   delivery/
   reflection/
 ```
@@ -75,10 +79,10 @@ Submit three final exports, editable project, linked assets, specification sheet
 | Project organization, handoff and reflection | 5 |
 | **Total** | **100** |
 
-Pass threshold: 80/100. Rights/consent, factual integrity, master/source preservation and file playability are mandatory gates; failure requires correction regardless of total score.
+Pass threshold: 80/100. Rights/consent, factual integrity, master/source preservation, file playability and evidence integrity (no fabricated or misrepresented data) are mandatory gates; failure requires correction regardless of total score.
 
 ## 9. Review process
-Reviewer checks each export against its own specification, verifies source and rights documentation, watches every file, and records defects with timecodes. Revisions must be versioned. A capstone is validated only after evidence of actual exports and review is submitted.
+Reviewer checks each export against its own specification, verifies source and rights documentation, watches every file, reviews the editorial test method and performance record for traceability, and records defects with timecodes. Revisions must be versioned. A capstone is validated only after evidence of actual exports and review is submitted.
 
 ## 10. Reflection prompts
 - Which editorial choices changed between formats and why?
