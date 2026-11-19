@@ -3,7 +3,7 @@
 - Level: Master / Professional Practice
 - Estimated time: 12–18 hours
 - Status: Capstone brief authored; learner execution and independent review not evidenced
-- Textbook: [Chapter 12 — Narrative Scene Capstone](../CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md#chapter-12-capstone-edit-a-3-5-minute-narrative-scene)
+- Textbook: [Chapter 12 — Narrative Scene Capstone](../CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md)
 - Evidence workbook: [Section 22 — Narrative Scene Capstone Evidence Pack](../CT-02-STUDENT-NOTES-WORKBOOK.md#22-narrative-scene-capstone-evidence-pack)
 
 ## Brief
