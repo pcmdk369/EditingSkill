@@ -225,3 +225,11 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Added Workbook Section 06, **Creative Direction and Campaign Governance**, with intake/strategy, claim ledger, creative bible, deliverable matrix, source map, pilot review, approval matrix, change log, rights/privacy register, release manifest, accessibility/localization and retrospective records.
 - Updated the CT-03 course index and completion register. Lessons 01–06 and Workbook Sections 01–06 are expanded/authored; Lessons 07–08 remain the next lesson-quality targets. CT-03 remains authored/review pending.
 - Examples are fictional and tool-independent. No client approval, platform analytics, audience study, legal review, editing application, export or publication was executed. Independent academic, editorial, accessibility, rights/privacy and technical review remains outstanding.
+
+
+## 2026-11-19 CT-02 narrative-scene capstone evidence development
+- Expanded the existing capstone brief with seven stage gates, required evidence, measurable creative/technical/professional acceptance tests, reviewer sampling, mandatory hold conditions and remediation.
+- Expanded textbook Chapter 12 with the integrated capstone workflow, traceability, critical failure gates, reviewer protocol, resubmission rules and a fictional assessment trace.
+- Added Student Workbook Section 21 with project brief/acceptance matrix, source rights register, beat/POV map, coverage/geography, version/decision ledger, feedback disposition, picture lock/change control, delivery specification, full-file QC, defect/retest, handoff/restore and reviewer records.
+- Updated the CT-02 course index and workbook inventory to 21 sections. Existing lesson/lab/assessment resources and Chapters 1–13 were preserved.
+- No NLE, media asset, export, restore operation or learner submission was executed. CT-02 remains authored / review pending; independent review, software-version validation, authorized practice-media testing and learner evidence remain outstanding.
