@@ -141,3 +141,12 @@ Before describing the agent architecture as runtime-validated, execute and retai
 - Added direct course, Lesson 04 and Workbook Section 04 routes to the video-editing specialist for multi-format adaptation, protected masters and change governance.
 - Added direct Lesson 04 / Workbook Section 04 references to quality control for per-derivative acceptance, version identity, cross-format claim consistency and regression retesting.
 - This is static documentation and cross-link work only; no specialist runtime, editor, export, storage service or release approval was executed.
+
+
+## 2026-11-19 — CT-03 Lesson 05 and specialist routing
+
+- Expanded the existing Expert-stage Lesson 05 and added Workbook Section 05; the canonical CT-03 outline and completion register now record Lessons 01–05 as expanded, with Lessons 06–08 still pending expansion/review.
+- Added Lesson 05 / Workbook Section 05 routes to the video-editing specialist for editorial test planning and creative decision traceability; to software-tools for version-aware performance diagnosis and capability verification; and to quality-control for metric provenance, test validity, reproducible benchmarks, rollback and final-source verification.
+- Rechecked the universal router against the specialist index and this audit: 16 specialist entry points are enumerated. The count is taken from the live repository index, not inferred from the 30-course count.
+- Corrected malformed literal newline escape sequences in the video-editing and quality-control route insertions and the public course/root indexes.
+- This is static Markdown/content/link routing only. No agent runtime, analytics provider, participant test, editor, benchmark, proxy/cache workflow, export or device was executed. Cross-course routing normalization for the remaining course/specialist combinations and runtime integration tests remain outstanding.
