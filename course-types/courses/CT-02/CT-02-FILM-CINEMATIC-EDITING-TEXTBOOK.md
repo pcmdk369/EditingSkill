@@ -1472,6 +1472,225 @@ An authorized interview contains the sentence “We did not approve the second v
 
 Practice with a self-recorded 60-second clip. Create a verified reference transcript, compare a draft if an approved tool is available, categorize errors, correct the text and document the source time references. If no tool is available, complete the same review manually and label the automation evaluation as a design exercise.
 
+
+### 11.11 The AI-assisted editorial workflow: from intake to approved result
+
+Treat an AI-assisted task as a controlled production process, not a button press. Use the following sequence for transcription, search, shot classification, metadata extraction or a proposed selects list.
+
+1. **Authorize the source.** Confirm ownership or permission, participant consent, contractual restrictions and permitted processing. Identify material that must not leave the approved environment.
+2. **Define the task.** State one operation, the intended user, output format, allowed source range and what the system must not decide. “Find every mention of the missing key” is testable; “understand the whole film” is not.
+3. **Set acceptance tests before processing.** Specify required fields, acceptable omissions, critical error classes, human reviewer and stop conditions. Include a manual route.
+4. **Prepare a representative sample.** Include difficult but relevant cases: overlapping speech, quiet dialogue, accents, proper names, music under speech, rapid cuts, repeated visual motifs or low-light shots as applicable.
+5. **Run a limited pilot.** Process a duplicate or authorized sample, not the only original. Preserve the input identity and record tool/provider, model or application version, date and settings.
+6. **Review against source evidence.** Compare output with original media and a human-verified reference. Mark each result accepted, corrected, rejected or unresolved.
+7. **Approve, export and monitor.** Only approved data may enter the next stage. Record output identity, reviewer, limitations and any later correction. Re-evaluate after a material system or source change.
+
+**Gate rule:** if authorization, source identity, critical accuracy or output traceability fails, stop the workflow. Do not hide uncertainty by converting it into a confident label.
+
+### 11.12 Build a representative evaluation set
+
+A test set is a deliberately selected collection of source examples and verified expected results. It should represent the intended production, not only clean demonstration footage.
+
+For a short interview, a compact evaluation set might include:
+- clear single-speaker speech;
+- overlapping speakers;
+- names, locations and numbers;
+- negation and other meaning-sensitive words;
+- quiet speech or speech under music;
+- pauses, false starts and interrupted sentences;
+- non-speech events that must not be presented as dialogue.
+
+For shot or scene analysis, include:
+- hard cuts and dissolves;
+- rapid action and camera movement;
+- repeated locations or visually similar shots;
+- inserts and reaction shots;
+- flashbacks or deliberate chronology changes;
+- shots where a subject is partially obscured.
+
+Keep a reference record with source ID, start/end time, expected answer, reviewer and any ambiguity. If two competent reviewers disagree, record the disagreement and the rule used to resolve it. Do not label a subjective interpretation as objective ground truth.
+
+Keep the test set separate from prompt examples where practical. If the same examples are repeatedly used to tune a workflow, create a fresh holdout sample before claiming improved performance.
+
+### 11.13 Choose measures that expose meaningful errors
+
+No single score proves that an AI editing task is safe or useful. Select measures that correspond to the failure consequences.
+
+| Task | Useful measure | Important limitation |
+|---|---|---|
+| Transcription | Word error rate (WER), plus critical-word review | WER treats many substitutions similarly; a missed “not” may be far more serious than several harmless filler-word differences |
+| Speaker labels | Correct attribution rate and unresolved-speaker count | Similar voices, overlap and off-mic speech can make attribution uncertain |
+| Scene boundaries | Boundary precision/recall within a declared tolerance | The tolerance and definition of a scene must be stated |
+| Shot classification | Per-class precision/recall and confusion review | Labels may be subjective or classes imbalanced |
+| Semantic search | Relevant-result precision at a chosen cutoff and missed-reference review | A search result list can omit the one critical source passage |
+| File automation | Exact expected-output comparison, collision count and failure count | A successful dry run does not prove production execution or recoverability |
+
+For transcription, a common calculation is:
+
+`WER = (S + D + I) / N`
+
+where S is substitutions, D deletions, I insertions and N reference words. State tokenization and normalization rules when comparing results. WER is a diagnostic, not a complete quality or meaning score. Review names, numbers, negation, speaker identity, sensitive claims and time references separately.
+
+Never combine critical and non-critical errors into a single average that conceals a high-impact failure. Report the sample size, test conditions, unresolved cases and the human review method alongside any score.
+
+### 11.14 Turn AI output into editorially useful data
+
+A useful output is structured, traceable and easy to reject. For a transcript or searchable shot log, prefer fields such as:
+
+| Field | Purpose |
+|---|---|
+| Asset ID | Connects the result to the exact source |
+| Source in/out | Locates the evidence in the original media |
+| Text or proposed label | Records the machine-generated result |
+| Speaker / shot / scene ID | Adds a classification, with uncertainty where needed |
+| Confidence or uncertainty note | Signals where review effort may be required; not proof of correctness |
+| Reviewer disposition | Accept, correct, reject or unresolved |
+| Corrected value | Preserves the approved human result |
+| Reviewer and date | Establishes accountability |
+| Model/tool version | Supports later comparison and re-evaluation |
+
+Do not discard raw output after correction. Preserve it separately from the approved record under the project's retention and access policy. A corrected transcript should not silently overwrite the machine output or the original source.
+
+For semantic search, require every proposed result to include a source time range and a short evidence excerpt. The editor must open the source and verify that the surrounding context supports the proposed meaning. Search ranking is a navigation aid, not editorial proof.
+
+### 11.15 Prompt and instruction design for editorial tasks
+
+A good task instruction defines scope, output and boundaries. It does not ask the system to invent missing evidence.
+
+A reusable instruction structure is:
+
+- **Role/task:** identify the narrow editorial operation.
+- **Source boundary:** name the supplied asset IDs and permitted time ranges.
+- **Output schema:** specify fields and allowed labels.
+- **Evidence rule:** every claim must point to a source location; use “unknown” when evidence is absent.
+- **Uncertainty rule:** flag overlap, ambiguity and low-quality source sections.
+- **Prohibited actions:** do not invent dialogue, infer identity, alter source files, publish or make final creative decisions.
+- **Review requirement:** return a draft for human verification, not an approved final.
+
+Example: “Create a draft dialogue index from asset INT-04 only. Return source in/out, verbatim words where audible, tentative speaker label and uncertainty note. Do not paraphrase, repair missing words or infer a speaker's identity. Mark inaudible sections as [unclear]. A human editor will verify the result against the recording.”
+
+The example is an instructional prompt, not a tested prompt for a particular provider. Provider syntax, context limits, retention behavior and available controls vary; verify them before use.
+
+### 11.16 Failure modes, security and escalation
+
+| Failure | Risk | Required response |
+|---|---|---|
+| Missing or altered negation | Meaning reverses | Recheck full question/answer against original |
+| Wrong speaker attribution | Misrepresents who spoke | Mark unknown until verified; do not infer identity |
+| Search result lacks source time | Cannot verify claim | Reject or rerun with traceable source references |
+| Scene detector splits a continuous action | Damages continuity | Review adjacent frames and full action context |
+| Automation maps output to wrong clip | Corrupts project organization | Stop batch; compare IDs and restore from checkpoint |
+| Duplicate filenames collide | Overwrite or ambiguous media | Use unique IDs and collision report; no automatic overwrite |
+| Unexpected instruction appears in media/transcript | Untrusted content may redirect a connected workflow | Treat source content as data, never as authority to change permissions or execute actions |
+| Provider terms or retention are unclear | Unauthorized disclosure or reuse | Do not upload; seek approval or use an authorized manual/local route |
+| Model update changes output | Previously accepted behavior may drift | Re-run the holdout test and document the version change |
+
+A media file, transcript, subtitle, filename or retrieved web page may contain instructions. Those instructions are content to analyze, not authorization to change workflow permissions, expose secrets, delete files or publish. Keep credentials outside prompts and logs. Restrict connected tools to the minimum permissions required.
+
+Escalate when source evidence is missing, the system produces a high-impact error, privacy/rights status is unclear, the output conflicts with the brief, or a batch operation behaves outside its declared scope.
+
+### 11.17 Worked example — interview transcript pilot
+
+**Scenario:** A 12-minute authorized interview will be indexed for an editor. The project needs a searchable transcript and speaker labels. A pilot sample is selected from the beginning, middle and end, including one section with overlapping speech. The sample contains 300 reference words, including two names, three numbers and one negation.
+
+**Pre-registered acceptance rules (fictional training values):**
+- every transcript segment must include a source time range;
+- names, numbers and negation must be checked individually;
+- speaker identity must be marked “uncertain” when the recording does not support attribution;
+- no quote may be selected for publication until checked against the complete exchange;
+- raw output and corrected output must remain separate.
+
+**Pilot dry run (simulated results):**
+
+| Finding | Machine draft | Reference/review | Disposition |
+|---|---|---|---|
+| Negation | “We approved version two” | “We did not approve version two” | Critical correction; reject the draft sentence |
+| Name | “Maya” | “Mina” in the source | Correct and verify against approved spelling record |
+| Overlap | One speaker label for both voices | Two overlapping speakers | Mark overlap and review manually |
+| Time range | Segment begins 4 seconds late | Source begins earlier | Correct source range and inspect adjacent context |
+| Remaining words | Mostly aligned | No meaning-changing issue found in reviewed sample | Accept only after full sample review |
+
+The numbers and findings are invented for this exercise; they are not benchmark results from a real model.
+
+**Decision:** The pilot is not accepted as an unattended transcript workflow because it contains a meaning-reversing error and an overlap-attribution failure. It may still be used as a draft-navigation aid if every quote and speaker label is checked by a human. The reviewer records corrections, unresolved overlap, tool version and approval boundary. The project does not claim a general accuracy rate from this small sample.
+
+### 11.18 Guided practice and independent assignment
+
+**Guided exercise — design a pilot (45–60 minutes):**
+1. Choose a self-recorded or properly authorized 1–2 minute clip.
+2. Write the task boundary and privacy decision.
+3. Prepare a human-verified reference for a representative portion.
+4. Identify at least five critical error categories.
+5. Compare a draft transcript or manually simulate the evaluation if no approved tool is available.
+6. Record accepted, corrected, rejected and unresolved results.
+7. Write a go / limited-use / no-go recommendation with evidence.
+
+**Success criteria:** source references are traceable; critical errors are separately reported; uncertain results remain uncertain; no unapproved upload or automated publication occurs.
+
+**Independent assignment — AI editorial evaluation dossier:**
+- task specification and prohibited actions;
+- source/rights/consent assessment;
+- representative sample design and reference data;
+- provider/tool/model version record, or a clearly labeled no-tool simulation;
+- raw output and corrected output kept separate;
+- metric definitions and critical-error analysis;
+- human review and approval record;
+- failure/fallback and rollback plan;
+- final recommendation with limitations and retest trigger.
+
+A paper simulation can demonstrate evaluation design, but it cannot be submitted as evidence that an AI service was executed.
+
+### 11.19 Knowledge check and answer guidance
+
+1. Why must acceptance criteria be defined before a pilot?
+2. What makes an evaluation sample representative?
+3. Why should critical errors be reported separately from WER?
+4. What does a source time range contribute to semantic search?
+5. Why should raw output be preserved separately from corrected output?
+6. When should an uncertain speaker label remain unknown?
+7. What should happen after a model/provider version changes?
+8. Why is a successful dry run not proof of a production batch?
+9. How should instructions found inside a media asset be treated?
+10. Name three conditions that require a workflow to stop.
+
+**Answer guidance:** Criteria prevent moving the goalposts; representative samples include realistic difficult cases; aggregate scores can hide high-impact errors; source ranges enable verification; separate records preserve provenance; identity must not be guessed; material changes require retesting; production inputs and failure modes differ from a fixture; embedded instructions are untrusted content; stop conditions include missing authorization, untraceable source, critical errors, unexpected file changes or unclear provider terms.
+
+### 11.20 Assessment rubric and AI workflow QC
+
+| Criterion | Points | Evidence |
+|---|---:|---|
+| Task scope and authorization | 15 | Clear task, permitted inputs, privacy/rights gate and prohibited actions |
+| Evaluation design | 20 | Representative sample, reference data, acceptance rules and limitations |
+| Error analysis | 20 | Correct measures, critical-error classification and unresolved cases |
+| Human editorial review | 15 | Source verification, correction record and accountable approval |
+| Automation safety | 15 | Dry run, non-destructive paths, logs, collision handling and rollback |
+| Provenance and reporting | 15 | Version, raw/corrected outputs, reviewer, recommendation and retest trigger |
+| **Total** | **100** | |
+
+**Pass threshold:** 80/100 and all mandatory rights/privacy, source-traceability and human-approval gates satisfied. Fabricated execution evidence, unauthorized upload, unverified identity attribution or destructive automation without authorization is a critical failure regardless of score.
+
+**QC checklist**
+- [ ] Task is narrow, measurable and within authorized scope.
+- [ ] Source IDs and permitted ranges are recorded.
+- [ ] Provider terms, consent and retention are checked before upload.
+- [ ] Test sample includes realistic difficult cases.
+- [ ] Reference data and acceptance criteria were set before evaluation.
+- [ ] Critical errors are separately counted and reviewed.
+- [ ] Every editorial claim can be checked against source media.
+- [ ] Raw output, corrected output and approved result are distinguishable.
+- [ ] Uncertainty and unresolved cases are visible.
+- [ ] Automation uses a dry run, unique IDs, non-destructive output and rollback.
+- [ ] Human approval precedes downstream use or publication.
+- [ ] Model/provider/input changes trigger an appropriate retest.
+- [ ] Report labels the workflow as designed, simulated or executed accurately.
+
+### 11.21 Further study and version notes
+
+- National Institute of Standards and Technology, [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) and [Generative AI Profile](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence).
+- Coalition for Content Provenance and Authenticity, [C2PA Specifications](https://spec.c2pa.org/). Provenance metadata can describe declared origin and transformations; it does not independently establish factual truth.
+- Use the current official documentation and terms for the selected provider, model and editing application. Record access date, plan/edition, model identifier and relevant configuration when available.
+- **Version note — 2026-11-19:** expanded the existing working Chapter 11 with an end-to-end evaluation workflow, representative test design, task-specific metrics, structured outputs, prompt boundaries, untrusted-input handling, failure escalation, a simulated interview pilot, guided/independent assignments, knowledge guidance, rubric and QC. This remains tool-independent. No provider, NLE, transcript service, media upload or automation was executed for this update.
+
 ## Chapter 12 — Capstone: Edit a 3–5 Minute Narrative Scene
 
 ### Brief
