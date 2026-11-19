@@ -41,7 +41,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
 - [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map)
 - [Workbook Section 20 — Dramatic Beats and Paper Edit Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence)
-- [Workbook Section 21 — Narrative Scene Capstone Evidence Pack](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#21-narrative-scene-capstone-evidence-pack)
+- [Workbook Section 22 — Narrative Scene Capstone Evidence Pack](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#22-narrative-scene-capstone-evidence-pack)
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -72,7 +72,7 @@ Lessons 01–10 have authored lesson files. Lessons 01–02 and Lessons 05–10 
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (21 sections), ten lesson files (Lessons 01–02 and Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (22 sections), ten lesson files (Lessons 01–02 and Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## PCMDK369™ academic and professional development requirements
@@ -147,3 +147,8 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added Workbook Section 21, **Narrative Scene Capstone Evidence Pack**, with brief/acceptance matrix, source-rights register, beat/POV map, coverage/geography, version/decision ledger, feedback disposition, lock/change control, delivery specification, full-file QC, defect/retest, handoff/restore and reviewer records.
 - Updated the CT-02 course index and workbook inventory to 21 sections. Paper-only alternatives and unexecuted evidence are distinguished from rendered or tested work.
 - No NLE, media asset, export, restore operation or learner capstone was executed. CT-02 remains authored / review pending.
+
+
+### Workbook numbering reconciliation — 2026-11-19
+- A prior Lesson 02 development update had already created Workbook Section 21, **Scene Geography, Axis and Eyeline Evidence**. To preserve that existing resource, the new Narrative Scene Capstone Evidence Pack is numbered **Section 22**.
+- Updated the capstone and course-index links and reconciled the current workbook inventory to 22 distinct numbered sections. Historical register entries retain their original checkpoint counts.
