@@ -233,3 +233,9 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Added Student Workbook Section 21 with project brief/acceptance matrix, source rights register, beat/POV map, coverage/geography, version/decision ledger, feedback disposition, picture lock/change control, delivery specification, full-file QC, defect/retest, handoff/restore and reviewer records.
 - Updated the CT-02 course index and workbook inventory to 21 sections. Existing lesson/lab/assessment resources and Chapters 1–13 were preserved.
 - No NLE, media asset, export, restore operation or learner submission was executed. CT-02 remains authored / review pending; independent review, software-version validation, authorized practice-media testing and learner evidence remain outstanding.
+
+
+## 2026-11-19 CT-02 workbook numbering reconciliation
+- Re-inspection found that a concurrent Lesson 02 expansion had already created Workbook Section 21, **Scene Geography, Axis and Eyeline Evidence**.
+- Preserved that existing section and renumbered the new Narrative Scene Capstone Evidence Pack to **Section 22**, updating its subsection numbering and capstone/index links.
+- Current CT-02 workbook inventory is 22 distinct numbered sections. Earlier dated register counts remain historical checkpoint values.
