@@ -65,8 +65,8 @@ Submit three final exports, editable project, linked assets, specification sheet
 | Criterion | Points |
 |---|---:|
 | Brief interpretation and story clarity | 15 |
-| Truthful hook, evidence and payoff | 15 |
-| Three independent compositions | 20 |
+| Truthful hook, evidence and payoff | 13 |
+| Three independent compositions | 18 |
 | Pacing and audience fit | 9 |
 | Caption/audio/accessibility quality | 10 |
 | Technical export and full playback QC | 10 |
