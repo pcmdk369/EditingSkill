@@ -38,7 +38,7 @@
 | ID | Course | Outline | Lessons | Labs | Assessment | Capstone | Review | Status |
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
-| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 01, 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–04 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -188,3 +188,10 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Added Workbook Section 04, **Multi-Format Version Control**, with deliverable matrix, baseline/master protection record, runtime budget, shot adaptation map, claim/localization ledger, version manifest, change request/impact log, QC/regression record, release approval and handoff sign-off.
 - Updated the CT-03 course index, completion register and video-editing / quality-control specialist routing. CT-03 Lessons 01–04 are expanded; Lessons 05–08 remain to be expanded/reviewed. CT-03 remains authored / review pending, not technically validated or complete.
 - Examples are fictional and tool-independent. No NLE, platform, export, cloud storage, checksum utility, client approval workflow or learner submission was executed. Independent academic/editorial/accessibility/rights/technical review remains outstanding.
+
+
+## 2026-11-19 CT-02 Lesson 01 academic expansion
+- Re-inspected the active agentic/universal-editskill-architecture branch, PR #1, CT-02 lesson inventory, outline, textbook, workbook, shared academic lesson template and mandatory academic standard before editing. All ten lesson files already existed; Lessons 05–10 had expanded academic treatment. Lesson 01 was the earliest concise foundation draft and was selected for depth alignment rather than creating a duplicate.
+- Expanded the existing CT-02 Lesson 01 file in place to revision 2.0. Added beat-boundary analysis, objective/obstacle/tactic/consequence, audience-knowledge tracking, performance and factual-integrity safeguards, source evidence, verification gates, a simulated beat-to-coverage map, paper-edit dry run, guided and independent practice, troubleshooting, 12 answer-guided checks, a 100-point rubric and expanded QC.
+- Added Workbook Section 20, **Dramatic Beats and Paper Edit Evidence**, and a Chapter 1 textbook subsection. Updated the CT-02 course index and the register's lesson-expansion count.
+- Example source IDs, ranges and events are simulated. No NLE, media asset, render or export was executed. CT-02 remains authored / review pending; independent academic/editorial/accessibility/rights/privacy and technical review, software-version lab execution, authorized practice-media validation and learner evidence remain outstanding.
