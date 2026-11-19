@@ -59,3 +59,8 @@ XML/EDL/AAF/OTIO and image/audio interchange formats do not guarantee identical 
 
 ### Recommendation output
 Provide primary option, viable alternative, required hardware/OS, licensing/cost caveat, compatibility risks, verified version/date and migration path. Do not invent a feature or claim a current price without evidence.
+
+
+## CT-03 Lesson 05 route — editorial testing and performance diagnosis
+
+For short-form editorial experiments and editing-performance diagnosis, use [CT-03 Lesson 05 — Expert Editorial Testing and Performance Optimization](../../../course-types/courses/CT-03/lesson-05-expert-editorial-testing-and-performance-optimization.md) and [Workbook Section 05 — Editorial Testing and Performance Log](../../../course-types/courses/CT-03/workbook/section-05-editorial-testing-and-performance-log.md). Record the exact editor/version, OS, hardware, source codec, project settings, test segment and operation. Verify proxy, optimized-media, cache and export-source behavior in the installed application rather than assuming identical controls across releases. Use official documentation and a representative test project; distinguish a documented capability from an executed compatibility test. Route editorial judgment to video-editing and independent output checks to quality-control. No metric, benchmark or application result is valid without its source and conditions.
