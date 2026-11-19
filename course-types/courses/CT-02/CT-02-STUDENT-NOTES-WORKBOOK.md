@@ -680,3 +680,206 @@ The following is fictional teaching data only.
 - [ ] Missing coverage and uncertainty are disclosed.
 - [ ] Assessment rubric and QC checklist are completed.
 - [ ] Executed work is distinguished from simulated/paper work.
+
+---
+
+## 21. Narrative Scene Capstone Evidence Pack
+
+Use this section as the central evidence index for the CT-02 Master / Professional Practice capstone. Keep source IDs and version IDs consistent. Do not enter fictional values as actual project evidence.
+
+### 21.1 Project brief and acceptance matrix
+
+| Field | Learner record |
+|---|---|
+| Project ID / title | |
+| Learner / editor | |
+| Scene duration target (3–5 min) | |
+| Audience / intended use | |
+| Dramatic objective and conflict | |
+| Beginning state / ending change | |
+| Source owner and authorization | |
+| Consent / release record location | |
+| Delivery formats and languages | |
+| Accessibility requirements | |
+| Technical specification source | |
+| Decision owner / approver | |
+| Exclusions / limitations | |
+
+| Acceptance ID | Requirement | Test method | Evidence location | Owner | Pass / Conditional / Fail |
+|---|---|---|---|---|---|
+| A-01 | Story objective and ending change are clear | Full-scene review | | | |
+| A-02 | Dialogue meaning and performance are preserved | Source comparison | | | |
+| A-03 | Geography and continuity are understandable | Shot/sample review | | | |
+| A-04 | Delivery matches written specification | File properties and playback | | | |
+| A-05 | Rights, consent and approval are documented | Record inspection | | | |
+
+### 21.2 Source, rights and preservation register
+
+| Asset ID | Filename / description | Source owner | License / permission basis | Consent / release | Restrictions | Original backup location | Approved use |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 21.3 Dramatic beat and audience-knowledge map
+
+| Beat | Before state | Trigger / action / information | After state | Character knowledge | Audience knowledge | Source ID / range | Editorial intention |
+|---:|---|---|---|---|---|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
+| 6 | | | | | | | |
+
+### 21.4 Coverage, geography and continuity evidence
+
+| Beat | Candidate clip / take | Shot size / angle | Source in/out | Performance / handles | Screen direction / eyeline | Prop/action/wardrobe risk | Select decision and reason |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+- Primary axis:
+- Character positions and movement:
+- Camera positions and viewing directions:
+- Neutral/re-establishing shots:
+- Intentional axis crossings and motivation:
+- Unresolved geography risks:
+
+### 21.5 Editorial version and decision ledger
+
+| Stage | Version ID | Date | Runtime | Main decisions | Open issues | Reviewer / status | Evidence location |
+|---|---|---|---|---|---|---|---|
+| Assembly | | | | | | | |
+| Rough cut | | | | | | | |
+| Fine cut | | | | | | | |
+| Picture lock | | | | | | | |
+| Delivery master | | | | | | | |
+
+| Decision ID | Version / time reference | Alternatives considered | Decision and rationale | Source evidence | Downstream impact | Approver |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+### 21.6 Review notes and disposition
+
+| Note ID | Review version | Time reference | Original note | Category | Authority checked | Disposition | Reason / action | New version |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+| | | | | | | | | |
+
+Categories: objective defect, brief requirement, creative preference, unclear, conflicting, duplicate or out-of-scope. Preserve original wording and identify the authorized decision owner.
+
+### 21.7 Picture-lock and change-control record
+
+| Field | Record |
+|---|---|
+| Locked sequence / version ID | |
+| Runtime / frame rate / frame size | |
+| Approval authority | |
+| Approval date and evidence | |
+| Outstanding accepted limitations | |
+| Protected copy location | |
+
+| Change request ID | Requester / authority | Timecode / affected element | Reason | Picture/audio/caption/graphics impact | Schedule impact | Approval | New version / retest |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+
+### 21.8 Delivery specification and export record
+
+| Parameter | Required value | Actual value | Verification method | Pass / Fail / N/A |
+|---|---|---|---|---|
+| Container / extension | | | | |
+| Video codec / profile | | | | |
+| Frame size | | | | |
+| Frame rate / timebase | | | | |
+| Scan / field order | | | | |
+| Duration / start-end | | | | |
+| Color space / transfer | | | | |
+| Audio codec / sample rate | | | | |
+| Channel layout | | | | |
+| Loudness / peak requirement, if specified | | | | |
+| Caption/subtitle format, if specified | | | | |
+| Filename / version ID | | | | |
+
+### 21.9 Full-file QC and defect/retest log
+
+| QC check | Result | Evidence / time reference | Reviewer | Defect ID |
+|---|---|---|---|---|
+| Correct version and filename | | | | |
+| Complete playback from first to last frame | | | | |
+| No unintended black, frozen or flash frames | | | | |
+| Dialogue intelligibility and sync | | | | |
+| Correct audio channels and no unintended clipping | | | | |
+| Titles, spelling, credits and overlays | | | | |
+| Captions/subtitles and timing where required | | | | |
+| Actual file properties match specification | | | | |
+| Rights / consent / credits are present | | | | |
+| Project and dependencies are accounted for | | | | |
+
+| Defect ID | Severity | Description | Diagnosis | Correction | New export ID | Retest evidence | Closed by / date |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+### 21.10 Handoff, portability and archive record
+
+| Item | Included? | Location / ID | Restriction / note |
+|---|---|---|---|
+| Approved project file | | | |
+| Authorized source media / relink map | | | |
+| Graphics, fonts, LUTs, plugins or other dependencies | | | |
+| Media manifest / file identity record | | | |
+| Delivery master and derivatives | | | |
+| Rights, releases and credits | | | |
+| Version and change log | | | |
+| QC and approval record | | | |
+| Archive owner / access / retention date | | | |
+| Deletion authority / restrictions | | | |
+
+**Portability/restore evidence**
+- Separate destination used:
+- Date and environment:
+- Project reopened:
+- Media relink result:
+- Missing or non-transferable dependencies:
+- Restore result: Pass / Fail / Not tested
+- If not tested, state clearly: restore not demonstrated.
+
+### 21.11 Capstone reflection and reviewer decision
+
+**Learner reflection (500–800 words):**
+- Most consequential editorial decision and source evidence:
+- Rejected alternative and reason:
+- Performance/continuity/pacing challenge:
+- Feedback that changed the edit:
+- Post-lock change, if any:
+- Delivery defect discovered by full-file inspection:
+- Limitations and claims that cannot be made:
+- Next improvement:
+
+**Reviewer record**
+- Learner / project:
+- Reviewer / date:
+- Version IDs reviewed:
+- Rubric score /100:
+- Mandatory rights/source-preservation/approval/delivery gates:
+- Remediation required:
+- Final decision: Pass / Remediation required / Not demonstrated.
+
+### 21.12 Submission integrity checklist
+
+- [ ] Brief and acceptance criteria are approved or clearly marked provisional.
+- [ ] Every source asset has an authorization and restriction record.
+- [ ] Originals are preserved.
+- [ ] Major beats and selected shots trace to source IDs/ranges.
+- [ ] Assembly, rough cut, fine cut and lock IDs are distinguishable.
+- [ ] Review notes and decision authority are recorded.
+- [ ] Post-lock changes have approval and regression checks.
+- [ ] Actual export is inspected from beginning to end.
+- [ ] Technical properties are compared with the written specification.
+- [ ] Defects and retests are traceable to versions.
+- [ ] Project dependencies and handoff restrictions are documented.
+- [ ] Simulated, paper-only, unexecuted and untested evidence is labeled accurately.
+- [ ] Reflection and reviewer decision are retained.
