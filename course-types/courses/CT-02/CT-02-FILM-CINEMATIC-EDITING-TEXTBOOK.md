@@ -109,6 +109,15 @@ Choose a short fictional scene you have permission to edit. Write a one-sentence
 
 **Answer guidance:** Editing selects and shapes picture/sound over time; story is the events, plot is their presentation; beat is a meaningful change; cuts can reveal, clarify, emphasize, change POV, compress time or create contrast; shot choice reveals or withholds information; rearrangement can falsely imply sequence or causation.
 
+
+### 1.9 Paper edit as an evidence record
+
+A paper edit is more useful when another editor can reproduce its reasoning. It should link each dramatic beat to a stable source asset and source range, show the proposed order, explain what the audience should understand and record any uncertainty. A timeline position is not a substitute for a source reference: the source in/out identifies the original material, while the timeline position identifies where the material appears in a particular edit version.
+
+For each beat, record the state before the moment, the trigger, the state after it and the source evidence. Then compare the character's knowledge with the audience's knowledge. This prevents a close-up, reaction or insert from accidentally implying that a character knows something earlier than the source supports.
+
+**Practice:** complete the [CT-02 Student Notes & Practical Workbook, Section 20 — Dramatic Beats and Paper Edit Evidence](CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence). A paper-only exercise is valid evidence of planning, but it must not be described as an executed timeline or rendered edit.
+
 ---
 
 ## Chapter 2 — Scene Geography, Screen Direction and the 180-Degree Guideline
@@ -1843,3 +1852,6 @@ Create a mock brief and approval matrix. Log ten review notes including a defect
 - Chapters 11–13, glossary and course completion checklist are retained. CT-02 remains authored / review pending pending independent academic, editorial, accessibility, rights/privacy and technical review.
 
 This is a working manuscript. Software-specific steps must be added in separate labs only after platform and version verification. Delivery standards vary by client and distribution platform; the approved project specification is authoritative.
+
+
+- **2026-11-19 — Chapter 1 and Lesson 01 depth alignment:** Added a paper-edit evidence subsection linking dramatic beats to stable source ranges, audience-knowledge decisions and Workbook Section 20. Lesson 01 was expanded in place to revision 2.0. Examples are simulated; no editing software or media was executed. CT-02 remains authored / review pending.
