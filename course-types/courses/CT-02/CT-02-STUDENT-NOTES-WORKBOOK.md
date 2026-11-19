@@ -539,7 +539,7 @@ The following fictional training scenario demonstrates how to fill the worksheet
 
 **Purpose:** Record the spatial model, camera positions, shot relationships and viewer-comprehension evidence for CT-02 Lesson 02. Use this section with authorized source footage or label every entry as a paper-only simulation.
 
-### 21.1 Brief, source and authorization record
+### 22.1 Brief, source and authorization record
 
 | Field | Entry |
 |---|---|
@@ -553,7 +553,7 @@ The following fictional training scenario demonstrates how to fill the worksheet
 | Missing or uncertain source information | |
 | Work type | ☐ Executed edit ☐ Paper-only simulation |
 
-### 21.2 Geography diagram legend
+### 22.2 Geography diagram legend
 
 Draw or attach a top-down diagram. Include a text description so the diagram is not color-dependent.
 
@@ -580,7 +580,7 @@ Prop positions and hand states:
 Camera positions and directions:  
 Uncertainties that must not be treated as facts:
 
-### 21.3 Camera and shot inventory
+### 22.3 Camera and shot inventory
 
 | Shot ID | Source ID / range | Shot scale | Camera position | Axis side (A/B/neutral/moving) | Subject(s) | Notes / transforms |
 |---|---|---|---|---|---|---|
@@ -589,7 +589,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | |
 | | | | | | | |
 
-### 21.4 Shot-by-shot continuity matrix
+### 22.4 Shot-by-shot continuity matrix
 
 | Shot ID | Screen position | Body orientation | Eyeline target | Horizontal / vertical gaze | Movement vector | Action / prop state | Risk / decision |
 |---|---|---|---|---|---|---|---|
@@ -599,7 +599,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | | |
 | | | | | | | | |
 
-### 21.5 Adjacent-shot comparison and axis-crossing log
+### 22.5 Adjacent-shot comparison and axis-crossing log
 
 | From → To | Position match | Eyeline match | Movement match | Action-state match | Axis change? | Evidence / repair decision |
 |---|---|---|---|---|---|---|
@@ -613,7 +613,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | |
 | | | | | | |
 
-### 21.6 Two-version paper-edit / edit plan
+### 22.6 Two-version paper-edit / edit plan
 
 | Order | Safe version shot ID | Crossing version shot ID | Cut purpose | Spatial information added/changed | Source range / evidence |
 |---:|---|---|---|---|---|
@@ -624,14 +624,14 @@ Uncertainties that must not be treated as facts:
 | 5 | | | | | |
 | 6 | | | | | |
 
-### 21.7 Eyeline target verification
+### 22.7 Eyeline target verification
 
 | Subject / shot | Claimed target | Evidence target exists | Relative height/distance plausible | Match shot | Confidence / uncertainty |
 |---|---|---|---|---|---|
 | | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
 | | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
 
-### 21.8 Viewer-comprehension test
+### 22.8 Viewer-comprehension test
 
 **Neutral prompt:** “Describe where each person was, what they did and how they moved.” Do not show the diagram or explain the intended geography first.
 
@@ -640,7 +640,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | |
 | | | | | | | |
 
-### 21.9 Worked example — simulated courier scene
+### 22.9 Worked example — simulated courier scene
 
 The following is fictional teaching data only.
 
@@ -653,7 +653,7 @@ The following is fictional teaching data only.
 
 **Reviewer question:** Does the chosen insert show the same hand, envelope orientation and action stage as the preceding shot? Record the source evidence before approving the cut.
 
-### 21.10 Rights, accessibility and integrity gates
+### 22.10 Rights, accessibility and integrity gates
 
 - [ ] Source ownership/license/permission is recorded.
 - [ ] Consent and privacy restrictions are respected.
@@ -664,7 +664,7 @@ The following is fictional teaching data only.
 - [ ] Paper-only examples are labeled as simulations.
 - [ ] Original media and earlier project versions are preserved.
 
-### 21.11 Revision, evidence and submission checklist
+### 22.11 Revision, evidence and submission checklist
 
 | Version | Problem observed | Shot pair / source | Change made | Viewer or QC evidence | Side effects checked | Reviewer / date |
 |---|---|---|---|---|---|---|
@@ -683,11 +683,11 @@ The following is fictional teaching data only.
 
 ---
 
-## 21. Narrative Scene Capstone Evidence Pack
+## 22. Narrative Scene Capstone Evidence Pack
 
 Use this section as the central evidence index for the CT-02 Master / Professional Practice capstone. Keep source IDs and version IDs consistent. Do not enter fictional values as actual project evidence.
 
-### 21.1 Project brief and acceptance matrix
+### 22.1 Project brief and acceptance matrix
 
 | Field | Learner record |
 |---|---|
@@ -713,7 +713,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 | A-04 | Delivery matches written specification | File properties and playback | | | |
 | A-05 | Rights, consent and approval are documented | Record inspection | | | |
 
-### 21.2 Source, rights and preservation register
+### 22.2 Source, rights and preservation register
 
 | Asset ID | Filename / description | Source owner | License / permission basis | Consent / release | Restrictions | Original backup location | Approved use |
 |---|---|---|---|---|---|---|---|
@@ -721,7 +721,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 | | | | | | | | |
 | | | | | | | | |
 
-### 21.3 Dramatic beat and audience-knowledge map
+### 22.3 Dramatic beat and audience-knowledge map
 
 | Beat | Before state | Trigger / action / information | After state | Character knowledge | Audience knowledge | Source ID / range | Editorial intention |
 |---:|---|---|---|---|---|---|---|
@@ -732,7 +732,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 | 5 | | | | | | | |
 | 6 | | | | | | | |
 
-### 21.4 Coverage, geography and continuity evidence
+### 22.4 Coverage, geography and continuity evidence
 
 | Beat | Candidate clip / take | Shot size / angle | Source in/out | Performance / handles | Screen direction / eyeline | Prop/action/wardrobe risk | Select decision and reason |
 |---|---|---|---|---|---|---|---|
@@ -747,7 +747,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 - Intentional axis crossings and motivation:
 - Unresolved geography risks:
 
-### 21.5 Editorial version and decision ledger
+### 22.5 Editorial version and decision ledger
 
 | Stage | Version ID | Date | Runtime | Main decisions | Open issues | Reviewer / status | Evidence location |
 |---|---|---|---|---|---|---|---|
@@ -762,7 +762,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 | | | | | | | |
 | | | | | | | |
 
-### 21.6 Review notes and disposition
+### 22.6 Review notes and disposition
 
 | Note ID | Review version | Time reference | Original note | Category | Authority checked | Disposition | Reason / action | New version |
 |---|---|---|---|---|---|---|---|---|
@@ -771,7 +771,7 @@ Use this section as the central evidence index for the CT-02 Master / Profession
 
 Categories: objective defect, brief requirement, creative preference, unclear, conflicting, duplicate or out-of-scope. Preserve original wording and identify the authorized decision owner.
 
-### 21.7 Picture-lock and change-control record
+### 22.7 Picture-lock and change-control record
 
 | Field | Record |
 |---|---|
@@ -786,7 +786,7 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 |---|---|---|---|---|---|---|---|
 | | | | | | | | |
 
-### 21.8 Delivery specification and export record
+### 22.8 Delivery specification and export record
 
 | Parameter | Required value | Actual value | Verification method | Pass / Fail / N/A |
 |---|---|---|---|---|
@@ -803,7 +803,7 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 | Caption/subtitle format, if specified | | | | |
 | Filename / version ID | | | | |
 
-### 21.9 Full-file QC and defect/retest log
+### 22.9 Full-file QC and defect/retest log
 
 | QC check | Result | Evidence / time reference | Reviewer | Defect ID |
 |---|---|---|---|---|
@@ -823,7 +823,7 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 | | | | | | | | |
 | | | | | | | | |
 
-### 21.10 Handoff, portability and archive record
+### 22.10 Handoff, portability and archive record
 
 | Item | Included? | Location / ID | Restriction / note |
 |---|---|---|---|
@@ -847,7 +847,7 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 - Restore result: Pass / Fail / Not tested
 - If not tested, state clearly: restore not demonstrated.
 
-### 21.11 Capstone reflection and reviewer decision
+### 22.11 Capstone reflection and reviewer decision
 
 **Learner reflection (500–800 words):**
 - Most consequential editorial decision and source evidence:
@@ -868,7 +868,7 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 - Remediation required:
 - Final decision: Pass / Remediation required / Not demonstrated.
 
-### 21.12 Submission integrity checklist
+### 22.12 Submission integrity checklist
 
 - [ ] Brief and acceptance criteria are approved or clearly marked provisional.
 - [ ] Every source asset has an authorization and restriction record.
