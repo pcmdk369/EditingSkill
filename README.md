@@ -238,7 +238,9 @@ This repository contains a substantial authored curriculum and reusable practice
 | Professional standard | Repository-wide authoring standard and shared templates are present. |
 | CT-01 — Video Editing | 15-chapter textbook, workbook, 14 lessons, assessment, capstone pack and four software labs are authored; software-version execution and independent review remain. |
 | CT-02 — Film & Cinematic Editing | 10 lessons, workbook, four practical labs, assessment and capstone brief are authored; software execution and independent review remain. |
-| CT-03–CT-30 | Stage-mapped lessons, two discipline-specific labs per course, assessments and capstone briefs are authored; independent review and learner validation remain. |\n| Practice assets | Fictional ingest manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist are available in [practice-assets](practice-assets/README.md). |
+| CT-03 — Short-Form & Social Video | Eight stage-mapped lessons, two labs, assessment and capstone are authored; Lessons 01–05 have expanded academic treatment. Formal review, software execution and learner evidence remain. |
+| CT-04–CT-30 | Stage-mapped lesson pathways, two discipline-specific labs, assessments and capstone briefs are authored; independent review and learner validation remain. |
+| Practice assets | Fictional ingest manifest, shot log, SRT transcript, rights/consent register and delivery QC checklist are available in [practice-assets](practice-assets/README.md). |
 
 Development work is tracked in [Pull Request #1](https://github.com/pcmdk369/EditingSkill/pull/1). Course completion must be based on verified content and assessment evidence, not on the number of outline files.
 
