@@ -39,7 +39,7 @@
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
 | CT-02 | Film & Cinematic Editing | Existing | 10 authored; 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
-| CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–03 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
+| CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–04 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-06 | Music Video & Performance Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -154,7 +154,7 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 ## 2026-11-18 CT-03 Lesson 02 development
 - Expanded `course-types/courses/CT-03/lesson-02-hooks-story-compression-and-retention.md` to academic revision 2.0. Added truthful hook/story-promise design, narrative structures and their risks, evidence hierarchy, source-select traceability, ethical compression, pacing and comprehension principles, retention-metric limitations, controlled opening comparisons, a worked product-demonstration example, an annotated six-select timing dry run, guided practice, independent 30/45-second assignment, troubleshooting, 12 answer-guided knowledge checks, a 100-point rubric, mandatory integrity gates, QC and capstone integration.
 - Added Workbook Section 02, **Story Promise and Selects Log**, with hook alternatives, evidence-backed promise test, source/timecode selects table, paper-edit map, compression decision record, pacing review, two-opening comparison plan, rights/privacy/factual-integrity gates and version/reflection records.
-- Updated the CT-03 outline and register. Lessons 01–03 are expanded; Lessons 04–08 remain the next sequence for lesson-by-lesson review/expansion. CT-03 remains authored/review pending, not validated or complete.
+- Updated the CT-03 outline and register. Lessons 01–04 are expanded; Lessons 05–08 remain for lesson-by-lesson review/expansion. CT-03 remains authored/review pending, not validated or complete.
 - Practice examples are fictional and text-only. No NLE, analytics account, platform upload, caption service or AI provider was executed. Platform metric definitions and placement specifications require current verification.
 
 ## CT-02 textbook expansion — 2026-11-18 (Chapters 7–10)
@@ -169,7 +169,7 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 ## 2026-11-18 CT-03 Lesson 03 development
 - Expanded `course-types/courses/CT-03/lesson-03-vertical-reframing-captions-and-safe-composition.md` to academic revision 2.0. Added crop geometry, shot-by-shot reframing strategy, keyframe/tracking decision logic, captions/subtitles/transcript distinctions, human transcript verification, cue segmentation/timing, accessibility and localization, destination-specific safe-composition checks, worked example, crop/keyframe/caption dry runs, guided and independent assignments, troubleshooting, 16 answer-guided knowledge checks, 100-point rubric, mandatory release gates, QC and capstone integration.
 - Added Workbook Section 03, **Vertical Reframing and Caption QC**, with source/delivery specification, crop geometry worksheet, shot-by-shot reframe log, transcript correction record, timed cue sheet, small-screen accessibility checks, destination overlay verification, rights/privacy/localization gates, defect/retest log and version handoff record.
-- Updated the CT-03 outline and completion register. Lessons 01–03 are expanded; Lessons 04–08 remain the next sequence. CT-03 remains authored/review pending, not validated or complete.
+- Updated the CT-03 outline and completion register. Lessons 01–04 are expanded; Lessons 05–08 remain for lesson-by-lesson review/expansion. CT-03 remains authored/review pending, not validated or complete.
 - Added verified Lesson 03 / Workbook Section 03 routes to the video-editing, subtitles and quality-control specialist modules. These are documentation routes only, not evidence of agent runtime execution.
 - No editor, tracker, transcription service, phone preview, platform upload or caption validator was executed. Safe-area review must be verified against the actual destination; simulated previews are labeled as such.
 
@@ -180,3 +180,11 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Example results and acceptance values are fictional teaching data. No AI service, NLE, transcription provider, media upload or automation was executed.
 - Updated the CT-02 course index. Existing ten lesson files, textbook chapters 12–13 and workbook resources were preserved.
 - CT-02 remains authored / review pending. Independent academic, editorial, accessibility, rights/privacy and technical review; software-version execution; real practice-media validation; and learner evidence remain outstanding.
+
+## 2026-11-19 CT-03 Lesson 04 development
+
+- Re-inspected the active PR, branch, canonical CT-03 outline, completion register, existing Lesson 04, shared academic lesson template and specialist routes before editing. The existing Lesson 04 was a short initial draft and was expanded in place; no duplicate lesson was created.
+- Expanded `course-types/courses/CT-03/lesson-04-advanced-multi-format-pacing-and-version-control.md` to academic revision 2.0. Added deliverable-family planning, master/derivative distinctions, runtime and comprehension theory, claim integrity, modular timeline strategy, explicit version states, naming conventions, change-impact analysis, backup/collaboration guidance, six-phase procedure, worked example, annotated dry run, five guided exercises, independent campaign assignment, troubleshooting, 14 answer-guided knowledge checks, 100-point rubric and mandatory release/QC gates.
+- Added Workbook Section 04, **Multi-Format Version Control**, with deliverable matrix, baseline/master protection record, runtime budget, shot adaptation map, claim/localization ledger, version manifest, change request/impact log, QC/regression record, release approval and handoff sign-off.
+- Updated the CT-03 course index, completion register and video-editing / quality-control specialist routing. CT-03 Lessons 01–04 are expanded; Lessons 05–08 remain to be expanded/reviewed. CT-03 remains authored / review pending, not technically validated or complete.
+- Examples are fictional and tool-independent. No NLE, platform, export, cloud storage, checksum utility, client approval workflow or learner submission was executed. Independent academic/editorial/accessibility/rights/technical review remains outstanding.
