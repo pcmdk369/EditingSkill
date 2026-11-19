@@ -418,6 +418,21 @@ Produce an expert editorial-testing and performance-optimization dossier for a l
 - [ ] Final proof uses the intended source quality and passes full playback.
 - [ ] Known limitations, rejected changes and next test are reported.
 
+## Capstone integration and requirements
+
+Apply this lesson in the [CT-03 Three-Format Social Campaign Capstone](capstone/README.md). The capstone must demonstrate not only three technically valid adaptations but also one evidence-led editorial decision and a reproducible performance review.
+
+**Required capstone evidence linked to this lesson:**
+1. Select one meaningful editorial decision affecting at least one output, such as opening structure, demonstration order, caption presentation or CTA timing.
+2. Submit a test plan that identifies the decision, hypothesis, method, primary outcome, controlled conditions, guardrails and stopping rule.
+3. Include two traceable variants where safe and practical. If a controlled comparison is not authorized or feasible, use a moderated comprehension review or structured peer review and state the limitation. Do not publish duplicate variants merely to create a test.
+4. Include a metric dictionary and evidence log. Use authorized real data only; otherwise use a clearly labeled moderated/qualitative record or simulated exercise data. Never present simulated values as audience results.
+5. Record a technical baseline on the learner's actual editing environment, then document one reversible optimization and retest, or justify with evidence why no optimization is required.
+6. Recheck all three final exports after any optimization that could affect rendering, source selection, captions, audio or metadata.
+7. Include the recommendation, uncertainty, rejected alternatives, rights/consent/privacy notes and final proof evidence in the handoff.
+
+**Capstone acceptance gate:** no fabricated data, unauthorized analytics collection, unsupported causal claim, unlicensed asset, unapproved public test or unverified final export. A learner without authorized platform analytics can still demonstrate the learning outcomes through a consenting moderated test or documented peer review; the evidence type must be explicit.
+
 ## Further study and references
 
 - NIST/SEMATECH — *e-Handbook of Statistical Methods*, including experimental design and measurement principles: https://www.itl.nist.gov/div898/handbook/
@@ -430,7 +445,7 @@ Produce an expert editorial-testing and performance-optimization dossier for a l
 
 ## Version and change notes
 
-- Revision 2.0 — 2026-11-19: expanded the initial draft into a complete expert lesson with experimental-method distinctions, metric definitions and denominators, confounder/uncertainty analysis, guardrails, privacy, technical bottleneck diagnosis, reversible optimization, proxy/cache distinctions, worked and dry-run examples, five guided exercises, independent assignment, troubleshooting, 16 answer-guided checks, 100-point rubric and mandatory QC gates.
+- Revision 2.0 — 2026-11-19: expanded the initial draft into a complete expert lesson with experimental-method distinctions, metric definitions and denominators, confounder/uncertainty analysis, guardrails, privacy, technical bottleneck diagnosis, reversible optimization, proxy/cache distinctions, worked and dry-run examples, five guided exercises, independent assignment, capstone integration, troubleshooting, 16 answer-guided checks, 100-point rubric and mandatory QC gates.
 - All campaign metrics and participant counts in the worked example are fictional instructional data; no real audience analytics or participant test was collected.
 - No editing application, analytics provider, benchmark utility, proxy workflow, cache or export was executed in this authoring session.
 - Metric definitions, platform experimentation rules, editor controls, codecs and hardware behavior are version-dependent. Verify the authoritative current documentation and record the actual environment before practical use.
