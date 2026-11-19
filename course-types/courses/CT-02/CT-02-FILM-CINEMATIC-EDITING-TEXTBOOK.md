@@ -213,6 +213,30 @@ Draw a top-down diagram of a two-person conversation. Mark the axis, three camer
 
 **Answer guidance:** Spatial relationships; cameras generally remain on one side of the action axis; compatible look directions; cut during a continuous movement; neutral shot, motivated move, deliberate re-establishment; intentional crossing can serve story or disorientation.
 
+### 2.11 The five-layer geography audit
+
+Use five separate checks rather than one general impression: global map, relative position, body orientation, movement vector and interaction/action state. A shot can pass a left/right check and still fail because the prop changes hands or the door changes state. Record the evidence for each layer and mark unknown values as unknown.
+
+### 2.12 Camera-side matrix
+
+For every setup, record the camera position relative to the chosen axis, the subjects visible, the expected screen relationship and whether the camera is static or moving. Classify a shot as side A, side B, neutral/on-axis or moving across the axis. Do not infer camera side from screen direction alone; verify it against the top-down blocking map and actual source frames.
+
+### 2.13 Eyeline verification protocol
+
+Compare target identity, horizontal direction, vertical angle and relative distance. Separate eye direction from head/body orientation. If the target is off-screen and not established, record an uncertain target rather than inventing one. Reverse shots should be tested as an adjacent pair in the intended sequence.
+
+### 2.14 Crossing the axis with evidence
+
+A crossing may be communicated by a continuous camera move, motivated subject movement, neutral/on-axis view or re-establishing shot. These are options, not guaranteed repairs. Test the transition in context and ask an unbriefed viewer to describe the changed geography. If the viewer cannot identify the new relationship, the transition has not yet done its job.
+
+### 2.15 Spatial continuity dry run
+
+Create a map and a shot matrix before assembling. For each adjacent pair, compare position, orientation, eyeline, movement vector and action state. Build a safe version and a deliberately crossing version. Keep the source ranges and cut rationale attached to both. Mark simulated records clearly and do not claim an edit was executed when only a paper edit exists.
+
+### 2.16 Professional integrity and review
+
+Do not use horizontal mirroring as an undocumented shortcut. It can reverse text, logos, handedness, controls, landmarks and documentary facts. Preserve originals, disclose transformations and obtain authorization where needed. Spatial clarity is a viewer outcome: use a neutral comprehension prompt and record the uncoached response before revising.
+
 ---
 
 ## Chapter 3 — Shot Coverage, Performance and Editorial Choice
@@ -1852,6 +1876,8 @@ Create a mock brief and approval matrix. Log ten review notes including a defect
 - Chapters 11–13, glossary and course completion checklist are retained. CT-02 remains authored / review pending pending independent academic, editorial, accessibility, rights/privacy and technical review.
 
 This is a working manuscript. Software-specific steps must be added in separate labs only after platform and version verification. Delivery standards vary by client and distribution platform; the approved project specification is authoritative.
+
+- **2026-11-19 — Chapter 2 / Lesson 02 depth alignment:** Added the five-layer geography audit, camera-side matrix, eyeline verification protocol, evidence-based crossing strategies, spatial continuity dry run and professional integrity checks. Lesson 02 was expanded in place to revision 2.0 and Workbook Section 21 was added. Examples are simulated; no NLE, mirror transform, media asset or viewer study was executed. CT-02 remains authored / review pending.
 
 
 - **2026-11-19 — Chapter 1 and Lesson 01 depth alignment:** Added a paper-edit evidence subsection linking dramatic beats to stable source ranges, audience-knowledge decisions and Workbook Section 20. Lesson 01 was expanded in place to revision 2.0. Examples are simulated; no editing software or media was executed. CT-02 remains authored / review pending.
