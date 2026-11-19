@@ -71,7 +71,7 @@ Lessons 01–10 have authored lesson files. Lesson 01 and Lessons 05–10 have e
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (19 sections), ten lesson files (Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (20 sections), ten lesson files (Lessons 05–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## PCMDK369™ academic and professional development requirements
