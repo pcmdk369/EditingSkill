@@ -95,6 +95,94 @@ For every chapter, record:
 | Action | | | | |
 | Ending | | | | |
 
+### 8.1 Measurement basis and source record
+
+| Field | Learner record |
+|---|---|
+| Project / sequence ID | |
+| Intended audience and dramatic objective | |
+| Source IDs / selected ranges | |
+| Rights / permission record | |
+| Project frame rate or timebase | |
+| Sequence start / end and measured runtime | |
+| Shot-count convention (including transitions/overlays) | |
+| Duration unit and rounding rule | |
+| Version IDs and review dates | |
+
+Record the same sequence boundary and shot-count convention for every comparison. If the sequence contains dissolves, overlays or split-screen segments, state how they are counted. Do not silently change the convention between versions.
+
+### 8.2 Beat-to-duration decision log
+
+| Beat order / ID | Dramatic change | Audience information | Shot ID / source range | Internal rhythm or performance | Duration | Cut / hold reason | Review evidence |
+|---:|---|---|---|---|---:|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
+| 6 | | | | | | | |
+
+### 8.3 Shot-duration distribution and ASL
+
+ASL = total sequence duration ÷ number of shots. ASL is descriptive, not a quality score. Record individual shot durations, the shortest and longest shots, and a distribution or grouped range.
+
+| Version | Runtime | Shot count | ASL | Shortest shot | Longest shot | Duration distribution / notes |
+|---|---:|---:|---:|---:|---:|---|
+| A | | | | | | |
+| B | | | | | | |
+| Selected / hybrid | | | | | | |
+
+**Worked calculation — simulated:** An 18-second version with six shots has an ASL of 3 seconds. A second 18-second version with shot durations of 1, 1, 2, 4, 4 and 6 seconds also has an ASL of 3 seconds. The averages match, but the timing patterns do not. Explain what the distribution does to anticipation, comprehension and release.
+
+### 8.4 Controlled version comparison
+
+| Change ID | Shot / beat | Baseline duration | Test duration | Variable changed | Intended effect | Other factors held constant? | Decision / reason |
+|---|---|---:|---:|---|---|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+
+Where possible, change one primary variable at a time. If shot order, music, performance selection and duration all change together, record that their individual effects cannot be isolated.
+
+### 8.5 Neutral viewer-comprehension test
+
+Use at least two unbriefed viewers where feasible, preferably three. Show the version without explaining the intended effect. Record the exact responses before discussion.
+
+**Neutral prompts:**
+- What was the scene's main objective or question?
+- What changed, and when did you notice the change?
+- Which moment felt unclear, rushed or unnecessarily delayed?
+- What did you infer from the montage order?
+
+| Viewer ID / date | Version shown | Unprompted response | Key turn identified? | Unclear / rushed moment | Exact words / notes |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+**Interpretation:** A small convenience sample is formative evidence, not a statistically representative audience study. If fewer than two unbriefed viewers are available, state that limitation and label any peer review accordingly.
+
+### 8.6 Montage relationship cross-check
+
+Use Workbook Section 19 for the full adjacent-shot map and chronology ledger. At minimum, confirm:
+
+- [ ] Every selected shot has a source ID and an identifiable function.
+- [ ] Every important adjacent pair has a stated relationship.
+- [ ] Process order and elapsed time are supported by source evidence or disclosed as unknown.
+- [ ] Crosscutting does not imply unsupported simultaneity, cause or motive.
+- [ ] Music, titles and narration do not assert facts that the images cannot support.
+
+### 8.7 Pacing evidence completion check
+
+- [ ] Beat map includes at least five meaningful changes.
+- [ ] Both timing versions use the same stated measurement boundary and shot-count convention.
+- [ ] Per-shot durations, ASL, shortest/longest values and distribution are recorded.
+- [ ] At least three timing changes are documented with reasons.
+- [ ] Viewer prompts are neutral and responses are uncoached, or the limitation is explicit.
+- [ ] Selected version preserves the essential action, reaction and factual context.
+- [ ] Source media and earlier versions remain recoverable.
+- [ ] Rights, music permissions, accessibility and any AI-assisted/altered assets are documented.
+
 ## 9. Multicamera sync record
 
 | Source | Camera/audio ID | Frame rate/sample rate | Sync method | Start check | Midpoint check | End check | Drift/action |
