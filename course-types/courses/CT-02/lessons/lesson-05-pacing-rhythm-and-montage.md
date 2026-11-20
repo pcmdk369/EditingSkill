@@ -591,7 +591,7 @@ The examples are simulated. Replace them with source IDs and evidence from the l
 ### Repository primary sources
 - CT-02 Academic Textbook, **Chapter 5 — Pacing, Rhythm and Dramatic Timing**.
 - CT-02 Academic Textbook, **Chapter 6 — Montage, Parallel Editing and Non-Linear Time**.
-- CT-02 Student Notes & Practical Workbook, **Section 8 — Pacing Comparison**.
+- [CT-02 Student Notes & Practical Workbook — Section 8: Pacing Comparison and Timing Evidence](../CT-02-STUDENT-NOTES-WORKBOOK.md#8-pacing-comparison).
 - CT-02 Student Notes & Practical Workbook, **Section 19 — Montage, Crosscutting and Rhythm Map**.
 - CT-02 Student Notes & Practical Workbook, **Section 12 — Capstone Submission Checklist**.
 - CT-02 Lessons 01–04 for dramatic beats, geography, coverage and continuity.
