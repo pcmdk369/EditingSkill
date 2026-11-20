@@ -38,7 +38,7 @@
 | ID | Course | Outline | Lessons | Labs | Assessment | Capstone | Review | Status |
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
-| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 01–02, 05–10 expanded | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 01–02, 05–10 expanded (Lesson 05 v1.2) | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–06 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -239,3 +239,13 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Re-inspection found that a concurrent Lesson 02 expansion had already created Workbook Section 21, **Scene Geography, Axis and Eyeline Evidence**.
 - Preserved that existing section and renumbered the new Narrative Scene Capstone Evidence Pack to **Section 22**, updating its subsection numbering and capstone/index links.
 - Current CT-02 workbook inventory is 22 distinct numbered sections. Earlier dated register counts remain historical checkpoint values.
+
+
+## 2026-11-20 CT-02 Lesson 05 pacing and montage evidence refinement
+
+- Re-inspected the active `agentic/universal-editskill-architecture` branch, open PR #1, CT-02 course index, existing Lesson 05, textbook Chapters 5–6, workbook Sections 8 and 19, shared academic lesson template and mandatory professional academic standard before editing. Lesson 05 already contained substantial learner-facing teaching material; it was extended in place rather than duplicated.
+- Revised `course-types/courses/CT-02/lessons/lesson-05-pacing-rhythm-and-montage.md` to version 1.2. Added explicit evidence thresholds, a reproducible timing-measurement and comparison protocol, a same-ASL/different-distribution worked example, beat-to-duration decision trace, controlled version-comparison method, neutral viewer-comprehension protocol and sampling limitation, montage adjacency/inference audit, four additional answer-guided knowledge checks and expanded QC.
+- Expanded Workbook Section 8 in place with measurement basis, source/timebase record, beat-to-duration log, ASL and duration-distribution table, controlled version comparison, neutral viewer-test record, montage cross-check and completion gates. Existing Section 19 remains the detailed montage/crosscutting relationship map; no duplicate workbook section was created.
+- Updated the CT-02 course index with the Section 8 link and Lesson 05 revision note. Reconciled the current CT-02 row; the workbook remains 22 sections.
+- The worked timing values are simulated. The viewer-comprehension protocol is authored but no viewers were recruited or tested. No NLE, media asset, timeline, render or export was executed. All editing procedures remain tool-independent; exact software UI/feature behavior remains version-dependent and unverified.
+- CT-02 remains authored / review pending, not independently reviewed, technically validated or complete. Lessons 03–04 remain concise foundation drafts requiring depth alignment. Independent academic/editorial/accessibility/rights/privacy/technical review, exact-version software lab execution, authorized practice-media validation and learner assessment/capstone evidence remain outstanding.
