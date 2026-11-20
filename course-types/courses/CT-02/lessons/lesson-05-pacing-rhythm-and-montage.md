@@ -5,21 +5,23 @@
 - Estimated time: 4–5 hours, including practical editing and review
 - Prerequisites: CT-02 Lessons 01–04; basic timeline editing, shot selection, continuity review and frame-accurate trimming
 - Tools/environment: Any non-linear editor (NLE) that supports timeline editing, playback and frame-accurate trimming; source footage you created or are licensed to use; optional markers, waveform display and a shot-duration worksheet
-- Version/review date: 1.0 — 2026-11-16
+- Version/review date: 1.2 — 2026-11-20
 - Procedure type: Tool-independent. Menu names, shortcut keys, retiming behavior and audio-meter features vary by application and version; verify those details in the documentation for the software actually used.
 
 ## Learning outcomes
 
 By the end of this lesson, learners can:
 
-1. distinguish dramatic pacing, internal rhythm, external rhythm, tempo and cutting rate using accurate terminology;
-2. map a scene's dramatic beats to a deliberate pattern of shot durations, performance holds and transitions;
-3. calculate and interpret average shot length (ASL) without treating it as a quality score;
-4. create and compare at least two pacing versions of the same scene, documenting the effect on clarity, tension and emotional response;
-5. construct a purposeful montage with a beginning, development, progression and ending;
-6. use sound, movement, visual repetition and contrast to support rhythm without relying on automatic beat matching;
-7. identify pacing problems such as premature cuts, dead holds, repetitive shot patterns, over-compression and music-led edits that weaken story comprehension;
-8. justify final timing decisions with reference to the scene objective, audience information and observable review evidence.
+1. distinguish dramatic pacing, internal rhythm, external rhythm, tempo, shot duration, cutting rate and average shot length (ASL), using an accurate example for each;
+2. map at least five dramatic beats to shot functions, performance holds, information changes and proposed cut points;
+3. calculate ASL for two versions and report each version's shortest, longest and grouped shot-duration distribution;
+4. create two versions of the same scene with at least three documented timing changes while preserving the essential story facts;
+5. construct a 30–60 second montage using at least six shots and explain every adjacent-shot relationship;
+6. use performance, movement, sound, repetition and contrast to shape rhythm without relying on automatic beat matching;
+7. diagnose at least five pacing or montage problems and propose a recovery tied to a specific shot, beat or inference;
+8. conduct a neutral comprehension review with at least two unbriefed viewers where feasible, and justify timing decisions using the responses and source evidence.
+
+**Minimum evidence for assessment:** a beat map with at least five beats; two identifiable timing versions; a per-shot duration log and ASL/duration-distribution calculation for both versions; at least three documented timing changes; a montage relationship map with six or more shots where montage is used; and a neutral viewer-test record. If fewer than two unbriefed viewers are available, label the limitation and use a peer review without presenting it as audience validation. A small viewer sample is formative evidence, not a statistically representative study.
 
 ## Key definitions and terminology
 
@@ -254,7 +256,84 @@ No particular NLE, shortcut, transition command or automatic beat-detection feat
 39. Export a review file only using a verified profile for the intended platform; inspect the exported file if export is part of the assignment.
 40. Record unresolved issues rather than hiding them.
 
-## Worked example — Suspense at a doorway
+## Reproducible timing measurement and comparison protocol
+
+A timing worksheet makes an editorial decision traceable. It does not turn pacing into a numerical quality score. Use the same measurement convention for both versions and state any limitation that could affect comparison.
+
+### 1. Define the measurement boundary
+
+1. Identify the exact sequence or scene start and end points.
+2. Record the project frame rate or timebase and the sequence runtime.
+3. Decide how the exercise counts dissolves, overlays and split-screen segments. Use one consistent convention in both versions; record it rather than silently changing the shot count.
+4. Give each distinct selected shot a stable ID and record its source ID/range separately from its final sequence in/out.
+5. Record shot duration in frames or seconds. If converting frames to seconds, state the actual project frame rate used.
+
+### 2. Calculate and describe duration
+
+- ASL = total sequence duration divided by the number of shots.
+- Cutting rate = number of cuts divided by the stated time interval. For example, 12 cuts in 30 seconds is 24 cuts per minute.
+- Also record the shortest and longest shot and a duration distribution. A mean alone conceals the pattern.
+- Do not compare two ASL values unless the sequence boundary and shot-count convention are consistent.
+
+**Worked distribution example — simulated data**
+
+Both versions last 18 seconds and contain six shots.
+
+| Shot | Version A | Version B | Dramatic function |
+|---|---:|---:|---|
+| 1 | 3 s | 1 s | Establish |
+| 2 | 3 s | 1 s | Notice |
+| 3 | 3 s | 2 s | React |
+| 4 | 3 s | 4 s | Approach |
+| 5 | 3 s | 4 s | Hesitate |
+| 6 | 3 s | 6 s | Reveal / consequence |
+| **Total** | **18 s** | **18 s** | |
+| **ASL** | **3 s** | **3 s** | |
+| **Shortest / longest** | **3 s / 3 s** | **1 s / 6 s** | |
+
+The two versions have the same runtime and ASL but a different distribution. Version A is even; Version B moves time toward the later approach, hesitation and reveal. That may increase anticipation, but it may also delay information or weaken urgency. The correct choice depends on the dramatic objective and review evidence, not the arithmetic alone.
+
+### 3. Complete a beat-to-duration decision trace
+
+| Beat / shot ID | What changes | What the audience must notice | Internal rhythm / performance | Duration and cut rationale | Evidence / review note |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+A duration is not justified by “it feels cinematic.” State what information, movement, thought or reaction remains active during the hold, or what new information the cut reveals.
+
+### 4. Compare versions as a controlled editorial test
+
+1. Preserve a clearly named baseline version.
+2. Choose one primary variable to test first: hold length, reaction duration, cut placement, shot order or sound lead.
+3. Keep other factors stable where possible. If several variables change, list each change and acknowledge that their effects cannot be isolated.
+4. Watch both versions at normal speed, not only while scrubbing.
+5. Record the observed difference in comprehension, anticipation, emotional interpretation and continuity.
+6. Select, combine or reject changes with a written reason. Do not choose a version only because it has a shorter runtime or more cuts.
+
+### 5. Conduct a neutral viewer-comprehension check
+
+Use at least two viewers who have not been briefed on the intended edit, preferably three. Show each version without explaining the story or pointing out the edit. Ask neutral questions:
+
+- What was the scene's main objective or question?
+- What changed, and when did you notice the change?
+- Which moment felt difficult to understand, rushed or unnecessarily delayed?
+- What did you infer from the montage order? Was that inference supported by what you saw?
+
+Record the viewers' words before discussing your intention. Do not ask leading questions such as “Did the longer pause make the scene more suspenseful?” A useful formative threshold is that at least two of three viewers can describe the intended key turn accurately; if they cannot, identify the shot relationship or information gap and revise. This small sample does not establish how all audiences will respond.
+
+### 6. Record the editorial decision
+
+| Version / change | Intended effect | Viewer/source evidence | Decision (keep / revise / reject) | Reason and next test |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+| | | | | |
+
+
 
 **Brief/input:** A character hears a sound behind a closed door. The scene should build uncertainty, reveal that the room is empty, then show the character noticing a second sound from elsewhere. The available footage includes a hallway wide, a medium approach, a hand near the handle, a close-up of the handle, a face reaction, a point-of-view view into the empty room, and a final reaction.
 
@@ -330,7 +409,45 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 
 **Expected output:** a 30-second montage with an identifiable problem, process and result, supported by an ordered shot list and a rights-cleared sound plan.
 
-## Guided practice — Two versions of one dramatic beat
+## Montage relationship and inference audit
+
+Montage meaning is created by the relationship between images. A shot may be authentic while the sequence implies a chronology, cause, motive or connection that the source does not establish. Review the inference created by every important adjacency, not only the content of each isolated shot.
+
+### 1. Classify the adjacent-shot relationship
+
+For each pair, select the most accurate description and explain the evidence:
+
+- **Continuity:** the next shot continues the same space or action.
+- **Temporal progression:** the next shot represents a later stage or time.
+- **Cause and effect:** the first event is shown to cause the next; use only when the source supports that claim.
+- **Similarity or motif:** a visual, sound or movement pattern links the images.
+- **Contrast:** the difference between images creates a comparison.
+- **Scale:** a detail is related to a larger place, process or system.
+- **Repetition with variation:** a recurring action or image changes in a meaningful way.
+- **Unresolved association:** the edit proposes a connection but does not establish it as fact.
+
+### 2. Complete an inference audit
+
+| Shot A → Shot B | Intended relationship | Source evidence | Likely viewer inference | Risk / clarification needed |
+|---|---|---|---|---|
+| Materials → measuring | Process progression | Same documented task and source context | Work has begun | Confirm this is the actual process order |
+| Measuring → cutting | Temporal / process step | Production record or continuous coverage | Material is being prepared | Do not imply a step occurred if it is missing |
+| Empty workspace → finished object | Time compression / contrast | Same location, later documented state | Work was completed between views | Do not imply the work was continuous or completed by a specific person unless supported |
+
+The examples are simulated. Replace them with source IDs and evidence from the learner's own project.
+
+### 3. Audit chronology and causality
+
+1. Build the underlying chronology independently of the edit order.
+2. Mark event relationships as same time, overlapping, before, after or unknown.
+3. Identify any cut, sound bridge, title or narration that could imply simultaneity or causation.
+4. Check whether the source actually supports that implication.
+5. If the relationship is unknown, preserve that uncertainty or use a structure that does not assert it.
+6. Ask a viewer what they inferred; revise if the sequence communicates a stronger claim than the evidence allows.
+
+**Expected output:** an adjacent-shot map, a chronology/inference note and a documented decision for every high-risk relationship. The existing [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](../CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map) provides the full record.
+
+
 
 **Task:** Create a 20–30 second edit of a character discovering a significant object.
 
@@ -369,6 +486,8 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 8. Sound notes identifying dialogue, ambience, effects and music, including rights information.
 9. A 150–250 word reflection describing what changed after review.
 10. A project file or equivalent editable timeline, plus a review export if the environment supports export.
+11. A neutral viewer-comprehension record from at least two unbriefed viewers where feasible; include the exact prompt, uncoached responses and the limitation if fewer viewers are available.
+12. A montage inference audit identifying the relationship and source evidence for each important adjacent pair, plus any chronology or causality uncertainty.
 
 **Constraints:**
 - Preserve original source media.
@@ -406,6 +525,10 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 8. How can crosscutting create an inference that may be misleading?
 9. What should an editor change first when a fast scene is difficult to understand?
 10. Name three pieces of evidence that can support a pacing decision.
+11. Two six-shot versions both last 18 seconds and have an ASL of 3 seconds. What additional timing information is needed before comparing their rhythm?
+12. Why must a learner record the shot-count convention and sequence boundary when calculating ASL?
+13. Describe a neutral viewer-comprehension test for two pacing versions. What limitation must be disclosed?
+14. Why can an authentic montage still create a misleading impression?
 
 ## Answer key / instructor guidance
 
@@ -419,6 +542,10 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 8. Alternation can suggest simultaneity, causation or connection. If source chronology does not support that inference, the edit may misrepresent events.
 9. Restore the information required to understand the goal, geography, action and consequence before merely slowing every shot.
 10. A beat map, version comparison, viewer comprehension notes, shot-duration log, continuity review and documented creative rationale are examples.
+11. The individual shot durations, shortest and longest shots, distribution, internal movement/performance, sound and placement of the reveal. ASL alone hides these differences.
+12. The sequence boundary determines the measured runtime and the shot-count convention determines the denominator. Inconsistent boundaries or counting rules make the comparison unreliable.
+13. Show each version without explanation, ask neutral questions about the objective, key change and unclear/rushed moments, and record uncoached responses. Disclose the number and type of viewers; a small convenience sample is formative, not statistically representative.
+14. Shot order can imply simultaneity, cause, motive or a factual relationship that the source does not prove. Review the viewer inference and the source evidence for each adjacency.
  
 **Instructor note:** Accept alternative answers when learners connect timing choices to a specific dramatic objective and can explain their evidence. Do not grade a learner solely on matching the sample durations.
 
@@ -443,10 +570,13 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 - [ ] Scene objective and intended audience are documented.
 - [ ] Dramatic beats are identified before detailed timing adjustments.
 - [ ] Pacing, rhythm, tempo and cutting rate are used accurately.
-- [ ] Shot durations and ASL are calculated correctly and not treated as quality scores.
-- [ ] Duration variation and meaningful performance holds are reviewed.
-- [ ] Two versions are compared with timing changes documented.
-- [ ] Montage has a clear progression or thematic relationship.
+- [ ] Shot durations, ASL, shortest/longest values and duration distribution are calculated consistently and not treated as quality scores.
+- [ ] Sequence boundaries, frame rate/timebase and shot-count convention are recorded.
+- [ ] Duration variation and meaningful performance holds are reviewed against dramatic beats.
+- [ ] Two versions are compared with at least three timing changes documented.
+- [ ] Viewer-comprehension prompts are neutral and responses are recorded without coaching, or the lack of audience evidence is disclosed.
+- [ ] Montage has a clear progression or thematic relationship, with adjacent-shot reasoning and source evidence.
+- [ ] Chronology, simultaneity and causality implications are supported or marked unknown.
 - [ ] Music does not conceal weak visual storytelling.
 - [ ] Dialogue, ambience and effects remain coherent and intelligible.
 - [ ] Geography, continuity, screen direction and action remain understandable.
@@ -473,11 +603,12 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 
 ## Version and change notes
 
-- **Lesson version:** 1.1
-- **Review date:** 2026-11-18
+- **Lesson version:** 1.2
+- **Review date:** 2026-11-20
 - **Software scope:** Tool-independent. No unverified menu names, shortcuts, proprietary features or version-specific claims are included.
 - **Frame/time calculations:** Examples use seconds and frame-rate-independent durations unless a frame-rate example is explicitly stated.
 - **Known limitation:** The sample durations are illustrative teaching data, not prescriptions for all scenes or genres.
 - **Next course sequence:** CT-02 Lesson 06 — Multicamera Editing and Synchronization; Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; Lesson 09 — AI-Assisted Editing and Editorial Automation; Lesson 10 — Professional Practice, Client Review and Archive.
 - **1.1 — 2026-11-18:** Linked the dedicated workbook Section 19 montage/crosscutting/rhythm map to the tools, independent assignment and references; clarified the remaining CT-02 lesson sequence.
+- **1.2 — 2026-11-20:** Added explicit evidence thresholds for beat mapping and version comparison; a reproducible timing-measurement protocol; a same-ASL/different-distribution worked example; a beat-to-duration decision trace; a neutral viewer-comprehension protocol with sample limitations; a montage adjacency/inference audit; four additional answer-guided knowledge checks; and expanded QC. Linked the expanded Workbook Section 8 pacing evidence record. Examples remain simulated; no NLE, media asset, viewer study or export was executed.
 - **Change policy:** Update this lesson when the textbook, workbook, assessment criteria or verified software implementation requirements materially change.
