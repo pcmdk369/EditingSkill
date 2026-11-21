@@ -971,3 +971,206 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 - [ ] Project dependencies and handoff restrictions are documented.
 - [ ] Simulated, paper-only, unexecuted and untested evidence is labeled accurately.
 - [ ] Reflection and reviewer decision are retained.
+
+
+---
+
+## 23. Coverage, Performance and Editorial Decision Evidence
+
+Use this section with CT-02 Lesson 03. Complete it with authorized footage or label all fictional records as a paper-only simulation. Do not treat a blank field as proof that an action, reaction or source range exists.
+
+### 23.1 Project scope and authorization
+
+| Field | Learner record |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Scene objective and intended audience | |
+| Source media IDs / storage reference | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Restrictions on editing, disclosure or cloud processing | |
+| In-scope cameras / angles / takes | |
+| Project frame rate / timebase, if known | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+| Original-media preservation location | |
+
+### 23.2 Source and take inventory
+
+| Source ID | Scene | Camera / angle | Shot size | Take | Source duration / range | Handles | Technical / continuity notes |
+|---|---|---|---|---:|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+**Inventory reconciliation**
+- Total in-scope takes:
+- Takes reviewed in full:
+- Takes not reviewed and reason:
+- Source identity or timecode uncertainties:
+- Missing coverage / pickups required:
+- Proxy/optimized-media relationship, if applicable:
+- Are source IDs stable and traceable? ☐ Yes ☐ No
+
+### 23.3 Beat-to-coverage map
+
+| Beat ID | Dramatic change / information need | Primary source ID / range | Alternate source ID / range | Shot function | Performance evidence | Coverage gap / risk |
+|---|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+### 23.4 Performance observation log
+
+Record visible/audible evidence before interpreting it.
+
+| Source ID / range | Observable behavior (what is seen/heard) | Possible interpretation (qualified) | Beat / trigger | Editorial relevance | Confidence / uncertainty |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Prompts for observation:
+- posture and body orientation;
+- gaze direction and change;
+- hand/prop gesture and movement phase;
+- breath, pause and silence;
+- vocal pace, emphasis, overlap and clarity;
+- listening response;
+- emotional preparation, trigger, response and after-state;
+- background movement and interaction.
+
+### 23.5 Five-dimension take comparison
+
+**Model used:** ☐ Suggested Lesson 03 weights ☐ Instructor/production model (attach weights)
+
+| Dimension | Suggested weight | Rating 1–5 | Weighted points | Evidence / note |
+|---|---:|---:|---:|---|
+| Dramatic value | 30 | | | |
+| Performance | 25 | | | |
+| Continuity | 20 | | | |
+| Technical usability | 15 | | | |
+| Editorial function | 10 | | | |
+| **Total** | **100** | | | |
+
+Formula: weighted points = (rating ÷ 5) × dimension weight.
+
+| Candidate source ID | Dramatic | Performance | Continuity | Technical | Function | Total /100 | Critical gate result |
+|---|---:|---:|---:|---:|---:|---:|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+**Critical gate review**
+- [ ] Source authorization and consent are valid.
+- [ ] Factual chronology is not misrepresented.
+- [ ] Critical action/prop/geography continuity is resolved.
+- [ ] Essential dialogue or visual information is verifiable.
+- [ ] Known technical defects are documented.
+- [ ] Required approval is recorded.
+- Held/rejected candidate and reason:
+- Accepted technical compromise and approval:
+- Why the numerical score does not determine the final choice:
+
+### 23.6 Selects reel / paper selects order
+
+| Select ID | Source ID / take | Source in/out | Handles | Beat / function | Performance note | Technical risk | Decision (use/hold/reject) |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 23.7 Reaction, insert and chronology verification
+
+| Candidate shot | Event it appears to respond to / clarify | Source chronology verified? | Eyeline/spatial relation verified? | Prop/action state verified? | Risk / decision |
+|---|---|---|---|---|---|
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+
+### 23.8 Two-version comparison
+
+| Field | Performance-led version | Coverage-led version |
+|---|---|---|
+| Version ID / date | | |
+| Hypothesis | | |
+| Source ranges / boundary | | |
+| Main shot strategy | | |
+| Master/two-shot use | | |
+| Reaction / insert use | | |
+| Main performance benefit | | |
+| Main continuity/technical risk | | |
+| Intended audience effect | | |
+
+| Comparison point | Version A | Version B | Evidence / decision |
+|---|---|---|---|
+| Scene objective clear? | | | |
+| Key beat understood? | | | |
+| Performance feels continuous? | | | |
+| Geography and eyelines clear? | | | |
+| Any misleading reaction or chronology? | | | |
+| Redundant or missing shot? | | | |
+| Preferred version and reason | | | |
+
+### 23.9 Viewer / reviewer comprehension record
+
+Use a neutral prompt without explaining the intended emotional reading.
+
+Suggested prompts:
+- “What changed in the scene?”
+- “Which moment made that change clear?”
+- “Did any reaction or action feel out of sequence?”
+- “Was there a shot that added no new information?”
+
+| Viewer/reviewer ID / date | Version shown | Unprompted response | Key beat understood? | Confusion / exact words | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+State sample size and limitations. A small convenience sample is formative evidence, not representative audience research. If no viewer test occurred, record “not conducted.”
+
+### 23.10 Coverage-gap and pickup record
+
+| Missing information/action | Beat affected | Search performed / sources checked | Editorial impact | Proposed remedy | Approval / status |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+Do not invent a shot, reaction, prop state or event to fill a gap. Record whether the remedy is an alternate source, an authorized pickup, a truthful restructure or an accepted limitation.
+
+### 23.11 Rights, accessibility and integrity gates
+
+- [ ] Footage is original, licensed or explicitly authorized.
+- [ ] Participant consent and restrictions are recorded.
+- [ ] No confidential source was sent to an unapproved cloud/AI service.
+- [ ] Performance observations are separated from assumptions about identity or internal state.
+- [ ] Reaction timing does not falsely imply knowledge or chronology.
+- [ ] Factual/documentary edits follow the applicable editorial policy.
+- [ ] Tables and labels do not rely on color alone.
+- [ ] Simulated and paper-only examples are labeled.
+- [ ] Original media and earlier edit versions are preserved.
+
+### 23.12 Revision and handoff record
+
+| Version | Issue / source pair | Change made | Rationale | QC/reviewer evidence | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+| v03 | | | | | | |
+
+**Handoff**
+- Selected version ID:
+- Rejected alternatives and reasons:
+- Accepted compromises:
+- Unresolved coverage gaps:
+- Decisions requiring director/client approval:
+- Evidence location:
+- Simulated, unexecuted or untested items:
