@@ -337,6 +337,77 @@ Create a coverage inventory for one scene with at least 12 clips. Record shot si
 
 **Answer guidance:** Recorded shot options; establishes scene action/geography; reveals response; performance, continuity, focus, exposure, timing, sound; extra frames around usable action; options must serve story and coherent performance.
 
+
+### 3.10 Coverage as an information system
+
+A coverage plan should be designed around what the audience must understand, not around a target number of shot sizes. Begin with the dramatic beat and list the information it requires: location, relationship, action, reaction, object state, point of view or consequence. Then map the recorded shots that can supply that information.
+
+For each beat, record a primary shot, at least one alternate where available, and any risk. A missing alternate is not automatically a problem; it becomes a coverage gap only when the scene needs information that no available shot can communicate adequately.
+
+### 3.11 Coverage functions and trade-offs
+
+A master can preserve simultaneous behavior and timing, while a close-up can emphasize a specific response. A two-shot can show the relationship between participants. A single can isolate attention but remove context. An insert can clarify an object or action but may create a continuity problem if its source state differs. A cutaway may provide context or a pause, but it must not imply an unsupported event. A reaction shot can change audience interpretation and must be checked against source chronology.
+
+No shot type is inherently superior. Evaluate the function of the shot in the actual scene, its relationship to adjacent material and the information it adds.
+
+### 3.12 Performance observation and interpretation
+
+Performance notes should separate what is observed from what is inferred. “The performer looks down, pauses and exhales” is an observable note. “The performer feels guilty” is an interpretation and should be qualified. The editor should describe the evidence, explain the possible dramatic reading and avoid claiming access to an actor's private mental state.
+
+Compare performance across the complete beat: preparation, trigger, response, adjustment and after-state. Inspect gaze, gesture, breath, vocal pace, overlap, listening behavior, posture and prop handling. A cut that matches a hand position may still interrupt a pause or remove the moment in which a response becomes visible.
+
+### 3.13 A structured take-evaluation model
+
+The suggested teaching model weights dramatic value at 30%, performance at 25%, continuity at 20%, technical usability at 15% and editorial function at 10%. Rate each dimension from 1 to 5 and calculate weighted points as rating divided by five, multiplied by the dimension weight.
+
+The model organizes comparison; it is not a universal industry standard and does not replace judgment. Critical gates are checked first: source authorization, consent, factual integrity, essential chronology and non-negotiable continuity requirements. A high average cannot offset a failed critical gate. Record exceptions where a technically imperfect take is retained for a unique performance moment and identify who accepts the risk.
+
+### 3.14 Selects traceability and version control
+
+A selects log must retain the original source ID and source in/out. Keep source range, select ID, timeline position and edit version as separate fields. Timeline positions change when material is rearranged; source identity should not. If a selected range changes, update the log and preserve the prior decision record.
+
+A selects reel is a review tool, not proof that the scene has been edited or rendered. A paper selects list is acceptable when it is labeled as such. In all cases, another editor should be able to locate the candidate range and understand why it was selected.
+
+### 3.15 Reaction and insert integrity
+
+Before using a reaction shot, identify the event that triggers it and verify that the recorded reaction belongs to the relevant moment. Check the eyeline, geography, source chronology and emotional context. A reaction placed before its cause may imply prior knowledge or change the meaning of the event.
+
+Before using an insert, compare the hand, prop orientation, object state, movement phase and source take. If the insert comes from a different action stage, do not silently present it as continuous. In documentary, journalism, factual or evidentiary work, follow the applicable editorial policy and do not create a false sequence.
+
+### 3.16 Reproducible coverage review
+
+1. Confirm source authorization and preserve originals.
+2. Inventory all in-scope takes and assign stable IDs.
+3. Watch each take in full before marking selects.
+4. Record source in/out, handles and technical limitations.
+5. Map candidates to dramatic beats and information needs.
+6. Separate performance observation from interpretation.
+7. Compare candidates across the five evaluation dimensions.
+8. Apply critical gates before accepting a score.
+9. Build a performance-led version and a coverage-led alternative.
+10. Review reaction/insert chronology, geography and action state.
+11. Compare versions against the scene objective and neutral review feedback.
+12. Save source-linked logs, decisions, versions and limitations.
+
+### 3.17 Worked decision trace
+
+**Fictional example:** A two-shot contains a complete reveal. One close-up contains a convincing pause but has a brief focus softness. A second close-up is sharp but emotionally flat. A hand insert has a different prop position.
+
+The editor first checks the source chronology and critical requirements. The master is retained as a baseline because it preserves both performers. The soft close-up is assessed in context and may be used if the defect is acceptable for the intended delivery and the relevant decision owner accepts it. The sharp but flat take remains an alternate. The insert is held until its prop state can be matched. The final decision is documented by source ID and range; a numerical score alone does not approve the cut.
+
+### 3.18 Practice and review
+
+Create a coverage map for a scene with at least six dramatic beats and eight candidate shots. For three beats, compare a master/two-shot option with a single/close-up option. Record what information is gained or lost. Then prepare a performance-led and a coverage-led paper edit and explain which best communicates the scene objective.
+
+Review questions:
+1. Why is coverage quality not measured by shot count?
+2. What is the difference between performance observation and interpretation?
+3. Which critical gates can override a weighted take score?
+4. Why should a reaction shot be checked against source chronology?
+5. What information makes a selects log reproducible?
+
+**Answer guidance:** Coverage is useful only when it provides meaningful options; observations describe visible/audible evidence while interpretations infer meaning; rights, consent, factual integrity and critical continuity can override scores; reaction timing can imply knowledge or causation; stable source ID, take, source in/out, handles and version references make a select traceable.
+
 ---
 
 ## Chapter 4 — Narrative Continuity, Time and Scene Construction
@@ -1937,3 +2008,7 @@ This is a working manuscript. Software-specific steps must be added in separate 
 
 
 - **2026-11-19 — Chapter 1 and Lesson 01 depth alignment:** Added a paper-edit evidence subsection linking dramatic beats to stable source ranges, audience-knowledge decisions and Workbook Section 20. Lesson 01 was expanded in place to revision 2.0. Examples are simulated; no editing software or media was executed. CT-02 remains authored / review pending.
+
+
+### 2026-11-21 — Chapter 3 expansion
+Expanded Chapter 3 to align with CT-02 Lesson 03 revision 2.0. Added beat-led coverage mapping, shot-function trade-offs, observable performance notes, the weighted decision model and critical gates, selects traceability, reaction/insert integrity, a reproducible coverage review and a fictional decision trace. Examples are simulated; no media or editing application was operated. Tool-independent procedures only; independent academic and technical review remains pending.
