@@ -3,36 +3,37 @@
 **Course ID:** CT-09  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable portrait & beauty retouching skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop natural, consent-aware portrait retouching skills across cleanup, tonal shaping, skin texture, hair detail, batch consistency, art direction, responsible AI use and secure professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will define retouch scope, use non-destructive tools, preserve identity and skin tone, manage subject review, assess AI/privacy risks and deliver traceable portrait packages.
 
-## Curriculum modules
-1. Portrait evaluation
-2. non-destructive cleanup
-3. blemish removal
-4. skin texture preservation
-5. dodge and burn
-6. color consistency
-7. hair and edge cleanup
-8. ethical retouching.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Portrait brief, skin tone and ethics](CT-09/lessons/lesson-01-portrait-retouching-brief-skin-tone-and-ethics.md) | Consent, scope and natural appearance |
+| Beginner / Intermediate | [02 — Blemish cleanup and healing](CT-09/lessons/lesson-02-blemish-cleanup-healing-and-frequency-concepts.md) | Healing, cloning and texture |
+| Intermediate | [03 — Dodge/burn and color balance](CT-09/lessons/lesson-03-dodge-burn-light-shaping-and-color-balance.md) | Light shaping and skin tone |
+| Advanced | [04 — Natural skin retouch and hair detail](CT-09/lessons/lesson-04-advanced-natural-skin-retouch-and-hair-detail.md) | Edge control and detail |
+| Expert | [05 — Editorial consistency and batch](CT-09/lessons/lesson-05-expert-editorial-beauty-consistency-and-batch.md) | Series-level workflow |
+| Master | [06 — Art direction and subject approval](CT-09/lessons/lesson-06-master-beauty-art-direction-and-subject-approval.md) | Retouch policy and review |
+| AI & Automation | [07 — AI retouching, consent and identity](CT-09/lessons/lesson-07-ai-assisted-portrait-retouching-consent-and-identity.md) | Privacy and human review |
+| Professional Practice | [08 — Delivery, privacy and portfolio](CT-09/lessons/lesson-08-professional-portrait-delivery-privacy-and-portfolio.md) | Secure handoff and permission |
 
-## Practical capstone
-Retouch a portrait before/after pair while preserving natural skin texture.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Natural portrait retouch and subject review](CT-09/labs/lab-01-natural-portrait-retouch-and-subject-review.md)
+- [Lab 02 — Portrait consent and authenticity review](CT-09/labs/lab-02-portrait-consent-and-authenticity-review.md)
+- [Knowledge assessment and answer key](CT-09/assessment-quiz-and-answer-key.md)
+- [Professional portrait capstone](CT-09/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current raster editor/RAW processor with layers, masks, healing and color tools. Record app/version and profile. Verify current UI instructions in official documentation.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit lab and capstone, meet consent/privacy/identity gates and provide a documented delivery package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Formal academic, technical, privacy and subject-consent review and actual software execution remain outstanding; not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.

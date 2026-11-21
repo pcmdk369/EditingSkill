@@ -1,0 +1,6 @@
+clip_id,source_in,source_out,shot_type,visual_description,story_function,continuity_or_technical_note,editorial_decision
+A001,00:00:00:00,00:00:12:00,Wide,Empty workspace with notebook and desk lamp,Establish location,Check screen direction and exposure,Use as opening establishing shot
+A002,00:00:02:00,00:00:16:00,Medium,Fictional presenter enters frame and sits,Introduce subject,Keep eyeline consistent across coverage,Select strongest natural movement
+A002,00:00:16:00,00:00:18:00,Medium,Presenter opens notebook,Bridge action,Match hand position with close-up,Use only if action continuity matches
+A003,00:00:00:00,00:00:08:00,Close-up,Hand writes three priorities in notebook,Show key story information,Text must remain legible and not be fabricated in post,Use as explanatory insert
+A004,00:00:00:00,00:00:07:00,Cutaway,Morning light moves across desk,Create pacing and visual breathing room,Check direction of light against wide shot,Optional transition or visual pause

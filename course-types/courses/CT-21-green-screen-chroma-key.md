@@ -3,38 +3,37 @@
 **Course ID:** CT-21  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable green screen & chroma key skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop chroma-key production skills from screen lighting and camera capture through matte generation, edge refinement, background integration, multi-camera consistency, virtual production, AI-assisted keying and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will plan capture, create stable mattes, suppress spill, integrate backgrounds, review temporal consistency and deliver foreground/matte/composite packages.
 
-## Curriculum modules
-1. Screen and subject lighting
-2. key color sampling
-3. matte generation
-4. spill suppression
-5. edge refinement
-6. hair detail
-7. background matching
-8. shadows
-9. color integration
-10. export.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Production planning, screen lighting and camera](CT-21/lessons/lesson-01-green-screen-production-planning-screen-lighting-and-camera.md) | Capture conditions |
+| Beginner / Intermediate | [02 — Chroma-key matte generation](CT-21/lessons/lesson-02-chroma-key-matte-generation-and-screen-sampling.md) | Sampling and matte |
+| Intermediate | [03 — Edge, spill and hair refinement](CT-21/lessons/lesson-03-edge-detail-spill-and-hair-refinement.md) | Fine detail |
+| Advanced | [04 — Background integration and perspective](CT-21/lessons/lesson-04-advanced-background-integration-shadow-and-perspective.md) | Shadows and match |
+| Expert | [05 — Multi-camera keying and batch QC](CT-21/lessons/lesson-05-expert-multi-camera-keying-and-batch-quality.md) | Consistency and exceptions |
+| Master | [06 — Virtual production and art direction](CT-21/lessons/lesson-06-master-virtual-production-keying-and-art-direction.md) | Production supervision |
+| AI & Automation | [07 — AI keying and edge review](CT-21/lessons/lesson-07-ai-assisted-keying-and-edge-review.md) | Temporal human review |
+| Professional Practice | [08 — Keying delivery and capture guidelines](CT-21/lessons/lesson-08-professional-keying-delivery-and-capture-guidelines.md) | Matte/plate handoff |
 
-## Practical capstone
-Create a convincing green-screen composite with a clean matte and matching light.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Green-screen capture, keying and composite](CT-21/labs/lab-01-green-screen-capture-keying-and-composite.md)
+- [Lab 02 — Temporal key quality and alpha delivery QC](CT-21/labs/lab-02-temporal-key-quality-and-alpha-delivery-qc.md)
+- [Knowledge assessment and answer key](CT-21/assessment-quiz-and-answer-key.md)
+- [Virtual studio keying capstone](CT-21/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current video editor/compositor with chroma key, masks, tracking and alpha export. Record camera metadata, color space, frame rate and alpha convention. Verify exact keyer settings in the chosen application/version.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit lab and capstone, meet rights/matte/alpha gates and deliver a reproducible package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one green-screen lab, one knowledge assessment and one capstone brief are present. Capture/compositing execution, full-motion matte validation and independent review remain outstanding; not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.

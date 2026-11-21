@@ -1,0 +1,7 @@
+asset_id,filename,media_type,duration_seconds,frame_rate,resolution_or_sample_rate,codec_or_format,source_description,rights_status,checksum_sha256,ingest_status,notes
+A001,studio-wide.mov,video,12,25,1920x1080,H.264,Fictional wide shot of an empty workspace,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No media file supplied
+A002,presenter-medium.mov,video,18,25,1920x1080,H.264,Fictional presenter sits at desk and opens notebook,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No media file supplied
+A003,notebook-closeup.mov,video,8,25,1920x1080,H.264,Fictional close-up of a hand writing three priorities,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No media file supplied
+A004,window-light.mov,video,7,25,1920x1080,H.264,Fictional cutaway of morning light across a desk,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No media file supplied
+A005,voiceover.wav,audio,24,,48000 Hz,PCM,Fictional narration described by transcript.srt,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No audio file supplied
+A006,ambient-room.wav,audio,30,,48000 Hz,PCM,Fictional room tone for sound-design practice,TRAINING_ONLY_NOT_REAL_MEDIA,NOT_GENERATED,DESCRIBED_ONLY,No audio file supplied

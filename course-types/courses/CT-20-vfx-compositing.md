@@ -3,38 +3,37 @@
 **Course ID:** CT-20  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable visual effects & compositing skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop VFX compositing skills from layer/alpha fundamentals through roto, keying, tracking, multipass integration, supervision, responsible AI and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will build stable mattes, integrate elements, solve motion, manage color/alpha pipelines, validate temporal consistency and deliver reproducible shot packages.
 
-## Curriculum modules
-1. Compositing fundamentals
-2. alpha channels
-3. masks
-4. rotoscoping
-5. planar and point tracking
-6. keying
-7. cleanup
-8. CGI integration
-9. color matching
-10. render and QC.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Compositing foundations and color space](CT-20/lessons/lesson-01-vfx-compositing-foundations-layers-and-color-space.md) | Layers and alpha |
+| Beginner / Intermediate | [02 — Mattes, masks and roto](CT-20/lessons/lesson-02-mattes-masks-roto-and-edge-refinement.md) | Edge refinement |
+| Intermediate | [03 — Keying and spill suppression](CT-20/lessons/lesson-03-keying-screen-cleanup-and-spill-suppression.md) | Green/blue screen |
+| Advanced | [04 — Tracking and matchmove](CT-20/lessons/lesson-04-advanced-tracking-matchmove-and-camera-integration.md) | Camera integration |
+| Expert | [05 — Multipass compositing and color](CT-20/lessons/lesson-05-expert-multipass-compositing-render-and-color-pipeline.md) | Render pipeline |
+| Master | [06 — VFX supervision and shot review](CT-20/lessons/lesson-06-master-vfx-supervision-shot-breakdown-and-review.md) | Shot governance |
+| AI & Automation | [07 — AI roto and synthetic media review](CT-20/lessons/lesson-07-ai-assisted-vfx-roto-and-synthetic-media-review.md) | Human validation |
+| Professional Practice | [08 — Delivery, archive and conform](CT-20/lessons/lesson-08-professional-vfx-delivery-shot-archive-and-conform.md) | Shot handoff |
 
-## Practical capstone
-Composite a tracked visual effect into live-action footage.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Screen keying, tracking and compositing](CT-20/labs/lab-01-screen-keying-tracking-and-compositing.md)
+- [Lab 02 — Multipass, alpha and compositing conform QC](CT-20/labs/lab-02-multipass-alpha-and-compositing-conform-qc.md)
+- [Knowledge assessment and answer key](CT-20/assessment-quiz-and-answer-key.md)
+- [Integrated VFX shot capstone](CT-20/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current node/layer compositing application. Record source frame rate, color space, alpha convention, renderer and output requirements. Verify exact pipeline conventions with source and receiving applications.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit lab and capstone, meet rights/identity and temporal integrity gates, and provide a complete shot package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one keying/tracking lab, one knowledge assessment and one capstone brief are present. Compositing application execution, alpha/color validation and independent review remain outstanding; not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.

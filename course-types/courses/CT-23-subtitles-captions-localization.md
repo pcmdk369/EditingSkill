@@ -3,38 +3,37 @@
 **Course ID:** CT-23  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable subtitles, captions & localization skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop accessible captioning, subtitle timing, file-format validation, localization, multilingual QA, responsible AI transcription and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will create accurate transcripts, segment cues, produce SRT/VTT files, localize meaning, govern reviewer workflows and deliver traceable multilingual packages.
 
-## Curriculum modules
-1. Speech transcription
-2. subtitle conventions
-3. timing
-4. line breaks
-5. speaker labels
-6. SRT/VTT formats
-7. translation
-8. accessibility
-9. burned-in captions
-10. synchronization QC.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Captioning and transcript basics](CT-23/lessons/lesson-01-captioning-accessibility-audio-review-and-transcript-basics.md) | Accessibility and source review |
+| Beginner / Intermediate | [02 — Segmentation, reading speed and timing](CT-23/lessons/lesson-02-subtitle-segmentation-reading-speed-and-timing.md) | Cue design |
+| Intermediate | [03 — SRT, VTT and technical validation](CT-23/lessons/lesson-03-subtitle-formats-srt-vtt-and-technical-validation.md) | Formats and encoding |
+| Advanced | [04 — Localization and cultural adaptation](CT-23/lessons/lesson-04-advanced-localization-translation-and-cultural-adaptation.md) | Translation and locale |
+| Expert | [05 — Subtitle workflow and batch QA](CT-23/lessons/lesson-05-expert-subtitle-workflow-quality-assurance-and-batch.md) | Multilingual quality |
+| Master | [06 — Accessibility strategy and governance](CT-23/lessons/lesson-06-master-accessibility-strategy-and-multilingual-governance.md) | Standards and approvals |
+| AI & Automation | [07 — AI transcription/translation and review](CT-23/lessons/lesson-07-ai-assisted-transcription-translation-and-human-review.md) | Privacy and human QA |
+| Professional Practice | [08 — Delivery, accessibility and archive](CT-23/lessons/lesson-08-professional-subtitle-delivery-accessibility-and-archive.md) | Versioned handoff |
 
-## Practical capstone
-Deliver synchronized subtitle files and captioned exports in two languages.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Multilingual subtitle production and validation](CT-23/labs/lab-01-multilingual-subtitle-production-and-validation.md)
+- [Lab 02 — Multilingual accessibility and subtitle regression QC](CT-23/labs/lab-02-multilingual-accessibility-and-subtitle-regression-qc.md)
+- [Knowledge assessment and answer key](CT-23/assessment-quiz-and-answer-key.md)
+- [Accessible multilingual video capstone](CT-23/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current subtitle editor and target player. Record language/locale, master version, encoding and required formats. Verify current accessibility/platform specifications and use qualified human review for translation.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit lab and capstone, meet meaning/accessibility/version/rights gates and deliver tested subtitle files. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one multilingual subtitle lab, one knowledge assessment and one capstone brief are present. Human language review, target-player testing and independent accessibility review remain outstanding; not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
