@@ -470,9 +470,96 @@ Check that the audio bridge is semantically appropriate. A sound from the next s
 
 ### 4.7 Practice
 
+### 4.8 Action states and event anchors
+
+A continuity review becomes more reproducible when the editor describes the physical action as observable states rather than as a general intention. A useful phase model is preparation, initiation, travel, contact, manipulation or transfer, release, completion and reaction. Not every movement uses every phase. Select only the states that are visible or audible in the source.
+
+An **event anchor** is a repeatable point that can be located in more than one source, such as first contact with a handle, a cup leaving a table, a latch reaching its stop or a hand releasing an object. An anchor should describe evidence, not an inferred thought or emotion. “Fingers first touch the handle” is verifiable; “the character decides to leave” is an interpretation.
+
+For each angle, record the anchor and its source time basis. Different takes will not necessarily share the same timecode. Compare their action states and verified chronology, not the numeric timecode alone.
+
+### 4.9 Match on action: movement phase and cut boundary
+
+A match-on-action edit transfers attention between views while a movement is progressing. Compare the direction, path, approximate speed, body/hand position, object state, contact phase and scene geography. The outgoing and incoming frames need not be pixel-identical because the camera angle and scale may change. They must present a compatible progression.
+
+Treat the cut as a boundary between an outgoing frame and an incoming frame. Record the source ID and source range on both sides. Too much overlap may repeat a gesture; too little may skip contact or make an object appear to teleport. The best boundary is determined by normal-speed playback and frame inspection, not by a universal frame offset.
+
+### 4.10 Overlap, handles and separate takes
+
+When two cameras record the same take, their event timing may be closely related, but sync and camera offsets still require verification. When coverage comes from separate takes, the performance and timing can differ. Do not align separate takes solely by matching timecode values.
+
+Handles provide room to adjust a cut. Preserve them in the project where practical. Mark whether a source range contains preparation, the event itself or aftermath. If one angle does not cover a required event, record the gap. Do not fabricate the missing movement or conceal a factual discontinuity.
+
+### 4.11 Continuity matrix
+
+A continuity matrix should cover at least:
+
+- story chronology and causal order;
+- spatial relationships, axis and screen direction;
+- action phase, direction and speed;
+- body, gaze and performance state;
+- prop, wardrobe and object state;
+- production sound, ambience and sync;
+- source identity, timebase and technical uncertainty.
+
+Prioritize defects by their effect on comprehension, meaning, performance and credibility. A small visible difference may be acceptable; a reaction that falsely implies knowledge or a sequence that reverses cause and effect is not a minor cosmetic issue.
+
+### 4.12 Performance and factual integrity
+
+A reaction shot is not neutral. It may imply that a person witnessed, understood or approved an event. Verify source chronology, eyeline and the person's opportunity to perceive the trigger. Separate observable behavior from an interpretation of internal state.
+
+For factual work, keep source references and follow the production's editorial policy. A temporal compression or rearrangement that changes apparent causality must be disclosed, corrected or rejected. If evidence is missing, mark it unknown rather than creating false precision.
+
+### 4.13 Sound continuity and audio bridges
+
+Sound can carry across a picture edit through production sound, room tone, ambience or a motivated J-cut/L-cut. Identify the source and ownership of each event. A physical contact sound should not occur twice merely because two camera angles show the same action. A continuous ambience bed may smooth a picture cut, but it must not imply a different location or unsupported event.
+
+Listen across the edit without picture as well as with picture. Check dialogue sync, breath, handling noise, duplicated transients, ambience changes and any replacement effect's authorization. A sound-only correction cannot repair a false picture chronology.
+
+### 4.14 Continuity versus intentional discontinuity
+
+A jump cut, ellipsis or fragmented action can be purposeful. Document the audience effect, narrative reason, recognition cue, comprehension risk and continuous alternative. “It looks cinematic” is not a sufficient decision record. A discontinuity that confuses the viewer or changes factual meaning without a defensible purpose should be corrected or held for approval.
+
+### 4.15 Reproducible continuity review
+
+1. Confirm source authorization and preserve originals.
+2. Inventory sources, takes, timebase and metadata uncertainty.
+3. Define the scene objective and action in observable language.
+4. Mark event anchors in every relevant view.
+5. Verify geography, axis, screen direction and eyelines.
+6. Compare action, performance, prop/wardrobe and sound states.
+7. Select candidate ranges with handles.
+8. Assemble a non-destructive first pass.
+9. Inspect the outgoing and incoming frames around each cut.
+10. Play at normal speed and listen without picture.
+11. Test intentional discontinuities as separate versions.
+12. Obtain neutral review where appropriate; record sample size and limitations.
+13. Correct one issue at a time and recheck neighboring edits.
+14. Save source references, version, decisions, limitations and QC evidence.
+
+### 4.16 Worked paper example: cup from table to shelf
+
+The following is fictional teaching data, not footage measurement. A medium-wide view establishes the actor, table and shelf. A detail view shows the hand contacting and lifting a cup. A third view shows the cup being placed on the shelf.
+
+| Event | Wide view | Detail view | Review |
+|---|---|---|---|
+| Reach begins | 00:00:12:12 | 00:00:31:18 | Compare direction and body relation |
+| First contact | 00:00:13:04 | 00:00:32:04 | Compare cup and hand state |
+| Grip secure | 00:00:13:08 | 00:00:32:08 | Avoid repeating the grip |
+| Cup leaves table | 00:00:13:15 | 00:00:32:15 | Avoid skipping the lift |
+| Carry begins | 00:00:14:05 | 00:00:33:02 | Return to geography before placement |
+
+The timecode illustration assumes an integer 25 fps timebase for notation only. The editor tests candidate boundaries and checks the action state; no universal offset is implied. The cup-contact event is used once, and room tone is checked across the cut.
+
+### 4.17 Practice and review evidence
+
+Create a continuous version and a version with a deliberate ellipsis. For each, submit the source inventory, action-state map, continuity matrix, candidate cut boundaries, sound plan and version rationale. If no footage or NLE is available, a paper edit is acceptable as a reasoning exercise but must not be described as executed playback or frame-accurate validation.
+
+A neutral reviewer may be asked: “What happened?”, “Did any action repeat or disappear?” and “Did a reaction seem out of order?” Record the exact response and the sample limitation. Do not coach the reviewer toward the intended answer.
+
 Edit a scene with a clear entrance, central action and exit. Make one continuous-time version and one version with a deliberate ellipsis. Use a J-cut or L-cut between two locations. Submit a continuity report identifying at least five checks and explaining any intentional discontinuity.
 
-### 4.8 Review questions
+### 4.18 Review questions
 
 1. Name six dimensions of continuity.
 2. What is an ellipsis?
@@ -2012,3 +2099,7 @@ This is a working manuscript. Software-specific steps must be added in separate 
 
 ### 2026-11-21 — Chapter 3 expansion
 Expanded Chapter 3 to align with CT-02 Lesson 03 revision 2.0. Added beat-led coverage mapping, shot-function trade-offs, observable performance notes, the weighted decision model and critical gates, selects traceability, reaction/insert integrity, a reproducible coverage review and a fictional decision trace. Examples are simulated; no media or editing application was operated. Tool-independent procedures only; independent academic and technical review remains pending.
+
+
+### 2026-11-22 — Chapter 4 and Lesson 04 expansion
+Expanded Chapter 4 with action-state/event-anchor analysis, match-on-action boundaries, overlap/handles, continuity matrices, performance and factual integrity, sound continuity, intentional discontinuity, a reproducible review procedure and a fictional paper example. Lesson 04 was expanded in place to revision 2.0 and linked to Workbook Section 24. All example timecodes and observations are simulated; no editing application, footage, audio mix, render or export was executed. Tool-independent procedures only; independent review and exact-version lab validation remain pending.
