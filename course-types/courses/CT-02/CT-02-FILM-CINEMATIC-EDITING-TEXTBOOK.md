@@ -470,6 +470,8 @@ Check that the audio bridge is semantically appropriate. A sound from the next s
 
 ### 4.7 Practice
 
+Edit a scene with a clear entrance, central action and exit. Make one continuous-time version and one version with a deliberate ellipsis. Use a J-cut or L-cut between two locations. Submit a continuity report identifying at least five checks and explaining any intentional discontinuity.
+
 ### 4.8 Action states and event anchors
 
 A continuity review becomes more reproducible when the editor describes the physical action as observable states rather than as a general intention. A useful phase model is preparation, initiation, travel, contact, manipulation or transfer, release, completion and reaction. Not every movement uses every phase. Select only the states that are visible or audible in the source.
