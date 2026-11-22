@@ -38,7 +38,7 @@
 | ID | Course | Outline | Lessons | Labs | Assessment | Capstone | Review | Status |
 |---|---|---|---|---|---|---|---|---|
 | CT-01 | Video Editing | Existing | 14 authored | 4 authored | 1 authored | Pack authored | Pending | Authored / review pending |
-| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 01–03, 05–10 expanded (Lesson 03 v2.0; Lesson 05 v1.2) | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
+| CT-02 | Film & Cinematic Editing | Existing | 10 authored; 01–10 expanded (Lesson 04 v2.0; Lesson 03 v2.0; Lesson 05 v1.2) | 4 authored | 1 authored | Brief authored | Pending | Authored / review pending |
 | CT-03 | Short-Form & Social Video Editing | Existing | 8 authored; 01–06 expanded | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-04 | Documentary & Interview Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
 | CT-05 | Commercial & Advertisement Editing | Existing | 8 authored | 2 authored | 1 authored | Brief authored | Pending | **Authored — review pending** |
@@ -259,3 +259,12 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Expanded textbook Chapter 3 in place with coverage-function theory, performance observation, evaluation model, traceability, reaction/insert integrity, reproducible review and practice. Updated the CT-02 index and this register; workbook inventory is now 23 sections.
 - All source IDs, ranges, scores and performance observations in the worked example are fictional teaching data. No NLE, footage, selects reel, timeline, export, viewer study or software operation was executed. Procedures remain tool-independent; exact software behavior requires a named version and independent verification.
 - CT-02 remains authored / review pending, not independently reviewed, technically validated or complete. Lesson 04 is the next concise academic lesson requiring expansion. Independent academic/editorial/accessibility/rights/privacy/technical review, exact-version software lab execution, authorized practice-media validation and learner assessment/capstone evidence remain outstanding.
+
+
+## 2026-11-22 CT-02 Lesson 04 academic expansion
+
+- Re-inspected the live branch, PR #1, CT-02 course index, Lesson 04 foundation draft, textbook Chapter 4, workbook Sections 1–23, shared academic lesson template and mandatory academic standard before editing. The branch existed, PR #1 was open and unmerged, and Lesson 04 was the next concise academic lesson after Lessons 01–03 and 05–10 had expanded treatment.
+- Expanded the existing `course-types/courses/CT-02/lessons/lesson-04-continuity-and-match-on-action.md` in place to revision 2.0. Added measurable outcomes, readiness check, multidimensional continuity theory, action-state/event-anchor model, source/timeline/story-time distinctions, overlap and cut-boundary reasoning, geography/performance/factual safeguards, sound continuity, intentional-discontinuity criteria, tool-independent workflow, fictional worked example, annotated dry run, guided/independent practice, troubleshooting, 16 answer-guided knowledge checks, 100-point rubric, remediation and layered QC.
+- Expanded textbook Chapter 4 and added Workbook Section 24, **Continuity Editing and Match on Action Evidence**. Existing Chapters 1–13 and Workbook Sections 1–23 were preserved. Updated the CT-02 index and reconciled this register.
+- Example source IDs, timecodes, observations and the 25 fps notation assumption are simulated teaching data. No NLE, footage, timeline, audio mix, render, export, viewer study or learner assessment was executed. Procedures are tool-independent; application/version behavior remains unverified.
+- CT-02 now has expanded academic treatment across all ten lessons, but remains **authored / review pending**, not independently reviewed, technically validated or complete. Outstanding gates: independent academic/editorial/accessibility/rights/privacy/technical review; exact-version software lab execution; authorized practice-media validation; and learner assessment/capstone evidence.
