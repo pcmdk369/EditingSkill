@@ -4,7 +4,7 @@
 **Course ID:** CT-02  
 **Owner:** PCMDK369™  
 **Contact:** support.pcmdkai@gmail.com  
-**Edition:** 1.1 — 2026-11-18; expanded working workbook
+**Edition:** 1.2 — 2026-11-22; expanded working workbook
 
 ---
 
@@ -1174,3 +1174,188 @@ Do not invent a shot, reaction, prop state or event to fill a gap. Record whethe
 - Decisions requiring director/client approval:
 - Evidence location:
 - Simulated, unexecuted or untested items:
+
+
+## 24. Continuity Editing and Match on Action Evidence
+
+Use this section for an executed edit or a clearly labeled paper-only simulation. Do not enter invented source timecodes, consent records, viewer results or technical measurements. Mark unknown values as unknown and identify the evidence source.
+
+### 24.1 Brief, authorization and project basis
+
+| Field | Record |
+|---|---|
+| Learner / reviewer / date | |
+| Project / scene ID | |
+| Intended audience understanding | |
+| Scene objective and action in observable language | |
+| Source media IDs and storage reference | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Restrictions on disclosure, editing or cloud processing | |
+| Editing application/version, if used | |
+| Operating system and project frame rate/timebase | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+| Original-media preservation location | |
+| Backup / rollback reference | |
+
+### 24.2 Source and angle inventory
+
+| Source ID | Camera / angle | Take | Source duration / range | Frame rate / timebase | Same take or separate take? | Handles | Metadata uncertainty |
+|---|---|---:|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Inventory reconciliation:
+- Total sources in scope:
+- Sources reviewed in full:
+- Sources not reviewed and reason:
+- Source identity/timecode uncertainties:
+- Missing coverage or pickup required:
+- Proxy/original relationship, if applicable:
+- Source authorization verified by / date:
+
+### 24.3 Action-state and event-anchor map
+
+Describe what is observable. Do not use inferred thoughts as frame-level anchors.
+
+| Action ID | Phase | Observable event anchor | Source ID / range | Source time basis | Confidence / uncertainty | Evidence note |
+|---|---|---|---|---|---|---|
+| | Preparation | | | | | |
+| | Initiation | | | | | |
+| | Travel | | | | | |
+| | Contact | | | | | |
+| | Manipulation / transfer | | | | | |
+| | Release | | | | | |
+| | Completion | | | | | |
+| | Reaction | | | | | |
+
+Remove phases that do not apply. Add action-specific states when necessary.
+
+### 24.4 Geography, direction and eyeline
+
+| Shot ID | Camera side / axis | Actor position / facing | Movement vector | Eyeline target | Object / set relationship | Re-establishing cue |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Scene axis reference:
+- Screen-direction convention:
+- Any axis crossing and how it is motivated/re-established:
+- Geography uncertainty / missing establishing view:
+
+### 24.5 Continuity matrix
+
+Use one row per proposed edit boundary. Mark not applicable only with a reason.
+
+| Boundary ID | Outgoing source / range | Incoming source / range | Story chronology | Spatial / axis | Action phase / direction | Performance / eyeline | Prop / wardrobe | Sound / sync | Decision / issue |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+
+### 24.6 Match-on-action candidate comparison
+
+| Candidate | Outgoing source / last frame | Incoming source / first frame | Event anchor | Action state before / after | Repeated or skipped movement? | Normal-speed result | Decision |
+|---|---|---|---|---|---|---|---|
+| A | | | | | | | |
+| B | | | | | | | |
+| C | | | | | | | |
+
+Selected boundary:
+- Reason for selection:
+- Rejected alternatives and reason:
+- Frame-step verification performed? ☐ Yes ☐ No ☐ Not applicable
+- Normal-speed playback performed? ☐ Yes ☐ No ☐ Not applicable
+- If not performed, state why and label the evidence as paper-only/unverified:
+
+### 24.7 Prop, wardrobe and performance checks
+
+| Source / boundary | Observable prop state | Body / hand / gaze state | Wardrobe state | Performance observation | Interpretation kept separate? | Defect / accepted limitation |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+Do not infer internal emotion or intention from a single gesture without supporting context. Record any reaction shot's source chronology and whether the person could perceive the triggering event.
+
+### 24.8 Sound-continuity and audio-bridge plan
+
+| Sound ID / source | Type (dialogue / production / room tone / effect / music) | Event ownership / rights | In / out / bridge point | J-cut / L-cut / continuous bed | Sync / duplication check | Approval / limitation |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Room-tone source and location:
+- Contact or handling event used once:
+- Any missing sound or replacement requirement:
+- Sound-only review performed? ☐ Yes ☐ No
+- Any sound that could imply an unsupported event/location:
+
+### 24.9 Intentional discontinuity and ellipsis record
+
+| Field | Record |
+|---|---|
+| Discontinuity type | ☐ Jump cut ☐ Ellipsis ☐ Fragmentation ☐ Other |
+| Intended audience effect | |
+| Narrative / formal reason | |
+| Cue that makes the discontinuity legible | |
+| Comprehension or factual risk | |
+| Continuous alternative considered | |
+| Source support / chronology check | |
+| Required approval and status | |
+| Decision / accepted limitation | |
+
+### 24.10 Neutral review and revision log
+
+Use neutral prompts such as “What happened?”, “Did any action repeat or disappear?” and “Did a reaction seem out of order?” Do not explain the intended answer before review.
+
+| Reviewer ID / date | Version shown | Unprompted description | Confusing boundary / exact words | Sample size / limitation | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+If no viewer/reviewer session occurred, record “not conducted.” A small convenience sample is formative feedback, not representative audience research.
+
+| Version | Boundary / issue | Change made | Rationale | Side effects checked | QC evidence | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+| v03 | | | | | | |
+
+### 24.11 Defect, retest and handoff checklist
+
+- [ ] Source media are authorized and originals preserved.
+- [ ] Source IDs, time basis, frame rate and uncertainty are recorded.
+- [ ] Action anchors are observable and source-supported.
+- [ ] Geography, axis, direction and eyelines are legible.
+- [ ] No essential action is accidentally repeated or skipped.
+- [ ] Prop, wardrobe and performance states are plausible.
+- [ ] Reaction chronology does not imply unsupported knowledge or causation.
+- [ ] Sound event ownership, sync, room tone and bridges are checked.
+- [ ] Intentional discontinuity has a stated purpose and cue.
+- [ ] Neighboring cuts and the complete sequence are rechecked after changes.
+- [ ] Rights, consent, privacy and accessibility checks are recorded.
+- [ ] Simulated, paper-only, unexecuted and unverified work is clearly labeled.
+
+| Defect ID | Severity / impact | Boundary / source | Correction | Retest performed / result | Accepted limitation / approval |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Handoff:
+- Selected version ID:
+- Project and media dependencies:
+- Application/version and project settings:
+- Unresolved issues:
+- Accepted compromises and approver:
+- Evidence location:
+- Restore/rollback reference:
+- Items not executed or not verified:
