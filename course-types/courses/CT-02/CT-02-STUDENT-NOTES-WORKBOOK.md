@@ -183,6 +183,65 @@ Use Workbook Section 19 for the full adjacent-shot map and chronology ledger. At
 - [ ] Source media and earlier versions remain recoverable.
 - [ ] Rights, music permissions, accessibility and any AI-assisted/altered assets are documented.
 
+### 8.8 Guided practice evidence
+
+Complete this record alongside Lesson 05's three guided exercises. Mark paper-only or simulated work explicitly.
+
+**Exercise A — Beat first, duration second**
+
+| Beat ID | Observable change | Source ID / range or simulated label | Shot function | Proposed cut / hold | What the audience needs to notice | Uncertainty / next check |
+|---|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+
+**Exercise B — Same-ASL timing comparison**
+
+| Version | Shot 1 | Shot 2 | Shot 3 | Shot 4 | Shot 5 | Shot 6 | Runtime | ASL | Shortest / longest |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| A (simulated: 1, 1, 2, 4, 4, 6 s) | 1 | 1 | 2 | 4 | 4 | 6 | 18 s | 3 s | 1 s / 6 s |
+| B (simulated: 3, 3, 3, 3, 3, 3 s) | 3 | 3 | 3 | 3 | 3 | 3 | 18 s | 3 s | 3 s / 3 s |
+| Learner version | | | | | | | | | |
+
+- What does ASL reveal?
+- What does the duration distribution reveal that ASL hides?
+- Which beat receives more or less audience processing time?
+- What evidence is still required before choosing a preferred version?
+
+**Exercise C — Six-shot montage adjacency audit**
+
+| Shot order | Source ID / range or simulated label | Visible action / information | Shot function | Relationship to previous shot | Implied chronology / cause / simultaneity | Supported, unknown or revised |
+|---:|---|---|---|---|---|---|
+| 1 | | | | Opening context | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+**Peer review or limitation record**
+
+| Field | Record |
+|---|---|
+| Reviewer ID / date | |
+| Version shown | |
+| Neutral prompt used | |
+| Uncoached response | |
+| Confusing or rushed moment | |
+| Revision decision | |
+| If no review occurred, state “not conducted” | |
+
+**Guided-practice completion criteria**
+- [ ] Beat boundaries are supported by observable action, information or performance.
+- [ ] Both simulated or measured ASL calculations use the same stated runtime and shot-count basis.
+- [ ] The learner explains duration distribution and internal rhythm, not only the average.
+- [ ] Every montage adjacency has a stated relationship.
+- [ ] Unsupported chronology, simultaneity or causality is marked unknown or removed.
+- [ ] Peer feedback is genuine and uncoached, or review is marked not conducted.
+- [ ] Simulated and paper-only records are not represented as executed media tests.
+
 ## 9. Multicamera sync record
 
 | Source | Camera/audio ID | Frame rate/sample rate | Sync method | Start check | Midpoint check | End check | Drift/action |
