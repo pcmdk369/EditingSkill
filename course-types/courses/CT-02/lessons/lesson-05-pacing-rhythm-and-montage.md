@@ -23,6 +23,36 @@ By the end of this lesson, learners can:
 
 **Minimum evidence for assessment:** a beat map with at least five beats; two identifiable timing versions; a per-shot duration log and ASL/duration-distribution calculation for both versions; at least three documented timing changes; a montage relationship map with six or more shots where montage is used; and a neutral viewer-test record. If fewer than two unbriefed viewers are available, label the limitation and use a peer review without presenting it as audience validation. A small viewer sample is formative evidence, not a statistically representative study.
 
+## Prerequisites and readiness check
+
+### Required prior knowledge
+
+Learners should be able to:
+
+- identify a scene objective, obstacle, dramatic beat and consequence (Lesson 01);
+- describe screen direction, scene geography and eyeline relationships (Lesson 02);
+- distinguish shot function, performance evidence and usable coverage (Lesson 03);
+- review action continuity, source chronology and match-on-action boundaries (Lesson 04);
+- navigate a basic timeline, select source ranges, make reversible edits and play a sequence at normal speed.
+
+A learner who has not yet edited in an NLE may complete the first guided exercise as a paper edit. The learner must label the work **paper-only** and must not claim playback, frame-level or viewer-test verification that did not occur.
+
+### Materials and access gate
+
+Before practice, confirm that the footage is learner-created or authorized for the intended exercise, that original media is preserved, and that any music/effects are licensed or replaced with silence/rights-cleared alternatives. If no suitable footage is available, use the fictional timing examples in this lesson as simulated data and identify them as such.
+
+### Readiness check
+
+Answer each prompt in one or two sentences before proceeding:
+
+1. What dramatic change does the sequence need the audience to notice?
+2. Which source range shows the action, reaction or information that supports that change?
+3. What is the sequence boundary and shot-count convention for a timing comparison?
+4. Can you distinguish an intentional hold from unused or inactive time?
+5. What chronology, simultaneity or causality claim could the proposed montage imply?
+
+**Ready-to-proceed criterion:** all five prompts have an evidence-based answer, or the learner has recorded a specific uncertainty and a plan to resolve it. Revisit Lessons 01–04 when the uncertainty concerns beat identification, geography, coverage or continuity rather than timing itself.
+
 ## Key definitions and terminology
 
 | Term | Definition | Context/example |
@@ -471,6 +501,62 @@ The examples are simulated. Replace them with source IDs and evidence from the l
 - The learner can identify how the change affects suspense, clarity or emotional response.
 - No continuity or rights issue is introduced.
 
+## Guided practice
+
+Complete these exercises in order. They are designed for approximately 65–80 minutes in total. Use authorized footage where available; otherwise work from the explicitly simulated timing data and mark every result as paper-only. The matching evidence fields are in [Workbook Section 8 — Pacing Comparison and Timing Evidence](../CT-02-STUDENT-NOTES-WORKBOOK.md#8-pacing-comparison) and [Section 19 — Montage, Crosscutting and Rhythm Map](../CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map).
+
+### Exercise A — Beat first, duration second (20–25 minutes)
+
+**Input:** a 30–60 second dialogue or action passage with at least three observable changes, or a fictional paper-edit example.
+
+1. Write the audience-facing question or objective in one sentence.
+2. Mark at least five beats or, for a shorter exercise, three clearly distinct changes.
+3. For each beat, identify the source range, shot function, performance/action information and the moment the audience can understand the change.
+4. Propose a cut or hold point. State what information would be lost if the shot ended earlier.
+5. Mark one point where the edit should wait for a reaction, consequence or audience inference.
+
+**Instructor prompts:** “What changed?”, “What evidence proves that change?”, “What does the next shot add?”, and “What would the audience miss if we cut now?”
+
+**Success criteria:** each proposed boundary is linked to a beat or a stated visual/sound relationship; no duration is justified only by “it feels faster”; source identity and uncertainty are recorded.
+
+### Exercise B — Same ASL, different rhythm (20–25 minutes)
+
+Use the following **simulated** 18-second, six-shot timing patterns:
+
+- Version A: 1, 1, 2, 4, 4 and 6 seconds.
+- Version B: 3, 3, 3, 3, 3 and 3 seconds.
+
+1. Calculate the ASL of each version and confirm the total runtime and shot count.
+2. Identify the shortest and longest shot in each version.
+3. Draw or tabulate the duration distribution.
+4. Assign the six shots to a simple dramatic progression (setup, development, turn, consequence, for example).
+5. Explain where anticipation, processing time and release occur in each version.
+6. State what additional evidence would be needed before claiming that one version is more effective.
+
+**Instructor prompts:** “Which beat receives the longest time?”, “Does the average reveal that?”, “What happens inside the shots?”, and “Are the two versions otherwise controlled?”
+
+**Success criteria:** both ASL calculations are correct; the learner explains why equal averages do not mean equal rhythm; the comparison identifies at least one dramatic benefit and one clarity risk for each pattern.
+
+### Exercise C — Build a six-shot montage with an inference audit (25–30 minutes)
+
+**Input:** six authorized images/shots from one process or a clearly labeled fictional sequence.
+
+1. Write the idea or progression the montage must communicate.
+2. For each shot, record source ID/range, visible action and editorial function.
+3. For each of the five adjacent-shot pairs, write the relationship (for example, repetition, contrast, cause-and-effect, thematic association or process progression).
+4. Record whether the sequence implies chronology, elapsed time, simultaneity, causation or motive.
+5. Check each implication against source evidence. Mark unknown when evidence is absent.
+6. Reorder or replace any pair whose relationship is unclear or misleading.
+7. Write a neutral review prompt that does not reveal the intended interpretation.
+
+**Instructor prompts:** “What does shot B make the viewer infer about shot A?”, “Is that inference supported?”, and “Could the same images imply a different relationship in another order?”
+
+**Success criteria:** all six shots have a documented function; all five adjacencies have a stated relationship; unsupported chronology or causality is removed, qualified or explicitly disclosed.
+
+### Guided review checkpoint
+
+Exchange the paper edit or sequence with a peer. Ask only: “What changed?”, “Which moment was clearest?”, and “Where did you feel rushed, delayed or confused?” Record the uncoached response before discussing the intention. If no peer review occurs, write **not conducted**; do not substitute an invented response.
+
 ## Independent assignment — Narrative pacing study and montage
 
 **Brief:** Edit a 60–90 second sequence from original or licensed footage. It may be a fictional scene or a clearly labeled process sequence. The work must have a specific audience-facing objective and at least five identifiable beats or stages.
@@ -603,12 +689,12 @@ The examples are simulated. Replace them with source IDs and evidence from the l
 
 ## Version and change notes
 
-- **Lesson version:** 1.2
-- **Review date:** 2026-11-20
+- **Lesson version:** 1.3
+- **Review date:** 2026-11-23
 - **Software scope:** Tool-independent. No unverified menu names, shortcuts, proprietary features or version-specific claims are included.
 - **Frame/time calculations:** Examples use seconds and frame-rate-independent durations unless a frame-rate example is explicitly stated.
 - **Known limitation:** The sample durations are illustrative teaching data, not prescriptions for all scenes or genres.
 - **Next course sequence:** CT-02 Lesson 06 — Multicamera Editing and Synchronization; Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; Lesson 09 — AI-Assisted Editing and Editorial Automation; Lesson 10 — Professional Practice, Client Review and Archive.
 - **1.1 — 2026-11-18:** Linked the dedicated workbook Section 19 montage/crosscutting/rhythm map to the tools, independent assignment and references; clarified the remaining CT-02 lesson sequence.
-- **1.2 — 2026-11-20:** Added explicit evidence thresholds for beat mapping and version comparison; a reproducible timing-measurement protocol; a same-ASL/different-distribution worked example; a beat-to-duration decision trace; a neutral viewer-comprehension protocol with sample limitations; a montage adjacency/inference audit; four additional answer-guided knowledge checks; and expanded QC. Linked the expanded Workbook Section 8 pacing evidence record. Examples remain simulated; no NLE, media asset, viewer study or export was executed.
+- **1.3 — 2026-11-23:** Added an explicit prerequisite/readiness check and three scaffolded guided exercises covering beat-to-duration decisions, same-ASL/different-distribution comparison and six-shot montage inference auditing. Added peer-review limits and links to the existing workbook evidence records. Procedures remain tool-independent; all timing patterns are simulated unless replaced with authorized measured footage. No NLE, viewer study or export was executed.\n- **1.2 — 2026-11-20:** Added explicit evidence thresholds for beat mapping and version comparison; a reproducible timing-measurement protocol; a same-ASL/different-distribution worked example; a beat-to-duration decision trace; a neutral viewer-comprehension protocol with sample limitations; a montage adjacency/inference audit; four additional answer-guided knowledge checks; and expanded QC. Linked the expanded Workbook Section 8 pacing evidence record. Examples remain simulated; no NLE, media asset, viewer study or export was executed.
 - **Change policy:** Update this lesson when the textbook, workbook, assessment criteria or verified software implementation requirements materially change.
