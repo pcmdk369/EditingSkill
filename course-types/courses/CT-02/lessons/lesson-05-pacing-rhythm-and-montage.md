@@ -413,6 +413,39 @@ Version B is shorter, but it is not automatically better. If the audience needs 
 
 **Expected output:** two clearly labeled versions, a timing comparison, and a short explanation of the selected version's dramatic effect.
 
+## Worked example — A commuter discovers an envelope is missing
+
+**Brief/input (fictional training data):** Build a 45-second continuous-time scene in which a commuter on a station platform realizes an envelope is missing, searches briefly, notices the departing train and decides to turn back. The intended audience change is from routine travel to a clear decision under time pressure. All source IDs, source ranges and durations below are simulated; they are not footage measurements.
+
+**Available source material (simulated):** eight authorized-for-exercise source clips are assumed. The learner must not treat these example IDs as actual media files.
+
+| Source ID | Available picture / sound | Selected source range (relative seconds) | Selected duration | Beat / function |
+|---|---|---:|---:|---|
+| P01 | Wide platform; train approaches in background | 0–5 | 5 s | Establish location and routine |
+| P02 | Medium shot; commuter checks coat pocket | 2–6 | 4 s | Initiate search |
+| P03 | Insert; empty pocket and hand pause | 0–3 | 3 s | Reveal the missing item |
+| P04 | Commuter scans platform and bench | 1–8 | 7 s | Search and build uncertainty |
+| P05 | Train warning light / door signal | 2–6 | 4 s | Introduce a time constraint |
+| P06 | Close reaction; gaze shifts from train to route back | 3–11 | 8 s | Allow recognition and decision to register |
+| P07 | Commuter turns and begins moving back | 0–6 | 6 s | Show the decision as action |
+| P08 | Wide view; train departs as commuter exits in the opposite direction | 2–10 | 8 s | Resolve the immediate choice while leaving the envelope's location unknown |
+
+**Decision process:**
+
+1. Keep P01 long enough to establish the platform and the approaching train; do not shorten it solely to increase cutting rate.
+2. Use P02 to show the search beginning, then P03 to make the missing envelope legible. P03 is short because its information is visually simple, not because every insert should be short.
+3. Let P04 contain the search rather than adding several redundant views of the same scan.
+4. P05 changes the audience's understanding by making the train's departure relevant. Its function is informational, not merely a beat for music.
+5. Hold P06 for the observable gaze change and decision. Cutting on the first movement would risk removing the moment the audience understands why the commuter turns back.
+6. Cut to P07 when the turn begins only if the source action supports a readable continuation. If the movement does not match, use a wider view or a different boundary rather than hiding the discontinuity.
+7. Use P08 as the consequence. The sequence ends with the decision to return; it does not claim the envelope is found.
+
+**Measurement check:** 5 + 4 + 3 + 7 + 4 + 8 + 6 + 8 = **45 seconds**. With eight shots, ASL = 45 ÷ 8 = **5.625 seconds per shot**. The shortest selected shot is 3 seconds and the longest is 8 seconds. These values describe this simulated edit only; they are not target durations.
+
+**Expected output:** a 45-second paper edit or timeline plan with eight source-linked shots, a beat-to-duration rationale, one deliberate performance hold, an action-continuity check between P06 and P07, and a final shot that communicates the decision without inventing the envelope's fate. A viewer test, playback check or frame-accurate match must be recorded as **not conducted** unless it is actually performed.
+
+**Alternative decision:** If the intended scene is suspense rather than a clear decision, the editor may hold the search longer or delay the train cue. That is a different hypothesis and should be documented as a separate version; do not present it as a universally better pace.
+
 ## Dry run / annotated walkthrough — A 30-second process montage
 
 **Brief:** Communicate that a character repairs a damaged bicycle and is ready to ride. Use only real, permitted footage. Do not create a false claim about the time or difficulty of the repair.
@@ -689,12 +722,12 @@ Exchange the paper edit or sequence with a peer. Ask only: “What changed?”, 
 
 ## Version and change notes
 
-- **Lesson version:** 1.3
+- **Lesson version:** 1.4
 - **Review date:** 2026-11-23
 - **Software scope:** Tool-independent. No unverified menu names, shortcuts, proprietary features or version-specific claims are included.
 - **Frame/time calculations:** Examples use seconds and frame-rate-independent durations unless a frame-rate example is explicitly stated.
 - **Known limitation:** The sample durations are illustrative teaching data, not prescriptions for all scenes or genres.
 - **Next course sequence:** CT-02 Lesson 06 — Multicamera Editing and Synchronization; Lesson 07 — Assembly, Rough Cut, Fine Cut and Picture Lock; Lesson 08 — Finishing, Delivery and Quality Control; Lesson 09 — AI-Assisted Editing and Editorial Automation; Lesson 10 — Professional Practice, Client Review and Archive.
 - **1.1 — 2026-11-18:** Linked the dedicated workbook Section 19 montage/crosscutting/rhythm map to the tools, independent assignment and references; clarified the remaining CT-02 lesson sequence.
-- **1.3 — 2026-11-23:** Added an explicit prerequisite/readiness check and three scaffolded guided exercises covering beat-to-duration decisions, same-ASL/different-distribution comparison and six-shot montage inference auditing. Added peer-review limits and links to the existing workbook evidence records. Procedures remain tool-independent; all timing patterns are simulated unless replaced with authorized measured footage. No NLE, viewer study or export was executed.\n- **1.2 — 2026-11-20:** Added explicit evidence thresholds for beat mapping and version comparison; a reproducible timing-measurement protocol; a same-ASL/different-distribution worked example; a beat-to-duration decision trace; a neutral viewer-comprehension protocol with sample limitations; a montage adjacency/inference audit; four additional answer-guided knowledge checks; and expanded QC. Linked the expanded Workbook Section 8 pacing evidence record. Examples remain simulated; no NLE, media asset, viewer study or export was executed.
+- **1.4 — 2026-11-23:** Added a complete, source-traceable fictional worked example with eight shot functions, selected source ranges, beat decisions, a 45-second duration calculation, ASL and expected output. The example is explicitly simulated and does not claim footage playback or viewer validation.\n- **1.3 — 2026-11-23:** Added an explicit prerequisite/readiness check and three scaffolded guided exercises covering beat-to-duration decisions, same-ASL/different-distribution comparison and six-shot montage inference auditing. Added peer-review limits and links to the existing workbook evidence records. Procedures remain tool-independent; all timing patterns are simulated unless replaced with authorized measured footage. No NLE, viewer study or export was executed.\n- **1.2 — 2026-11-20:** Added explicit evidence thresholds for beat mapping and version comparison; a reproducible timing-measurement protocol; a same-ASL/different-distribution worked example; a beat-to-duration decision trace; a neutral viewer-comprehension protocol with sample limitations; a montage adjacency/inference audit; four additional answer-guided knowledge checks; and expanded QC. Linked the expanded Workbook Section 8 pacing evidence record. Examples remain simulated; no NLE, media asset, viewer study or export was executed.
 - **Change policy:** Update this lesson when the textbook, workbook, assessment criteria or verified software implementation requirements materially change.
