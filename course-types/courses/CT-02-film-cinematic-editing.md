@@ -39,6 +39,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 ## Primary learning resources
 - [CT-02 Film & Cinematic Editing — Academic Textbook](CT-02/CT-02-FILM-CINEMATIC-EDITING-TEXTBOOK.md)
 - [CT-02 Student Notes & Practical Workbook](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md)
+- [Workbook Section 9 — Multicamera Sync Record](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#9-multicamera-sync-record)
 - [Workbook Section 8 — Pacing Comparison and Timing Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#8-pacing-comparison)
 - [Workbook Section 19 — Montage, Crosscutting and Rhythm Map](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#19-montage-crosscutting-and-rhythm-map)
 - [Workbook Section 20 — Dramatic Beats and Paper Edit Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence)
@@ -51,7 +52,7 @@ The textbook and workbook are the primary learner resources. External references
 ## Practical implementation labs
 1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md)
 2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md)
-3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md)
+3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md) — expanded to revision 2.0 on 2026-11-24; tool-independent and not software-tested
 4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md)
 
 
@@ -75,7 +76,15 @@ Lessons 01–10 have authored lesson files. Lessons 01–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (24 sections), ten lesson files (Lessons 01–10 expanded academic lessons), four practical labs, one knowledge assessment and one narrative-scene capstone brief.** CT-02 is content-authored at the planned lesson sequence level, but is not yet reviewed, technically validated or complete. Software-specific implementation and execution, real practice media/project validation, independent academic/editorial/accessibility/rights review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (24 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Lab 03 was expanded to professional-lab revision 2.0 on 2026-11-24 and remains unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
+
+
+## Practical lab development record — 2026-11-24
+
+- Expanded the existing [Lab 03 — Multicamera Synchronization, Drift Diagnosis and Editorial Assembly](CT-02/labs/lab-03-multicamera-sync-and-edit.md) in place to revision 2.0 using the professional lab template and repository academic standard.
+- Added a professional brief and acceptance criteria, measurable objectives, environment/version record, source-rights and privacy controls, project architecture, synchronization-reference decision process, explicit offset sign convention, start/middle/end verification, drift-rate calculation, correction/rollback/retest, audio routing, editorial angle decisions, worked simulated example, annotated dry run, guided and independent practice, validation tests, troubleshooting, portability, 100-point rubric and handoff evidence.
+- Expanded Workbook Section 9 with source inventory, sync method, three-point measurements, drift calculation, correction log, audio routing, angle decisions, QC and handoff records. Added quantitative drift guidance and Lab 03 evidence mapping to textbook Chapter 7.
+- The lab is tool-independent. No NLE, media synchronization, timeline edit, export, project reopen or real-media validation was executed. Example values are simulated. CT-02 remains authored / review pending.
 
 
 ## PCMDK369™ academic and professional development requirements
