@@ -250,6 +250,165 @@ Complete this record alongside Lesson 05's three guided exercises. Mark paper-on
 | B | | | | | | | |
 | Audio | | | | | | | |
 
+### 9.1 Project and authorization basis
+
+| Field | Learner record |
+|---|---|
+| Project / scene ID | |
+| Intended use and audience | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Confidential or personal information present? | |
+| Cloud processing permitted? | |
+| Original-media preservation location | |
+| Learner / operator / date | |
+| Evidence status: executed / simulated / paper-only | |
+
+### 9.2 Source inventory
+
+Retain original filenames. Give each continuous recording segment its own source ID.
+
+| Source ID | Original filename | Device / role | Duration | Frame rate / timebase | Audio format / channels | Timecode basis | Restart / gap / VFR note | Rights status |
+|---|---|---|---|---|---|---|---|---|
+| CAM-A-001 | | | | | | | | |
+| CAM-B-001 | | | | | | | | |
+| AUD-REC-001 | | | | | | | | |
+| Additional segment | | | | | | | | |
+
+Metadata source for each value: file metadata / camera report / slate / operator note / assumption / unknown.
+
+### 9.3 Synchronization decision
+
+| Question | Learner record |
+|---|---|
+| Source pair or group being synchronized | |
+| Chosen reference: verified timecode / slate-clap / waveform / visual event / manual estimate | |
+| Reference event and source range | |
+| Why this reference is suitable | |
+| Evidence location | |
+| Known limitations / ambiguity | |
+| Measurement precision | |
+| Initial alignment version or record ID | |
+
+### 9.4 Three-point event measurements
+
+Use the same physical event in each source. State the timebase. Relative offset is Source B event time minus Source A event time; positive means Source B is later.
+
+| Source A / Source B | Checkpoint | Event ID / description | Elapsed time (s) | Source A time | Source B time | Relative offset (frames or ms) | Confidence / notes |
+|---|---|---|---:|---|---|---:|---|
+| | Start | | | | | | |
+| | Middle | | | | | | |
+| | End | | | | | | |
+| | Additional / boundary | | | | | | |
+
+For a source with a stop/restart or split file, create a separate measurement set for each continuous segment. Do not interpolate across an unrecorded gap.
+
+### 9.5 Drift calculation and classification
+
+| Calculation field | Learner record |
+|---|---|
+| Start relative offset | |
+| End relative offset | |
+| Change in relative offset | |
+| Elapsed interval between checkpoints (s) | |
+| Drift rate = offset change ÷ elapsed interval | |
+| Approximate drift rate in ppm, if supported | |
+| Frame/timebase conversion used | |
+| Measurement uncertainty / additional checks needed | |
+| Classification: fixed offset / progressive drift / discontinuity / inconclusive | |
+| Diagnostic evidence and next action | |
+
+When frame counts are used, convert them to seconds using the verified timebase. Do not compare raw frame counts from different frame rates. A three-point estimate is not proof of perfectly linear drift.
+
+**Simulated calculation reference:** At a verified 25 fps, 0-frame offset at start, +2 frames at 12 minutes and +6 frames at 24 minutes represents a change of 0.24 seconds over 1,440 seconds, or approximately 167 ppm. This is fictional teaching data, not a universal correction value.
+
+### 9.6 Correction, rollback and retest log
+
+| Version | Observed issue | Evidence / diagnosis | Proposed action | Source / segment affected | Approval / decision owner | Retest at start/middle/end | Result / rollback |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+Preserve the pre-correction project. Record a no-change decision when the evidence is insufficient. Do not apply an unexplained speed change or resampling operation.
+
+### 9.7 Audio routing and source decision
+
+| Source / track | Role | Channels used | Quality observations | Sync / phase check | Decision: master / scratch / ambience / unused | Reason |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Intended dialogue/master source:
+- Camera scratch audio retained for reference?:
+- Duplicate audio/echo check:
+- Channel routing verified?:
+- Missing or uncertain audio:
+- Required isolated tracks or handoff notes:
+
+### 9.8 Editorial angle and continuity decision log
+
+| Sequence order / timeline reference | Source ID / source range | Angle / shot size | Dramatic beat or information function | Performance / reaction chronology | Geography / eyeline / screen direction | Audio source during cut | Decision rationale |
+|---:|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Do not use a reaction shot to imply an event or response that the source chronology does not support. Angle changes should clarify performance, information or geography.
+
+### 9.9 Validation and QC evidence
+
+| Test | Status: pass / fail / not tested / N/A | Evidence reference | Defect / limitation | Retest result |
+|---|---|---|---|---|
+| Source IDs map to original filenames | | | | |
+| Rights and consent checked | | | | |
+| Common sync event verified | | | | |
+| Start/middle/end measurements completed | | | | |
+| Restarts and discontinuities inspected | | | | |
+| Correction retested or no-change justified | | | | |
+| Intended audio source verified | | | | |
+| No unintended duplicate audio | | | | |
+| Angle changes preserve geography and chronology | | | | |
+| Project reopened in current environment | | | | |
+| Separate-location portability test, if claimed | | | | |
+| Actual review export inspected, if created | | | | |
+
+### 9.10 Project manifest and handoff
+
+| Relative path / filename | Asset type | Source ID / version | Required to reopen? | Rights / restriction note | Verified present? |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+- Application / edition / version or paper-only:
+- Operating system:
+- Project version / sequence ID:
+- Proxy relationships and relink instructions:
+- Plugins / fonts / LUTs / external assets:
+- Review export and written specification:
+- Known sync or media limitations:
+- Approval status and decision owner:
+- Restore/portability test: passed / failed / not tested:
+- Evidence folder or handoff location:
+
+### 9.11 Completion and evidence-integrity check
+
+- [ ] Every source and segment has a stable ID.
+- [ ] Original filenames and rights status are retained.
+- [ ] Sync method and reference event are documented.
+- [ ] Timebase, offset sign and measurement precision are stated.
+- [ ] Start, middle and end evidence is present for each continuous segment.
+- [ ] Drift, offset and discontinuity are not conflated.
+- [ ] Corrections are versioned, reversible and retested.
+- [ ] Audio and angle decisions have an editorial rationale.
+- [ ] Simulated, paper-only, executed and not-tested evidence is clearly distinguished.
+- [ ] No fabricated screenshot, timecode, metadata, approval or playback result is included.
+- [ ] Handoff dependencies and limitations are clear.
+
+
+
 ## 10. Edit version log
 
 | Version | Date | Editor | Changes made | Reason/source of note | Approval/status |
