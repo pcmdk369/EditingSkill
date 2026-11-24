@@ -1104,7 +1104,59 @@ Before an angle change, check eyelines, screen direction, action continuity, aud
 **Chapter 7 QC:** [ ] Originals inventoried and protected. [ ] Timebase and source assumptions documented. [ ] Sync reference identified. [ ] Start/middle/end verified. [ ] Restarts and discontinuities checked. [ ] Audio routing inspected. [ ] Camera labels consistent. [ ] Editorial changes preserve performance and geography. [ ] Handoff evidence saved.
 
 
-## Chapter 8 — From Assembly to Rough Cut and Fine Cut
+## ### 7.14 Quantitative offset and drift evidence
+
+A synchronization report becomes reproducible when it states how an offset was measured, which source is the reference, what sign convention is used and how the result was converted to time.
+
+Use one sign convention consistently:
+
+**Relative offset = event time in Source B − event time in Source A.**
+
+A positive value means the same event appears later in Source B. A negative value means it appears earlier. Record the measurement precision and whether the result is expressed in frames or milliseconds.
+
+For start and end checkpoints:
+
+- **Offset change** = end relative offset − start relative offset.
+- **Elapsed interval** = elapsed end time − elapsed start time.
+- **Average drift rate** = offset change ÷ elapsed interval.
+- **Approximate ppm** = average drift rate × 1,000,000.
+
+When both sources share a verified frame rate, convert frame difference to seconds using that rate. If frame rates or timebases differ, compare elapsed seconds; do not compare raw frame counts as if they had equal duration.
+
+**Worked calculation — simulated teaching data:** Assume a verified 25 fps common timebase and a 24-minute recording. Camera B is aligned at the start, is 2 frames later at 12 minutes and 6 frames later at 24 minutes.
+
+| Checkpoint | Elapsed time | Relative offset | Seconds |
+|---|---:|---:|---:|
+| Start | 0 s | 0 frames | 0.000 s |
+| Midpoint | 720 s | +2 frames | +0.080 s |
+| End | 1,440 s | +6 frames | +0.240 s |
+
+The average change from start to end is 0.240 ÷ 1,440 = 0.0001667 seconds per second, or approximately 167 ppm.
+
+The midpoint matters. The first 12 minutes changed by 0.080 seconds, while the next 12 minutes changed by 0.160 seconds. These values do not describe a perfectly constant drift rate. The overall ppm value is only an average across the full interval; it does not justify applying a universal rate correction. Add intermediate measurements, inspect the source and check for a restart, timebase interpretation or other discontinuity before deciding on a correction.
+
+**Measurement limitations:** A frame-only comparison is quantized by the frame interval. A waveform peak may be ambiguous when microphones capture different perspectives or room reflections. A visual action may span multiple frames. Record uncertainty and seek another reference when the evidence does not support a precise conclusion.
+
+### 7.15 Lab 03 evidence and acceptance mapping
+
+Use [Lab 03 — Multicamera Synchronization, Drift Diagnosis and Editorial Assembly](labs/lab-03-multicamera-sync-and-edit.md) with [Workbook Section 9 — Multicamera Sync Record](CT-02-STUDENT-NOTES-WORKBOOK.md#9-multicamera-sync-record).
+
+The learner's evidence should connect each technical claim to a source:
+
+| Claim | Minimum evidence |
+|---|---|
+| The source group is identified | Stable camera/recorder IDs and original filenames |
+| The chosen sync method is appropriate | Reference event, source locations and method limitations |
+| Initial alignment is valid | A common event observed in each source |
+| Offset or drift is diagnosed | Start, middle and end measurements on a stated timebase |
+| A correction is safe | Before/after version, rationale and repeated measurements |
+| Audio is intentional | Master-source and channel-routing record plus listening check |
+| The edit is editorially justified | Angle decisions tied to performance, beat, geography or information |
+| The project is portable | Separate-location reopen evidence, or an explicit not-tested status |
+
+A paper worksheet can demonstrate analysis and calculation but cannot prove that a multicamera source was created, media played in sync, an export was rendered or a project was reopened. Mark every item as executed, simulated, paper-only, not tested or not applicable. Do not convert an expected result into an actual result.
+
+Chapter 8 — From Assembly to Rough Cut and Fine Cut
 
 ### 8.1 Editorial stages
 
