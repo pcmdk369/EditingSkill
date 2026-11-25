@@ -1577,3 +1577,270 @@ Handoff:
 - Evidence location:
 - Restore/rollback reference:
 - Items not executed or not verified:
+
+
+---
+
+## 25. Picture Lock, Finishing and Quality-Control Evidence
+
+Use this section with Lab 04 and textbook Chapter 10. Record actual observations only after performing the relevant check. If an exercise is paper-only, simulated, unavailable or not run, label it explicitly. Do not invent approvals, metadata, screenshots, checksums, playback or transfer evidence.
+
+### 25.1 Project, brief and environment
+
+| Field | Record |
+|---|---|
+| Learner / reviewer / date | |
+| Project / scene ID | |
+| Client / exercise / recipient | |
+| Delivery purpose / platform / territory | |
+| Specification issuer / revision / date | |
+| Work type | ☐ Executed ☐ Paper-only ☐ Simulated |
+| NLE / edition / version | |
+| Operating system / hardware | |
+| Player / version | |
+| Metadata, audio, caption or checksum tools / versions | |
+| Source preservation location | |
+| Backup / rollback reference | |
+
+### 25.2 Delivery specification matrix
+
+Create one row for every required field. Copy values from the authoritative brief; do not substitute assumed defaults.
+
+| Requirement ID | Field | Exact value / tolerance | Source clause / revision | Verification method | Owner | Status / evidence |
+|---|---|---|---|---|---|---|
+| | Container | | | | | |
+| | Video codec/profile | | | | | |
+| | Dimensions / aspect ratio | | | | | |
+| | Frame rate / scan mode / timebase | | | | | |
+| | Duration / tolerance | | | | | |
+| | Color properties / range | | | | | |
+| | Audio codec / sample rate / channels | | | | | |
+| | Loudness / peak requirement, if specified | | | | | |
+| | Caption format / language | | | | | |
+| | Naming / version / variant | | | | | |
+| | File size / transfer / access | | | | | |
+| | Other contractual requirement | | | | | |
+
+Specification readiness:
+- Contradictory or missing requirements:
+- Clarification requested from / date:
+- Response / revised specification:
+- Provisional exercise assumptions, if any:
+- Approved by / date:
+
+### 25.3 Source, dependency and rights inventory
+
+| Asset ID | Type | File / source identity | Owner / license / consent | Restrictions / cloud-processing rule | Required for delivery? | Included / relink / excluded |
+|---|---|---|---|---|---|---|
+| | Picture | | | | | |
+| | Dialogue / production sound | | | | | |
+| | Music / effects | | | | | |
+| | Graphics / logo / font | | | | | |
+| | Caption / transcript | | | | | |
+| | LUT / plugin / template | | | | | |
+
+- Originals preserved at:
+- Proxy/original mapping:
+- Missing or restricted dependency:
+- Rights reviewer / date:
+- Unauthorized or uncertain asset hold:
+
+### 25.4 Picture-lock and approval record
+
+| Field | Record |
+|---|---|
+| Project / scene | |
+| Sequence ID | |
+| Version ID | |
+| Sequence frame rate / timebase | |
+| Dimensions / audio layout | |
+| Duration | |
+| Approval authority and role | |
+| Approval date/time and method | |
+| Exact reference file or location | |
+| Open issues / accepted exceptions | |
+| Lock protection / backup method | |
+
+Lock decision: ☐ Approved for finishing ☐ Conditional ☐ Hold  
+Conditions, owner and due date:
+
+### 25.5 Post-lock change request and impact log
+
+| Request ID | Requester / date | Locked version / timecode | Reason / proposed change | Approval authority / decision | Affected departments / outputs | New version ID | Regression checks |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Downstream impact checklist:
+- [ ] Conform / source relink
+- [ ] Sound mix / dialogue / effects
+- [ ] Music timing / cue sheet
+- [ ] VFX / graphics / titles / credits
+- [ ] Color / reframing / effects
+- [ ] Captions / subtitles / localization
+- [ ] Runtime / derivatives / alternate versions
+- [ ] Delivery schedule / approval / archive
+
+### 25.6 Conform and turnover verification
+
+| Check | Reference | Observed result | Discrepancy / risk | Decision / owner | Evidence |
+|---|---|---|---|---|---|
+| Sequence/version identity | | | | | |
+| Source ID / reel / clip names | | | | | |
+| Proxy/original mapping | | | | | |
+| Frame rate / timebase / dimensions | | | | | |
+| Edit points / handles / transitions | | | | | |
+| Speed changes / reframes / effects | | | | | |
+| Audio links / sync | | | | | |
+| Fonts / graphics / LUTs / plugins | | | | | |
+| Beginning / middle / end reference comparison | | | | | |
+| High-risk edits / VFX / titles | | | | | |
+
+Conform status: ☐ Pass ☐ Fail ☐ Conditional ☐ Not Run  
+Unresolved differences and approval:
+
+### 25.7 Finishing-pass evidence
+
+| Pass | Requirement / focus | Method / tool and version | Result | Timecode / evidence location | Reviewer / date |
+|---|---|---|---|---|---|
+| Editorial | Version, order, gaps, duplicate shots, runtime | | | | |
+| Picture | Focus, exposure, color, crop, scaling, artifacts | | | | |
+| Audio | Dialogue, sync, channels, clipping, specified measurements | | | | |
+| Titles / graphics | Spelling, names, dates, safe placement, version | | | | |
+| Captions / subtitles | Language, accuracy, timing, format, placement | | | | |
+| Accessibility | Required accessible deliverables | | | | |
+| Rights / privacy | License, consent, disclosure, restrictions | | | | |
+| Technical | Codec, container, dimensions, rate, streams, metadata | | | | |
+| Delivery | Naming, manifest, access, transfer | | | | |
+
+### 25.8 Export attempt and artifact identity log
+
+| Attempt ID | Sequence/version | Output filename | Export application/version | Date/time | Actual file size | Metadata evidence | Status |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+For each candidate, record actual values:
+
+| Property | Required | Candidate 01 | Candidate 02 | Verification source |
+|---|---|---|---|---|
+| Container | | | | |
+| Video codec/profile | | | | |
+| Dimensions | | | | |
+| Frame rate / scan / timebase | | | | |
+| Duration | | | | |
+| Color properties | | | | |
+| Audio codec / sample rate | | | | |
+| Channel count / layout | | | | |
+| Captions / sidecar / stream | | | | |
+| Filename / version / variant | | | | |
+
+A candidate is not accepted merely because an export dialog closed or a preset name appears correct.
+
+### 25.9 Full-file playback record
+
+| Candidate / version | Player / version | Start checked | Middle checked | End checked | Entire file completed? | Picture result | Audio result | Reviewer / date |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+| | | | | | | | | |
+
+- Playback interruptions / ranges not inspected:
+- Channels listened to separately:
+- Caption/graphics review completed:
+- If full playback was not performed, state the reason and mark QC incomplete.
+
+### 25.10 Defect severity, correction and retest
+
+| Defect ID | Severity | Candidate / timecode / property | Requirement | Observed failure | Owner / cause | Correction / new version | Retest / regression result |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Severity guidance:
+- Critical: rights/consent breach, wrong/untraceable master, unreadable/corrupt delivery, destructive source loss or knowingly false compliance/evidence. Hold delivery.
+- Major: required specification failure, missing channel, material sync error, missing required caption/language, wrong runtime/version or substantial defect. Correct and retest before acceptance.
+- Minor: limited issue that does not prevent use but violates a stated requirement or quality expectation. Record and obtain an authorized disposition.
+- Observation: non-blocking preference or suggestion, not a failed requirement.
+
+Accepted exception:
+- Requirement and defect:
+- Risk and impact:
+- Authorized approver / date:
+- Scope and expiry/variant:
+- Recipient informed:
+
+### 25.11 Manifest, transfer, access and archive
+
+| Item ID | Filename / package | Version | Size | Purpose | Rights / restrictions | Recipient access | Transfer result |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Checksum record, if used:
+- Algorithm:
+- Utility / version:
+- Source file identity:
+- Calculated date/time:
+- Destination file identity:
+- Match result:
+- Note: checksum equality verifies the checked bytes, not content correctness or QC.
+
+Archive / restore:
+- Archive location / owner:
+- Retention instruction supplied by:
+- Separate-copy restore attempted? ☐ Yes ☐ No
+- Restore environment / version:
+- Missing dependencies / errors:
+- Actual result / evidence:
+- If not attempted, record Not Run.
+
+### 25.12 Worked evidence example — simulated stereo mismatch
+
+| Field | Simulated record |
+|---|---|
+| Sequence | SCENE-A v006 |
+| Requirement | Two-channel stereo |
+| Candidate 01 observation | Metadata indicates one channel |
+| Decision | Fail audio-layout test; hold candidate |
+| Correction | Review authorized routing and create a new export candidate |
+| Candidate 02 observation | Metadata reports two channels; each channel is listened to |
+| Remaining tests | Full playback, captions, picture, rights, filename and handoff |
+| Evidence status | Simulated; no media was rendered or inspected |
+
+Do not copy the simulated result into an actual project record.
+
+### 25.13 Handoff and acceptance sign-off
+
+- Approved sequence/version:
+- Delivery specification revision:
+- Delivered files and variants:
+- Project/interchange and dependency list:
+- Rights/consent and disclosure restrictions:
+- QC report and unresolved defects:
+- Accepted exceptions and approver:
+- Transfer recipient / date / receipt:
+- Checksum evidence, if used:
+- Portability/restore status:
+- Archive/retention instruction:
+- Editor / reviewer / authorized approver:
+
+Final decision: ☐ Accepted ☐ Conditional ☐ Rejected ☐ Not Evaluated
+
+### 25.14 Evidence-integrity and completion check
+
+- [ ] Every actual result is tied to a version and evidence location.
+- [ ] Simulated examples are not represented as production measurements.
+- [ ] Paper-only work is not represented as an executed edit.
+- [ ] Not Run and Not Verified are not converted into Pass.
+- [ ] Approvals identify the actual authority and exact version.
+- [ ] Failed exports and prior approved versions remain traceable.
+- [ ] Full-file playback is claimed only when completed.
+- [ ] Metadata, checksum, transfer and restore claims identify the method and version.
+- [ ] Rights, consent, privacy, accessibility and recipient restrictions are recorded.
+- [ ] Final handoff and acceptance decision are attributable.
+
+Learner reflection: Which defect posed the greatest delivery risk, what evidence identified it, and what regression checks were necessary after correction?

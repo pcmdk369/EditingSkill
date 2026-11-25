@@ -1625,6 +1625,91 @@ Classify each as picture, audio, graphics or delivery metadata. Record severity,
 **Chapter 10 QC:** [ ] Delivery matrix approved. [ ] Correct timeline conformed. [ ] Media and dependencies online. [ ] Picture, sound, graphics and captions reviewed. [ ] Actual export metadata inspected. [ ] Full-length playback completed. [ ] Corrected export re-tested. [ ] Manifest and rights records included. [ ] Transfer and approval evidence retained.
 
 
+
+
+### 10.14 Picture lock as a governed state
+
+Picture lock identifies the exact approved editorial state used as the reference for downstream finishing. It should identify the project, scene, sequence, version, timebase, duration, approval authority, approval date and reference location. A label such as “final” or “locked” without a unique version and approval record is ambiguous.
+
+Lock is not the same as immutability. A production may authorize a later change, but the change must create a new version and preserve the previous approved state. The change record should identify the requester, reason, affected timecode, approval, new version and downstream consequences. Possible consequences include conform, sound, music, VFX, color, captions, credits, runtime, alternate versions and delivery timing.
+
+### 10.15 Specification traceability and acceptance
+
+Convert the written delivery brief into a specification matrix before export. Each requirement needs an exact value or tolerance, a source clause/revision, a verification method and an owner. Distinguish mandatory requirements from recommendations and provisional exercise assumptions.
+
+A preset name, project setting or export dialog is not evidence that the rendered artifact conforms. Compare actual file properties with the written requirement. If the specification is contradictory or incomplete, hold the affected decision and request clarification rather than silently inventing a value.
+
+### 10.16 Risk-based QC and defect governance
+
+Separate editorial, picture, audio, graphics/caption, accessibility, rights/privacy, technical and delivery checks. Each pass detects a different class of failure. Metadata cannot prove that a file plays correctly; playback cannot prove a required numeric measurement; a timeline preview cannot prove the exported file is the approved version.
+
+Classify defects by impact:
+- **Critical:** unauthorized use, untraceable/wrong master, corrupt/unreadable delivery, destructive source loss or knowingly false evidence/compliance. Hold delivery.
+- **Major:** required specification failure, material sync error, missing required channel/caption/language, wrong runtime/version or substantial image/sound defect. Correct and retest before acceptance.
+- **Minor:** limited issue that does not prevent use but violates a requirement or quality expectation. Record an authorized disposition.
+- **Observation:** non-blocking preference or suggestion, not a failed requirement.
+
+A defect record includes version, time/frame or property, requirement, observed result, severity, owner, correction, new version, retest and approval. After correction, repeat affected tests and regression checks. If picture or audio content changed, use the full-file review required by the acceptance plan.
+
+### 10.17 Handoff manifest, checksum and restore evidence
+
+A manifest identifies each delivered item, version, purpose, size, rights/restrictions, dependencies and recipient access. Record relink instructions and licensed plugins, fonts, LUTs, graphics or media that cannot be transferred.
+
+A checksum can establish that two checked copies contain identical bytes under the recorded algorithm. It does not establish correct content, rights, codec compliance, successful decoding or creative approval. Record the utility/version, algorithm, source/destination identity and result if a checksum is used.
+
+Portability is demonstrated only by reopening a separate copy in the intended environment and recording the result. A copied folder or a planned restore is not a restore test. Preserve original sources and the prior approved project; do not overwrite the only known-good state.
+
+### 10.18 Worked decision trace — channel mismatch and stale delivery
+
+**Fictional brief:** The client requires a stereo master and an editable project. The approved sequence is SCENE-A v006.
+
+1. The editor records the written stereo requirement and the approved sequence/version.
+2. Candidate01 is exported to a new filename. Its metadata shows a single audio channel.
+3. The candidate fails the required audio-layout test. The editor does not infer stereo from the preset name.
+4. The authorized project routing is checked. A new working version is created and the corrected candidate is exported under a new identity.
+5. The new candidate's actual metadata is checked and both channels are listened to. The complete file is played and captions/credits are checked against the final picture.
+6. A manifest is reconciled against the actual files. A stale earlier export is kept out of the master package and labeled as a failed candidate.
+7. The authorized recipient receives only the approved package and the transfer result is recorded.
+
+**Expected evidence:** specification matrix, lock record, export-attempt log, defect/retest entry, actual metadata report, full-file playback record, manifest and handoff decision. This example is simulated; it does not claim an actual render or inspection.
+
+### 10.19 Lab 04 evidence alignment
+
+Use [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](labs/lab-04-picture-lock-finishing-and-qc.md) with [Workbook Section 25](CT-02-STUDENT-NOTES-WORKBOOK.md#25-picture-lock-finishing-and-quality-control-evidence). The workbook captures the specification, source rights, lock approval, post-lock change, conform, finishing passes, export attempts, playback, defect retest, manifest and restore evidence.
+
+The lab's actual-result columns are intentionally completed by the learner. A paper-only plan may demonstrate specification reasoning and risk analysis, but it cannot establish export, playback, transfer or restore validation.
+
+### 10.20 Review questions and answer guidance
+
+1. Why is picture lock a versioned approval state rather than an instruction that changes are impossible?  
+   **Guidance:** Authorized changes may occur, but they require traceability, a new version and downstream impact review.
+
+2. Why must the delivery matrix name a verification method for every mandatory field?  
+   **Guidance:** A requirement without a test cannot be demonstrated; assumptions and preset labels do not establish compliance.
+
+3. Why are metadata inspection and full playback separate?  
+   **Guidance:** Metadata describes file properties; playback checks actual decoding and content behavior over the complete duration.
+
+4. What does a matching checksum prove?  
+   **Guidance:** Byte identity for the checked copies under the recorded algorithm, not rights, creative correctness or playback.
+
+5. When is a restore claim justified?  
+   **Guidance:** After reopening a separate copy in the intended environment and recording the actual dependency/result evidence.
+
+### 10.21 Chapter 10 quality and completion check
+
+- [ ] Approved sequence/version and authority are traceable.
+- [ ] Specification requirements have values, sources and verification methods.
+- [ ] Conform and dependencies are reconciled.
+- [ ] Independent finishing passes are recorded.
+- [ ] Actual export properties match the specification.
+- [ ] Full-file playback is complete or explicitly Not Run.
+- [ ] Defects are classified, corrected and retested.
+- [ ] Manifest, rights, restrictions and recipient access are documented.
+- [ ] Checksum/transfer/restore claims are supported by actual evidence.
+- [ ] Simulated and paper-only work is labeled honestly.
+
+
 ## Chapter 11 — AI-Assisted Film Editing and Automation
 
 ### 11.1 Appropriate AI uses

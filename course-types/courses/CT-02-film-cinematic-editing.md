@@ -46,6 +46,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [Workbook Section 22 — Narrative Scene Capstone Evidence Pack](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#22-narrative-scene-capstone-evidence-pack)
 - [Workbook Section 23 — Coverage, Performance and Editorial Decision Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#23-coverage-performance-and-editorial-decision-evidence)
 - [Workbook Section 24 — Continuity Editing and Match on Action Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#24-continuity-editing-and-match-on-action-evidence)
+- [Workbook Section 25 — Picture Lock, Finishing and Quality-Control Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#25-picture-lock-finishing-and-quality-control-evidence)
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -53,7 +54,7 @@ The textbook and workbook are the primary learner resources. External references
 1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md)
 2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md)
 3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md) — expanded to revision 2.0 on 2026-11-24; tool-independent and not software-tested
-4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md)
+4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md) — expanded to revision 2.0 on 2026-11-25; tool-independent and not software-tested
 
 
 ## Detailed academic lessons
@@ -76,7 +77,7 @@ Lessons 01–10 have authored lesson files. Lessons 01–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (24 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Lab 03 was expanded to professional-lab revision 2.0 on 2026-11-24 and remains unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 03 and 04 were expanded to professional-lab revision 2.0 (2026-11-24 and 2026-11-25 respectively) and remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## Practical lab development record — 2026-11-24
@@ -183,3 +184,14 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added a dedicated worked example to Lesson 05 with fictional source inventory, eight selected ranges, beat/function mapping, editorial decisions, a 45-second runtime calculation, ASL, expected output and an explicit simulated-data limitation.
 - Lesson 05 revision 1.4 now contains the full shared-template teaching sequence, including prerequisites/readiness, definitions, purpose, theory, tools/alternatives, reproducible procedure, worked example, dry run, guided and independent practice, troubleshooting, answer guidance, rubric, QC, references and version notes.
 - CT-02 remains authored / review pending; no software or media execution is claimed.
+
+
+## Practical lab development record — 2026-11-25
+
+- Re-inspected the live branch and PR #1 before editing. The target branch was agentic/universal-editskill-architecture; PR #1 was open and unmerged. The CT-02 course outline/index, textbook Chapter 10, workbook Sections 18 and 24, Lesson 08, existing Lab 04, professional lab template and mandatory academic standard were checked.
+- No concise academic lesson remained: Lessons 01–10 already had expanded learner-facing academic treatment. The next incomplete CT-02 practical resource in curriculum order was the existing short Lab 04, Picture Lock, Finishing Handoff and Quality Control. It was expanded in place rather than creating a duplicate.
+- Expanded Lab 04 to professional-lab revision 2.0. Preserved the original procedure, worked example, 30-point checkpoint rubric and QC checklist. Added the professional brief, measurable objectives, prerequisites/setup, source rights/privacy, project architecture, specification traceability, versioned picture-lock and post-lock change governance, conform, independent finishing passes, export and artifact-level inspection, risk-based defect severity, correction/retest, worked example, annotated dry run, three guided exercises, independent assignment, validation matrix, troubleshooting/rollback, security/portability, handoff, 100-point rubric, answer guidance and version notes.
+- Added Workbook Section 25 for specification, rights/dependencies, lock approval, change requests, conform, finishing passes, export attempts, metadata, full-file playback, defects/retest, manifest, transfer, restore and evidence-integrity records. Expanded textbook Chapter 10 with subsections 10.14–10.21 and Lab 04 evidence alignment.
+- Updated the CT-02 course index and completion register. The workbook now has 25 numbered sections; Labs 03 and 04 have professional-lab revision 2.0. All ten academic lessons remain authored/expanded.
+- The new procedures are tool-independent. The fictional channel-mismatch example is simulated. No NLE, encoder, audio meter, caption validator, checksum utility, media player, export, full playback, transfer or restore operation was executed. Lab 04 is authored, not software-tested or independently reviewed.
+- CT-02 remains authored / review pending, not independently reviewed, technically validated or complete. Outstanding gates include exact-version practical execution with authorized media, independent academic/editorial/accessibility/rights/privacy/technical review, assessment/capstone review and learner evidence.
