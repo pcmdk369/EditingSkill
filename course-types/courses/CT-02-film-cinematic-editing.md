@@ -77,7 +77,7 @@ Lessons 01–10 have authored lesson files. Lessons 01–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 03 and 04 were expanded to professional-lab revision 2.0 (2026-11-24 and 2026-11-25 respectively) and remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 01, 03 and 04 have professional-lab revision 2.0 (2026-11-26, 2026-11-24 and 2026-11-25 respectively); Lab 02 remains the next practical resource for depth expansion. All four labs remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## Practical lab development record — 2026-11-24

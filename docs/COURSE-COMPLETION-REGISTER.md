@@ -312,3 +312,10 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - Updated the CT-02 course index and this register. Lab 02 is the next underdeveloped practical resource in sequence. All ten lessons remain authored/expanded; CT-02 is not marked reviewed, validated or complete.
 - The worked example is simulated. No NLE, source footage, timeline, render, export, viewer study, project reopen, learner submission or practical lab execution was performed. The lab is tool-independent and authored, not software-tested.
 - Remaining gates: independent academic/editorial/accessibility/rights/privacy/technical review; exact-version practical execution with authorized media; assessment/capstone review; and real learner/reviewer evidence.
+
+## 2026-11-26 CT-02 Lab 01 link correction and CI verification
+
+- The initial Lab 01 expansion commit `36c9d2b4381bb12cf92178315d6d174519ff9c16` triggered a failed Markdown/link validation because two links to root-level templates/standards used incorrect relative paths. The failure was diagnosed from the GitHub Actions log; no unrelated validator changes were made.
+- Corrected both links in `course-types/courses/CT-02/labs/lab-01-scene-breakdown-and-geography.md` in commit `10740d14831429cb913f119062bfd07901ec9834`.
+- The corrected head passed the `markdown-and-structure` job in pull-request run [#45768205756](https://github.com/pcmdk369/EditingSkill/actions/runs/45768205756) and push run [#45768200648](https://github.com/pcmdk369/EditingSkill/actions/runs/45768200648). All five changed files were fetched back from the branch and their expected content, revision markers, cross-links and status text were checked.
+- The pull-request and push CI passes validate repository structure and Markdown links only. They do not establish academic approval, practical NLE execution, media rendering or learner completion.
