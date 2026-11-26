@@ -641,8 +641,8 @@ The original 20-point rubric above remains a formative checkpoint. Use either th
 - [CT-02 Student Workbook, Section 20 — Dramatic Beats and Paper Edit Evidence](../CT-02-STUDENT-NOTES-WORKBOOK.md#20-dramatic-beats-and-paper-edit-evidence)
 - [CT-02 Student Workbook, Section 21 — Scene Geography, Axis and Eyeline Evidence](../CT-02-STUDENT-NOTES-WORKBOOK.md#21-scene-geography-axis-and-eyeline-evidence)
 - [CT-02 Student Workbook, Section 23 — Coverage, Performance and Editorial Decision Evidence](../CT-02-STUDENT-NOTES-WORKBOOK.md#23-coverage-performance-and-editorial-decision-evidence)
-- [Professional Lab Template](../../../templates/professional-lab-template.md)
-- [PCMDK369 Professional Academic Standard](../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
+- [Professional Lab Template](../../../../templates/professional-lab-template.md)
+- [PCMDK369 Professional Academic Standard](../../../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md)
 
 **Version and compatibility notes**
 - Revision 2.0 adds the professional brief, asset/rights controls, source traceability, beat/coverage/geography evidence, reproducible phases, worked example, dry run, guided and independent practice, validation matrix, troubleshooting/rollback, portability, handoff, expanded assessment and answer guidance.
