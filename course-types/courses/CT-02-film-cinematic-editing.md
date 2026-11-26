@@ -51,7 +51,7 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
 ## Practical implementation labs
-1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md)
+1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md) — expanded to professional-lab revision 2.0 on 2026-11-26; tool-independent and not software-tested
 2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md)
 3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md) — expanded to revision 2.0 on 2026-11-24; tool-independent and not software-tested
 4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md) — expanded to revision 2.0 on 2026-11-25; tool-independent and not software-tested
@@ -195,3 +195,12 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Updated the CT-02 course index and completion register. The workbook now has 25 numbered sections; Labs 03 and 04 have professional-lab revision 2.0. All ten academic lessons remain authored/expanded.
 - The new procedures are tool-independent. The fictional channel-mismatch example is simulated. No NLE, encoder, audio meter, caption validator, checksum utility, media player, export, full playback, transfer or restore operation was executed. Lab 04 is authored, not software-tested or independently reviewed.
 - CT-02 remains authored / review pending, not independently reviewed, technically validated or complete. Outstanding gates include exact-version practical execution with authorized media, independent academic/editorial/accessibility/rights/privacy/technical review, assessment/capstone review and learner evidence.
+
+## Practical lab development record — 2026-11-26
+
+- Expanded the existing [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md) in place to professional-lab revision 2.0 using the repository's professional lab template and mandatory academic standard.
+- Preserved the original foundation procedure, worked example, troubleshooting, submission evidence, 20-point formative assessment and quality gate. Added a professional brief, measurable implementation objectives, prerequisites and environment record, source rights/privacy inventory, project architecture, decision rules, reproducible phases, simulated worked example, annotated dry run, four guided exercises, independent dossier, troubleshooting/rollback, validation matrix, portability, handoff, 100-point rubric, answer guidance, QC and version notes.
+- Added Workbook Section 20.11 as an evidence crosswalk to existing Sections 20, 21 and 23; no new numbered workbook section was created. Corrected the Section 21 subheading labels from 22.1–22.11 to 21.1–21.11 without changing their content. The workbook remains 25 numbered sections.
+- Added textbook Chapter 2 subsection 2.17 to connect Chapters 1–3 with Lab 01 and its evidence records.
+- All procedures are tool-independent. Worked-example source IDs, positions and ranges are simulated. No NLE, footage, timeline, render, export, viewer study or learner submission was executed.
+- Lab 01 is authored, not independently reviewed or software-tested. CT-02 remains authored / review pending.

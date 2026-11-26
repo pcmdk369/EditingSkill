@@ -239,6 +239,39 @@ Do not use horizontal mirroring as an undocumented shortcut. It can reverse text
 
 ---
 
+### 2.17 Lab 01 — integrate dramatic beats, coverage and geography
+
+Lab 01 combines the first three chapters into one evidence trail. It is not a new editing rule; it is a practical sequence for applying the chapter concepts without losing source traceability.
+
+**Order of analysis**
+
+1. Establish the scene objective, beginning state and ending state (Chapter 1).
+2. Identify dramatic beats as supported changes, with before/trigger/after/source evidence.
+3. Inventory the coverage available for each beat (Chapter 3).
+4. Draw the blocking map and derive the primary action axis (Chapter 2).
+5. Record camera positions, eyelines, screen direction and continuity-critical object/action states.
+6. Create a beat-to-coverage map and paper edit before assembling.
+7. Test the proposed order for dramatic clarity, spatial comprehension and factual integrity.
+
+| Evidence record | Question answered | Primary source |
+|---|---|---|
+| Scene-state / beat map | What changes, and what proves it? | Chapter 1 and Lesson 01 |
+| Coverage inventory | Which recorded views can communicate the change? | Chapter 3 and Lesson 03 |
+| Geography diagram | Where are the subjects, cameras and action axis? | Chapter 2 and Lesson 02 |
+| Shot relationship matrix | Do adjacent views preserve or intentionally change space? | Chapter 2 |
+| Paper edit / assembly map | What order communicates the scene, and why? | Chapters 1–3 |
+
+**Worked paper example:** In a two-person conversation, first identify the request, response and unresolved action as separate beats only when the source supports each change. Then inventory the master, singles and insert. Draw the interaction axis from the actual blocking, not from the left/right appearance of one frame. Place each camera on the map, compare the reverse-shot eyelines and verify the insert's object state. The paper edit should identify a primary shot for each beat, an alternate only where one exists, and any uncovered information. If a camera-side relationship cannot be verified, mark it unknown and keep the shot out of the continuity-safe version until reviewed.
+
+**Dry-run checks**
+- Can another editor locate each selected source range?
+- Can a reviewer explain the axis from the blocking map?
+- Does the sequence communicate the same action and chronology as the source?
+- Are unrecorded shots, targets or reactions clearly identified as missing rather than assumed?
+- Is the deliverable labeled as paper-only or executed assembly accurately?
+
+**Practice and evidence:** Use [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](labs/lab-01-scene-breakdown-and-geography.md) with Workbook Sections 20, 21 and 23. These sections remain separate detailed records; the lab crosswalk tells the learner how to use them together. All fictional source IDs and examples must be labeled simulated. A paper edit demonstrates planning, not a rendered or executed timeline.
+
 ## Chapter 3 — Shot Coverage, Performance and Editorial Choice
 
 ### 3.1 What coverage means

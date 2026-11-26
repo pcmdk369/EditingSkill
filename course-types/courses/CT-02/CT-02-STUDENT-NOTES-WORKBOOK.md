@@ -841,11 +841,28 @@ The following fictional training scenario demonstrates how to fill the worksheet
 - [ ] Paper-only simulations are distinguished from executed edits.
 
 
+### 20.11 Lab 01 integration and evidence crosswalk
+
+Use this crosswalk for [CT-02 Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](labs/lab-01-scene-breakdown-and-geography.md). It links the existing detailed lesson worksheets; it does not replace or duplicate them.
+
+| Lab 01 deliverable | Complete in this workbook | Minimum evidence |
+|---|---|---|
+| Brief, source and authorization | Section 20.1; Section 21.1; Section 23.1 | Project/scene ID, source IDs, permission, consent and restrictions |
+| Objective and dramatic beats | Sections 20.2–20.4 | Beginning/ending state, beat change, trigger, source range and audience knowledge |
+| Coverage and selects | Section 23.2–23.6 | Shot scale, angle, take, source range, function, performance and selection rationale |
+| Geography and axis | Section 21.2–21.5 | Top-down map, camera positions, axis side, subject positions and adjacent-shot checks |
+| Eyelines and movement | Section 21.4, 21.7 | Target, horizontal/vertical gaze, movement vector and uncertainty |
+| Paper edit / first assembly | Section 20.6; Section 21.6; Section 23.8 | Order, selected range, intended cut, beat function and version ID |
+| Viewer or reviewer evidence | Section 20.8; Section 21.8; Section 23.9 | Neutral prompt, unprompted response, sample limitation or “not conducted” |
+| Handoff and unresolved gaps | Section 20.10; Section 21.11; Section 23.12 | Missing coverage, accepted limitations, selected version and execution status |
+
+**Submission rule:** Complete only the records relevant to the actual scene. Mark unavailable evidence as unknown or not applicable with a reason. If the work is paper-only, do not complete timeline, export, reopen or playback fields as though those operations occurred. Use one consistent project/scene ID across Sections 20, 21 and 23.
+
 ## 21. Scene Geography, Axis and Eyeline Evidence
 
 **Purpose:** Record the spatial model, camera positions, shot relationships and viewer-comprehension evidence for CT-02 Lesson 02. Use this section with authorized source footage or label every entry as a paper-only simulation.
 
-### 22.1 Brief, source and authorization record
+### 21.1 Brief, source and authorization record
 
 | Field | Entry |
 |---|---|
@@ -859,7 +876,7 @@ The following fictional training scenario demonstrates how to fill the worksheet
 | Missing or uncertain source information | |
 | Work type | ☐ Executed edit ☐ Paper-only simulation |
 
-### 22.2 Geography diagram legend
+### 21.2 Geography diagram legend
 
 Draw or attach a top-down diagram. Include a text description so the diagram is not color-dependent.
 
@@ -886,7 +903,7 @@ Prop positions and hand states:
 Camera positions and directions:  
 Uncertainties that must not be treated as facts:
 
-### 22.3 Camera and shot inventory
+### 21.3 Camera and shot inventory
 
 | Shot ID | Source ID / range | Shot scale | Camera position | Axis side (A/B/neutral/moving) | Subject(s) | Notes / transforms |
 |---|---|---|---|---|---|---|
@@ -895,7 +912,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | |
 | | | | | | | |
 
-### 22.4 Shot-by-shot continuity matrix
+### 21.4 Shot-by-shot continuity matrix
 
 | Shot ID | Screen position | Body orientation | Eyeline target | Horizontal / vertical gaze | Movement vector | Action / prop state | Risk / decision |
 |---|---|---|---|---|---|---|---|
@@ -905,7 +922,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | | |
 | | | | | | | | |
 
-### 22.5 Adjacent-shot comparison and axis-crossing log
+### 21.5 Adjacent-shot comparison and axis-crossing log
 
 | From → To | Position match | Eyeline match | Movement match | Action-state match | Axis change? | Evidence / repair decision |
 |---|---|---|---|---|---|---|
@@ -919,7 +936,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | |
 | | | | | | |
 
-### 22.6 Two-version paper-edit / edit plan
+### 21.6 Two-version paper-edit / edit plan
 
 | Order | Safe version shot ID | Crossing version shot ID | Cut purpose | Spatial information added/changed | Source range / evidence |
 |---:|---|---|---|---|---|
@@ -930,14 +947,14 @@ Uncertainties that must not be treated as facts:
 | 5 | | | | | |
 | 6 | | | | | |
 
-### 22.7 Eyeline target verification
+### 21.7 Eyeline target verification
 
 | Subject / shot | Claimed target | Evidence target exists | Relative height/distance plausible | Match shot | Confidence / uncertainty |
 |---|---|---|---|---|---|
 | | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
 | | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
 
-### 22.8 Viewer-comprehension test
+### 21.8 Viewer-comprehension test
 
 **Neutral prompt:** “Describe where each person was, what they did and how they moved.” Do not show the diagram or explain the intended geography first.
 
@@ -946,7 +963,7 @@ Uncertainties that must not be treated as facts:
 | | | | | | | |
 | | | | | | | |
 
-### 22.9 Worked example — simulated courier scene
+### 21.9 Worked example — simulated courier scene
 
 The following is fictional teaching data only.
 
@@ -959,7 +976,7 @@ The following is fictional teaching data only.
 
 **Reviewer question:** Does the chosen insert show the same hand, envelope orientation and action stage as the preceding shot? Record the source evidence before approving the cut.
 
-### 22.10 Rights, accessibility and integrity gates
+### 21.10 Rights, accessibility and integrity gates
 
 - [ ] Source ownership/license/permission is recorded.
 - [ ] Consent and privacy restrictions are respected.
@@ -970,7 +987,7 @@ The following is fictional teaching data only.
 - [ ] Paper-only examples are labeled as simulations.
 - [ ] Original media and earlier project versions are preserved.
 
-### 22.11 Revision, evidence and submission checklist
+### 21.11 Revision, evidence and submission checklist
 
 | Version | Problem observed | Shot pair / source | Change made | Viewer or QC evidence | Side effects checked | Reviewer / date |
 |---|---|---|---|---|---|---|
