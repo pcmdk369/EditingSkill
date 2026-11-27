@@ -1598,6 +1598,65 @@ Handoff:
 
 ---
 
+
+### 24.12 Lab 02 acceptance and evidence crosswalk
+
+Use this crosswalk with [CT-02 Lab 02 — Continuity Editing and Match on Action](labs/lab-02-continuity-and-match-on-action.md). It maps the existing records in this section to the professional lab's acceptance tests; it does not create a new numbered workbook section.
+
+| Lab acceptance requirement | Workbook evidence | Test / status |
+|---|---|---|
+| Source identity, rights and original preservation | 24.1–24.2 | T01 — Executed / Paper-only / Not Run |
+| Observable action states and source time basis | 24.3 | T02 — Executed / Paper-only / Not Run |
+| Story chronology and reaction integrity | 24.3, 24.7, 24.9 | T03 — Executed / Paper-only / Not Run |
+| Camera side, geography and eyelines | 24.4 | T04 — Executed / Paper-only / Not Run |
+| At least two candidate boundary comparisons | 24.5–24.6 | T05 — Executed / Paper-only / Not Run |
+| Performance and prop/wardrobe continuity | 24.5, 24.7 | T06–T07 — Executed / Paper-only / Not Run |
+| Sound ownership, sync and bridges | 24.8 | T08 — Executed / Paper-only / Not Run |
+| Normal-speed playback and frame diagnosis | 24.6, 24.10 | T09–T10 — Executed / Not Run |
+| Neutral reviewer comprehension | 24.10 | T11 — Conducted / Not conducted |
+| Defect correction, regression and handoff | 24.10–24.11 | T12 — Executed / Not Run |
+
+#### Boundary-level evidence record
+
+Complete one row per boundary. Keep source frame labels local to each source unless a verified common synchronization basis exists.
+
+| Boundary ID | Outgoing source/range | Incoming source/range | Simultaneous or separate takes? | Event anchor | Action phase before → after | Candidate decision | Normal-speed result / status |
+|---|---|---|---|---|---|---|---|
+| B01 | | | | | | | |
+| B02 | | | | | | | |
+| B03 | | | | | | | |
+| B04 | | | | | | | |
+| B05 | | | | | | | |
+
+#### Evidence status vocabulary
+
+- **Executed:** the named test was performed on the identified source/project/version; record the evidence location and result.
+- **Paper-only:** reasoning or planning was completed without the relevant media/software operation.
+- **Simulated:** values or observations are fictional instructional data.
+- **Not Run:** the test was not performed.
+- **Not Verified:** an operation may have occurred, but no adequate evidence is available.
+- **Not Applicable:** the test does not apply; give a reason.
+
+Do not use “Pass” without a test method and result. A screenshot alone does not prove full playback or audience comprehension. A paper-only plan cannot receive credit for an executed edit, sound-only review or rendered-file test.
+
+#### Lab 02 scoring crosswalk
+
+| Rubric category | Points | Workbook evidence |
+|---|---:|---|
+| Source inventory, rights and preservation | 10 | 24.1–24.2 |
+| Action-state and event-anchor analysis | 15 | 24.3 |
+| Geography, axis, movement and eyelines | 15 | 24.4 |
+| Match-on-action candidate evaluation | 15 | 24.5–24.6 |
+| Performance and factual integrity | 10 | 24.7, 24.9 |
+| Prop, wardrobe and physical plausibility | 10 | 24.7 |
+| Sound continuity | 10 | 24.8 |
+| Testing, defect/retest and evidence quality | 10 | 24.10–24.11 |
+| Handoff and version control | 5 | 24.1, 24.10–24.11 |
+| **Total** | **100** | |
+
+The original 25-point formative checkpoint in Lab 02 is separate. Do not add the two rubrics together.
+
+
 ## 25. Picture Lock, Finishing and Quality-Control Evidence
 
 Use this section with Lab 04 and textbook Chapter 10. Record actual observations only after performing the relevant check. If an exercise is paper-only, simulated, unavailable or not run, label it explicitly. Do not invent approvals, metadata, screenshots, checksums, playback or transfer evidence.
