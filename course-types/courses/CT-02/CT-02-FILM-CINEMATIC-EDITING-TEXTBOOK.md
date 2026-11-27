@@ -607,6 +607,93 @@ Edit a scene with a clear entrance, central action and exit. Make one continuous
 
 ---
 
+
+### 4.19 Lab 02 — continuity as a reproducible evidence process
+
+A continuity decision should be reconstructable by another editor. The minimum evidence chain is:
+
+1. an authorized source inventory with stable identifiers;
+2. an observable action-state map;
+3. a source/time basis for each event anchor;
+4. a geography record for camera side, subject position, movement and eyeline;
+5. at least two candidate boundaries where the footage permits comparison;
+6. a continuity matrix that records both passes and unresolved uncertainty;
+7. separate picture, performance, object and sound review;
+8. a version/defect/retest record.
+
+This chain prevents a common category error: treating a visually plausible cut as proof that the represented event happened in that order. Source chronology and story chronology may differ, but the editor must know when they differ and must not create an unsupported causal claim.
+
+### 4.20 Compare action phases rather than unrelated frame numbers
+
+When two angles are simultaneous recordings of the same event, a verified synchronization relationship can support direct temporal comparison. When two angles are separate takes, their local frame counts are independent. A source frame label is only an address within that source; it does not identify a shared instant.
+
+For separate takes, compare action phases and observable anchors:
+
+- movement begins;
+- target is reached;
+- contact occurs;
+- object/body state changes;
+- movement completes;
+- reaction begins.
+
+A candidate boundary should be evaluated for motion direction, speed, body position, prop state, camera side, eyeline and performance. Frame stepping can reveal a one-frame jump or repeated event, but the cut must be judged in normal-speed context. A technically exact still-frame match can still fail because movement velocity, camera perspective or performance timing changes abruptly.
+
+### 4.21 Use a boundary matrix as a diagnostic instrument
+
+For every important boundary, record the outgoing source/range, incoming source/range, event anchor, action phase before and after, geography, performance, prop state, sound ownership and decision. Use Pass, Fail, Unknown or Not Applicable with a reason. Do not use an empty cell as an implied pass.
+
+A useful review sequence isolates one dimension at a time:
+
+1. watch at normal speed for audience comprehension;
+2. inspect the action boundary for repetition, omission or reversal;
+3. check camera side, movement vector and eyeline;
+4. compare object/body state and performance;
+5. listen to the sound without picture;
+6. compare chronology and any implied cause/reaction;
+7. watch the entire revised sequence again.
+
+This sequence makes diagnosis more specific. It also avoids changing several unrelated dimensions at once and then being unable to identify which change improved or damaged the edit.
+
+### 4.22 Worked boundary comparison — simulated separate takes
+
+Assume two fictional 25 fps sources show a character lifting a cup. In source A, the contact anchor is labeled frame 0142; in source B, the comparable contact anchor is frame 0118. These numbers are local to separate takes and are not synchronized timecode.
+
+A paper comparison might test:
+
+- Candidate A: end the medium shot immediately before contact and begin the close-up immediately after contact.
+- Candidate B: end the medium shot after the cup has already cleared the table and begin the close-up at contact.
+- Candidate C: end before contact and begin the close-up well before its contact anchor.
+
+Candidate B may repeat or reverse the cup state; Candidate C may repeat the reaching movement. Candidate A is a defensible first test, but it is not a verified successful cut until the learner checks hand position, cup orientation, movement direction, sound and normal-speed playback. If the takes differ too much, another take or a different editorial structure is preferable to an impossible repair.
+
+### 4.23 Sound and chronology require independent evidence
+
+Picture continuity does not prove sound continuity. Identify whether each dialogue, handling sound, room tone, effect or music element belongs to the outgoing or incoming event. A J-cut or L-cut may improve flow, but a bridge must not make an unsupported event appear to occur or continue. Listen without picture to detect duplicated contact sounds, gaps, abrupt perspective changes and sync problems.
+
+Reaction shots require a separate chronology/perception test. Ask whether the person could have seen or heard the event at the point implied by the edit. This is especially important in documentary, factual, educational and testimonial work, where rearrangement may alter the apparent cause, knowledge or response.
+
+### 4.24 Lab 02 practice and acceptance evidence
+
+The corresponding Lab 02 asks the learner to produce a 30–60 second continuity edit or a clearly labeled paper-only plan. The evidence includes a source/rights inventory, action-state map, geography/eyeline record, five-boundary continuity matrix, two candidate comparisons, sound plan, defect/retest log and handoff.
+
+A paper plan demonstrates editorial reasoning but cannot establish that a timeline was edited, a sound mix was heard, a rendered file passed playback or a viewer understood the scene. The learner must label each test Executed, Paper-only, Simulated, Not Run or Not Verified.
+
+The professional assessment uses a separate 100-point rubric covering source integrity, action analysis, geography, candidate evaluation, performance/factual integrity, prop continuity, sound, testing and handoff. The original 25-point formative checkpoint remains a separate exercise score. A critical rights, evidence-integrity or essential-meaning failure requires remediation regardless of numeric score.
+
+### 4.25 Practice and review questions
+
+1. Explain why separate-take frame numbers cannot be treated as a shared clock.
+2. Describe a source-supported event anchor and distinguish it from an interpretation.
+3. List the minimum dimensions to compare at a match-on-action boundary.
+4. Explain why a frame-level match must be returned to normal-speed review.
+5. Give one example of an intentional discontinuity and the evidence needed to justify it.
+6. Explain how a sound bridge can create an unsupported causal or spatial implication.
+7. Identify the tests that must be repeated after changing a boundary.
+8. State which claims a paper-only continuity plan cannot make.
+
+**Answer guidance:** Separate takes have independent source timelines; anchors must be observable and source-linked; compare action phase, direction, body/prop state, geography, performance and sound; normal-speed review evaluates motion and comprehension; intentional discontinuity needs purpose, cue, risk and approval; sound must have event ownership; retest the changed boundary, neighboring cuts and complete sequence; paper-only work cannot claim actual playback, sync, render, export or viewer results.
+
+
 ## Chapter 5 — Pacing, Rhythm and Dramatic Timing
 
 ### Chapter purpose and prerequisites
