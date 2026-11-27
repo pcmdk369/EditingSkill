@@ -77,7 +77,7 @@ Lessons 01–10 have authored lesson files. Lessons 01–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 01, 03 and 04 have professional-lab revision 2.0 (2026-11-26, 2026-11-24 and 2026-11-25 respectively); Lab 02 remains the next practical resource for depth expansion. All four labs remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 01–04 have professional-lab revision 2.0 (2026-11-26, 2026-11-27, 2026-11-24 and 2026-11-25 respectively). All four labs remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
 
 
 ## Practical lab development record — 2026-11-24
@@ -204,3 +204,11 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added textbook Chapter 2 subsection 2.17 to connect Chapters 1–3 with Lab 01 and its evidence records.
 - All procedures are tool-independent. Worked-example source IDs, positions and ranges are simulated. No NLE, footage, timeline, render, export, viewer study or learner submission was executed.
 - Lab 01 is authored, not independently reviewed or software-tested. CT-02 remains authored / review pending.
+
+
+### Lab 02 professional expansion — 2026-11-27
+
+- Expanded the existing Lab 02 in place to professional-lab revision 2.0; preserved the original foundation procedure, cup example, troubleshooting, submission evidence, 25-point formative rubric and quality gate.
+- Added a measurable professional brief, prerequisites/environment, source rights and evidence integrity, project architecture, continuity theory, tool alternatives, 50-step reproducible procedure, simulated separate-take worked example, annotated dry run, five guided exercises, independent assignment, defect severity, validation matrix, troubleshooting/rollback, portability, handoff, 100-point rubric, answer guidance and QC.
+- Added textbook Chapter 4 subsections 4.19–4.25 and Workbook Section 24.12 as an acceptance/evidence crosswalk. Workbook remains 25 numbered sections.
+- Procedures are tool-independent. No NLE, footage, timeline, audio mix, playback, viewer session, render or export was executed. CT-02 remains authored / review pending.
