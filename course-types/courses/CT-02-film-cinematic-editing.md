@@ -52,7 +52,7 @@ The textbook and workbook are the primary learner resources. External references
 
 ## Practical implementation labs
 1. [Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](CT-02/labs/lab-01-scene-breakdown-and-geography.md) — expanded to professional-lab revision 2.0 on 2026-11-26; tool-independent and not software-tested
-2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md)
+2. [Lab 02 — Continuity Editing and Match on Action](CT-02/labs/lab-02-continuity-and-match-on-action.md) — expanded to professional-lab revision 2.0 on 2026-11-27; tool-independent and not software-tested
 3. [Lab 03 — Multicamera Synchronization and Editing](CT-02/labs/lab-03-multicamera-sync-and-edit.md) — expanded to revision 2.0 on 2026-11-24; tool-independent and not software-tested
 4. [Lab 04 — Picture Lock, Finishing Handoff and Quality Control](CT-02/labs/lab-04-picture-lock-finishing-and-qc.md) — expanded to revision 2.0 on 2026-11-25; tool-independent and not software-tested
 
