@@ -330,3 +330,9 @@ Course titles follow the canonical catalog at `course-types/README.md`. This reg
 - The worked-example source IDs, frame labels and decisions are simulated. Separate-take frame labels are explicitly not treated as a common clock. All procedures are tool-independent; exact application behavior is not asserted.
 - No NLE, authorized source footage, timeline, audio mix, normal-speed playback, viewer session, render, export, project reopen or learner submission was executed. Lab 02 is authored, not software-tested or independently reviewed.
 - CT-02 remains **authored / review pending**, not independently reviewed, technically validated or complete. Remaining gates include independent academic/editorial/accessibility/rights/privacy/technical review; exact-version practical execution with authorized media; assessment/capstone review; and real learner/reviewer evidence.
+
+## 2026-11-27 CT-02 Lab 02 structural validation
+
+- Fetched Lab 02, textbook Chapter 4, workbook Section 24, CT-02 course index and this register back from the active branch. Verified revision/status markers, new section headings, workbook inventory preservation, Lab 02 links and the current authored/review-pending wording.
+- The content/index head `89dea9fbbd72681cd3dcdec430390ed31ad93b31` passed GitHub Actions run [#45955804256](https://github.com/pcmdk369/EditingSkill/actions/runs/45955804256). Job `markdown-and-structure` completed successfully, including the repository's course/specialist/Markdown-link validation step.
+- This CI result validates repository structure and Markdown/link rules only. It does not establish independent academic review, exact-version NLE behavior, media playback, audio sync, export, viewer comprehension or learner completion.
