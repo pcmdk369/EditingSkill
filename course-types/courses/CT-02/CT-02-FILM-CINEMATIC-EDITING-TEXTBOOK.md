@@ -2164,16 +2164,18 @@ Edit a 3–5 minute fictional scene using original or properly licensed material
 
 | Criterion | Points |
 |---|---:|
-| Story clarity and dramatic structure | 20 |
-| Performance and shot selection | 15 |
-| Geography, screen direction and continuity | 15 |
-| Pacing, rhythm and emotional timing | 15 |
-| Dialogue, sound and transitions | 10 |
-| Technical quality and delivery compliance | 10 |
-| Project organization and version records | 10 |
-| Rights, consent and professional reflection | 5 |
+| Dramatic structure and clarity | 15 |
+| Screen direction and scene geography | 15 |
+| Coverage and performance selection | 15 |
+| Continuity and match on action | 15 |
+| Pacing and emotional rhythm | 10 |
+| Audio/dialogue and synchronization | 10 |
+| Picture lock and version governance | 5 |
+| Technical delivery and quality control | 10 |
+| Project organization and reflection | 5 |
+| **Total** | **100** |
 
-**Pass threshold:** 70/100, with no critical failure in rights, source preservation, export playback or delivery integrity.
+**Pass threshold:** 80/100, with all mandatory rights, consent, source-preservation, approval and delivery-integrity gates passed. These gates cannot be offset by rubric points. The capstone README contains the criterion-level performance descriptors and reviewer protocol.
 
 ### Reflection prompts
 
@@ -2241,6 +2243,19 @@ For each failed criterion, record the criterion, evidence examined, defect, seve
 A learner submits a 3:40 scene. The beat sheet and source ranges support the central reversal. A close-up appears to reverse the established eyeline; the learner documents a motivated camera crossing and includes a neutral re-establishing shot. Rough-cut review finds that a shortened line removes a negation. The learner restores the full phrase and updates the cut. The lock record identifies version SCENE_FINE_v006; the export is SCENE_MASTER_v006. The reviewer inspects the complete export, finds a missing final caption, records a defect, and requests a corrected version. The learner exports SCENE_MASTER_v007, repeats full playback and caption inspection, and submits the updated QC record.
 
 This is fictional process data, not evidence that any media was edited or exported. It demonstrates why a high-quality timeline does not replace delivery inspection.
+
+### 12.6 Rubric calibration and evidence-based scoring
+
+The capstone brief at course-types/courses/CT-02/capstone/README.md is the canonical submission and marking reference. Its nine criteria and point weights must match the table above. Assessors should use the Strong, Competent, Developing and Not Demonstrated descriptors in that brief, then assign a whole-number score within each criterion maximum.
+
+Score only observable evidence. A paper-only submission may demonstrate planning, beat analysis, source selection rationale and change-control reasoning, but it cannot receive execution credit for a timeline, synchronization, export, complete playback, project portability or restore. Mark an unperformed operation Not Demonstrated rather than assuming success.
+
+Before scoring, verify source authorization and version identity. Watch the full scene once, then trace representative cuts to source ranges. Match the approved picture-lock ID to the delivered file and approval record. Inspect the actual file against its written specification and review the full duration. If a defect is found, require a new version and evidence of correction and retest.
+
+Where reviewers disagree, compare the cited evidence and record the reason for the final score. Do not silently average scores or infer missing work. Record the total, mandatory-gate results, reviewer, date, evidence references and remediation decision in Workbook Section 22.13; use Section 26 for the knowledge-assessment attempt and overall course assessment record.
+
+**Threshold distinction:** The separate knowledge assessment uses 70/100 plus its practical-evidence minimum and critical gates. The narrative-scene capstone uses 80/100 plus its own mandatory gates. Do not substitute one threshold for the other.
+
 
 # Part IV — Professional Delivery and Editorial Practice
 
@@ -2362,3 +2377,7 @@ Expanded Chapter 3 to align with CT-02 Lesson 03 revision 2.0. Added beat-led co
 
 ### 2026-11-22 — Chapter 4 and Lesson 04 expansion
 Expanded Chapter 4 with action-state/event-anchor analysis, match-on-action boundaries, overlap/handles, continuity matrices, performance and factual integrity, sound continuity, intentional discontinuity, a reproducible review procedure and a fictional paper example. Lesson 04 was expanded in place to revision 2.0 and linked to Workbook Section 24. All example timecodes and observations are simulated; no editing application, footage, audio mix, render or export was executed. Tool-independent procedures only; independent review and exact-version lab validation remain pending.
+
+### 2026-11-28 — Chapter 12 assessment alignment
+- Reconciled the Chapter 12 capstone rubric with the canonical capstone README: nine criteria, matching point weights and an 80/100 threshold. The earlier working chapter table used a different weighting and 70/100 threshold; that draft is superseded for marking consistency. The prior state remains available in Git history.
+- Added evidence-based scoring, paper-only limits, reviewer moderation and separate knowledge-assessment/capstone threshold guidance. No learner submission, media edit, export or independent review is claimed.
