@@ -1,0 +1,25 @@
+name: EditSkill Repository Validation
+
+on:
+  push:
+    branches:
+      - main
+      - agentic/universal-editskill-architecture
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-and-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate courses, specialist skills and Markdown links
+        run: python scripts/validate_repository.py

@@ -1,0 +1,2044 @@
+# PCMDK369™ CT-02 — Student Notes & Practical Workbook
+
+**Course:** Film & Cinematic Editing  
+**Course ID:** CT-02  
+**Owner:** PCMDK369™  
+**Contact:** support.pcmdkai@gmail.com  
+**Edition:** 1.2 — 2026-11-22; expanded working workbook
+
+---
+
+## 1. Learner record
+
+- Learner:
+- Start date:
+- Editing application and version:
+- Operating system:
+- Available storage and backup location:
+- Project title:
+- Source footage ownership/license:
+- Consent or release records location:
+
+## 2. Chapter study notes
+
+For every chapter, record:
+- Main concept:
+- New terms and definitions:
+- Three facts I can explain:
+- One concept I need to practice:
+- Practical evidence saved at:
+- Questions for instructor/reviewer:
+
+## 3. Scene analysis worksheet
+
+| Field | Notes |
+|---|---|
+| Scene purpose | |
+| Main character objective | |
+| Conflict/obstacle | |
+| Beginning state | |
+| Ending state | |
+| Point of view | |
+| Audience knows | |
+| Audience does not yet know | |
+| Emotional progression | |
+| Key dramatic beats | |
+
+## 4. Beat sheet
+
+| Beat no. | Action/information | Emotional change | Shot needed | Source timecode | Selected take |
+|---:|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+
+## 5. Scene geography / axis worksheet
+
+- Main axis of action:
+- Character A initial screen position and facing:
+- Character B initial screen position and facing:
+- Movement directions:
+- Camera positions:
+- Any axis crossing:
+- How crossing is motivated or re-established:
+- Eyeline checks:
+- Diagram/photo evidence location:
+
+## 6. Coverage and selects log
+
+| Clip ID | Camera/angle | Shot size | Take | Source in/out | Dramatic function | Performance notes | Continuity risk |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+## 7. Continuity report
+
+| Timecode / edit | Spatial issue | Action/prop issue | Eyeline issue | Sound issue | Intentional? | Resolution |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+## 8. Pacing comparison
+
+| Moment | Version A duration | Version B duration | Effect on emotion/clarity | Preferred choice and reason |
+|---|---:|---:|---|---|
+| Opening | | | | |
+| Reveal | | | | |
+| Reaction | | | | |
+| Action | | | | |
+| Ending | | | | |
+
+### 8.1 Measurement basis and source record
+
+| Field | Learner record |
+|---|---|
+| Project / sequence ID | |
+| Intended audience and dramatic objective | |
+| Source IDs / selected ranges | |
+| Rights / permission record | |
+| Project frame rate or timebase | |
+| Sequence start / end and measured runtime | |
+| Shot-count convention (including transitions/overlays) | |
+| Duration unit and rounding rule | |
+| Version IDs and review dates | |
+
+Record the same sequence boundary and shot-count convention for every comparison. If the sequence contains dissolves, overlays or split-screen segments, state how they are counted. Do not silently change the convention between versions.
+
+### 8.2 Beat-to-duration decision log
+
+| Beat order / ID | Dramatic change | Audience information | Shot ID / source range | Internal rhythm or performance | Duration | Cut / hold reason | Review evidence |
+|---:|---|---|---|---|---:|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
+| 6 | | | | | | | |
+
+### 8.3 Shot-duration distribution and ASL
+
+ASL = total sequence duration ÷ number of shots. ASL is descriptive, not a quality score. Record individual shot durations, the shortest and longest shots, and a distribution or grouped range.
+
+| Version | Runtime | Shot count | ASL | Shortest shot | Longest shot | Duration distribution / notes |
+|---|---:|---:|---:|---:|---:|---|
+| A | | | | | | |
+| B | | | | | | |
+| Selected / hybrid | | | | | | |
+
+**Worked calculation — simulated:** An 18-second version with six shots has an ASL of 3 seconds. A second 18-second version with shot durations of 1, 1, 2, 4, 4 and 6 seconds also has an ASL of 3 seconds. The averages match, but the timing patterns do not. Explain what the distribution does to anticipation, comprehension and release.
+
+### 8.4 Controlled version comparison
+
+| Change ID | Shot / beat | Baseline duration | Test duration | Variable changed | Intended effect | Other factors held constant? | Decision / reason |
+|---|---|---:|---:|---|---|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+
+Where possible, change one primary variable at a time. If shot order, music, performance selection and duration all change together, record that their individual effects cannot be isolated.
+
+### 8.5 Neutral viewer-comprehension test
+
+Use at least two unbriefed viewers where feasible, preferably three. Show the version without explaining the intended effect. Record the exact responses before discussion.
+
+**Neutral prompts:**
+- What was the scene's main objective or question?
+- What changed, and when did you notice the change?
+- Which moment felt unclear, rushed or unnecessarily delayed?
+- What did you infer from the montage order?
+
+| Viewer ID / date | Version shown | Unprompted response | Key turn identified? | Unclear / rushed moment | Exact words / notes |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+**Interpretation:** A small convenience sample is formative evidence, not a statistically representative audience study. If fewer than two unbriefed viewers are available, state that limitation and label any peer review accordingly.
+
+### 8.6 Montage relationship cross-check
+
+Use Workbook Section 19 for the full adjacent-shot map and chronology ledger. At minimum, confirm:
+
+- [ ] Every selected shot has a source ID and an identifiable function.
+- [ ] Every important adjacent pair has a stated relationship.
+- [ ] Process order and elapsed time are supported by source evidence or disclosed as unknown.
+- [ ] Crosscutting does not imply unsupported simultaneity, cause or motive.
+- [ ] Music, titles and narration do not assert facts that the images cannot support.
+
+### 8.7 Pacing evidence completion check
+
+- [ ] Beat map includes at least five meaningful changes.
+- [ ] Both timing versions use the same stated measurement boundary and shot-count convention.
+- [ ] Per-shot durations, ASL, shortest/longest values and distribution are recorded.
+- [ ] At least three timing changes are documented with reasons.
+- [ ] Viewer prompts are neutral and responses are uncoached, or the limitation is explicit.
+- [ ] Selected version preserves the essential action, reaction and factual context.
+- [ ] Source media and earlier versions remain recoverable.
+- [ ] Rights, music permissions, accessibility and any AI-assisted/altered assets are documented.
+
+### 8.8 Guided practice evidence
+
+Complete this record alongside Lesson 05's three guided exercises. Mark paper-only or simulated work explicitly.
+
+**Exercise A — Beat first, duration second**
+
+| Beat ID | Observable change | Source ID / range or simulated label | Shot function | Proposed cut / hold | What the audience needs to notice | Uncertainty / next check |
+|---|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+
+**Exercise B — Same-ASL timing comparison**
+
+| Version | Shot 1 | Shot 2 | Shot 3 | Shot 4 | Shot 5 | Shot 6 | Runtime | ASL | Shortest / longest |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| A (simulated: 1, 1, 2, 4, 4, 6 s) | 1 | 1 | 2 | 4 | 4 | 6 | 18 s | 3 s | 1 s / 6 s |
+| B (simulated: 3, 3, 3, 3, 3, 3 s) | 3 | 3 | 3 | 3 | 3 | 3 | 18 s | 3 s | 3 s / 3 s |
+| Learner version | | | | | | | | | |
+
+- What does ASL reveal?
+- What does the duration distribution reveal that ASL hides?
+- Which beat receives more or less audience processing time?
+- What evidence is still required before choosing a preferred version?
+
+**Exercise C — Six-shot montage adjacency audit**
+
+| Shot order | Source ID / range or simulated label | Visible action / information | Shot function | Relationship to previous shot | Implied chronology / cause / simultaneity | Supported, unknown or revised |
+|---:|---|---|---|---|---|---|
+| 1 | | | | Opening context | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+**Peer review or limitation record**
+
+| Field | Record |
+|---|---|
+| Reviewer ID / date | |
+| Version shown | |
+| Neutral prompt used | |
+| Uncoached response | |
+| Confusing or rushed moment | |
+| Revision decision | |
+| If no review occurred, state “not conducted” | |
+
+**Guided-practice completion criteria**
+- [ ] Beat boundaries are supported by observable action, information or performance.
+- [ ] Both simulated or measured ASL calculations use the same stated runtime and shot-count basis.
+- [ ] The learner explains duration distribution and internal rhythm, not only the average.
+- [ ] Every montage adjacency has a stated relationship.
+- [ ] Unsupported chronology, simultaneity or causality is marked unknown or removed.
+- [ ] Peer feedback is genuine and uncoached, or review is marked not conducted.
+- [ ] Simulated and paper-only records are not represented as executed media tests.
+
+## 9. Multicamera sync record
+
+| Source | Camera/audio ID | Frame rate/sample rate | Sync method | Start check | Midpoint check | End check | Drift/action |
+|---|---|---|---|---|---|---|---|
+| A | | | | | | | |
+| B | | | | | | | |
+| Audio | | | | | | | |
+
+### 9.1 Project and authorization basis
+
+| Field | Learner record |
+|---|---|
+| Project / scene ID | |
+| Intended use and audience | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Confidential or personal information present? | |
+| Cloud processing permitted? | |
+| Original-media preservation location | |
+| Learner / operator / date | |
+| Evidence status: executed / simulated / paper-only | |
+
+### 9.2 Source inventory
+
+Retain original filenames. Give each continuous recording segment its own source ID.
+
+| Source ID | Original filename | Device / role | Duration | Frame rate / timebase | Audio format / channels | Timecode basis | Restart / gap / VFR note | Rights status |
+|---|---|---|---|---|---|---|---|---|
+| CAM-A-001 | | | | | | | | |
+| CAM-B-001 | | | | | | | | |
+| AUD-REC-001 | | | | | | | | |
+| Additional segment | | | | | | | | |
+
+Metadata source for each value: file metadata / camera report / slate / operator note / assumption / unknown.
+
+### 9.3 Synchronization decision
+
+| Question | Learner record |
+|---|---|
+| Source pair or group being synchronized | |
+| Chosen reference: verified timecode / slate-clap / waveform / visual event / manual estimate | |
+| Reference event and source range | |
+| Why this reference is suitable | |
+| Evidence location | |
+| Known limitations / ambiguity | |
+| Measurement precision | |
+| Initial alignment version or record ID | |
+
+### 9.4 Three-point event measurements
+
+Use the same physical event in each source. State the timebase. Relative offset is Source B event time minus Source A event time; positive means Source B is later.
+
+| Source A / Source B | Checkpoint | Event ID / description | Elapsed time (s) | Source A time | Source B time | Relative offset (frames or ms) | Confidence / notes |
+|---|---|---|---:|---|---|---:|---|
+| | Start | | | | | | |
+| | Middle | | | | | | |
+| | End | | | | | | |
+| | Additional / boundary | | | | | | |
+
+For a source with a stop/restart or split file, create a separate measurement set for each continuous segment. Do not interpolate across an unrecorded gap.
+
+### 9.5 Drift calculation and classification
+
+| Calculation field | Learner record |
+|---|---|
+| Start relative offset | |
+| End relative offset | |
+| Change in relative offset | |
+| Elapsed interval between checkpoints (s) | |
+| Drift rate = offset change ÷ elapsed interval | |
+| Approximate drift rate in ppm, if supported | |
+| Frame/timebase conversion used | |
+| Measurement uncertainty / additional checks needed | |
+| Classification: fixed offset / progressive drift / discontinuity / inconclusive | |
+| Diagnostic evidence and next action | |
+
+When frame counts are used, convert them to seconds using the verified timebase. Do not compare raw frame counts from different frame rates. A three-point estimate is not proof of perfectly linear drift.
+
+**Simulated calculation reference:** At a verified 25 fps, 0-frame offset at start, +2 frames at 12 minutes and +6 frames at 24 minutes represents a change of 0.24 seconds over 1,440 seconds, or approximately 167 ppm. This is fictional teaching data, not a universal correction value.
+
+### 9.6 Correction, rollback and retest log
+
+| Version | Observed issue | Evidence / diagnosis | Proposed action | Source / segment affected | Approval / decision owner | Retest at start/middle/end | Result / rollback |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+Preserve the pre-correction project. Record a no-change decision when the evidence is insufficient. Do not apply an unexplained speed change or resampling operation.
+
+### 9.7 Audio routing and source decision
+
+| Source / track | Role | Channels used | Quality observations | Sync / phase check | Decision: master / scratch / ambience / unused | Reason |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Intended dialogue/master source:
+- Camera scratch audio retained for reference?:
+- Duplicate audio/echo check:
+- Channel routing verified?:
+- Missing or uncertain audio:
+- Required isolated tracks or handoff notes:
+
+### 9.8 Editorial angle and continuity decision log
+
+| Sequence order / timeline reference | Source ID / source range | Angle / shot size | Dramatic beat or information function | Performance / reaction chronology | Geography / eyeline / screen direction | Audio source during cut | Decision rationale |
+|---:|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Do not use a reaction shot to imply an event or response that the source chronology does not support. Angle changes should clarify performance, information or geography.
+
+### 9.9 Validation and QC evidence
+
+| Test | Status: pass / fail / not tested / N/A | Evidence reference | Defect / limitation | Retest result |
+|---|---|---|---|---|
+| Source IDs map to original filenames | | | | |
+| Rights and consent checked | | | | |
+| Common sync event verified | | | | |
+| Start/middle/end measurements completed | | | | |
+| Restarts and discontinuities inspected | | | | |
+| Correction retested or no-change justified | | | | |
+| Intended audio source verified | | | | |
+| No unintended duplicate audio | | | | |
+| Angle changes preserve geography and chronology | | | | |
+| Project reopened in current environment | | | | |
+| Separate-location portability test, if claimed | | | | |
+| Actual review export inspected, if created | | | | |
+
+### 9.10 Project manifest and handoff
+
+| Relative path / filename | Asset type | Source ID / version | Required to reopen? | Rights / restriction note | Verified present? |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+- Application / edition / version or paper-only:
+- Operating system:
+- Project version / sequence ID:
+- Proxy relationships and relink instructions:
+- Plugins / fonts / LUTs / external assets:
+- Review export and written specification:
+- Known sync or media limitations:
+- Approval status and decision owner:
+- Restore/portability test: passed / failed / not tested:
+- Evidence folder or handoff location:
+
+### 9.11 Completion and evidence-integrity check
+
+- [ ] Every source and segment has a stable ID.
+- [ ] Original filenames and rights status are retained.
+- [ ] Sync method and reference event are documented.
+- [ ] Timebase, offset sign and measurement precision are stated.
+- [ ] Start, middle and end evidence is present for each continuous segment.
+- [ ] Drift, offset and discontinuity are not conflated.
+- [ ] Corrections are versioned, reversible and retested.
+- [ ] Audio and angle decisions have an editorial rationale.
+- [ ] Simulated, paper-only, executed and not-tested evidence is clearly distinguished.
+- [ ] No fabricated screenshot, timecode, metadata, approval or playback result is included.
+- [ ] Handoff dependencies and limitations are clear.
+
+
+
+## 10. Edit version log
+
+| Version | Date | Editor | Changes made | Reason/source of note | Approval/status |
+|---|---|---|---|---|---|
+| Assembly | | | | | |
+| Rough cut | | | | | |
+| Fine cut | | | | | |
+| Picture lock | | | | | |
+| Final | | | | | |
+
+## 11. Review notes
+
+A useful note includes sequence/version, timecode, observed issue, requested outcome and priority.
+
+| Version/timecode | Observation | Requested outcome | Priority | Clarification needed? | Status |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+## 12. Capstone submission checklist
+
+- [ ] Project brief and story summary.
+- [ ] Beat sheet.
+- [ ] Geography/axis diagram.
+- [ ] Source inventory and rights record.
+- [ ] Coverage/selects log.
+- [ ] Assembly sequence.
+- [ ] Rough cut sequence.
+- [ ] Fine cut sequence.
+- [ ] Final 3–5 minute master.
+- [ ] Sound and continuity notes.
+- [ ] Export specification.
+- [ ] QC report.
+- [ ] Version/change log.
+- [ ] Reflection and limitations.
+
+## 13. Self-assessment
+
+Score each area from 1 (not yet demonstrated) to 4 (independent and reliable).
+
+| Skill | 1 | 2 | 3 | 4 | Evidence / next action |
+|---|---:|---:|---:|---:|---|
+| Dramatic beat analysis | | | | | |
+| Scene geography | | | | | |
+| Screen direction and eyelines | | | | | |
+| Coverage selection | | | | | |
+| Performance continuity | | | | | |
+| Pacing and rhythm | | | | | |
+| Montage/crosscutting | | | | | |
+| Multicamera sync | | | | | |
+| Rough/fine cut workflow | | | | | |
+| Version control and notes | | | | | |
+| Finishing and QC | | | | | |
+| Rights and professional practice | | | | | |
+
+## 14. Final reflection
+
+1. What did the scene need the audience to understand?
+2. Which shot choice most affected the scene's meaning?
+3. What did you learn from comparing alternate takes?
+4. Which continuity issue required the most work?
+5. How did timing affect the emotional result?
+6. What changed between assembly and picture lock?
+7. What technical or creative limitations remain?
+8. What would you do differently on the next production?
+
+
+## 15. AI task suitability and risk record
+
+| Field | Learner record |
+|---|---|
+| Task and intended purpose | |
+| Source asset ID / permitted range | |
+| Asset owner / license | |
+| Participant consent / release | |
+| Personal or confidential data present? | |
+| Provider / tool / model version | |
+| Processing location / retention / reuse terms | |
+| Data minimization applied | |
+| Measurable acceptance criteria | |
+| Critical error categories | |
+| Human reviewer / decision owner | |
+| Stop condition | |
+| Manual fallback | |
+| Decision: approved / controlled / manual-only / prohibited | |
+
+## 16. AI test and provenance ledger
+
+| Source ID / time range | Tool/model/version/date | Settings or prompt | Raw output reference | Error category / severity | Human correction | Reviewer / approval |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+**Test record**
+- Reference data source:
+- Sample size and reason it is representative:
+- Critical errors:
+- Minor errors:
+- Acceptance threshold:
+- Result: pass / fail / inconclusive:
+- Re-test trigger:
+- Disclosure decision:
+- Retention/deletion decision:
+- Was this executed or simulated?
+
+## 17. Client scope, approval and feedback worksheet
+
+### Scope and acceptance matrix
+
+| Deliverable | Format/runtime/language | Acceptance criteria | Owner | Due date | Status |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+- Creative decision owner:
+- Factual/legal approver:
+- Final delivery approver:
+- Review rounds agreed:
+- Revision limits:
+- Exclusions:
+- Change-request route:
+- Rights/consent responsibility:
+- Accessibility requirements:
+
+### Feedback disposition log
+
+| Review version | Time reference | Original note / author | Type / priority | Clarification | Decision / owner | Status / rationale |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+Disposition values: accepted, rejected, deferred, clarification requested, duplicate, out-of-scope/change request.
+
+## 18. Handoff manifest, archive and restore record
+
+### Project manifest
+
+| Relative path / filename | Asset type | Source ID / version | Size | Rights/permission note | Checksum (if used) |
+|---|---|---|---:|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+### Dependency and portability check
+
+- Project/application/version:
+- Operating system:
+- Required media:
+- Proxy relationships:
+- Fonts/plugins/LUTs/templates:
+- Graphics/audio/captions:
+- Relink instructions:
+- Separate test location:
+- Project reopened successfully? yes / no / not tested
+- Representative sequence playback result:
+- Missing dependencies / limitations:
+
+### Archive register
+
+| Field | Record |
+|---|---|
+| Archive owner | |
+| Authorized contents | |
+| Primary archive location | |
+| Independent backup location(s) | |
+| Access list / permissions | |
+| Retention date / schedule source | |
+| Deletion authority | |
+| Manifest location | |
+| Checksum method and date | |
+| Restore-test date and environment | |
+| Restore result / missing dependencies | |
+| Next integrity review | |
+
+### Final professional handoff checklist
+
+- [ ] Scope and acceptance criteria recorded.
+- [ ] Final approval linked to exact version or status marked awaiting approval.
+- [ ] All notes dispositioned.
+- [ ] Rights, releases, credits and portfolio permissions checked.
+- [ ] Project and dependencies manifested.
+- [ ] Transfer verified where required.
+- [ ] Project reopened from a separate location or blocker documented.
+- [ ] Archive owner, access and retention recorded.
+- [ ] Restore test performed or explicitly marked planned.
+- [ ] No passwords, private links or access tokens included in the handoff.
+
+
+## 19. Montage, Crosscutting and Rhythm Map
+
+**Purpose:** Use this worksheet to plan and evaluate how adjacent images create progression, comparison, contrast or a factual inference. Complete it before finalizing a montage or a crosscut sequence. Use the separate Section 8 worksheet for shot-duration comparisons and ASL calculations.
+
+### 19.1 Montage brief
+
+| Planning question | Learner record |
+|---|---|
+| Sequence title / project ID | |
+| Intended audience | |
+| Central idea or change the sequence must communicate | |
+| What the audience should understand at the beginning | |
+| What the audience should understand at the end | |
+| Montage type: process / thematic / associative / rhythmic / parallel / other | |
+| Target duration and timing basis | |
+| Required facts, chronology or context that must be preserved | |
+| Source IDs and rights/consent record location | |
+| Sound plan: dialogue / production sound / effects / ambience / music / silence | |
+| Human reviewer or decision owner, if applicable | |
+
+Write the intended progression in one sentence. Avoid describing only the visual style; state what changes or what relationship the audience should infer.
+
+### 19.2 Adjacent-shot relationship map
+
+Use one row per selected shot. Record source timecodes separately from sequence duration. In the relationship column, explain why this shot follows the previous one; labels such as "looks good" or "matches the beat" are not sufficient on their own.
+
+| Order | Shot ID / source range | Sequence duration | Visible action or information | Function / progression stage | Relationship to previous shot | Time / place claim supported by source? | Sound and rights note |
+|---:|---|---:|---|---|---|---|---|
+| 1 | | | | Establish / question | Opening reference | Yes / No / Unknown | |
+| 2 | | | | Prepare / develop | | Yes / No / Unknown | |
+| 3 | | | | Detail / contrast | | Yes / No / Unknown | |
+| 4 | | | | Escalate / compare | | Yes / No / Unknown | |
+| 5 | | | | Turn / reveal | | Yes / No / Unknown | |
+| 6 | | | | Result / release | | Yes / No / Unknown | |
+
+**Worked planning example — fictional paper-lantern process montage**
+
+The following values are simulated teaching data, not footage measurements or a universal timing prescription.
+
+| Order | Shot | Duration | Function | Relationship to previous shot |
+|---:|---|---:|---|---|
+| 1 | Wide view of paper, frame and tools | 3 s | Establish materials and task | Establishes the process and its starting state |
+| 2 | Hands fold the first panel | 4 s | First action | Moves from the complete setup to the first transformation |
+| 3 | Close detail of a crease | 2 s | Emphasize precision | Isolates the detail that makes the previous action readable |
+| 4 | Hands join the folded panels | 3 s | Development | Shows the next causal step rather than repeating the fold |
+| 5 | Finished lantern is lifted into view | 4 s | Result | Reveals the accumulated result of the earlier steps |
+| 6 | Lantern is illuminated | 2 s | Release / final image | Adds a final state and visual contrast |
+
+**Illustrative calculation:** 18 seconds total ÷ 6 shots = 3 seconds ASL. The average does not describe the 2–4 second variation, the action inside each shot or whether the process is understandable. Review the complete progression at normal speed.
+
+### 19.3 Crosscutting and chronology ledger
+
+Use this table whenever alternating between locations, characters or event lines. If the source does not establish whether events are simultaneous, earlier or later, record **Unknown**. Do not let alternating edits imply a stronger temporal or causal relationship than the evidence supports.
+
+| Edit order | Story line A: event / source evidence | Story line B: event / source evidence | Verified relationship: same time / before / after / unknown | Editorial cue used | Risk of unsupported inference / correction |
+|---:|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+
+Before using parallel editing, answer:
+1. What evidence supports the relationship between the two event lines?
+2. Does the sequence imply simultaneity, causation, pursuit or a shared location?
+3. Is that inference supported, explicitly framed as uncertain, or avoided?
+4. What visual, dialogue, sound or title cue helps the audience understand a real time jump?
+
+### 19.4 Rhythm pattern map
+
+| Passage / shot range | Internal rhythm: change within shots | External rhythm: cut / duration pattern | Sound pattern | Intended audience effect | What review evidence will test the effect? |
+|---|---|---|---|---|---|
+| Opening | | | | Establish / orient | |
+| Development | | | | Build / compare | |
+| Escalation or contrast | | | | Intensify / interrupt | |
+| Turn or reveal | | | | Reframe / clarify | |
+| Ending | | | | Resolve / release / remain open | |
+
+Identify one pattern the sequence establishes and one point where it changes. Explain why the change is motivated by the story or subject rather than only by a musical beat.
+
+### 19.5 Review and reflection
+
+- What new information does each selected shot add?
+- Which adjacent pair creates the strongest comparison, contrast or causal step?
+- Where does the sequence need more time for recognition or emotional processing?
+- Where does it repeat information without adding meaning?
+- Does the rhythm remain intelligible when music is muted?
+- Does the edit imply a chronology or cause that the source does not establish?
+- What did a viewer understand after one viewing, and what remained unclear?
+- Which shot or transition would you revise first, and what evidence supports that decision?
+
+### 19.6 Completion check
+
+- [ ] Sequence objective and intended audience are stated.
+- [ ] Every selected shot has a source ID, source range and function.
+- [ ] Adjacent-shot relationships are explained.
+- [ ] The sequence has a recognizable beginning, development and ending or a justified alternative structure.
+- [ ] Crosscut chronology is verified or explicitly marked unknown.
+- [ ] Sound and music rights are recorded.
+- [ ] Rhythm includes purposeful variation rather than an unexamined repeated pattern.
+- [ ] Viewer comprehension and editorial rationale are documented.
+- [ ] Original media and prior versions remain recoverable.
+
+ 
+## 20. Dramatic Beats and Paper Edit Evidence
+
+Use this section with **CT-02 Lesson 01 — Dramatic Beats and the Paper Edit**. Complete it before opening an editing timeline where practical. If the exercise is paper-only, mark every execution field as “not executed”; do not imply that a timeline or render exists.
+
+### 20.1 Brief, source and authorization record
+
+| Field | Record |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Intended audience | |
+| Intended audience experience | |
+| Source asset IDs | |
+| Owner / license / permission | |
+| Participant consent / restrictions | |
+| Known chronology or factual constraints | |
+| Source frame rate / timebase, if known | |
+| Unknowns requiring confirmation | |
+
+**Authorization gate:** Do not use footage unless the learner created it or has permission for this exercise. Record restrictions on faces, voices, personal information, location, publication and AI/cloud processing. If permission is unclear, use a text-only simulation.
+
+### 20.2 Scene-state and objective map
+
+| Question | Evidence / answer |
+|---|---|
+| What is true at the beginning? | |
+| What does the main character want? | |
+| What obstacle or uncertainty exists? | |
+| What is the intended point of view? | |
+| What does the audience know at the start? | |
+| What changes by the end? | |
+| What remains unresolved? | |
+
+### 20.3 Beat evidence sheet
+
+| Beat no. | Before state | Trigger / action / information | After state | Beat label (verb + consequence) | Source asset and range | Confidence / uncertainty |
+|---:|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+| 7 | | | | | | |
+| 8 | | | | | | |
+
+**Boundary check:** Merge labels that describe the same continuing change. Split only when a new action, fact, tactic, decision or emotional direction is supported by source evidence.
+
+### 20.4 Audience-knowledge and point-of-view ledger
+
+| Beat | Character knowledge before/after | Audience knowledge before/after | Intended reveal, withholding or ambiguity | Could the cut imply unsupported knowledge? | Review decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+### 20.5 Coverage and selects review
+
+| Beat | Candidate asset / take | Shot size / angle | Source in/out | Performance detail | Continuity / sound risk | Selected / rejected / hold | Reason |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 20.6 Paper edit and transition rationale
+
+| Order | Beat | Selected source range | Intended cut point | Transition / audio bridge | What audience should understand | Editorial rationale |
+|---:|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+### 20.7 Chronology, integrity and gap register
+
+| Proposed change | Source chronology | Intended presentation | Possible factual implication | Approval / disclosure required? | Resolution |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+| Missing or uncertain coverage | What cannot be proven | Honest alternative / limitation note | Reviewer |
+|---|---|---|---|
+| | | | |
+| | | | |
+
+### 20.8 Viewer-comprehension and revision record
+
+| Viewer / date | Unprompted summary | Identified objective | Identified turning point | Misunderstanding / uncertainty | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+| Version | Specific problem | Change made | Evidence of improvement | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|
+| v01 | | | | | |
+| v02 | | | | | |
+
+### 20.9 Simulated worked example
+
+The following fictional training scenario demonstrates how to fill the worksheet; it is not a record of actual media.
+
+**Scene:** A courier offers a sealed envelope. The recipient refuses. The courier notices the recipient's name on the envelope and withdraws the offer.
+
+| Beat | Before → after | Evidence candidate | Decision |
+|---|---|---|---|
+| Arrival | Outside → inside the room | Wide master | Establish geography and the courier |
+| Offer | Envelope held → envelope placed | Medium shot | Preserve complete hand action |
+| Refusal | Recipient neutral → explicit refusal | Recipient single | Use the actual response from this exchange |
+| Recognition | Courier uncertain → courier recognizes something | Courier close-up | Do not add a readable insert unless the source contains it |
+| Reversal | Offer active → envelope withdrawn | Hand insert | Verify prop and hand continuity |
+| Consequence | Courier remains → courier exits | Wide master | Hold only as long as the exit contributes meaning |
+
+**Reviewer question:** Does the sequence establish that the name caused the withdrawal, or does it merely place recognition before the action? The answer depends on the actual source and performance. Record uncertainty rather than asserting a cause the footage does not support.
+
+### 20.10 Submission and completion check
+
+- [ ] Brief and authorization record complete.
+- [ ] Beginning state, objective and ending state stated.
+- [ ] Every major beat has before/trigger/after/evidence fields.
+- [ ] Beat labels describe changes rather than shots.
+- [ ] Source IDs and ranges are stable and traceable.
+- [ ] Audience knowledge and point of view are checked.
+- [ ] Performance and continuity risks are recorded.
+- [ ] Paper edit includes order, cut point and rationale.
+- [ ] Chronology, rights, consent and factual-integrity issues are disclosed.
+- [ ] Viewer test and revision evidence are included where possible.
+- [ ] Original media and earlier project versions are preserved.
+- [ ] Paper-only simulations are distinguished from executed edits.
+
+
+### 20.11 Lab 01 integration and evidence crosswalk
+
+Use this crosswalk for [CT-02 Lab 01 — Scene Breakdown, Coverage Map and Screen Geography](labs/lab-01-scene-breakdown-and-geography.md). It links the existing detailed lesson worksheets; it does not replace or duplicate them.
+
+| Lab 01 deliverable | Complete in this workbook | Minimum evidence |
+|---|---|---|
+| Brief, source and authorization | Section 20.1; Section 21.1; Section 23.1 | Project/scene ID, source IDs, permission, consent and restrictions |
+| Objective and dramatic beats | Sections 20.2–20.4 | Beginning/ending state, beat change, trigger, source range and audience knowledge |
+| Coverage and selects | Section 23.2–23.6 | Shot scale, angle, take, source range, function, performance and selection rationale |
+| Geography and axis | Section 21.2–21.5 | Top-down map, camera positions, axis side, subject positions and adjacent-shot checks |
+| Eyelines and movement | Section 21.4, 21.7 | Target, horizontal/vertical gaze, movement vector and uncertainty |
+| Paper edit / first assembly | Section 20.6; Section 21.6; Section 23.8 | Order, selected range, intended cut, beat function and version ID |
+| Viewer or reviewer evidence | Section 20.8; Section 21.8; Section 23.9 | Neutral prompt, unprompted response, sample limitation or “not conducted” |
+| Handoff and unresolved gaps | Section 20.10; Section 21.11; Section 23.12 | Missing coverage, accepted limitations, selected version and execution status |
+
+**Submission rule:** Complete only the records relevant to the actual scene. Mark unavailable evidence as unknown or not applicable with a reason. If the work is paper-only, do not complete timeline, export, reopen or playback fields as though those operations occurred. Use one consistent project/scene ID across Sections 20, 21 and 23.
+
+## 21. Scene Geography, Axis and Eyeline Evidence
+
+**Purpose:** Record the spatial model, camera positions, shot relationships and viewer-comprehension evidence for CT-02 Lesson 02. Use this section with authorized source footage or label every entry as a paper-only simulation.
+
+### 21.1 Brief, source and authorization record
+
+| Field | Entry |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Scene purpose and principal action | |
+| Source media IDs / ranges | |
+| Owner / license / permission reference | |
+| Consent / privacy restrictions | |
+| Known mirrored, rotated or reframed sources | |
+| Missing or uncertain source information | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+
+### 21.2 Geography diagram legend
+
+Draw or attach a top-down diagram. Include a text description so the diagram is not color-dependent.
+
+| Symbol / label | Meaning | Used? |
+|---|---|---|
+| A / B / C | Character or principal subject | |
+| CAM-01 etc. | Camera position and orientation | |
+| AX-1 | Primary axis of action | |
+| AX-2 | Secondary axis, if the action changes | |
+| → | Subject movement direction | |
+| D / W | Door / window | |
+| P-01 etc. | Continuity-critical prop | |
+| N | Neutral/on-axis camera position | |
+| X | Camera or subject crossing | |
+| ? | Uncertain / unverified geography | |
+
+**Diagram text description:**  
+Location landmarks:  
+Character start/end positions:  
+Primary axis and why it was selected:  
+Secondary axis or changed action, if any:  
+Entrances / exits:  
+Prop positions and hand states:  
+Camera positions and directions:  
+Uncertainties that must not be treated as facts:
+
+### 21.3 Camera and shot inventory
+
+| Shot ID | Source ID / range | Shot scale | Camera position | Axis side (A/B/neutral/moving) | Subject(s) | Notes / transforms |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+### 21.4 Shot-by-shot continuity matrix
+
+| Shot ID | Screen position | Body orientation | Eyeline target | Horizontal / vertical gaze | Movement vector | Action / prop state | Risk / decision |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 21.5 Adjacent-shot comparison and axis-crossing log
+
+| From → To | Position match | Eyeline match | Movement match | Action-state match | Axis change? | Evidence / repair decision |
+|---|---|---|---|---|---|---|
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+| | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ N/A | ☐ Yes ☐ No ☐ N/A | | |
+
+| Crossing ID | Cause (camera / subject / edit / unknown) | Intended meaning | Transition used | Source evidence | Viewer result |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+### 21.6 Two-version paper-edit / edit plan
+
+| Order | Safe version shot ID | Crossing version shot ID | Cut purpose | Spatial information added/changed | Source range / evidence |
+|---:|---|---|---|---|---|
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
+| 4 | | | | | |
+| 5 | | | | | |
+| 6 | | | | | |
+
+### 21.7 Eyeline target verification
+
+| Subject / shot | Claimed target | Evidence target exists | Relative height/distance plausible | Match shot | Confidence / uncertainty |
+|---|---|---|---|---|---|
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | | |
+
+### 21.8 Viewer-comprehension test
+
+**Neutral prompt:** “Describe where each person was, what they did and how they moved.” Do not show the diagram or explain the intended geography first.
+
+| Viewer ID / date | Unprompted description | Correct locations | Correct eyeline/target | Movement understood | Confusion / exact words | Revision decision |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+### 21.9 Worked example — simulated courier scene
+
+The following is fictional teaching data only.
+
+- Courier starts near the door; recipient sits behind a desk near the window.
+- The primary axis runs from courier to recipient across the desk.
+- A master establishes both people and the desk.
+- A courier medium continues the approach; a recipient single shows a look toward the courier/desk; an insert shows envelope placement.
+- An alternate camera across the axis is excluded from the continuity-safe version unless a transition makes the new relationship legible.
+- A neutral wide is tested as a possible re-establishing view; its usefulness must be judged in sequence, not assumed.
+
+**Reviewer question:** Does the chosen insert show the same hand, envelope orientation and action stage as the preceding shot? Record the source evidence before approving the cut.
+
+### 21.10 Rights, accessibility and integrity gates
+
+- [ ] Source ownership/license/permission is recorded.
+- [ ] Consent and privacy restrictions are respected.
+- [ ] Identifiable people, locations, voices and sensitive details are handled appropriately.
+- [ ] No inferred off-screen event is presented as proven.
+- [ ] Mirroring or other transforms are disclosed and checked for reversed text/details.
+- [ ] Diagram includes text labels and is not dependent on color alone.
+- [ ] Paper-only examples are labeled as simulations.
+- [ ] Original media and earlier project versions are preserved.
+
+### 21.11 Revision, evidence and submission checklist
+
+| Version | Problem observed | Shot pair / source | Change made | Viewer or QC evidence | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+
+- [ ] Geography diagram and text description complete.
+- [ ] Camera map and shot inventory complete.
+- [ ] Continuity matrix covers all relevant shots.
+- [ ] Axis crossings have documented reasons.
+- [ ] Safe and deliberate-crossing versions are separately identified.
+- [ ] Viewer test was uncoached and recorded.
+- [ ] Missing coverage and uncertainty are disclosed.
+- [ ] Assessment rubric and QC checklist are completed.
+- [ ] Executed work is distinguished from simulated/paper work.
+
+---
+
+## 22. Narrative Scene Capstone Evidence Pack
+
+Use this section as the central evidence index for the CT-02 Master / Professional Practice capstone. Keep source IDs and version IDs consistent. Do not enter fictional values as actual project evidence.
+
+### 22.1 Project brief and acceptance matrix
+
+| Field | Learner record |
+|---|---|
+| Project ID / title | |
+| Learner / editor | |
+| Scene duration target (3–5 min) | |
+| Audience / intended use | |
+| Dramatic objective and conflict | |
+| Beginning state / ending change | |
+| Source owner and authorization | |
+| Consent / release record location | |
+| Delivery formats and languages | |
+| Accessibility requirements | |
+| Technical specification source | |
+| Decision owner / approver | |
+| Exclusions / limitations | |
+
+| Acceptance ID | Requirement | Test method | Evidence location | Owner | Pass / Conditional / Fail |
+|---|---|---|---|---|---|
+| A-01 | Story objective and ending change are clear | Full-scene review | | | |
+| A-02 | Dialogue meaning and performance are preserved | Source comparison | | | |
+| A-03 | Geography and continuity are understandable | Shot/sample review | | | |
+| A-04 | Delivery matches written specification | File properties and playback | | | |
+| A-05 | Rights, consent and approval are documented | Record inspection | | | |
+
+### 22.2 Source, rights and preservation register
+
+| Asset ID | Filename / description | Source owner | License / permission basis | Consent / release | Restrictions | Original backup location | Approved use |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 22.3 Dramatic beat and audience-knowledge map
+
+| Beat | Before state | Trigger / action / information | After state | Character knowledge | Audience knowledge | Source ID / range | Editorial intention |
+|---:|---|---|---|---|---|---|---|
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| 4 | | | | | | | |
+| 5 | | | | | | | |
+| 6 | | | | | | | |
+
+### 22.4 Coverage, geography and continuity evidence
+
+| Beat | Candidate clip / take | Shot size / angle | Source in/out | Performance / handles | Screen direction / eyeline | Prop/action/wardrobe risk | Select decision and reason |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+- Primary axis:
+- Character positions and movement:
+- Camera positions and viewing directions:
+- Neutral/re-establishing shots:
+- Intentional axis crossings and motivation:
+- Unresolved geography risks:
+
+### 22.5 Editorial version and decision ledger
+
+| Stage | Version ID | Date | Runtime | Main decisions | Open issues | Reviewer / status | Evidence location |
+|---|---|---|---|---|---|---|---|
+| Assembly | | | | | | | |
+| Rough cut | | | | | | | |
+| Fine cut | | | | | | | |
+| Picture lock | | | | | | | |
+| Delivery master | | | | | | | |
+
+| Decision ID | Version / time reference | Alternatives considered | Decision and rationale | Source evidence | Downstream impact | Approver |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+### 22.6 Review notes and disposition
+
+| Note ID | Review version | Time reference | Original note | Category | Authority checked | Disposition | Reason / action | New version |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+| | | | | | | | | |
+
+Categories: objective defect, brief requirement, creative preference, unclear, conflicting, duplicate or out-of-scope. Preserve original wording and identify the authorized decision owner.
+
+### 22.7 Picture-lock and change-control record
+
+| Field | Record |
+|---|---|
+| Locked sequence / version ID | |
+| Runtime / frame rate / frame size | |
+| Approval authority | |
+| Approval date and evidence | |
+| Outstanding accepted limitations | |
+| Protected copy location | |
+
+| Change request ID | Requester / authority | Timecode / affected element | Reason | Picture/audio/caption/graphics impact | Schedule impact | Approval | New version / retest |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+
+### 22.8 Delivery specification and export record
+
+| Parameter | Required value | Actual value | Verification method | Pass / Fail / N/A |
+|---|---|---|---|---|
+| Container / extension | | | | |
+| Video codec / profile | | | | |
+| Frame size | | | | |
+| Frame rate / timebase | | | | |
+| Scan / field order | | | | |
+| Duration / start-end | | | | |
+| Color space / transfer | | | | |
+| Audio codec / sample rate | | | | |
+| Channel layout | | | | |
+| Loudness / peak requirement, if specified | | | | |
+| Caption/subtitle format, if specified | | | | |
+| Filename / version ID | | | | |
+
+### 22.9 Full-file QC and defect/retest log
+
+| QC check | Result | Evidence / time reference | Reviewer | Defect ID |
+|---|---|---|---|---|
+| Correct version and filename | | | | |
+| Complete playback from first to last frame | | | | |
+| No unintended black, frozen or flash frames | | | | |
+| Dialogue intelligibility and sync | | | | |
+| Correct audio channels and no unintended clipping | | | | |
+| Titles, spelling, credits and overlays | | | | |
+| Captions/subtitles and timing where required | | | | |
+| Actual file properties match specification | | | | |
+| Rights / consent / credits are present | | | | |
+| Project and dependencies are accounted for | | | | |
+
+| Defect ID | Severity | Description | Diagnosis | Correction | New export ID | Retest evidence | Closed by / date |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+### 22.10 Handoff, portability and archive record
+
+| Item | Included? | Location / ID | Restriction / note |
+|---|---|---|---|
+| Approved project file | | | |
+| Authorized source media / relink map | | | |
+| Graphics, fonts, LUTs, plugins or other dependencies | | | |
+| Media manifest / file identity record | | | |
+| Delivery master and derivatives | | | |
+| Rights, releases and credits | | | |
+| Version and change log | | | |
+| QC and approval record | | | |
+| Archive owner / access / retention date | | | |
+| Deletion authority / restrictions | | | |
+
+**Portability/restore evidence**
+- Separate destination used:
+- Date and environment:
+- Project reopened:
+- Media relink result:
+- Missing or non-transferable dependencies:
+- Restore result: Pass / Fail / Not tested
+- If not tested, state clearly: restore not demonstrated.
+
+### 22.11 Capstone reflection and reviewer decision
+
+**Learner reflection (500–800 words):**
+- Most consequential editorial decision and source evidence:
+- Rejected alternative and reason:
+- Performance/continuity/pacing challenge:
+- Feedback that changed the edit:
+- Post-lock change, if any:
+- Delivery defect discovered by full-file inspection:
+- Limitations and claims that cannot be made:
+- Next improvement:
+
+**Reviewer record**
+- Learner / project:
+- Reviewer / date:
+- Version IDs reviewed:
+- Rubric score /100:
+- Mandatory rights/source-preservation/approval/delivery gates:
+- Remediation required:
+- Final decision: Pass / Remediation required / Not demonstrated.
+
+### 22.12 Submission integrity checklist
+
+- [ ] Brief and acceptance criteria are approved or clearly marked provisional.
+- [ ] Every source asset has an authorization and restriction record.
+- [ ] Originals are preserved.
+- [ ] Major beats and selected shots trace to source IDs/ranges.
+- [ ] Assembly, rough cut, fine cut and lock IDs are distinguishable.
+- [ ] Review notes and decision authority are recorded.
+- [ ] Post-lock changes have approval and regression checks.
+- [ ] Actual export is inspected from beginning to end.
+- [ ] Technical properties are compared with the written specification.
+- [ ] Defects and retests are traceable to versions.
+- [ ] Project dependencies and handoff restrictions are documented.
+- [ ] Simulated, paper-only, unexecuted and untested evidence is labeled accurately.
+- [ ] Reflection and reviewer decision are retained.
+
+
+---
+
+### 22.13 Capstone rubric scoring and moderation
+
+Use the canonical nine-criterion rubric in the CT-02 capstone README. Record a score only when the cited evidence is available. Rights, consent, source preservation, authorized approval and truthful delivery/QC are mandatory gates, not compensating point categories.
+
+| Criterion | Maximum | Score | Evidence artifact / version / source reference | Reviewer note |
+|---|---:|---:|---|---|
+| Dramatic structure and clarity | 15 | | | |
+| Screen direction and scene geography | 15 | | | |
+| Coverage and performance selection | 15 | | | |
+| Continuity and match on action | 15 | | | |
+| Pacing and emotional rhythm | 10 | | | |
+| Audio/dialogue and synchronization | 10 | | | |
+| Picture lock and version governance | 5 | | | |
+| Technical delivery and quality control | 10 | | | |
+| Project organization and reflection | 5 | | | |
+| **Total** | **100** | | | |
+
+**Performance band used:** Strong / Competent / Developing / Not Demonstrated.
+
+**Mandatory gates:**
+- [ ] Source rights, consent and permitted use verified.
+- [ ] Original media preserved; no destructive overwrite.
+- [ ] Approval authority and exact picture-lock version identified.
+- [ ] Actual delivered file inspected against the written specification.
+- [ ] Complete playback and any defect/retest evidence recorded.
+- [ ] Simulated, paper-only and unexecuted evidence labeled honestly.
+
+**Reviewer decision:** Pass (80/100 or higher and all gates passed) / Remediation Required / Hold / Not Demonstrated.
+
+**Moderation note:** Cite the artifact and version for deductions or holds. Resolve reviewer disagreement by comparing evidence and recording the rationale; do not silently average scores. For assessment-attempt scoring and remediation, continue in [Section 26 — Knowledge Assessment Blueprint, Scoring and Remediation](#26-knowledge-assessment-blueprint-scoring-and-remediation).
+
+
+## 23. Coverage, Performance and Editorial Decision Evidence
+
+Use this section with CT-02 Lesson 03. Complete it with authorized footage or label all fictional records as a paper-only simulation. Do not treat a blank field as proof that an action, reaction or source range exists.
+
+### 23.1 Project scope and authorization
+
+| Field | Learner record |
+|---|---|
+| Project / scene ID | |
+| Learner / date | |
+| Scene objective and intended audience | |
+| Source media IDs / storage reference | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Restrictions on editing, disclosure or cloud processing | |
+| In-scope cameras / angles / takes | |
+| Project frame rate / timebase, if known | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+| Original-media preservation location | |
+
+### 23.2 Source and take inventory
+
+| Source ID | Scene | Camera / angle | Shot size | Take | Source duration / range | Handles | Technical / continuity notes |
+|---|---|---|---|---:|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+**Inventory reconciliation**
+- Total in-scope takes:
+- Takes reviewed in full:
+- Takes not reviewed and reason:
+- Source identity or timecode uncertainties:
+- Missing coverage / pickups required:
+- Proxy/optimized-media relationship, if applicable:
+- Are source IDs stable and traceable? ☐ Yes ☐ No
+
+### 23.3 Beat-to-coverage map
+
+| Beat ID | Dramatic change / information need | Primary source ID / range | Alternate source ID / range | Shot function | Performance evidence | Coverage gap / risk |
+|---|---|---|---|---|---|---|
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
+| 4 | | | | | | |
+| 5 | | | | | | |
+| 6 | | | | | | |
+
+### 23.4 Performance observation log
+
+Record visible/audible evidence before interpreting it.
+
+| Source ID / range | Observable behavior (what is seen/heard) | Possible interpretation (qualified) | Beat / trigger | Editorial relevance | Confidence / uncertainty |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Prompts for observation:
+- posture and body orientation;
+- gaze direction and change;
+- hand/prop gesture and movement phase;
+- breath, pause and silence;
+- vocal pace, emphasis, overlap and clarity;
+- listening response;
+- emotional preparation, trigger, response and after-state;
+- background movement and interaction.
+
+### 23.5 Five-dimension take comparison
+
+**Model used:** ☐ Suggested Lesson 03 weights ☐ Instructor/production model (attach weights)
+
+| Dimension | Suggested weight | Rating 1–5 | Weighted points | Evidence / note |
+|---|---:|---:|---:|---|
+| Dramatic value | 30 | | | |
+| Performance | 25 | | | |
+| Continuity | 20 | | | |
+| Technical usability | 15 | | | |
+| Editorial function | 10 | | | |
+| **Total** | **100** | | | |
+
+Formula: weighted points = (rating ÷ 5) × dimension weight.
+
+| Candidate source ID | Dramatic | Performance | Continuity | Technical | Function | Total /100 | Critical gate result |
+|---|---:|---:|---:|---:|---:|---:|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+**Critical gate review**
+- [ ] Source authorization and consent are valid.
+- [ ] Factual chronology is not misrepresented.
+- [ ] Critical action/prop/geography continuity is resolved.
+- [ ] Essential dialogue or visual information is verifiable.
+- [ ] Known technical defects are documented.
+- [ ] Required approval is recorded.
+- Held/rejected candidate and reason:
+- Accepted technical compromise and approval:
+- Why the numerical score does not determine the final choice:
+
+### 23.6 Selects reel / paper selects order
+
+| Select ID | Source ID / take | Source in/out | Handles | Beat / function | Performance note | Technical risk | Decision (use/hold/reject) |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+### 23.7 Reaction, insert and chronology verification
+
+| Candidate shot | Event it appears to respond to / clarify | Source chronology verified? | Eyeline/spatial relation verified? | Prop/action state verified? | Risk / decision |
+|---|---|---|---|---|---|
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+| | | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | ☐ Yes ☐ No ☐ Unknown | |
+
+### 23.8 Two-version comparison
+
+| Field | Performance-led version | Coverage-led version |
+|---|---|---|
+| Version ID / date | | |
+| Hypothesis | | |
+| Source ranges / boundary | | |
+| Main shot strategy | | |
+| Master/two-shot use | | |
+| Reaction / insert use | | |
+| Main performance benefit | | |
+| Main continuity/technical risk | | |
+| Intended audience effect | | |
+
+| Comparison point | Version A | Version B | Evidence / decision |
+|---|---|---|---|
+| Scene objective clear? | | | |
+| Key beat understood? | | | |
+| Performance feels continuous? | | | |
+| Geography and eyelines clear? | | | |
+| Any misleading reaction or chronology? | | | |
+| Redundant or missing shot? | | | |
+| Preferred version and reason | | | |
+
+### 23.9 Viewer / reviewer comprehension record
+
+Use a neutral prompt without explaining the intended emotional reading.
+
+Suggested prompts:
+- “What changed in the scene?”
+- “Which moment made that change clear?”
+- “Did any reaction or action feel out of sequence?”
+- “Was there a shot that added no new information?”
+
+| Viewer/reviewer ID / date | Version shown | Unprompted response | Key beat understood? | Confusion / exact words | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+State sample size and limitations. A small convenience sample is formative evidence, not representative audience research. If no viewer test occurred, record “not conducted.”
+
+### 23.10 Coverage-gap and pickup record
+
+| Missing information/action | Beat affected | Search performed / sources checked | Editorial impact | Proposed remedy | Approval / status |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+Do not invent a shot, reaction, prop state or event to fill a gap. Record whether the remedy is an alternate source, an authorized pickup, a truthful restructure or an accepted limitation.
+
+### 23.11 Rights, accessibility and integrity gates
+
+- [ ] Footage is original, licensed or explicitly authorized.
+- [ ] Participant consent and restrictions are recorded.
+- [ ] No confidential source was sent to an unapproved cloud/AI service.
+- [ ] Performance observations are separated from assumptions about identity or internal state.
+- [ ] Reaction timing does not falsely imply knowledge or chronology.
+- [ ] Factual/documentary edits follow the applicable editorial policy.
+- [ ] Tables and labels do not rely on color alone.
+- [ ] Simulated and paper-only examples are labeled.
+- [ ] Original media and earlier edit versions are preserved.
+
+### 23.12 Revision and handoff record
+
+| Version | Issue / source pair | Change made | Rationale | QC/reviewer evidence | Side effects checked | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+| v03 | | | | | | |
+
+**Handoff**
+- Selected version ID:
+- Rejected alternatives and reasons:
+- Accepted compromises:
+- Unresolved coverage gaps:
+- Decisions requiring director/client approval:
+- Evidence location:
+- Simulated, unexecuted or untested items:
+
+
+## 24. Continuity Editing and Match on Action Evidence
+
+Use this section for an executed edit or a clearly labeled paper-only simulation. Do not enter invented source timecodes, consent records, viewer results or technical measurements. Mark unknown values as unknown and identify the evidence source.
+
+### 24.1 Brief, authorization and project basis
+
+| Field | Record |
+|---|---|
+| Learner / reviewer / date | |
+| Project / scene ID | |
+| Intended audience understanding | |
+| Scene objective and action in observable language | |
+| Source media IDs and storage reference | |
+| Source owner / license / permission | |
+| Participant consent / release reference | |
+| Restrictions on disclosure, editing or cloud processing | |
+| Editing application/version, if used | |
+| Operating system and project frame rate/timebase | |
+| Work type | ☐ Executed edit ☐ Paper-only simulation |
+| Original-media preservation location | |
+| Backup / rollback reference | |
+
+### 24.2 Source and angle inventory
+
+| Source ID | Camera / angle | Take | Source duration / range | Frame rate / timebase | Same take or separate take? | Handles | Metadata uncertainty |
+|---|---|---:|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Inventory reconciliation:
+- Total sources in scope:
+- Sources reviewed in full:
+- Sources not reviewed and reason:
+- Source identity/timecode uncertainties:
+- Missing coverage or pickup required:
+- Proxy/original relationship, if applicable:
+- Source authorization verified by / date:
+
+### 24.3 Action-state and event-anchor map
+
+Describe what is observable. Do not use inferred thoughts as frame-level anchors.
+
+| Action ID | Phase | Observable event anchor | Source ID / range | Source time basis | Confidence / uncertainty | Evidence note |
+|---|---|---|---|---|---|---|
+| | Preparation | | | | | |
+| | Initiation | | | | | |
+| | Travel | | | | | |
+| | Contact | | | | | |
+| | Manipulation / transfer | | | | | |
+| | Release | | | | | |
+| | Completion | | | | | |
+| | Reaction | | | | | |
+
+Remove phases that do not apply. Add action-specific states when necessary.
+
+### 24.4 Geography, direction and eyeline
+
+| Shot ID | Camera side / axis | Actor position / facing | Movement vector | Eyeline target | Object / set relationship | Re-establishing cue |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Scene axis reference:
+- Screen-direction convention:
+- Any axis crossing and how it is motivated/re-established:
+- Geography uncertainty / missing establishing view:
+
+### 24.5 Continuity matrix
+
+Use one row per proposed edit boundary. Mark not applicable only with a reason.
+
+| Boundary ID | Outgoing source / range | Incoming source / range | Story chronology | Spatial / axis | Action phase / direction | Performance / eyeline | Prop / wardrobe | Sound / sync | Decision / issue |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+
+### 24.6 Match-on-action candidate comparison
+
+| Candidate | Outgoing source / last frame | Incoming source / first frame | Event anchor | Action state before / after | Repeated or skipped movement? | Normal-speed result | Decision |
+|---|---|---|---|---|---|---|---|
+| A | | | | | | | |
+| B | | | | | | | |
+| C | | | | | | | |
+
+Selected boundary:
+- Reason for selection:
+- Rejected alternatives and reason:
+- Frame-step verification performed? ☐ Yes ☐ No ☐ Not applicable
+- Normal-speed playback performed? ☐ Yes ☐ No ☐ Not applicable
+- If not performed, state why and label the evidence as paper-only/unverified:
+
+### 24.7 Prop, wardrobe and performance checks
+
+| Source / boundary | Observable prop state | Body / hand / gaze state | Wardrobe state | Performance observation | Interpretation kept separate? | Defect / accepted limitation |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+Do not infer internal emotion or intention from a single gesture without supporting context. Record any reaction shot's source chronology and whether the person could perceive the triggering event.
+
+### 24.8 Sound-continuity and audio-bridge plan
+
+| Sound ID / source | Type (dialogue / production / room tone / effect / music) | Event ownership / rights | In / out / bridge point | J-cut / L-cut / continuous bed | Sync / duplication check | Approval / limitation |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+
+- Room-tone source and location:
+- Contact or handling event used once:
+- Any missing sound or replacement requirement:
+- Sound-only review performed? ☐ Yes ☐ No
+- Any sound that could imply an unsupported event/location:
+
+### 24.9 Intentional discontinuity and ellipsis record
+
+| Field | Record |
+|---|---|
+| Discontinuity type | ☐ Jump cut ☐ Ellipsis ☐ Fragmentation ☐ Other |
+| Intended audience effect | |
+| Narrative / formal reason | |
+| Cue that makes the discontinuity legible | |
+| Comprehension or factual risk | |
+| Continuous alternative considered | |
+| Source support / chronology check | |
+| Required approval and status | |
+| Decision / accepted limitation | |
+
+### 24.10 Neutral review and revision log
+
+Use neutral prompts such as “What happened?”, “Did any action repeat or disappear?” and “Did a reaction seem out of order?” Do not explain the intended answer before review.
+
+| Reviewer ID / date | Version shown | Unprompted description | Confusing boundary / exact words | Sample size / limitation | Revision decision |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+
+If no viewer/reviewer session occurred, record “not conducted.” A small convenience sample is formative feedback, not representative audience research.
+
+| Version | Boundary / issue | Change made | Rationale | Side effects checked | QC evidence | Reviewer / date |
+|---|---|---|---|---|---|---|
+| v01 | | | | | | |
+| v02 | | | | | | |
+| v03 | | | | | | |
+
+### 24.11 Defect, retest and handoff checklist
+
+- [ ] Source media are authorized and originals preserved.
+- [ ] Source IDs, time basis, frame rate and uncertainty are recorded.
+- [ ] Action anchors are observable and source-supported.
+- [ ] Geography, axis, direction and eyelines are legible.
+- [ ] No essential action is accidentally repeated or skipped.
+- [ ] Prop, wardrobe and performance states are plausible.
+- [ ] Reaction chronology does not imply unsupported knowledge or causation.
+- [ ] Sound event ownership, sync, room tone and bridges are checked.
+- [ ] Intentional discontinuity has a stated purpose and cue.
+- [ ] Neighboring cuts and the complete sequence are rechecked after changes.
+- [ ] Rights, consent, privacy and accessibility checks are recorded.
+- [ ] Simulated, paper-only, unexecuted and unverified work is clearly labeled.
+
+| Defect ID | Severity / impact | Boundary / source | Correction | Retest performed / result | Accepted limitation / approval |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+Handoff:
+- Selected version ID:
+- Project and media dependencies:
+- Application/version and project settings:
+- Unresolved issues:
+- Accepted compromises and approver:
+- Evidence location:
+- Restore/rollback reference:
+- Items not executed or not verified:
+
+
+---
+
+
+### 24.12 Lab 02 acceptance and evidence crosswalk
+
+Use this crosswalk with [CT-02 Lab 02 — Continuity Editing and Match on Action](labs/lab-02-continuity-and-match-on-action.md). It maps the existing records in this section to the professional lab's acceptance tests; it does not create a new numbered workbook section.
+
+| Lab acceptance requirement | Workbook evidence | Test / status |
+|---|---|---|
+| Source identity, rights and original preservation | 24.1–24.2 | T01 — Executed / Paper-only / Not Run |
+| Observable action states and source time basis | 24.3 | T02 — Executed / Paper-only / Not Run |
+| Story chronology and reaction integrity | 24.3, 24.7, 24.9 | T03 — Executed / Paper-only / Not Run |
+| Camera side, geography and eyelines | 24.4 | T04 — Executed / Paper-only / Not Run |
+| At least two candidate boundary comparisons | 24.5–24.6 | T05 — Executed / Paper-only / Not Run |
+| Performance and prop/wardrobe continuity | 24.5, 24.7 | T06–T07 — Executed / Paper-only / Not Run |
+| Sound ownership, sync and bridges | 24.8 | T08 — Executed / Paper-only / Not Run |
+| Normal-speed playback and frame diagnosis | 24.6, 24.10 | T09–T10 — Executed / Not Run |
+| Neutral reviewer comprehension | 24.10 | T11 — Conducted / Not conducted |
+| Defect correction, regression and handoff | 24.10–24.11 | T12 — Executed / Not Run |
+
+#### Boundary-level evidence record
+
+Complete one row per boundary. Keep source frame labels local to each source unless a verified common synchronization basis exists.
+
+| Boundary ID | Outgoing source/range | Incoming source/range | Simultaneous or separate takes? | Event anchor | Action phase before → after | Candidate decision | Normal-speed result / status |
+|---|---|---|---|---|---|---|---|
+| B01 | | | | | | | |
+| B02 | | | | | | | |
+| B03 | | | | | | | |
+| B04 | | | | | | | |
+| B05 | | | | | | | |
+
+#### Evidence status vocabulary
+
+- **Executed:** the named test was performed on the identified source/project/version; record the evidence location and result.
+- **Paper-only:** reasoning or planning was completed without the relevant media/software operation.
+- **Simulated:** values or observations are fictional instructional data.
+- **Not Run:** the test was not performed.
+- **Not Verified:** an operation may have occurred, but no adequate evidence is available.
+- **Not Applicable:** the test does not apply; give a reason.
+
+Do not use “Pass” without a test method and result. A screenshot alone does not prove full playback or audience comprehension. A paper-only plan cannot receive credit for an executed edit, sound-only review or rendered-file test.
+
+#### Lab 02 scoring crosswalk
+
+| Rubric category | Points | Workbook evidence |
+|---|---:|---|
+| Source inventory, rights and preservation | 10 | 24.1–24.2 |
+| Action-state and event-anchor analysis | 15 | 24.3 |
+| Geography, axis, movement and eyelines | 15 | 24.4 |
+| Match-on-action candidate evaluation | 15 | 24.5–24.6 |
+| Performance and factual integrity | 10 | 24.7, 24.9 |
+| Prop, wardrobe and physical plausibility | 10 | 24.7 |
+| Sound continuity | 10 | 24.8 |
+| Testing, defect/retest and evidence quality | 10 | 24.10–24.11 |
+| Handoff and version control | 5 | 24.1, 24.10–24.11 |
+| **Total** | **100** | |
+
+The original 25-point formative checkpoint in Lab 02 is separate. Do not add the two rubrics together.
+
+
+## 25. Picture Lock, Finishing and Quality-Control Evidence
+
+Use this section with Lab 04 and textbook Chapter 10. Record actual observations only after performing the relevant check. If an exercise is paper-only, simulated, unavailable or not run, label it explicitly. Do not invent approvals, metadata, screenshots, checksums, playback or transfer evidence.
+
+### 25.1 Project, brief and environment
+
+| Field | Record |
+|---|---|
+| Learner / reviewer / date | |
+| Project / scene ID | |
+| Client / exercise / recipient | |
+| Delivery purpose / platform / territory | |
+| Specification issuer / revision / date | |
+| Work type | ☐ Executed ☐ Paper-only ☐ Simulated |
+| NLE / edition / version | |
+| Operating system / hardware | |
+| Player / version | |
+| Metadata, audio, caption or checksum tools / versions | |
+| Source preservation location | |
+| Backup / rollback reference | |
+
+### 25.2 Delivery specification matrix
+
+Create one row for every required field. Copy values from the authoritative brief; do not substitute assumed defaults.
+
+| Requirement ID | Field | Exact value / tolerance | Source clause / revision | Verification method | Owner | Status / evidence |
+|---|---|---|---|---|---|---|
+| | Container | | | | | |
+| | Video codec/profile | | | | | |
+| | Dimensions / aspect ratio | | | | | |
+| | Frame rate / scan mode / timebase | | | | | |
+| | Duration / tolerance | | | | | |
+| | Color properties / range | | | | | |
+| | Audio codec / sample rate / channels | | | | | |
+| | Loudness / peak requirement, if specified | | | | | |
+| | Caption format / language | | | | | |
+| | Naming / version / variant | | | | | |
+| | File size / transfer / access | | | | | |
+| | Other contractual requirement | | | | | |
+
+Specification readiness:
+- Contradictory or missing requirements:
+- Clarification requested from / date:
+- Response / revised specification:
+- Provisional exercise assumptions, if any:
+- Approved by / date:
+
+### 25.3 Source, dependency and rights inventory
+
+| Asset ID | Type | File / source identity | Owner / license / consent | Restrictions / cloud-processing rule | Required for delivery? | Included / relink / excluded |
+|---|---|---|---|---|---|---|
+| | Picture | | | | | |
+| | Dialogue / production sound | | | | | |
+| | Music / effects | | | | | |
+| | Graphics / logo / font | | | | | |
+| | Caption / transcript | | | | | |
+| | LUT / plugin / template | | | | | |
+
+- Originals preserved at:
+- Proxy/original mapping:
+- Missing or restricted dependency:
+- Rights reviewer / date:
+- Unauthorized or uncertain asset hold:
+
+### 25.4 Picture-lock and approval record
+
+| Field | Record |
+|---|---|
+| Project / scene | |
+| Sequence ID | |
+| Version ID | |
+| Sequence frame rate / timebase | |
+| Dimensions / audio layout | |
+| Duration | |
+| Approval authority and role | |
+| Approval date/time and method | |
+| Exact reference file or location | |
+| Open issues / accepted exceptions | |
+| Lock protection / backup method | |
+
+Lock decision: ☐ Approved for finishing ☐ Conditional ☐ Hold  
+Conditions, owner and due date:
+
+### 25.5 Post-lock change request and impact log
+
+| Request ID | Requester / date | Locked version / timecode | Reason / proposed change | Approval authority / decision | Affected departments / outputs | New version ID | Regression checks |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Downstream impact checklist:
+- [ ] Conform / source relink
+- [ ] Sound mix / dialogue / effects
+- [ ] Music timing / cue sheet
+- [ ] VFX / graphics / titles / credits
+- [ ] Color / reframing / effects
+- [ ] Captions / subtitles / localization
+- [ ] Runtime / derivatives / alternate versions
+- [ ] Delivery schedule / approval / archive
+
+### 25.6 Conform and turnover verification
+
+| Check | Reference | Observed result | Discrepancy / risk | Decision / owner | Evidence |
+|---|---|---|---|---|---|
+| Sequence/version identity | | | | | |
+| Source ID / reel / clip names | | | | | |
+| Proxy/original mapping | | | | | |
+| Frame rate / timebase / dimensions | | | | | |
+| Edit points / handles / transitions | | | | | |
+| Speed changes / reframes / effects | | | | | |
+| Audio links / sync | | | | | |
+| Fonts / graphics / LUTs / plugins | | | | | |
+| Beginning / middle / end reference comparison | | | | | |
+| High-risk edits / VFX / titles | | | | | |
+
+Conform status: ☐ Pass ☐ Fail ☐ Conditional ☐ Not Run  
+Unresolved differences and approval:
+
+### 25.7 Finishing-pass evidence
+
+| Pass | Requirement / focus | Method / tool and version | Result | Timecode / evidence location | Reviewer / date |
+|---|---|---|---|---|---|
+| Editorial | Version, order, gaps, duplicate shots, runtime | | | | |
+| Picture | Focus, exposure, color, crop, scaling, artifacts | | | | |
+| Audio | Dialogue, sync, channels, clipping, specified measurements | | | | |
+| Titles / graphics | Spelling, names, dates, safe placement, version | | | | |
+| Captions / subtitles | Language, accuracy, timing, format, placement | | | | |
+| Accessibility | Required accessible deliverables | | | | |
+| Rights / privacy | License, consent, disclosure, restrictions | | | | |
+| Technical | Codec, container, dimensions, rate, streams, metadata | | | | |
+| Delivery | Naming, manifest, access, transfer | | | | |
+
+### 25.8 Export attempt and artifact identity log
+
+| Attempt ID | Sequence/version | Output filename | Export application/version | Date/time | Actual file size | Metadata evidence | Status |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+For each candidate, record actual values:
+
+| Property | Required | Candidate 01 | Candidate 02 | Verification source |
+|---|---|---|---|---|
+| Container | | | | |
+| Video codec/profile | | | | |
+| Dimensions | | | | |
+| Frame rate / scan / timebase | | | | |
+| Duration | | | | |
+| Color properties | | | | |
+| Audio codec / sample rate | | | | |
+| Channel count / layout | | | | |
+| Captions / sidecar / stream | | | | |
+| Filename / version / variant | | | | |
+
+A candidate is not accepted merely because an export dialog closed or a preset name appears correct.
+
+### 25.9 Full-file playback record
+
+| Candidate / version | Player / version | Start checked | Middle checked | End checked | Entire file completed? | Picture result | Audio result | Reviewer / date |
+|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |
+| | | | | | | | | |
+
+- Playback interruptions / ranges not inspected:
+- Channels listened to separately:
+- Caption/graphics review completed:
+- If full playback was not performed, state the reason and mark QC incomplete.
+
+### 25.10 Defect severity, correction and retest
+
+| Defect ID | Severity | Candidate / timecode / property | Requirement | Observed failure | Owner / cause | Correction / new version | Retest / regression result |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Severity guidance:
+- Critical: rights/consent breach, wrong/untraceable master, unreadable/corrupt delivery, destructive source loss or knowingly false compliance/evidence. Hold delivery.
+- Major: required specification failure, missing channel, material sync error, missing required caption/language, wrong runtime/version or substantial defect. Correct and retest before acceptance.
+- Minor: limited issue that does not prevent use but violates a stated requirement or quality expectation. Record and obtain an authorized disposition.
+- Observation: non-blocking preference or suggestion, not a failed requirement.
+
+Accepted exception:
+- Requirement and defect:
+- Risk and impact:
+- Authorized approver / date:
+- Scope and expiry/variant:
+- Recipient informed:
+
+### 25.11 Manifest, transfer, access and archive
+
+| Item ID | Filename / package | Version | Size | Purpose | Rights / restrictions | Recipient access | Transfer result |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+
+Checksum record, if used:
+- Algorithm:
+- Utility / version:
+- Source file identity:
+- Calculated date/time:
+- Destination file identity:
+- Match result:
+- Note: checksum equality verifies the checked bytes, not content correctness or QC.
+
+Archive / restore:
+- Archive location / owner:
+- Retention instruction supplied by:
+- Separate-copy restore attempted? ☐ Yes ☐ No
+- Restore environment / version:
+- Missing dependencies / errors:
+- Actual result / evidence:
+- If not attempted, record Not Run.
+
+### 25.12 Worked evidence example — simulated stereo mismatch
+
+| Field | Simulated record |
+|---|---|
+| Sequence | SCENE-A v006 |
+| Requirement | Two-channel stereo |
+| Candidate 01 observation | Metadata indicates one channel |
+| Decision | Fail audio-layout test; hold candidate |
+| Correction | Review authorized routing and create a new export candidate |
+| Candidate 02 observation | Metadata reports two channels; each channel is listened to |
+| Remaining tests | Full playback, captions, picture, rights, filename and handoff |
+| Evidence status | Simulated; no media was rendered or inspected |
+
+Do not copy the simulated result into an actual project record.
+
+### 25.13 Handoff and acceptance sign-off
+
+- Approved sequence/version:
+- Delivery specification revision:
+- Delivered files and variants:
+- Project/interchange and dependency list:
+- Rights/consent and disclosure restrictions:
+- QC report and unresolved defects:
+- Accepted exceptions and approver:
+- Transfer recipient / date / receipt:
+- Checksum evidence, if used:
+- Portability/restore status:
+- Archive/retention instruction:
+- Editor / reviewer / authorized approver:
+
+Final decision: ☐ Accepted ☐ Conditional ☐ Rejected ☐ Not Evaluated
+
+### 25.14 Evidence-integrity and completion check
+
+- [ ] Every actual result is tied to a version and evidence location.
+- [ ] Simulated examples are not represented as production measurements.
+- [ ] Paper-only work is not represented as an executed edit.
+- [ ] Not Run and Not Verified are not converted into Pass.
+- [ ] Approvals identify the actual authority and exact version.
+- [ ] Failed exports and prior approved versions remain traceable.
+- [ ] Full-file playback is claimed only when completed.
+- [ ] Metadata, checksum, transfer and restore claims identify the method and version.
+- [ ] Rights, consent, privacy, accessibility and recipient restrictions are recorded.
+- [ ] Final handoff and acceptance decision are attributable.
+
+Learner reflection: Which defect posed the greatest delivery risk, what evidence identified it, and what regression checks were necessary after correction?
+
+## 26. Knowledge Assessment Blueprint, Scoring and Remediation
+
+Use this section with the CT-02 Knowledge Assessment and Answer Guidance. Keep the written assessment score separate from the narrative-scene capstone score. The written assessment pass threshold is 70/100 plus at least 21/30 on Part D and all critical gates passed. The capstone threshold is 80/100 plus its own mandatory gates.
+
+### 26.1 Learner and attempt record
+
+| Field | Record |
+|---|---|
+| Learner / ID | |
+| Assessment attempt | |
+| Date / assessor | |
+| Approved accommodation or response method, if applicable | |
+| Written assessment duration (Parts A–C) | |
+| Evidence portfolio review date | |
+| Evidence version IDs / artifact locations | |
+
+### 26.2 Assessment blueprint
+
+| Part | Points | Coverage | Evidence type |
+|---|---:|---|---|
+| A — Q1–Q10 | 20 | Core terminology and principles from Lessons 01–10 | Closed-notes multiple choice |
+| B — Q11–Q15 | 20 | Story/plot, axis, performance, synchronization and handoff | Short answer |
+| C — Q16–Q18 | 30 | Eyeline diagnosis, drift, post-lock change and AI risk | Scenario analysis |
+| D — Labs 01–04 | 30 | Planning, continuity, multicamera sync and finishing/QC | Practical evidence review |
+| **Total** | **100** | | |
+
+### 26.3 Score record
+
+| Part | Maximum | Score | Evidence / item notes |
+|---|---:|---:|---|
+| A — Multiple choice | 20 | | |
+| B — Short answer | 20 | | |
+| C — Scenario analysis | 30 | | |
+| D — Practical evidence | 30 | | |
+| **Total** | **100** | | |
+
+**Part D subscore record**
+
+| Lab | Maximum | Score | Required evidence reviewed | Not demonstrated / remediation |
+|---|---:|---:|---|---|
+| Lab 01 — Scene breakdown/geography | 8 | | | |
+| Lab 02 — Continuity/match on action | 7 | | | |
+| Lab 03 — Multicamera synchronization | 7 | | | |
+| Lab 04 — Picture lock/finishing/QC | 8 | | | |
+| **Total Part D** | **30** | | | |
+
+### 26.4 Critical-gate record
+
+| Gate | Pass / Hold / N/A | Evidence and reviewer note |
+|---|---|---|
+| Source rights and consent are documented | | |
+| Original media is preserved | | |
+| Factual/performance meaning is not fabricated or misleading | | |
+| AI/cloud processing, if used, is authorized and privacy/provider terms are checked | | |
+| Approval is attributed to the correct authority and version | | |
+| Technical claims match inspected evidence | | |
+| Export/QC pass is claimed only after actual-file inspection | | |
+
+If a critical gate fails, the numeric total cannot produce a pass. Record Hold or Remediation Required and identify the condition that must be resolved.
+
+### 26.5 Remediation and reassessment log
+
+| Attempt / date | Failed item or criterion | Linked lesson/lab | Required correction or study | New evidence/version ID | Retest result | Assessor / decision |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+Preserve earlier attempts and scores. A revised practical artifact must have a new version ID and repeat affected checks, including regression checks where a change may affect other outputs.
+
+### 26.6 Accessibility and evidence-integrity record
+
+- Approved alternative response method, if any:
+- Accessible format supplied:
+- Construct being assessed remains unchanged:
+- Paper-only or simulated work clearly labeled:
+- Unexecuted operations marked Not Demonstrated:
+- Confidential or personal data excluded unless authorized:
+
+### 26.7 Final assessment decision
+
+- Written + practical total: ____ / 100
+- Part D: ____ / 30 (minimum 21)
+- Critical gates: Pass / Hold
+- Decision: Pass / Remediation Required / Hold / Not Demonstrated
+- Feedback provided:
+- Next practice target:
+- Assessor / date:
+
+**Integrity rule:** Do not invent a score, approval, screenshot, source timecode, export property, playback result, portability test, learner submission or reviewer identity. A planned check is not an executed check.

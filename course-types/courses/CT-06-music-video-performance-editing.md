@@ -3,37 +3,37 @@
 **Course ID:** CT-06  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable music video & performance editing skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop music-video and performance-editing competence through musical structure, sync, multicamera continuity, visual storytelling, rights management and professional delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will map song structure, synchronize source recordings, select performance angles, shape rhythm, develop visual motifs, govern creative versions, assess AI tools and deliver rights-cleared exports.
 
-## Curriculum modules
-1. Beat and bar structure
-2. waveform sync
-3. multicamera performance
-4. rhythm
-5. match cuts
-6. speed changes
-7. visual motifs
-8. effects restraint
-9. lyric and platform versions.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Music video brief, audio rights and structure](CT-06/lessons/lesson-01-music-video-brief-audio-rights-and-structure.md) | Brief, music rights and song map |
+| Beginner / Intermediate | [02 — Waveform sync and beat mapping](CT-06/lessons/lesson-02-waveform-sync-and-beat-mapping.md) | Sync, transients and markers |
+| Intermediate | [03 — Multicamera performance and continuity](CT-06/lessons/lesson-03-multicamera-performance-and-continuity.md) | Angle selection and sync |
+| Advanced | [04 — Rhythm, match cuts and speed control](CT-06/lessons/lesson-04-rhythm-match-cuts-and-speed-control.md) | Rhythmic editing and retiming |
+| Expert | [05 — Visual motifs, effects and lyric integration](CT-06/lessons/lesson-05-visual-motifs-effects-and-lyric-integration.md) | Visual concept and typography |
+| Master | [06 — Performance direction and versioning](CT-06/lessons/lesson-06-master-performance-direction-and-versioning.md) | Creative governance and derivatives |
+| AI & Automation | [07 — AI-assisted music-video workflows and rights](CT-06/lessons/lesson-07-ai-assisted-music-video-workflows-and-rights.md) | Responsible AI and likeness rights |
+| Professional Practice | [08 — Professional delivery and portfolio](CT-06/lessons/lesson-08-professional-music-video-delivery-and-portfolio.md) | Rights, sync QC and handoff |
 
-## Practical capstone
-Edit a 60–120 second music performance sequence synchronized to licensed audio.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Multicamera performance sync and edit](CT-06/labs/lab-01-multicamera-performance-sync-and-edit.md)
+- [Lab 02 — Sync drift and music rights audit](CT-06/labs/lab-02-sync-drift-and-music-rights-audit.md)
+- [Knowledge assessment and answer key](CT-06/assessment-quiz-and-answer-key.md)
+- [Music-video/performance capstone](CT-06/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a current NLE with waveform display, synchronized/multicamera editing, retiming and graphics. Record application/version and verify exact workflows in official documentation. Rights for composition, recording, performers, footage, artwork and lyrics may be separate.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit the lab and capstone, meet mandatory music/likeness rights and sync gates, and provide a traceable delivery package. Suggested capstone pass: 80/100. Independent review and learner execution evidence remain required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, two professional labs, one knowledge assessment and one capstone brief are present. Formal academic, rights and technical review, software execution and learner validation remain outstanding; course is not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.

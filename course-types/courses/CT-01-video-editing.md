@@ -86,10 +86,26 @@ These practical tracks map CT-01's transferable editing principles to real tools
 - [x] AI & automation lesson authored.
 - [x] Professional-practice delivery/QC lesson authored.
 - [x] Initial software implementation labs authored for Resolve, Premiere Pro, CapCut Mobile and FFmpeg; version/edition limitations documented.
-- [ ] Full 60–90 second capstone asset pack, learner submission and assessor feedback templates.
+- [x] Capstone brief, source-pack requirements, learner submission manifest, assessor rubric and feedback template authored.
 - [ ] Final course-wide technical and editorial review.
 
-**Status:** Core learning sequence authored through Professional Practice. CT-01 remains in development until software labs, capstone resources and final review are completed.
+**Status: Authored — 14 detailed lessons, four software implementation labs, one knowledge assessment, a capstone assessment pack, textbook manuscript and student workbook.** Chapters 10–15 are integrated into the main textbook; the separate supplement remains as a reference copy. Independent academic/editorial review, software-version execution and final validation remain outstanding; CT-01 is not marked complete.
 
 ## Course status
-Core lesson sequence authored from Foundation through Professional Practice, including intermediate, advanced, expert, master and AI-assisted workflows. CT-01 is not yet complete: software implementation labs, full capstone resources and final course review remain.
+Fourteen stage-mapped lessons and four software labs are present. The textbook, student workbook and capstone pack are authored; textbook supplement integration, software execution evidence and independent review remain.
+
+
+## PCMDK369™ academic and professional development requirements
+This course is governed by the repository-wide [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), mandatory for all 30 course types. Apply the [academic lesson template](../../templates/academic-lesson-template.md) to every full lesson, the [professional lab template](../../templates/professional-lab-template.md) to every software/practical implementation lab, and the [assessment rubric template](../../templates/assessment-rubric-template.md) to every graded task. Preserve this course's discipline-specific outcomes and workflow; do not replace subject expertise with generic template text.
+
+Every level must include measurable outcomes, definitions, theory, verified tools and alternatives, reproducible procedures, worked examples, guided and independent practice, troubleshooting, assessment evidence and quality checks. Software-specific material must state platform/version and expected outputs. The AI & Automation stage must include human review, provenance, consent and limitations where applicable. Professional Practice must cover delivery, documentation, rights, accessibility, handoff and portfolio-quality work. Course completion requires all required resources and documented review; an outline alone is not completion.
+
+
+## Complete textbook and student notes
+The course now includes substantive learner-facing book material, not only online references:
+- [CT-01 Complete Academic Textbook & Practical Study Notes](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK.md) — full instructional chapters with explanations, examples, practice, chapter notes and answer guidance. Chapters 1–15 are now integrated into the main continuous manuscript; independent editorial review remains.
+- [CT-01 Textbook Supplement — Chapters 10–15](CT-01/CT-01-VIDEO-EDITING-TEXTBOOK-CHAPTERS-10-15.md) — advanced multicamera, professional workflow, master capstone, AI/automation, delivery/QC and portfolio practice chapters; now integrated into the main textbook and retained as a supplement/reference copy.
+- [CT-01 Student Notes, Practical Workbook & Revision Journal](CT-01/CT-01-STUDENT-NOTES-WORKBOOK.md) — structured study notes, technical-property tables, practical logs, shot logs, feedback records, QC sheets and capstone checklist.
+- [CT-01 Capstone Asset and Assessment Pack](CT-01/capstone/README.md) — source-pack requirements, deliverables, folder model, submission manifest, assessor rubric and feedback record.
+
+These materials are the primary learner study resources. External links are supplementary references only and must never substitute for authored course content.

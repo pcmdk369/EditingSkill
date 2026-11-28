@@ -3,37 +3,37 @@
 **Course ID:** CT-10  
 **Pathway:** Foundation → Beginner → Intermediate → Advanced → Expert → Master → AI & Automation → Professional Practice
 
-## Course purpose
-Develop practical, transferable product & e-commerce image editing skills using a tool-independent workflow and a suitable software track.
+## Purpose and outcomes
+Develop accurate, scalable product-imaging workflows for catalogs and e-commerce, including background isolation, color matching, compositing, SKU validation, visual systems, AI review and delivery.
 
-## Learning outcomes
-By completion, learners should be able to plan the work, select appropriate tools, execute a repeatable workflow, solve common problems, evaluate quality, and deliver organized editable source files and final exports.
+Learners will interpret product specifications, map assets to variants, preserve product truth, create clean masks, match color/material, process catalogs, evaluate AI outputs and deliver traceable packages.
 
-## Curriculum modules
-1. Color accuracy
-2. background removal
-3. edge refinement
-4. shadow creation
-5. dust cleanup
-6. perspective
-7. batch consistency
-8. catalog ratios
-9. web optimization.
+## Eight-stage curriculum
+| Stage | Lesson | Focus |
+|---|---|---|
+| Foundation / Beginner | [01 — Product brief, color accuracy and catalog rules](CT-10/lessons/lesson-01-product-image-brief-color-accuracy-and-catalog-rules.md) | SKU and source requirements |
+| Beginner / Intermediate | [02 — Background removal and edge quality](CT-10/lessons/lesson-02-background-removal-selections-and-edge-quality.md) | Masks and transparency |
+| Intermediate | [03 — Product color correction and variant matching](CT-10/lessons/lesson-03-product-color-correction-and-variant-matching.md) | Color/material fidelity |
+| Advanced | [04 — Shadow, reflection and compositing](CT-10/lessons/lesson-04-advanced-shadow-reflection-and-compositing.md) | Realistic grounding |
+| Expert | [05 — Catalog consistency and SKU validation](CT-10/lessons/lesson-05-expert-catalog-consistency-batch-and-sku-validation.md) | Batch process and reconciliation |
+| Master | [06 — E-commerce visual system and conversion integrity](CT-10/lessons/lesson-06-master-ecommerce-visual-system-and-conversion-integrity.md) | Buyer clarity and visual direction |
+| AI & Automation | [07 — AI product imaging and variant safety](CT-10/lessons/lesson-07-ai-assisted-product-imaging-and-variant-safety.md) | Provenance and product truth |
+| Professional Practice | [08 — E-commerce delivery, catalog QA and archive](CT-10/lessons/lesson-08-professional-ecommerce-delivery-returns-and-archive.md) | Rights, manifest and updates |
 
-## Practical capstone
-Create a consistent five-image product listing set with a documented color workflow.
-
-## Assessment
-- Knowledge check on terminology, workflow and technical fundamentals.
-- Guided exercises demonstrating core operations.
-- Independent project assessed for creative quality, technical accuracy, organization and delivery.
-- Short explanation of creative decisions, limitations and rights considerations.
+## Practical resources
+- [Lab 01 — Product variant catalog and QC](CT-10/labs/lab-01-product-variant-catalog-and-qc.md)
+- [Lab 02 — SKU image reconciliation and catalog release](CT-10/labs/lab-02-sku-image-reconciliation-and-catalog-release.md)
+- [Knowledge assessment and answer key](CT-10/assessment-quiz-and-answer-key.md)
+- [Professional product catalog capstone](CT-10/capstone/README.md)
 
 ## Software track
-Choose a currently supported application appropriate to the task. Learn the underlying concepts first, then map each operation to the selected software. Verify current feature names and version differences before publishing software-specific steps.
+Use a raster editor/RAW processor and catalog spreadsheet. Verify current marketplace/client requirements, output dimensions, profile and image rules. Do not assume product imagery rules are identical across platforms.
 
-## Required lesson format
-Use the shared lesson template: definition, purpose, prerequisites, terminology, tools, procedure, worked example, practice, common errors, assessment, project and quality check.
+## Completion requirements
+Pass the 50-point assessment, submit the catalog lab and capstone, meet product/variant accuracy and rights gates, and provide an auditable delivery package. Suggested capstone pass: 80/100. Independent review and learner execution evidence are required.
 
 ## Course status
-Course outline established. Detailed lesson scripts, practice assets, quizzes and answer keys are to be authored and verified progressively.
+**Authored — eight-stage pathway and practical assessment pack.** Eight detailed lessons, one professional lab, one knowledge assessment and one capstone brief are present. Independent marketplace, color-management and technical review and actual software validation remain outstanding; not marked reviewed, validated or complete.
+
+## PCMDK369™ standard
+Governed by the [Professional Developer & Academic Course Standard](../../standards/PCMDK369-PROFESSIONAL-ACADEMIC-STANDARD.md), using shared lesson, lab and assessment templates.
