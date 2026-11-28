@@ -47,6 +47,9 @@ Use the shared lesson template: definition, purpose, prerequisites, terminology,
 - [Workbook Section 23 — Coverage, Performance and Editorial Decision Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#23-coverage-performance-and-editorial-decision-evidence)
 - [Workbook Section 24 — Continuity Editing and Match on Action Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#24-continuity-editing-and-match-on-action-evidence)
 - [Workbook Section 25 — Picture Lock, Finishing and Quality-Control Evidence](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#25-picture-lock-finishing-and-quality-control-evidence)
+- [Workbook Section 26 — Knowledge Assessment Blueprint, Scoring and Remediation](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#26-knowledge-assessment-blueprint-scoring-and-remediation)
+- [Workbook Section 22.13 — Capstone Rubric Scoring and Moderation](CT-02/CT-02-STUDENT-NOTES-WORKBOOK.md#2213-capstone-rubric-scoring-and-moderation)
+
 
 The textbook and workbook are the primary learner resources. External references, when added, are supplementary and do not replace authored teaching material.
 
@@ -77,7 +80,7 @@ Lessons 01–10 have authored lesson files. Lessons 01–10 have expanded academ
 - [CT-02 Narrative Scene Capstone](CT-02/capstone/README.md)
 
 ## Course status
-**Authored — textbook (13 chapters), student workbook (25 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 01–04 have professional-lab revision 2.0 (2026-11-26, 2026-11-27, 2026-11-24 and 2026-11-25 respectively). All four labs remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding.
+**Authored — textbook (13 chapters), student workbook (26 sections), ten expanded academic lessons, four practical labs, one knowledge assessment and one narrative-scene capstone brief.** Labs 01–04 have professional-lab revision 2.0 (2026-11-26, 2026-11-27, 2026-11-24 and 2026-11-25 respectively). All four labs remain unexecuted. CT-02 is content-authored at the planned lesson sequence level, but is not yet independently reviewed, technically validated or complete. Exact-version software execution, real practice-media/project validation, independent academic/editorial/accessibility/rights/privacy review, assessment review and learner capstone evidence remain outstanding. The knowledge assessment uses a 70/100 threshold plus a 21/30 practical-evidence minimum; the capstone uses a separate 80/100 threshold and mandatory gates.
 
 
 ## Practical lab development record — 2026-11-24
@@ -212,3 +215,11 @@ Every level must include measurable outcomes, definitions, theory, verified tool
 - Added a measurable professional brief, prerequisites/environment, source rights and evidence integrity, project architecture, continuity theory, tool alternatives, 50-step reproducible procedure, simulated separate-take worked example, annotated dry run, five guided exercises, independent assignment, defect severity, validation matrix, troubleshooting/rollback, portability, handoff, 100-point rubric, answer guidance and QC.
 - Added textbook Chapter 4 subsections 4.19–4.25 and Workbook Section 24.12 as an acceptance/evidence crosswalk. Workbook remains 25 numbered sections.
 - Procedures are tool-independent. No NLE, footage, timeline, audio mix, playback, viewer session, render or export was executed. CT-02 remains authored / review pending.
+
+## Assessment and capstone alignment — 2026-11-28
+
+- Added a dedicated prerequisite/readiness section to Lesson 01 revision 2.1; its existing header prerequisites were retained.
+- Expanded the knowledge assessment with an outcome blueprint, item-level scoring, practical-lab subcriteria, a Part D minimum, critical gates and remediation/reassessment records.
+- Expanded the capstone README with measurable outcomes and prerequisites, nine criterion-level performance descriptors, scoring guidance and moderation. Reconciled textbook Chapter 12 to the same nine criteria and 80/100 capstone threshold.
+- Added Workbook Section 22.13 for capstone scoring/moderation and Section 26 for the assessment blueprint, score record, critical gates and remediation. The knowledge-assessment threshold (70/100 plus 21/30 Part D) is distinct from the capstone threshold (80/100).
+- These are authored assessment specifications. No learner assessment, capstone submission, NLE execution, media export or independent review was performed.
