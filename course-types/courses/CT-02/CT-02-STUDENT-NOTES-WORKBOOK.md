@@ -1210,6 +1210,38 @@ Categories: objective defect, brief requirement, creative preference, unclear, c
 
 ---
 
+### 22.13 Capstone rubric scoring and moderation
+
+Use the canonical nine-criterion rubric in the CT-02 capstone README. Record a score only when the cited evidence is available. Rights, consent, source preservation, authorized approval and truthful delivery/QC are mandatory gates, not compensating point categories.
+
+| Criterion | Maximum | Score | Evidence artifact / version / source reference | Reviewer note |
+|---|---:|---:|---|---|
+| Dramatic structure and clarity | 15 | | | |
+| Screen direction and scene geography | 15 | | | |
+| Coverage and performance selection | 15 | | | |
+| Continuity and match on action | 15 | | | |
+| Pacing and emotional rhythm | 10 | | | |
+| Audio/dialogue and synchronization | 10 | | | |
+| Picture lock and version governance | 5 | | | |
+| Technical delivery and quality control | 10 | | | |
+| Project organization and reflection | 5 | | | |
+| **Total** | **100** | | | |
+
+**Performance band used:** Strong / Competent / Developing / Not Demonstrated.
+
+**Mandatory gates:**
+- [ ] Source rights, consent and permitted use verified.
+- [ ] Original media preserved; no destructive overwrite.
+- [ ] Approval authority and exact picture-lock version identified.
+- [ ] Actual delivered file inspected against the written specification.
+- [ ] Complete playback and any defect/retest evidence recorded.
+- [ ] Simulated, paper-only and unexecuted evidence labeled honestly.
+
+**Reviewer decision:** Pass (80/100 or higher and all gates passed) / Remediation Required / Hold / Not Demonstrated.
+
+**Moderation note:** Cite the artifact and version for deductions or holds. Resolve reviewer disagreement by comparing evidence and recording the rationale; do not silently average scores. For assessment-attempt scoring and remediation, continue in [Section 26 — Knowledge Assessment Blueprint, Scoring and Remediation](#26-knowledge-assessment-blueprint-scoring-and-remediation).
+
+
 ## 23. Coverage, Performance and Editorial Decision Evidence
 
 Use this section with CT-02 Lesson 03. Complete it with authorized footage or label all fictional records as a paper-only simulation. Do not treat a blank field as proof that an action, reaction or source range exists.
@@ -1920,3 +1952,93 @@ Final decision: ☐ Accepted ☐ Conditional ☐ Rejected ☐ Not Evaluated
 - [ ] Final handoff and acceptance decision are attributable.
 
 Learner reflection: Which defect posed the greatest delivery risk, what evidence identified it, and what regression checks were necessary after correction?
+
+## 26. Knowledge Assessment Blueprint, Scoring and Remediation
+
+Use this section with the CT-02 Knowledge Assessment and Answer Guidance. Keep the written assessment score separate from the narrative-scene capstone score. The written assessment pass threshold is 70/100 plus at least 21/30 on Part D and all critical gates passed. The capstone threshold is 80/100 plus its own mandatory gates.
+
+### 26.1 Learner and attempt record
+
+| Field | Record |
+|---|---|
+| Learner / ID | |
+| Assessment attempt | |
+| Date / assessor | |
+| Approved accommodation or response method, if applicable | |
+| Written assessment duration (Parts A–C) | |
+| Evidence portfolio review date | |
+| Evidence version IDs / artifact locations | |
+
+### 26.2 Assessment blueprint
+
+| Part | Points | Coverage | Evidence type |
+|---|---:|---|---|
+| A — Q1–Q10 | 20 | Core terminology and principles from Lessons 01–10 | Closed-notes multiple choice |
+| B — Q11–Q15 | 20 | Story/plot, axis, performance, synchronization and handoff | Short answer |
+| C — Q16–Q18 | 30 | Eyeline diagnosis, drift, post-lock change and AI risk | Scenario analysis |
+| D — Labs 01–04 | 30 | Planning, continuity, multicamera sync and finishing/QC | Practical evidence review |
+| **Total** | **100** | | |
+
+### 26.3 Score record
+
+| Part | Maximum | Score | Evidence / item notes |
+|---|---:|---:|---|
+| A — Multiple choice | 20 | | |
+| B — Short answer | 20 | | |
+| C — Scenario analysis | 30 | | |
+| D — Practical evidence | 30 | | |
+| **Total** | **100** | | |
+
+**Part D subscore record**
+
+| Lab | Maximum | Score | Required evidence reviewed | Not demonstrated / remediation |
+|---|---:|---:|---|---|
+| Lab 01 — Scene breakdown/geography | 8 | | | |
+| Lab 02 — Continuity/match on action | 7 | | | |
+| Lab 03 — Multicamera synchronization | 7 | | | |
+| Lab 04 — Picture lock/finishing/QC | 8 | | | |
+| **Total Part D** | **30** | | | |
+
+### 26.4 Critical-gate record
+
+| Gate | Pass / Hold / N/A | Evidence and reviewer note |
+|---|---|---|
+| Source rights and consent are documented | | |
+| Original media is preserved | | |
+| Factual/performance meaning is not fabricated or misleading | | |
+| AI/cloud processing, if used, is authorized and privacy/provider terms are checked | | |
+| Approval is attributed to the correct authority and version | | |
+| Technical claims match inspected evidence | | |
+| Export/QC pass is claimed only after actual-file inspection | | |
+
+If a critical gate fails, the numeric total cannot produce a pass. Record Hold or Remediation Required and identify the condition that must be resolved.
+
+### 26.5 Remediation and reassessment log
+
+| Attempt / date | Failed item or criterion | Linked lesson/lab | Required correction or study | New evidence/version ID | Retest result | Assessor / decision |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+| | | | | | | |
+
+Preserve earlier attempts and scores. A revised practical artifact must have a new version ID and repeat affected checks, including regression checks where a change may affect other outputs.
+
+### 26.6 Accessibility and evidence-integrity record
+
+- Approved alternative response method, if any:
+- Accessible format supplied:
+- Construct being assessed remains unchanged:
+- Paper-only or simulated work clearly labeled:
+- Unexecuted operations marked Not Demonstrated:
+- Confidential or personal data excluded unless authorized:
+
+### 26.7 Final assessment decision
+
+- Written + practical total: ____ / 100
+- Part D: ____ / 30 (minimum 21)
+- Critical gates: Pass / Hold
+- Decision: Pass / Remediation Required / Hold / Not Demonstrated
+- Feedback provided:
+- Next practice target:
+- Assessor / date:
+
+**Integrity rule:** Do not invent a score, approval, screenshot, source timecode, export property, playback result, portability test, learner submission or reviewer identity. A planned check is not an executed check.
