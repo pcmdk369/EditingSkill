@@ -5,7 +5,7 @@
 - Estimated time: 3–4 hours
 - Prerequisites: Basic understanding of a scene, shot and timeline; no specific NLE required
 - Tools/environment: Notebook or spreadsheet; any NLE for the optional assembly; original or licensed footage
-- Version/review date: 2.0 — 2026-11-19
+- Version/review date: 2.1 — 2026-11-28
 
 ## Learning outcomes
 By the end, learners can:
@@ -14,6 +14,32 @@ By the end, learners can:
 - distinguish story information from shot coverage;
 - create a paper edit that maps beats to available shots;
 - justify editorial choices without inventing events or misleading chronology.
+
+## Prerequisites and readiness check
+
+The prerequisite statement in the lesson header is the entry requirement. Use this section to check readiness before beginning the paper edit.
+
+**Required prior knowledge**
+- Recognize the difference between a scene, a recorded shot/take and an edit version. If these terms are unfamiliar, review the definitions in this lesson before completing the exercise.
+- Describe a character's immediate objective or, for observational/non-fiction material, describe the observable subject or question without inventing motive.
+- Distinguish a source-media reference from a timeline position. If exact source ranges are unavailable, record the uncertainty rather than inventing timecodes.
+- No prior non-linear editing application (NLE) experience is required.
+
+**Materials and access**
+- This lesson, a notebook or spreadsheet, and the CT-02 workbook Section 20.
+- Optional: original or properly authorized footage and any NLE. A text-only fictional exercise is an acceptable planning alternative.
+- Do not upload confidential, personal or unreleased media to a cloud or AI service unless the owner has authorized that specific processing and the service terms have been checked.
+
+**Readiness check**
+1. Can you state what changes between the beginning and end of a short scene?
+2. Can you identify one observable action or piece of information that causes a change?
+3. Can you distinguish a source asset/range from the place where it would appear in an edit?
+4. Can you identify whether the material is learner-created, authorized or only a fictional practice example?
+5. Can you separate an observable performance detail from an interpretation about what a character feels or knows?
+
+**Answer guidance:** A useful response identifies a before-state and after-state; names an observable trigger; keeps source identity separate from timeline placement; records the permission basis or chooses the text-only alternative; and labels interpretation as uncertain unless the source supports it.
+
+**If not ready:** Review the definitions and Workbook Section 20.1–20.4, then complete the fictional paper-edit example. Do not proceed to a real-media timeline exercise until authorization and source identity are clear. A paper-only submission demonstrates planning, not an executed edit or render.
 
 ## Key definitions and terminology
 | Term | Definition | Context/example |
@@ -361,3 +387,6 @@ Submit a single organized folder containing:
 **Example status:** All source IDs, ranges and scene events in the expanded worked example are fictional teaching data. They are not measured or executed footage.
 
 **Known limitations:** This lesson teaches beat analysis and paper-edit evidence. It does not replace the later lessons on geography, coverage, continuity, pacing, multicamera, finishing, AI or professional handoff. Independent academic, editorial, accessibility, rights/privacy and learner review remain outstanding.
+
+### 2026-11-28 — Revision 2.1
+- Added a dedicated learner-facing prerequisite and readiness section while retaining the original entry requirement in the header. Clarified paper-only and authorized-media routes; no new software dependency or execution claim was introduced.
