@@ -2,8 +2,37 @@
 
 **Course:** Film & Cinematic Editing  
 **Assessment type:** Closed-notes knowledge check followed by practical evidence review  
-**Suggested time:** 45–60 minutes  
+**Written component time:** 45–60 minutes for Parts A–C; Part D is a separate practical-evidence portfolio review.  
 **Pass threshold:** 70% overall; critical rights/safety and source-preservation requirements must also be met.
+
+## Purpose, learning outcomes and prerequisites
+
+This assessment samples conceptual understanding, editorial reasoning, professional decision-making and evidence from the four CT-02 practical labs. It is not a substitute for independent review of a completed capstone.
+
+By the end of the assessment, the learner should be able to:
+- explain core story, coverage, geography, continuity, pacing and synchronization concepts;
+- diagnose editorial and technical problems from a written scenario;
+- identify safe, traceable and authorized editorial decisions;
+- evaluate finishing and delivery evidence rather than relying on an export preset or timeline appearance;
+- describe human-review, privacy and provenance controls when AI-assisted work is proposed;
+- submit practical evidence that can be traced to a brief, source, version and reviewer decision.
+
+**Prerequisites:** Study Lessons 01–10 and review Labs 01–04. Learners may use the paper-only route for formative planning where authorized media or software is unavailable, but must label unexecuted work accurately. No particular NLE is required for this written assessment.
+
+**Conditions:** Parts A–C are closed-notes unless an approved accessibility accommodation changes the response method. Part D is an evidence review; assessors may inspect the learner's own records and submitted artifacts. Do not include confidential source media in an assessment upload unless the owner has authorized that use.
+
+## Assessment blueprint
+
+| Part / items | Main coverage | Primary lesson alignment | Evidence purpose |
+|---|---|---|---|
+| A: Q1–Q10 | Foundational terminology and principles | Lessons 01–10 | Recall and concept discrimination |
+| B: Q11–Q15 | Story/plot, axis, performance, sync and handoff | Lessons 01–04, 06, 08, 10 | Concise explanation and application |
+| C: Q16–Q18 | Eyeline diagnosis, drift, lock/change control and AI risk | Lessons 02, 06–10 | Evidence-based scenario reasoning |
+| D: Lab 01 | Beat sheet, coverage and geography | Lessons 01–03 | Planning and source traceability |
+| D: Lab 02 | Continuity and match on action | Lesson 04 | Action-state and continuity evidence |
+| D: Lab 03 | Multicamera sync and editorial assembly | Lesson 06 | Synchronization diagnosis and handoff |
+| D: Lab 04 | Picture lock, finishing and QC | Lessons 07–08, 10 | Delivery and artifact inspection |
+
 
 ## Part A — Multiple choice (10 × 2 = 20 points)
 
@@ -83,7 +112,7 @@ Choose one answer.
 
 17. Two camera angles align at the start of a 20-minute interview but are visibly out of sync near the end. Describe a diagnostic sequence and list possible causes. Distinguish a fixed offset from drift.
 
-18. A director requests a picture change after picture lock. Describe the change-control record you would create and identify at least four downstream departments or deliverables that may be affected.
+18. After picture lock, a director requests a reaction-shot change and proposes using an AI tool to generate a missing reaction from footage containing identifiable people. Describe (a) the change-control record and at least four downstream departments or deliverables that may be affected, and (b) how you would evaluate task suitability, source authorization, privacy, provider terms, representative testing, human review, provenance and fallback. Explain why a generated reaction could misrepresent the recorded performance.
 
 ## Part D — Practical evidence review (30 points)
 
@@ -92,6 +121,36 @@ Submit evidence from the four CT-02 labs:
 - continuity edit and report (7);
 - synchronized multicamera sequence and three-point sync check (7);
 - picture-lock/handoff package and completed full-file QC report (8).
+
+## Scoring, moderation and decision rules
+
+**Part A — 20 points:** Award 2 points for the single correct answer and 0 for an incorrect or multiple selection. No negative marking.
+
+**Part B — 20 points:** Each response is worth 4 points. Award one point for each distinct, accurate element requested. Accept equivalent terminology and examples; do not award the same idea twice. For a list of four items, award one point per valid item.
+
+**Part C — 30 points:** Each scenario is worth 10 points. Use the item-specific allocation below; award partial credit only for a correct, evidenced step.
+
+| Item | Scoring allocation |
+|---|---|
+| Q16 — Eyeline/axis diagnosis | 2: checks camera side and established axis; 2: checks actual gaze and character positions; 2: compares source/neighboring shots; 2: considers a neutral or motivated re-establishing shot; 2: gives a reasoned use/reject/hold decision without assuming the shot is wrong from screen direction alone. |
+| Q17 — Sync drift | 2: records start/middle/end observations; 2: distinguishes constant offset from changing drift; 2: checks timebase/frame rate, variable frame rate, sample rate, interruptions and clock reference as relevant; 2: proposes a correction appropriate to the diagnosis; 2: retests and records the result. |
+| Q18 — Lock change and AI proposal | 2: records requester, authority, locked version, time reference, reason, approval and new version; 2: identifies at least four plausible downstream impacts; 2: evaluates whether synthetic reaction generation is suitable and explains the risk of misrepresenting performance; 2: checks source rights, consent, privacy and provider/data terms; 2: requires representative testing, human verification, provenance/disclosure and a non-AI fallback. |
+
+**Part D — 30 points:** Score only the evidence submitted. Use the following subcriteria; a missing artifact is Not Demonstrated, not assumed to have passed.
+
+| Lab / points | Evidence and point allocation |
+|---|---|
+| Lab 01 — 8 | 1: brief and source authorization; 2: beat/state map; 3: coverage and geography/axis map; 1: source IDs/ranges; 1: editorial rationale and disclosed gaps. |
+| Lab 02 — 7 | 1: action-state/event map; 2: match-on-action phase and boundary reasoning; 2: spatial/performance/prop/sound continuity; 1: source/version traceability; 1: QC and correction/retest record. |
+| Lab 03 — 7 | 1: inventory and timebase/reference record; 1: sync method and offset convention; 2: start/middle/end measurements; 1: offset/drift diagnosis and correction rationale; 2: audio/angle decisions and handoff evidence. |
+| Lab 04 — 8 | 1: written delivery specification and lock identity; 1: conform/change-control record; 2: actual export properties checked against the specification; 2: full-file playback evidence; 2: defect/retest, manifest and handoff evidence. |
+
+**Paper-only rule:** Paper work may earn points for planning and analysis criteria where the evidence is complete. It earns no execution, synchronization, export, full-playback or portability credit unless those operations were actually performed and evidenced. Do not fabricate screenshots, timecodes, metadata, approvals or test results.
+
+**Overall decision:** A pass requires at least 70/100, at least 21/30 on Part D, and all critical gates passed. A learner who meets the numeric total but not the Part D minimum or a critical gate receives Remediation Required / Hold, not a pass.
+
+**Moderation:** Assessors should cite the submitted artifact, version and time/source reference for disputed points. Where two assessors disagree, compare the evidence and record the reason for the final score; do not silently average scores or infer missing work.
+
 
 ## Answer guidance
 
@@ -117,7 +176,7 @@ Submit evidence from the four CT-02 labs:
 ### Part C — Marking guidance
 16. Full credit requires checking camera placement relative to axis, character positions, actual gaze direction, scene diagram, neighboring shots and whether the apparent reversal is motivated.
 17. Full credit distinguishes constant offset from increasing/decreasing offset and checks frame/timebase, variable frame rate, sample rate, recording interruptions and clock accuracy; recommends documenting measurements and using an appropriate correction.
-18. Full credit includes sequence/version, timecode, reason, requester, approval, change description, affected assets and downstream notification. Potential impacts include sound mix, music, VFX, color, subtitles/captions, credits and platform versions.
+18. Full credit includes a traceable post-lock change request and downstream impact list; a reasoned decision not to synthesize a misleading reaction merely to fill a coverage gap; authorization, consent, privacy and provider-term review; representative testing on approved material; human verification, provenance/disclosure and a fallback. Potential impacts include sound mix, music, VFX, color, subtitles/captions, credits, runtime and platform derivatives.
 
 ## Critical failure conditions
 - Unlicensed or unauthorized source material is knowingly used.
@@ -125,14 +184,29 @@ Submit evidence from the four CT-02 labs:
 - A technical compliance claim is knowingly false.
 - A delivered file is not inspected but is reported as fully QC-passed.
 
+## Remediation and reassessment
+
+1. Return item-level feedback and identify the lesson, lab or evidence requirement associated with each gap.
+2. For knowledge errors, assign targeted review and a new attempt at the affected part according to the course delivery policy; retain the original score and attempt record.
+3. For practical gaps, identify the missing artifact or failed test, required correction, new version ID and retest evidence. Repeat connected regression checks where a change affects other deliverables.
+4. Resolve every critical rights, source-preservation, privacy, approval or false-QC condition before a pass can be recorded.
+5. If practical execution was unavailable, record the result as paper-only / execution not demonstrated and schedule the practical evidence review separately.
+
+**Accessibility:** Provide an accessible document format, readable tables and an approved alternative response method where needed. Reasonable accommodations may change presentation or timing without changing the competency being assessed. Record only the accommodation details necessary for assessment administration.
+
+
 ## Instructor record
-- Learner:
-- Date:
+- Learner / assessment attempt ID:
+- Date / assessor:
+- Accommodation or alternative response method, if applicable:
 - Part A score /20:
 - Part B score /20:
 - Part C score /30:
 - Part D score /30:
 - Total /100:
-- Critical requirements passed:
-- Feedback:
+- Part D minimum (21/30) met?:
+- Critical gates passed?:
+- Evidence/version IDs reviewed:
+- Decision: Pass / Remediation Required / Hold / Not Demonstrated:
+- Feedback and remediation due condition:
 - Next practice target:
